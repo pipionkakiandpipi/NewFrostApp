@@ -10,7 +10,7 @@
     {
         "id": "recent-game2",
         "title": "Jeu 2",
-        "image": "recent-game2.png",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfdUzjdZLK_9v2nmaabc5wsJydbBp2fBMsA&s",
         "description": "Un autre jeu récent fun.",
         "price": "19.99",
         "category": "recent"
@@ -18,7 +18,7 @@
     {
         "id": "popular-game1",
         "title": "Populaire 1",
-        "image": "popular-game1.png",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfdUzjdZLK_9v2nmaabc5wsJydbBp2fBMsA&s",
         "description": "C'est un des jeux les plus populaires.",
         "price": "59.99",
         "category": "popular"
