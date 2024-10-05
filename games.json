@@ -1,6 +1,6 @@
 [
     {
-        "id": "recent-game",
+        "id": "recent-game1",
         "title": "Cyberpunk 2077",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Cyberpunk_2077_box_art.jpg/220px-Cyberpunk_2077_box_art.jpg",
         "description": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
@@ -8,7 +8,7 @@
         "category": "recent"
     },
     {
-        "id": "recent-game",
+        "id": "recent-game2",
         "title": "The Witcher 3",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfdUzjdZLK_9v2nmaabc5wsJydbBp2fBMsA&s",
         "description": "The Witcher 3: Wild Hunt est un jeu vidéo de type action-RPG développé par le studio polonais CD Projekt RED, sorti le 19 mai 2015 sur PC, PlayStation 4 et Xbox One, puis sur Nintendo Switch le 15 octobre 2019, tandis que des versions PlayStation 5 et Xbox Series sont disponibles le 14 décembre 2022.",
@@ -16,7 +16,7 @@
         "category": "recent"
     },
     {
-        "id": "popular-game",
+        "id": "popular-game1",
         "title": "Red Dead Redemption 2",
         "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
         "description": "Red Dead Redemption II, également abrégé RDRII ou RDR2, est un jeu vidéo d'action-aventure et de western multiplateforme, développé et édité par Rockstar Games, sorti en octobre 2018 sur PlayStation 4 et Xbox One, puis en novembre 2019 sur Windows et Stadia.",
@@ -24,7 +24,7 @@
         "category": "popular"
     },
     {
-        "id": "recent-game",
+        "id": "recent-game3",
         "title": "Grand Theft Auto V ",
         "image": "https://data.xxlgamer.com/products/1396/F48wn64nQmOa33-medium.jpg",
         "description": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games. Il est sorti en 2013 sur PlayStation 3 et Xbox 360, en 2014 sur PlayStation 4 et Xbox One, en 2015 sur PC puis en 2022 sur PlayStation 5 et Xbox Series.",
@@ -32,7 +32,7 @@
         "category": "recent"
     },
     {
-        "id": "recent-game",
+        "id": "recent-game4",
         "title": "Elden Ring",
         "image": "https://m.media-amazon.com/images/I/61lK8bWiRfL._AC_UF1000,1000_QL80_.jpg",
         "description": "Elden Ring est un jeu vidéo d'action-RPG développé par FromSoftware et édité par Bandai Namco Entertainment, issu de la collaboration entre le créateur de jeux vidéo Hidetaka Miyazaki et l'écrivain George R. R. Martin. Il sort le 25 février 2022 sur PlayStation 4, PlayStation 5, Xbox One, Xbox Series et Windows.",
@@ -40,7 +40,7 @@
         "category": "recent"
     },
     {
-        "id": "popular-game",
+        "id": "popular-game2",
         "title": "Call of Duty: Modern Warfare II",
         "image": "https://static.posters.cz/image/1300/affiches-et-posters/call-of-duty-modern-warfare-2-task-force-i149551.jpg",
         "description": "Version reboot de l'emblématique jeu de tir à la première personne sorti en 2009, Call of Duty Modern Warfare 2 offre une expérience multi et solo ayant pour but de raviver la flamme de son illustre prédécesseur.",
@@ -48,7 +48,7 @@
         "category": "popular"
     },
     {
-        "id": "recent-game",
+        "id": "recent-game5",
         "title": "Assassin's Creed Valhalla",
         "image": "https://image.jeuxvideo.com/medias/158826/1588264397-5261-jaquette-avant.jpg",
         "description": "Assassin's Creed Valhalla est un jeu vidéo d'action-aventure et de rôle, développé par Ubisoft Montréal et édité par Ubisoft, sorti en novembre 2020 sur Microsoft Windows, PlayStation 4, Xbox One, Xbox Series, Google Stadia et PlayStation 5.",
@@ -56,7 +56,7 @@
         "category": "recent"
     },
     {
-        "id": "recent-game",
+        "id": "recent-game6",
         "title": "Resident Evil Village",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
         "description": "Resident Evil Village, stylisé Resident Evil VII.I.age et connu au Japon sous le nom Biohazard Village, est un jeu vidéo d'horreur en vue à la première personne développé et édité par Capcom. Il est sorti le 7 mai 2021 sur Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series et Google Stadia.",
@@ -64,7 +64,7 @@
         "category": "recent"
     },
     {
-        "id": "popular-game",
+        "id": "popular-game3",
         "title": "FIFA 23",
         "image": "https://images.g2a.com/300x400/1x1x1/fifa-23-pc-ea-app-key-global-i10000336532001/1e40646e865b43679642c6a0",
         "description": "FIFA 23 est un jeu vidéo de simulation de football développé par EA Vancouver et édité par Electronic Arts. Il s'agit du 30ᵉ volet de la série FIFA. Il est sorti sur Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series et Google Stadia le 30 septembre 2022.",
