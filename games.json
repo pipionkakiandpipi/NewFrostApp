@@ -49,11 +49,11 @@
         "category": "recent"
     },
     {
-        "id": "recent-game6",
+        "id": "nothing-game1",
         "title": "Resident Evil Village",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
         "description": "Resident Evil Village, stylisé Resident Evil VII.I.age et connu au Japon sous le nom Biohazard Village, est un jeu vidéo d'horreur en vue à la première personne développé et édité par Capcom. Il est sorti le 7 mai 2021 sur Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series et Google Stadia.",
-        "category": "recent"
+        "category": "nothing"
     },
     {
         "id": "popular-game3",
