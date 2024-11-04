@@ -1,1 +1,53 @@
+[
+    {
+        "id": "recent-game1",
+        "title": "Cyberpunk 2077",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Cyberpunk_2077_box_art.jpg/220px-Cyberpunk_2077_box_art.jpg",
+        "description": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
+        "creator": "CD Projekt RED",
+        "release_date": "10 décembre 2020",
+        "size": "70 Go",
+        "genres": ["Action", "RPG"],
+        "min_requirements": {
+            "CPU": "Intel Core i5-3570K / AMD FX-8310",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 780 / AMD Radeon RX 470",
+            "OS": "Windows 10",
+            "Storage": "70 Go d'espace libre"
+        },
+        "rec_requirements": {
+            "CPU": "Intel Core i7-4790 / AMD Ryzen 3 3200G",
+            "RAM": "12 Go",
+            "GPU": "GTX 1060 6GB / AMD Radeon R9 Fury",
+            "OS": "Windows 10",
+            "Storage": "70 Go d'espace libre"
+        },
+        "category": "recent"
+    },
+    {
+        "id": "recent-game2",
+        "title": "The Witcher 3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfdUzjdZLK_9v2nmaabc5wsJydbBp2fBMsA&s",
+        "description": "The Witcher 3: Wild Hunt est un jeu vidéo de type action-RPG développé par le studio polonais CD Projekt RED.",
+        "creator": "CD Projekt RED",
+        "release_date": "19 mai 2015",
+        "size": "35 Go",
+        "genres": ["Action", "RPG"],
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K / AMD Phenom II X4 940",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GTX 660 / AMD Radeon HD 7870",
+            "OS": "Windows 7",
+            "Storage": "35 Go d'espace libre"
+        },
+        "rec_requirements": {
+            "CPU": "Intel Core i7-3770 / AMD FX-8350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 770 / AMD Radeon R9 290",
+            "OS": "Windows 7/8/10",
+            "Storage": "35 Go d'espace libre"
+        },
+        "category": "recent"
+    }
+]
 
