@@ -1,227 +1,65 @@
 [
     {
-        "recent": 1,
+        "id": "recent-game1",
         "title": "Cyberpunk 2077",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Cyberpunk_2077_box_art.jpg/220px-Cyberpunk_2077_box_art.jpg",
         "description": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
-        "creator": "CD Projekt RED",
-        "release_date": "10 décembre 2020",
-        "size": "70 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-3570K / AMD FX-8310",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GTX 780 / AMD Radeon RX 470",
-            "OS": "Windows 10",
-            "Storage": "70 Go d'espace libre"
-        },
-        "rec_requirements": {
-            "CPU": "Intel Core i7-4790 / AMD Ryzen 3 3200G",
-            "RAM": "12 Go",
-            "GPU": "GTX 1060 6GB / AMD Radeon R9 Fury",
-            "OS": "Windows 10",
-            "Storage": "70 Go d'espace libre"
-        },
-        "categories": ["Action", "RPG"],
-        "online": false
+        "category": "recent"
     },
     {
-        "recent": 2,
+        "id": "recent-game2",
         "title": "The Witcher 3",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfdUzjdZLK_9v2nmaabc5wsJydbBp2fBMsA&s",
-        "description": "The Witcher 3: Wild Hunt est un jeu vidéo de type action-RPG développé par le studio polonais CD Projekt RED.",
-        "creator": "CD Projekt RED",
-        "release_date": "19 mai 2015",
-        "size": "35 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-2500K / AMD Phenom II X4 940",
-            "RAM": "6 Go",
-            "GPU": "NVIDIA GTX 660 / AMD Radeon HD 7870",
-            "OS": "Windows 7",
-            "Storage": "35 Go d'espace libre"
-        },
-        "rec_requirements": {
-            "CPU": "Intel Core i7-3770 / AMD FX-8350",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GTX 770 / AMD Radeon R9 290",
-            "OS": "Windows 7/8/10",
-            "Storage": "35 Go d'espace libre"
-        },
-        "categories": ["Action", "Aventure"],
-        "online": false
+        "description": "The Witcher 3: Wild Hunt est un jeu vidéo de type action-RPG développé par le studio polonais CD Projekt RED, sorti le 19 mai 2015 sur PC, PlayStation 4 et Xbox One, puis sur Nintendo Switch le 15 octobre 2019, tandis que des versions PlayStation 5 et Xbox Series sont disponibles le 14 décembre 2022.",
+        "category": "recent"
     },
     {
-        "recent": 3,
+        "id": "popular-game1",
         "title": "Red Dead Redemption 2",
         "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
-        "description": "Red Dead Redemption II est un jeu vidéo d'action-aventure et de western multiplateforme, développé et édité par Rockstar Games.",
-        "creator": "Rockstar Games",
-        "release_date": "26 octobre 2018",
-        "size": "150 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-2500K / AMD FX-6300",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GeForce GTX 770 / AMD Radeon R9 280",
-            "OS": "Windows 7/8/10",
-            "Storage": "150 Go d'espace libre"
-        },
-        "rec_requirements": {
-            "CPU": "Intel Core i7-4770K / AMD Ryzen 5 1500X",
-            "RAM": "12 Go",
-            "GPU": "NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 480",
-            "OS": "Windows 10",
-            "Storage": "150 Go d'espace libre"
-        },
-        "categories": ["Action", "Aventure"],
-        "online": false
+        "description": "Red Dead Redemption II, également abrégé RDRII ou RDR2, est un jeu vidéo d'action-aventure et de western multiplateforme, développé et édité par Rockstar Games, sorti en octobre 2018 sur PlayStation 4 et Xbox One, puis en novembre 2019 sur Windows et Stadia.",
+        "category": "popular"
     },
     {
-        "recent": 4,
+        "id": "recent-game3",
         "title": "Grand Theft Auto V",
         "image": "https://data.xxlgamer.com/products/1396/F48wn64nQmOa33-medium.jpg",
-        "description": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games.",
-        "creator": "Rockstar Games",
-        "release_date": "17 septembre 2013",
-        "size": "72 Go",
-        "min_requirements": {
-            "CPU": "Intel Core 2 Quad Q6600 / AMD Phenom 9850",
-            "RAM": "4 Go",
-            "GPU": "NVIDIA 9800 GT 1 Go / AMD HD 4870 1 Go",
-            "OS": "Windows Vista SP 2 / Windows 7",
-            "Storage": "72 Go d'espace libre"
-        },
-        "rec_requirements": {
-            "CPU": "Intel Core i5 3470 / AMD X8 FX-8350",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GTX 660 2 Go / AMD HD 7870 2 Go",
-            "OS": "Windows 7/8/10",
-            "Storage": "72 Go d'espace libre"
-        },
-        "categories": ["Action", "Aventure"],
-        "online": true
+        "description": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games. Il est sorti en 2013 sur PlayStation 3 et Xbox 360, en 2014 sur PlayStation 4 et Xbox One, en 2015 sur PC puis en 2022 sur PlayStation 5 et Xbox Series.",
+        "category": "recent"
     },
     {
-        "recent": 5,
+        "id": "recent-game4",
         "title": "Elden Ring",
         "image": "https://m.media-amazon.com/images/I/61lK8bWiRfL._AC_UF1000,1000_QL80_.jpg",
-        "description": "Elden Ring est un jeu vidéo d'action-RPG développé par FromSoftware et édité par Bandai Namco Entertainment.",
-        "creator": "FromSoftware",
-        "release_date": "25 février 2022",
-        "size": "50 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-8400 / AMD Ryzen 3 3300X",
-            "RAM": "12 Go",
-            "GPU": "NVIDIA GTX 1060 / AMD Radeon RX 580",
-            "OS": "Windows 10",
-            "Storage": "50 Go d'espace libre"
-        },
-        "rec_requirements": {
-            "CPU": "Intel Core i7-8700 / AMD Ryzen 5 3600",
-            "RAM": "16 Go",
-            "GPU": "NVIDIA RTX 2060 / AMD Radeon RX 6600",
-            "OS": "Windows 10",
-            "Storage": "50 Go d'espace libre"
-        },
-        "categories": ["Action", "RPG"],
-        "online": true
+        "description": "Elden Ring est un jeu vidéo d'action-RPG développé par FromSoftware et édité par Bandai Namco Entertainment, issu de la collaboration entre le créateur de jeux vidéo Hidetaka Miyazaki et l'écrivain George R. R. Martin. Il sort le 25 février 2022 sur PlayStation 4, PlayStation 5, Xbox One, Xbox Series et Windows.",
+        "category": "recent"
     },
     {
-        "recent": 6,
+        "id": "popular-game2",
         "title": "Call of Duty: Modern Warfare II",
         "image": "https://static.posters.cz/image/1300/affiches-et-posters/call-of-duty-modern-warfare-2-task-force-i149551.jpg",
-        "description": "Version reboot de l'emblématique jeu de tir à la première personne, Call of Duty Modern Warfare II offre une expérience multi et solo.",
-        "creator": "Infinity Ward",
-        "release_date": "28 octobre 2022",
-        "size": "120 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-3570K / AMD Ryzen 5 1400",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GTX 960 / AMD Radeon R9 380",
-            "OS": "Windows 10",
-            "Storage": "120 Go d'espace libre"
-        },
-        "rec_requirements": {
-            "CPU": "Intel Core i7-4770 / AMD Ryzen 5 1600",
-            "RAM": "12 Go",
-            "GPU": "NVIDIA GTX 1070 / AMD Radeon RX 580",
-            "OS": "Windows 10",
-            "Storage": "120 Go d'espace libre"
-        },
-        "categories": ["Action", "FPS"],
-        "online": true
+        "description": "Version reboot de l'emblématique jeu de tir à la première personne sorti en 2009, Call of Duty Modern Warfare 2 offre une expérience multi et solo ayant pour but de raviver la flamme de son illustre prédécesseur.",
+        "category": "popular"
     },
     {
-        "recent": 7,
+        "id": "recent-game5",
         "title": "Assassin's Creed Valhalla",
         "image": "https://image.jeuxvideo.com/medias/158826/1588264397-5261-jaquette-avant.jpg",
-        "description": "Assassin's Creed Valhalla est un jeu vidéo d'action-aventure et de rôle, développé par Ubisoft Montréal.",
-        "creator": "Ubisoft",
-        "release_date": "10 novembre 2020",
-        "size": "50 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-2400 / AMD Ryzen 3 1200",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GeForce GTX 960 / AMD Radeon R9 380",
-            "OS": "Windows 10",
-            "Storage": "50 Go d'espace libre"
-        },
-        "rec_requirements": {
-            "CPU": "Intel Core i7-4790 / AMD Ryzen 5 1600",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
-            "OS": "Windows 10",
-            "Storage": "50 Go d'espace libre"
-        },
-        "categories": ["Action", "Aventure"],
-        "online": false
+        "description": "Assassin's Creed Valhalla est un jeu vidéo d'action-aventure et de rôle, développé par Ubisoft Montréal et édité par Ubisoft, sorti en novembre 2020 sur Microsoft Windows, PlayStation 4, Xbox One, Xbox Series, Google Stadia et PlayStation 5.",
+        "category": "recent"
     },
     {
-        "recent": 8,
+        "id": "recent-game6",
         "title": "Resident Evil Village",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
-        "description": "Resident Evil Village est un jeu vidéo d'horreur en vue à la première personne développé par Capcom.",
-        "creator": "Capcom",
-        "release_date": "7 mai 2021",
-        "size": "30 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-7500 / AMD Ryzen 3 1200",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GeForce GTX 1050 / AMD Radeon RX 560",
-            "OS": "Windows 10",
-            "Storage": "30 Go d'espace libre"
-        },
-        "rec_requirements": {
-            "CPU": "Intel Core i7-8700 / AMD Ryzen 5 3600",
-            "RAM": "16 Go",
-            "GPU": "NVIDIA GeForce GTX 1070 / AMD Radeon RX 5700",
-            "OS": "Windows 10",
-            "Storage": "30 Go d'espace libre"
-        },
-        "categories": ["Horreur", "Action"],
-        "online": false
+        "description": "Resident Evil Village, stylisé Resident Evil VII.I.age et connu au Japon sous le nom Biohazard Village, est un jeu vidéo d'horreur en vue à la première personne développé et édité par Capcom. Il est sorti le 7 mai 2021 sur Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series et Google Stadia.",
+        "category": "recent"
     },
     {
-        "recent": 9,
+        "id": "popular-game3",
         "title": "FIFA 23",
         "image": "https://images.g2a.com/300x400/1x1x1/fifa-23-pc-ea-app-key-global-i10000336532001/1e40646e865b43679642c6a0",
-        "description": "FIFA 23 est un jeu vidéo de simulation de football développé par EA Vancouver et édité par Electronic Arts.",
-        "creator": "EA Vancouver",
-        "release_date": "30 septembre 2022",
-        "size": "50 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-6600 / AMD Phenom II X4 965",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7850",
-            "OS": "Windows 10",
-            "Storage": "50 Go d'espace libre"
-        },
-        "rec_requirements": {
-            "CPU": "Intel Core i7-6700 / AMD Ryzen 5 2600",
-            "RAM": "12 Go",
-            "GPU": "NVIDIA GeForce GTX 970 / AMD Radeon RX 570",
-            "OS": "Windows 10",
-            "Storage": "50 Go d'espace libre"
-        },
-        "categories": ["Sport"],
-        "online": true
+        "description": "FIFA 23 est un jeu vidéo de simulation de football développé par EA Vancouver et édité par Electronic Arts. Il s'agit du 30ᵉ volet de la série FIFA. Il est sorti sur Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series et Google Stadia le 30 septembre 2022.",
+        "category": "popular"
     }
 ]
