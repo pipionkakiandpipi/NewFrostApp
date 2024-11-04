@@ -21,8 +21,8 @@
             "OS": "Windows 10",
             "Storage": "70 Go d'espace libre"
         },
-        "category": "Action",  // Exemple de catégorie, à adapter si nécessaire
-        "online": false        // Exemple de statut en ligne, à adapter si nécessaire
+        "category": "Action",
+        "online": false        
     },
     {
         "recent": 2,
@@ -46,7 +46,7 @@
             "OS": "Windows 7/8/10",
             "Storage": "35 Go d'espace libre"
         },
-        "category": "RPG (Jeux de rôle)",  // Exemple de catégorie, à adapter si nécessaire
-        "online": false        // Exemple de statut en ligne, à adapter si nécessaire
+        "category": "RPG (Jeux de rôle)",  
+        "online": false        
     }
 ]
