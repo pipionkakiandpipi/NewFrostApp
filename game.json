@@ -21,8 +21,8 @@
             "OS": "Windows 10",
             "Storage": "70 Go d'espace libre"
         },
-        "categories": ["Action", "RPG"],  // Choix de catégories par ChatGPT
-        "online": false        // Statut en ligne
+        "categories": ["Action", "RPG"],
+        "online": false
     },
     {
         "recent": 2,
@@ -46,7 +46,7 @@
             "OS": "Windows 7/8/10",
             "Storage": "35 Go d'espace libre"
         },
-        "categories": ["Action", "Aventure"],  // Choix de catégories par ChatGPT
-        "online": false        // Statut en ligne
+        "categories": ["Action", "Aventure"],
+        "online": false
     }
 ]
