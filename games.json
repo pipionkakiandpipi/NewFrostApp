@@ -4,7 +4,17 @@
         "title": "Cyberpunk 2077",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Cyberpunk_2077_box_art.jpg/220px-Cyberpunk_2077_box_art.jpg",
         "description": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
-        "category": "recent"
+        "category": "recent",
+        "release_date": "10 décembre 2020",
+        "size": "70 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3570K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 780",
+            "OS": "Windows 7/10",
+            "Storage": "70 Go d'espace libre"
+        },
+        "online": false
     },
     {
         "id": "recent-game2",
