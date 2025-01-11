@@ -4,7 +4,7 @@
         "title": "Cyberpunk 2077",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Cyberpunk_2077_box_art.jpg/220px-Cyberpunk_2077_box_art.jpg",
         "description": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
-        
+        "dl": "https://buzzheavier.com/rote732j8jn3"
         "release_date": "10 décembre 2020",
         "size": "70 Go",
         "min_requirements": {
@@ -22,6 +22,8 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfdUzjdZLK_9v2nmaabc5wsJydbBp2fBMsA&s",
         "description": "The Witcher 3: Wild Hunt est un jeu vidéo de type action-RPG développé par le studio polonais CD Projekt RED, sorti le 19 mai 2015 sur PC, PlayStation 4 et Xbox One, puis sur Nintendo Switch le 15 octobre 2019.",
         
+        "dl": "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part01.rar,https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part02.rar,https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part03.rar,https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part04.rar,https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part05.rar,https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part06.rar,https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part07.rar,https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part08.rar,https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part09.rar,https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/French.doi,https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/Optional-Bonus-Content.doi"
+        
         "release_date": "19 mai 2015",
         "size": "50 Go",
         "min_requirements": {
@@ -38,7 +40,7 @@
         "title": "Red Dead Redemption 2",
         "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
         "description": "Red Dead Redemption II est un jeu vidéo d'action-aventure et de western développé et édité par Rockstar Games, sorti en octobre 2018.",
-        
+        "dl": "https://1fichier.com/?v4gx5v6e6tsw6uzf5m94&af=62851"
         "release_date": "26 octobre 2018",
         "size": "150 Go",
         "min_requirements": {
@@ -55,7 +57,7 @@
         "title": "Grand Theft Auto V",
         "image": "https://data.xxlgamer.com/products/1396/F48wn64nQmOa33-medium.jpg",
         "description": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games.",
-        
+        "dl": "https://dd.buzzheavier.com/f/GZPIZSbxUAA"
         "release_date": "17 septembre 2013",
         "size": "72 Go",
         "min_requirements": {
@@ -72,7 +74,8 @@
         "title": "Elden Ring",
         "image": "https://m.media-amazon.com/images/I/61lK8bWiRfL._AC_UF1000,1000_QL80_.jpg",
         "description": "Elden Ring est un jeu vidéo d'action-RPG développé par FromSoftware et édité par Bandai Namco Entertainment.",
-        
+        "dl":"https://buzzheavier.com/m5grx3xdzp8w"
+        "mdp":"atopgames.com"
         "release_date": "25 février 2022",
         "size": "60 Go",
         "min_requirements": {
@@ -84,29 +87,13 @@
         },
         "online": true
     },
-    {
-        
-        "title": "Call of Duty: Modern Warfare II",
-        "image": "https://static.posters.cz/image/1300/affiches-et-posters/call-of-duty-modern-warfare-2-task-force-i149551.jpg",
-        "description": "Version reboot de l'emblématique jeu de tir à la première personne sorti en 2009.",
-        
-        "release_date": "28 octobre 2022",
-        "size": "125 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-3570",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GTX 960",
-            "OS": "Windows 10",
-            "Storage": "125 Go d'espace libre"
-        },
-        "online": true
-    },
+
     {
         
         "title": "Assassin's Creed Valhalla",
         "image": "https://image.jeuxvideo.com/medias/158826/1588264397-5261-jaquette-avant.jpg",
         "description": "Assassin's Creed Valhalla est un jeu vidéo d'action-aventure et de rôle, développé par Ubisoft Montréal.",
-        
+        "dl":"https://1fichier.com/?707thz7jng3u9ldqzy4w"
         "release_date": "10 novembre 2020",
         "size": "50 Go",
         "min_requirements": {
@@ -124,6 +111,8 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
         "description": "Resident Evil Village est un jeu vidéo d'horreur en vue à la première personne développé par Capcom.",
         
+        "dl":"https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part01.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part02.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part03.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part04.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part05.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part06.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part07.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part08.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part09.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part10.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part11.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part12.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part13.rar,https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/optional-bonus.bin"
+        
         "release_date": "7 mai 2021",
         "size": "30 Go",
         "min_requirements": {
@@ -140,7 +129,7 @@
         "title": "FIFA 23",
         "image": "https://images.g2a.com/300x400/1x1x1/fifa-23-pc-ea-app-key-global-i10000336532001/1e40646e865b43679642c6a0",
         "description": "FIFA 23 est un jeu vidéo de simulation de football développé par EA Vancouver.",
-        
+        "dl":"https://gofile.io/d/tLJNUq"
         "release_date": "30 septembre 2022",
         "size": "100 Go",
         "min_requirements": {
