@@ -140,16 +140,16 @@
         "online": false
     },
     {
-        "title": "FIFA 23",
-        "image": "https://images.g2a.com/300x400/1x1x1/fifa-23-pc-ea-app-key-global-i10000336532001/1e40646e865b43679642c6a0",
-        "description": "FIFA 23 est un jeu vidéo de simulation de football développé par EA Vancouver et EA Romania.",
-        "dl": ["https://buzzheavier.com/s9ft5b7gtb28"],
-        "release_date": "30 septembre 2022",
+        "title": "FIFA 22",
+        "image": "https://images.app.goo.gl/urYbPHbszeHkdzQT6",
+        "description": "FIFA 22 est un jeu vidéo de simulation de football développé et édité par EA Sports, sorti en octobre 2021.",
+        "dl": ["https://files.download/06jaD1xKgd"],
+        "release_date": "1 octobre 2021",
         "size": "50 Go",
         "min_requirements": {
             "CPU": "Intel Core i3-6100",
             "RAM": "8 Go",
-            "GPU": "NVIDIA GeForce GTX 660",
+            "GPU": "NVIDIA GTX 660",
             "OS": "Windows 10",
             "Storage": "50 Go d'espace libre"
         },
