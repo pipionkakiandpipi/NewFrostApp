@@ -154,5 +154,62 @@
             "Storage": "50 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "Half Life 2",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Half-Life_2_cover.jpg/220px-Half-Life_2_cover.jpg",
+        "description": "Half-Life 2, stylisé HλLF-LIFE² et abrégé en HL2, est un jeu vidéo de tir à la première personne produit par Valve Corporation, sorti le 16 novembre 2004 après un développement prolongé de plus de cinq ans.",
+        "dl": [
+            "https://buzzheavier.com/ktcg3l8j2x0r"
+            
+        ],
+        "release_date": "16 Novembre 2004",
+        "size": "30 Go",
+        "min_requirements": {
+            "CPU": "1.7 Ghz",
+            "RAM": "512 Mo",
+            "GPU": "DirectX 8.1 level Graphics Card",
+            "OS": "Windows 10",
+            "Storage": "6500 MB d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Palworld",
+        "image": "https://static.actugaming.net/media/2021/06/palworld-jaquette.jpg",
+        "description": "Palworld est un jeu de survie action-aventure du développeur japonais Pocket Pair. Le jeu se déroule dans un monde ouvert peuplé de créatures ressemblant à des animaux connues sous le nom de « Pals ».",
+        "dl": [
+            "https://buzzheavier.com/xfct24xa51c1"
+            
+        ],
+        "release_date": "9 Janvier 2024",
+        "size": "23.20 Go",
+        "min_requirements": {
+            "CPU": " i5-3570K 3.4 GHz 4 Core",
+            "RAM": "16 Go",
+            "GPU": "GeForce GTX 1050",
+            "OS": "Windows 10",
+            "Storage": "40 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Rayman Legends",
+        "image": "https://data.xxlgamer.com/products/1564/9F6Y1OdITIDGa4-big.jpg",
+        "description": "ayman Legends est un jeu vidéo de plates-formes développé par Ubisoft Montpellier et édité par Ubisoft. Il est le cinquième épisode dans la série principale de Rayman, et la suite de Rayman Origins.",
+        "dl": [
+            "https://buzzheavier.com/9w8palf6we8d"
+            
+        ],
+        "release_date": "29 Aout 2013",
+        "size": "4.13 Go",
+        "min_requirements": {
+            "CPU": " Intel Pentium IV @ 3.0 GHz or AMD Athlon64 3000 + @ 1.8 GHz",
+            "RAM": "2 Go",
+            "GPU": "GeForce 6800GT or AMD Radeon X1950 Pro",
+            "OS": "Windows 10",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
     }
 ]
