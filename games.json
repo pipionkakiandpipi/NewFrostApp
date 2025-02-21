@@ -13,7 +13,7 @@
             "OS": "Windows 7/10",
             "Storage": "70 Go d'espace libre"
         },
-        "online": false
+        "online": true
     },
     {
         "title": "The Witcher 3",
@@ -41,7 +41,7 @@
             "OS": "Windows 7/8/10",
             "Storage": "50 Go d'espace libre"
         },
-        "online": false
+        "online": true
     },
     {
         "title": "Red Dead Redemption 2",
@@ -137,7 +137,7 @@
             "OS": "Windows 10",
             "Storage": "30 Go d'espace libre"
         },
-        "online": false
+        "online": true
     },
     {
         "title": "FIFA 22",
@@ -172,7 +172,7 @@
             "OS": "Windows 10",
             "Storage": "6500 MB d'espace libre"
         },
-        "online": false
+        "online": true
     },
     {
         "title": "Palworld",
@@ -210,6 +210,6 @@
             "OS": "Windows 10",
             "Storage": "6 Go d'espace libre"
         },
-        "online": false
+        "online": true
     }
 ]
