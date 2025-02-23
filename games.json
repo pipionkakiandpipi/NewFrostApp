@@ -10,7 +10,7 @@
             "CPU": "Intel Core i5-3570K",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 780",
-            "OS": "Windows 7/10",
+            "OS": "Windows 10",
             "Storage": "100 Go d'espace libre"
         },
         "online": false
@@ -28,7 +28,7 @@
             "CPU": "Intel Core i5-2500K",
             "RAM": "6 Go",
             "GPU": "NVIDIA GTX 660",
-            "OS": "Windows 7/8/10",
+            "OS": "Windows 10",
             "Storage": "60 Go d'espace libre"
         },
         "online": false
@@ -44,7 +44,7 @@
             "CPU": "Intel Core i5-2500K",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 770",
-            "OS": "Windows 7/8/10",
+            "OS": "Windows 10",
             "Storage": "150 Go d'espace libre"
         },
         "online": false
@@ -60,7 +60,7 @@
             "CPU": "Intel Core 2 Quad Q6600",
             "RAM": "4 Go",
             "GPU": "NVIDIA 9800 GT",
-            "OS": "Windows Vista/7/8/10",
+            "OS": "Windows 10",
             "Storage": "120 Go d'espace libre"
         },
         "online": false
@@ -173,7 +173,7 @@
     {
         "title": "Rayman Legends",
         "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00049641/jaquette-rayman-legends-pc-cover-avant-g-1378220913.jpg",
-        "description": "ayman Legends est un jeu vidéo de plates-formes développé par Ubisoft Montpellier et édité par Ubisoft. Il est le cinquième épisode dans la série principale de Rayman, et la suite de Rayman Origins.",
+        "description": "Rayman Legends est un jeu vidéo de plates-formes développé par Ubisoft Montpellier et édité par Ubisoft. Il est le cinquième épisode dans la série principale de Rayman, et la suite de Rayman Origins.",
         "dl": [
             "https://buzzheavier.com/9w8palf6we8d"
             
@@ -186,6 +186,101 @@
             "GPU": "GeForce 6800GT or AMD Radeon X1950 Pro",
             "OS": "Windows 10",
             "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "20 Minutes Till Dawn",
+        "image": "https://media.senscritique.com/media/000020743553/0/20_minutes_till_dawn.jpg",
+        "description": "20 Minutes Till Dawn est un roguelite de type bullet hell en 2D. Abattez une horde grandissante de monstres lovecraftiens pour survivre à la nuit. Choisissez parmi une variété d'améliorations pour créer des builds uniques et surpuissants. Déverrouillez une panoplie de personnages et d'armes aux pouvoirs uniques.",
+        "dl": [
+            "https://buzzheavier.com/byt6w5fridqm"
+            
+        ],
+        "release_date": "08 juin 2022",
+        "size": "83 Mo",
+        "min_requirements": {
+            "CPU": "Dual Core+",
+            "RAM": "1 Go",
+            "GPU": "1 Go",
+            "OS": "Windows 10",
+            "Storage": "100 Mo"
+        },
+        "online": false
+    },
+    {
+        "title": "60 Seconds! Reatomized",
+        "image": "https://cdn1.epicgames.com/spt-assets/9b574fb62beb47c4a6e2da240201c3ec/download-60-seconds-reatomized-offer-g91je.png",
+        "description": "60 Seconds! Reatomized est une version remastérisée du jeu d'origine, ici, les graphismes ont été revues à la hausse mélangeant 2D et 3D, un nouveau menu interactif à été rajouté, mais également du contenu avec par exemple un nouveau mode de jeu.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GOnCB7eqIAA="
+            
+        ],
+        "release_date": "25 Juillet 2019",
+        "size": "600 Mo",
+        "min_requirements": {
+            "CPU": "i5-2430M",
+            "RAM": "4 Go",
+            "GPU": "Nvidia GT540",
+            "OS": "Windows 10",
+            "Storage": "700 Mo"
+        },
+        "online": false
+    },
+    {
+        "title": "Age of Empires",
+        "image": "https://image.jeuxvideo.com/images-sm/pc/a/o/aoempc0f.jpg",
+        "description": "Jeu de stratégie, Age of Empires vous invite à établir votre propre empire. Qu'allez-vous faire ? Conquérir des civilisations ennemies ? Découvrir les secrets du monde ? En tant que guide, plusieurs voies s'offrent à vous. Le soft est jouable jusqu'à 8 joueurs en réseau local ou sur internet.",
+        "dl": [
+            "https://mega.nz/file/Fi1FhBiL#-BQqNSrsiaVqxpAIBt7ok_czihN2wSEipIfOP-Tl2RE"
+            
+        ],
+        "release_date": "1997",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "2.4 Ghz i5",
+            "RAM": "16 Go",
+            "GPU": "Nvidia GTX 650; AMD HD 5850",
+            "OS": "Windows 10",
+            "Storage": "3 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Age of Empires II",
+        "image": "https://image.jeuxvideo.com/medias-sm/157364/1573641003-3260-jaquette-avant.png",
+        "description": "Age of Empires II Definitive Edition intègre une nouvelle campagne, Les derniers Khans. L'édition est dotée de graphismes mis à jour en 4K et d'une bande-son retravaillée. Le titre promet également une amélioration de gameplay.",
+        "dl": [
+            "https://buzzheavier.com/vvib4gizvbqo"
+            
+        ],
+        "release_date": "14 Novembre 2019",
+        "size": "37 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo or AMD Athlon 64×2 5600+",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GT 420 or ATI Radeon HD 6850 or Intel HD Graphics 4000",
+            "OS": "Windows 10",
+            "Storage": "40 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Age of Empires IV",
+        "image": "https://image.jeuxvideo.com/medias-sm/163214/1632143636-6808-jaquette-avant.jpg",
+        "description": "Age of Empires IV est un jeu de stratégie qui appartient à la célèbre saga de stratégie. Il vous sera possible de prendre part à des batailles historiques avec des armées possédant leurs propres caractéristiques.",
+        "dl": [
+            "https://buzzheavier.com/1up7k2yo42u1"
+            
+        ],
+        "release_date": "28 octobre 2021",
+        "size": "50 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6300U or AMD Ryzen 5 2400G",
+            "RAM": "8 Go",
+            "GPU": "Intel HD 520 or AMD Radeon RX Vega 11",
+            "OS": "Windows 10",
+            "Storage": "60 Go"
         },
         "online": false
     }
