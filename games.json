@@ -273,7 +273,7 @@
             "https://buzzheavier.com/1up7k2yo42u1"
             
         ],
-        "release_date": "28 octobre 2021",
+        "release_date": "28 Octobre 2021",
         "size": "50 Go",
         "min_requirements": {
             "CPU": "Intel Core i5-6300U or AMD Ryzen 5 2400G",
@@ -281,6 +281,120 @@
             "GPU": "Intel HD 520 or AMD Radeon RX Vega 11",
             "OS": "Windows 10",
             "Storage": "60 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Alan Wake 2",
+        "image": "https://image.jeuxvideo.com/medias-sm/170196/1701962446-4303-jaquette-avant.jpg",
+        "description": "Comme le premier opus, Alan Wake II plonge le joueur dans un univers psychologique intense, sous fond de thriller et de tension psychologique. Vous incarnez à nouveau Alan Wake, embarqué dans une nouvelle quête angoissante.",
+        "dl": [
+            "https://buzzheavier.com/xy2sm8ez5ult"
+            
+        ],
+        "release_date": "27 Octobre 2023",
+        "size": "103 Go",
+        "min_requirements": {
+            "CPU": "Intel i5-7600K",
+            "RAM": "16 Go",
+            "GPU": "GeForce RTX 2060 or Radeon RX 6600, 6 GB",
+            "OS": "Windows 10",
+            "Storage": "110 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Alice Madness Returns",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00029578/jaquette-alice-retour-au-pays-de-la-folie-pc-cover-avant-g-1301333740.jpg",
+        "description": "Alice : Retour au Pays de la Folie vous plonge dans une version sombre d'Alice aux Pays des Merveilles. Alice doit affronter des créatures étranges et progresser dans ce monde hostile afin de retrouver entièrement la mémoire et de comprendre de quelle manière sont morts ses parents.",
+        "dl": [
+            "https://1cloudfile.com/f7t5"
+            
+        ],
+        "release_date": "16 Juin 2011",
+        "size": "7,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core2 Duo",
+            "RAM": "2048 Mo",
+            "GPU": "Peu importe",
+            "OS": "Windows 10",
+            "Storage": "10 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "American Truck Simulator",
+        "image": "https://m.media-amazon.com/images/I/8167hbBSVUL.jpg",
+        "description": "American Truck Simulator est un jeu de simulation de conduite de poids lourds. Il vous plonge dans la peau d'un chauffeur routier qui doit dans un premier temps livrer des marchandises pour le compte de différents employeurs, pour ensuite gérer sa propre entreprise. Le jeu propose aussi une modélisation et une conduite très réaliste des différents véhicules proposés et vous propulse sur les routes de l'ouest américain.",
+        "dl": [
+            "https://buzzheavier.com/w0hdclocyr1w"
+            
+        ],
+        "release_date": "03 Février 2016",
+        "size": "23 Go",
+        "min_requirements": {
+            "CPU": "Dual core CPU 2.4 GHz",
+            "RAM": "4 Go",
+            "GPU": "GeForce GTS 450-class (Intel HD 4000)",
+            "OS": "Windows 10",
+            "Storage": "25 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Among Us",
+        "image": "https://store-images.s-microsoft.com/image/apps.30063.13589262686196899.16e3418a-cbf2-4748-9724-1c9dc9b7a0b9.672da915-9117-4230-960d-4f59f3d7beb5",
+        "description": "Among Us est un party-game spatial jouable de 4 à 10 joueurs. Dans une station spatiale, il y a un imposteur caché parmi l'équipage dont la mission est d'assassiner les autres joueurs sans se faire prendre. Les parties et les avatars sont personnalisables et le jeu dispose de cross-platform avec les joueurs iOS et Android.",
+        "dl": [
+            "https://1fichier.com/?cqwh4806d64ew13erjt4"
+            
+        ],
+        "release_date": "15 juin 2018",
+        "size": "460 Mo",
+        "min_requirements": {
+            "CPU": "SSE2",
+            "RAM": "1 Go",
+            "GPU": "Peu importe",
+            "OS": "Windows 10",
+            "Storage": "500 Mo"
+        },
+        "online": true
+    },
+    {
+        "title": "Another Crab’s Treasure",
+        "image": "https://image.jeuxvideo.com/medias-sm/165286/1652861057-9390-jaquette-avant.jpg",
+        "description": "Dans Another Crab’s Treasure, vous incarnez Krill, un Bernard l'Hermite qui doit résister face aux autres créatures de l'océan pour espérer retrouver sa coquille. Embarquez dans une véritable chasse au trésor dans les océans pollués.",
+        "dl": [
+            "https://gofile.io/d/kmShkW"
+            
+        ],
+        "release_date": "25 Avril 2024",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "2.5 GHz",
+            "RAM": "4 Go",
+            "GPU": "Nvidia GTX 970",
+            "OS": "Windows 10",
+            "Storage": "5 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "ARK Survival Evolved",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjdlNzM1OGItYTQ5Yy00YjlkLWJkMDMtZmQ3Y2ZhNDBmODUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "ARK : Survival Evolved est un jeu de survie en vue à la première personne. Le joueur doit évoluer sur une île sauvage où les dinosaures dominent. Le jeu est entièrement multijoueur, il est donc possible de croiser d'autres joueurs et de créer des alliances.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GXdP7zsf0AA"
+            
+        ],
+        "release_date": "01 septembre 2016",
+        "size": "109 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400/AMD FX-8320",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB",
+            "OS": "Windows 10",
+            "Storage": "115 Go"
         },
         "online": false
     }
