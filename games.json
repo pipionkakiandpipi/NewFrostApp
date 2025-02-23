@@ -5,42 +5,33 @@
         "description": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
         "dl": ["https://buzzheavier.com/rote732j8jn3"],
         "release_date": "10 décembre 2020",
-        "size": "70 Go",
+        "size": "89 Go",
         "min_requirements": {
             "CPU": "Intel Core i5-3570K",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 780",
             "OS": "Windows 7/10",
+            "Storage": "100 Go d'espace libre"
         },
-        "online": true
+        "online": false
     },
     {
         "title": "The Witcher 3",
         "image": "https://image.jeuxvideo.com/medias-sm/142247/1422469608-7141-jaquette-avant.jpg",
         "description": "The Witcher 3: Wild Hunt est un jeu vidéo de type action-RPG développé par le studio polonais CD Projekt RED, sorti le 19 mai 2015 sur PC, PlayStation 4 et Xbox One, puis sur Nintendo Switch le 15 octobre 2019.",
         "dl": [
-            "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part01.rar",
-            "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part02.rar",
-            "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part03.rar",
-            "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part04.rar",
-            "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part05.rar",
-            "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part06.rar",
-            "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part07.rar",
-            "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part08.rar",
-            "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/TW3WH.DR.4GB-GameDrive.Org.part09.rar",
-            "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/French.doi",
-            "https://s1-p.cybar.xyz/S21/The%20Witcher%203%20Wild%20Hunt%20[DODI%20Repack]/Optional-Bonus-Content.doi"
+            "https://buzzheavier.com/wge5xqrqagzc"
         ],
         "release_date": "19 mai 2015",
-        "size": "50 Go",
+        "size": "51 Go",
         "min_requirements": {
             "CPU": "Intel Core i5-2500K",
             "RAM": "6 Go",
             "GPU": "NVIDIA GTX 660",
             "OS": "Windows 7/8/10",
-            "Storage": "50 Go d'espace libre"
+            "Storage": "60 Go d'espace libre"
         },
-        "online": true
+        "online": false
     },
     {
         "title": "Red Dead Redemption 2",
@@ -48,7 +39,7 @@
         "description": "Red Dead Redemption II est un jeu vidéo d'action-aventure et de western développé et édité par Rockstar Games, sorti en octobre 2018.",
         "dl": ["https://1fichier.com/?v4gx5v6e6tsw6uzf5m94&af=62851"],
         "release_date": "26 octobre 2018",
-        "size": "150 Go",
+        "size": "122 Go",
         "min_requirements": {
             "CPU": "Intel Core i5-2500K",
             "RAM": "8 Go",
@@ -56,7 +47,7 @@
             "OS": "Windows 7/8/10",
             "Storage": "150 Go d'espace libre"
         },
-        "online": true
+        "online": false
     },
     {
         "title": "Grand Theft Auto V",
@@ -64,15 +55,15 @@
         "description": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games.",
         "dl": ["https://dd.buzzheavier.com/f/GZPIZSbxUAA"],
         "release_date": "17 septembre 2013",
-        "size": "72 Go",
+        "size": "113 Go",
         "min_requirements": {
             "CPU": "Intel Core 2 Quad Q6600",
             "RAM": "4 Go",
             "GPU": "NVIDIA 9800 GT",
             "OS": "Windows Vista/7/8/10",
-            "Storage": "72 Go d'espace libre"
+            "Storage": "120 Go d'espace libre"
         },
-        "online": true
+        "online": false
     },
     {
         "title": "Elden Ring",
@@ -81,15 +72,15 @@
         "dl": ["https://buzzheavier.com/m5grx3xdzp8w"],
         "mdp": "atopgames.com",
         "release_date": "25 février 2022",
-        "size": "60 Go",
+        "size": "67 Go",
         "min_requirements": {
             "CPU": "Intel Core i5-8400",
             "RAM": "12 Go",
             "GPU": "NVIDIA GTX 1060",
             "OS": "Windows 10",
-            "Storage": "60 Go d'espace libre"
+            "Storage": "75 Go d'espace libre"
         },
-        "online": true
+        "online": false
     },
     {
         "title": "Assassin's Creed Valhalla",
@@ -97,54 +88,41 @@
         "description": "Assassin's Creed Valhalla est un jeu vidéo d'action-aventure et de rôle, développé par Ubisoft Montréal.",
         "dl": ["https://1fichier.com/?707thz7jng3u9ldqzy4w"],
         "release_date": "10 novembre 2020",
-        "size": "50 Go",
+        "size": "161 Go",
         "min_requirements": {
             "CPU": "Intel Core i5-4460",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 960",
             "OS": "Windows 10",
-            "Storage": "50 Go d'espace libre"
+            "Storage": "170 Go d'espace libre"
         },
-        "online": true
+        "online": false
     },
     {
         "title": "Resident Evil Village",
         "image": "https://image.jeuxvideo.com/medias-sm/161979/1619789555-8363-jaquette-avant.jpg",
         "description": "Resident Evil Village est un jeu vidéo d'horreur en vue à la première personne développé par Capcom.",
         "dl": [
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part01.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part02.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part03.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part04.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part05.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part06.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part07.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part08.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part09.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part10.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part11.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part12.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part13.rar",
-            "https://s1-sr.cybar.xyz/S1/Resident%20Evil%20Village/Resident%20Evil%20Village%20[ScOOt3r%20Repacks].part14.rar"
+            "https://buzzheavier.com/b2u9ojw83tgl"
         ],
         "release_date": "7 mai 2021",
-        "size": "30 Go",
+        "size": "38 Go",
         "min_requirements": {
             "CPU": "Intel Core i5-7500",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 1050 Ti",
             "OS": "Windows 10",
-            "Storage": "30 Go d'espace libre"
+            "Storage": "45 Go d'espace libre"
         },
-        "online": true
+        "online": false
     },
     {
-        "title": "FIFA 22",
-        "image": "https://image.jeuxvideo.com/medias-sm/163154/1631541998-5162-jaquette-avant.jpg",
-        "description": "FIFA 22 est un jeu vidéo de simulation de football développé et édité par EA Sports, sorti en octobre 2021.",
-        "dl": ["https://files.download/06jaD1xKgd"],
-        "release_date": "1 octobre 2021",
-        "size": "50 Go",
+        "title": "FIFA 23",
+        "image": "https://image.jeuxvideo.com/medias-sm/165945/1659449057-7682-jaquette-avant.jpg",
+        "description": "Il s'agit de la dernière version du célèbre licence de football en collaboration avec la FIFA. FIFA 23 apporte des améliorations techniques, de nouveaux modes et de nouveaux joueurs pour créer les équipes de foot.",
+        "dl": ["https://buzzheavier.com/zmasjuexf733"],
+        "release_date": "30 septembre 2022",
+        "size": "46 Go",
         "min_requirements": {
             "CPU": "Intel Core i3-6100",
             "RAM": "8 Go",
@@ -152,7 +130,7 @@
             "OS": "Windows 10",
             "Storage": "50 Go d'espace libre"
         },
-        "online": true
+        "online": false
     },
     {
         "title": "Half Life 2",
@@ -163,32 +141,32 @@
             
         ],
         "release_date": "16 Novembre 2004",
-        "size": "30 Go",
+        "size": "10 Go",
         "min_requirements": {
             "CPU": "1.7 Ghz",
             "RAM": "512 Mo",
             "GPU": "DirectX 8.1 level Graphics Card",
             "OS": "Windows 10",
-            "Storage": "6500 MB d'espace libre"
+            "Storage": "15 Go d'espace libre"
         },
-        "online": true
+        "online": false
     },
     {
         "title": "Palworld",
         "image": "https://image.jeuxvideo.com/medias-sm/171026/1710255088-1947-jaquette-avant.jpg",
         "description": "Palworld est un jeu de survie action-aventure du développeur japonais Pocket Pair. Le jeu se déroule dans un monde ouvert peuplé de créatures ressemblant à des animaux connues sous le nom de « Pals ».",
         "dl": [
-            "https://buzzheavier.com/xfct24xa51c1"
+            "https://buzzheavier.com/ih90jakpvhe3"
             
         ],
         "release_date": "9 Janvier 2024",
-        "size": "23.20 Go",
+        "size": "22 Go",
         "min_requirements": {
-            "CPU": " i5-3570K 3.4 GHz 4 Core",
+            "CPU": "i5-3570K 3.4 GHz 4 Core",
             "RAM": "16 Go",
             "GPU": "GeForce GTX 1050",
             "OS": "Windows 10",
-            "Storage": "40 Go d'espace libre"
+            "Storage": "30 Go d'espace libre"
         },
         "online": true
     },
@@ -209,6 +187,7 @@
             "OS": "Windows 10",
             "Storage": "6 Go d'espace libre"
         },
-        "online": true
+        "online": false
     }
+    
 ]
