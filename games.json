@@ -895,6 +895,44 @@
             "Storage": "10 Go"
         },
         "online": false
+    },
+    {
+        "title": "Call of Duty 4: Modern Warfare",
+        "image": "https://image.jeuxvideo.com/images-sm/pc/c/o/cod4pc0f.jpg",
+        "description": "Call of Duty 4 : Modern Warfare est un FPS se déroulant de nos jours. Le joueur peut y suivre deux conflits fictifs en incarnant un marine américain au milieu d'une guérilla urbaine au Moyen-Orient, ou un agent d'élite anglais accomplissant des missions furtives en Europe de l'Est et en Russie. Un mode multijoueur est également disponible.",
+        "dl": [
+            "https://buzzheavier.com/wjwse1a5544o"
+            
+        ],
+        "release_date": "09 novembre 2007",
+        "size": "6,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Pentium 4 2.4 Ghz / AMD(R) 64 (TM) 2800+ / Intel",
+            "RAM": "1 Go",
+            "GPU": "NVIDIA Geforce 6600",
+            "OS": "Windows 10",
+            "Storage": "10 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Call of Duty: Advanced Warfare",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00051448/jaquette-call-of-duty-advanced-warfare-pc-cover-avant-g-1415193995.jpg",
+        "description": "Call of Duty : Advanced Warfare est un FPS dans lequel le joueur incarne le soldat Mitchell. Se déroulant dans un futur proche au cours d'un conflit entre la PMC Atlas et le groupe terroriste KVA, cet opus propose un large éventail d'armes et de missions jouables en solo. Le titre comporte aussi un mode compétitif jouable à 12.",
+        "dl": [
+            "https://buzzheavier.com/2huayaah9vfm"
+            
+        ],
+        "release_date": "04 novembre 2014",
+        "size": "38,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-530 @ 2.93 GHz / AMD Phenom II X4 810 @ 2.60 GHz",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTS 450 @ 1GB / ATI Radeon HD 5870 @ 1GB",
+            "OS": "Windows 10",
+            "Storage": "40 Go"
+        },
+        "online": false
     }
     
 ]
