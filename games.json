@@ -667,6 +667,101 @@
             "Storage": "60 Go"
         },
         "online": false
+    },
+    {
+        "title": "Battlefield 1",
+        "image": "https://image.jeuxvideo.com/medias-sm/146797/1467969692-7420-jaquette-avant.jpg",
+        "description": "Nouvel opus pour la célèbre franchise de FPS, et après plusieurs années de conflits contemporains, Battlefield 1 plonge les joueurs dans la première Guerre Mondiale. Fidèle à ses racines, cet épisode proposera une campagne solo et un mode multijoueur sur des cartes variées et destructibles.",
+        "dl": [
+            "https://buzzheavier.com/8r6pl4niacqs"
+            
+        ],
+        "release_date": "21 octobre 2016",
+        "size": "24,7 Go",
+        "min_requirements": {
+            "CPU": "Processor (AMD): AMD FX-6350 Processor (Intel): Intel Core i5 6600K",
+            "RAM": "8 Go",
+            "GPU": "Graphics card (AMD): AMD Radeon",
+            "OS": "Windows 10",
+            "Storage": "30 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "BeamNG.drive",
+        "image": "https://products.eneba.games/resized-products/EDf5URdyBQXPkHs2Frdr-UicraSenMbtZhXBlNzbWL0_350x200_3x-0.jpeg",
+        "description": "BeamNG.drive est une simulation automobile qui se veut très réaliste. Il parvient à recréer avec quasi exactitude le comportement réel de plusieurs types de véhicules. Plusieurs modes de jeu allant des simples courses contre l'IA au mode libre / exploration sont disponibles. Son fort accent sur le coté sandbox donne l'occasion de créer des situations spectaculaires.",
+        "dl": [
+            "https://buzzheavier.com/gokj4rwbq9fb"
+            
+        ],
+        "release_date": "29 mai 2015",
+        "size": "52,7 Go",
+        "min_requirements": {
+            "CPU": "AMD FX 6300 3.5Ghz / Intel Core i3-6300 3.8Ghz",
+            "RAM": "8 Go",
+            "GPU": "Radeon HD 7750 / Nvidia GeForce GTX 550 Ti",
+            "OS": "Windows 10",
+            "Storage": "60 Go"
+        },
+        "online": true
+    },
+    {
+        "title": "BERSERK and the Band of the Hawk",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzFlOWMwZDYtNzA3Mi00NzIyLTk1MWItM2FlN2YyYzg0NjVhXkEyXkFqcGc@._V1_.jpg",
+        "description": "Berserk and the Band of the Hawk est un beat'em all de type mûso sur PC qui prend place dans l'univers du manga. Les joueurs se retrouvent plongé au cœur de la trame de The Golden Age Arc. Ce jeu mélange l'essence de la série des Warriors avec l'univers sombre et violent de Berserk.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GR1YrjMiYAA"
+            
+        ],
+        "release_date": "24 février 2017",
+        "size": "16,6 Go",
+        "min_requirements": {
+            "CPU": "Core i7 870",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA Geforce GTS 450",
+            "OS": "Windows 10",
+            "Storage": "20 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Big Ambitions",
+        "image": "https://cdkeyprices.com/images/games/5655934/big-ambitions-desktop-logo-all.jpg",
+        "description": "Big Ambitions est un jeu de gestion d'entreprise développé par Hovgaard Games. Il nous permettra de passer du statut de simple vendeur à patron d'une grosse entreprise de New-York. Le jeu nous laissera libre choix dans notre façon de faire, soit en construisant des petites entreprises un peu partout dans la ville, soit en développant notre entreprise pour qu'elle devienne petit à petit la plus prolifique de la ville.",
+        "dl": [
+            "https://1fichier.com/?ykrwa04j9c0xj7pwv3g7"
+            
+        ],
+        "release_date": "10 mars 2023",
+        "size": "2,7 Go",
+        "min_requirements": {
+            "CPU": "Intel i5",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA Geforce GTX 960",
+            "OS": "Windows 10",
+            "Storage": "5 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "BIOMUTANT",
+        "image": "https://image.jeuxvideo.com/medias-sm/150530/1505296921-2396-jaquette-avant.jpg",
+        "description": "Biomutant est un RPG open-world développé par Experiment 101, studio créé par des anciens de Just Cause, et édité par THQ Nordic. L'action se déroule dans un univers post-apocalyptique et est décrit comme une fable kung fu. Le héros, qui ressemble vaguement à un certain Rocket Raccoon, peut alterner combat au corps à corps et combat à distance, piloter des véhicules, crafter de l'équipement et personnaliser ses capacités.",
+        "dl": [
+            "https://megadb.net/download"
+            
+        ],
+        "release_date": "25 mai 2021",
+        "size": "12,3 Go",
+        "min_requirements": {
+            "CPU": "AMD FX-8350 ou Intel Core i5-4690K",
+            "RAM": "8 Go",
+            "GPU": "GeForce GTX 960 or Radeon R9 380",
+            "OS": "Windows 10",
+            "Storage": "15 Go"
+        },
+        "online": false
     }
     
     
