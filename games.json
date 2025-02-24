@@ -1010,6 +1010,64 @@
             "Storage": "20 Go"
         },
         "online": false
+    },
+    {
+        "title": "Call of Duty World at War",
+        "image": "https://image.jeuxvideo.com/images-sm/pc/c/o/cod0pc0f.jpg",
+        "description": "Call of Duty : Wolrd at War est un FPS dans lequel le joueur peut combattre les japonais au cours de diverses missions sur le Pacifique. Le jeu propose un mode à quatre joueur en ligne ou à deux en écran splitté, avec de nouvelles classes de personnages, des armes pouvant évoluer et de nouveaux véhicules.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GKbDl4iQIAA="
+            
+        ],
+        "release_date": "14 novembre 2008",
+        "size": "5,6 Go",
+        "min_requirements": {
+            "CPU": "Pentium 4 @ 3 GHz/AMD 64 3200+",
+            "RAM": "512 Mo",
+            "GPU": "Peu importe",
+            "OS": "Windows 10",
+            "Storage": "10 Go"
+        },
+        "online": true
+    },
+    {
+        "title": "Call of Duty Black Ops II",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00043689/jaquette-call-of-duty-black-ops-ii-pc-cover-avant-g-1352711537.jpg",
+        "description": "Call of Duty : Black Ops II est un jeu de tir à la première personne proposant un mode scénario solo et du multijoueur. Le joueur peut suivre deux personnages différents dans deux scénarios distincts, faire des missions classiques stratégiques en Strike Force, ou encore s'amuser en ligne avec le mode Zombie.",
+        "dl": [
+            "https://buzzheavier.com/b65jhpnucnac"
+            
+        ],
+        "release_date": "13 novembre 2012",
+        "size": "30,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core2 Duo E8200 2.66 GHz or AMD Phenom X3 8750 2.4 GHz",
+            "RAM": "2 Go",
+            "GPU": "Nvidia GeForce 8800GT",
+            "OS": "Windows 10",
+            "Storage": "35 Go"
+        },
+        "online": true
+        "mdp" : "steamrip.com"
+    },
+    {
+        "title": "Call of Duty: Black Ops III",
+        "image": "https://nodekeys.com/wp-content/uploads/2023/08/codblackop3.jpg",
+        "description": "Call of Duty : Black Ops III est un jeu de tir à la première personne proposant un mode scénario solo et du multijoueur. Black Ops III vous emmène en 2060 et vous place au sein d'une équipe Black Ops, des guérilleros d'élite qui ont accès à des technologies de pointe dans ce monde en ruine, gouverné par le terrorisme et le piratage de haut niveau, et dévasté par les changements climatiques.. La campagne est jouable seul ou en coop jusqu'à 4. Vous pouvez également jouer seul ou à plusieurs dans un nouveau mode Zombies.",
+        "dl": [
+            "https://buzzheavier.com/09yqw19no4do"
+            
+        ],
+        "release_date": "06 novembre 2015",
+        "size": "122 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-530 @ 2.93 GHz / AMD Phenom II X4 810 @ 2.60 GHz",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 470 @ 1GB / ATI Radeon HD 6970 @ 1GB",
+            "OS": "Windows 10",
+            "Storage": "125 Go"
+        },
+        "online": true
     }
     
 ]
