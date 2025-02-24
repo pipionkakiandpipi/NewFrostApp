@@ -933,6 +933,83 @@
             "Storage": "40 Go"
         },
         "online": false
+    },
+    {
+        "title": "Call of Duty: Black Ops",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00034819/jaquette-call-of-duty-black-ops-pc-cover-avant-g.jpg",
+        "description": "Call of Duty : Black Ops est un jeu de tir à la première personne se déroulant pendant la guerre froide. Le joueur y suit un soldat américain à travers de nombreuses destinations disséminées dans les campagnes et agrémentées de scènes cinématiques. En plus du mode solo, un mode multi est disponible, ainsi qu'un mode Zombies.",
+        "dl": [
+            "https://buzzheavier.com/38ozybbfu6tv"
+            
+        ],
+        "release_date": "09 novembre 2010",
+        "size": "10,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E6600 or AMD Phenom X3 8750",
+            "RAM": "2 Go",
+            "GPU": "GeForce® 8600GT / ATI Radeon® X1950Pro",
+            "OS": "Windows 10",
+            "Storage": "12 Go"
+        },
+        "online": true
+    },
+    {
+        "title": "Call of Duty: Black Ops Cold War",
+        "image": "https://image.jeuxvideo.com/medias-sm/163301/1633014178-150-jaquette-avant.gif",
+        "description": "Call of Duty : Black Ops Cold War est un jeu de tir à la première personne. Le joueur est plongé dans les profondeurs de la Guerre Froide au début des années 1980. Il se retrouve face à des personnages historiques et des vérités difficiles. La campagne est accompagnée d'un mode multijoueur complet ainsi que d'un mode zombies en coopératif.",
+        "dl": [
+            "https://buzzheavier.com/lds3hus6qzhy"
+            
+        ],
+        "release_date": "13 novembre 2020",
+        "size": "210,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4340 or AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 670 / NVIDIA GeForce GTX 1650 or AMD Radeon HD 7950",
+            "OS": "Windows 10",
+            "Storage": "220 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Call of Duty: Modern Warfare 2",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00026087/jaquette-call-of-duty-modern-warfare-2-pc-cover-avant-g.jpg",
+        "description": "Call of Duty : modern Warfare 2 est un jeu de tir à la première personne se passant plusieurs années après le premier opus du même nom. Le joueur devra y affronter des terroristes russes et sera accompagné par un héros du dernier épisode : le sergent MacTavish. Les missions variées proposent de l'infiltration, de l'escalade, et bien sûr un mode multijoueur.",
+        "dl": [
+            "https://buzzheavier.com/knucsq0eaku7"
+            
+        ],
+        "release_date": "10 novembre 2009",
+        "size": "12,3 Go",
+        "min_requirements": {
+            "CPU": "Intel Pentium 4 3.2 GHz or AMD Athlon 64 3200",
+            "RAM": "1 Go",
+            "GPU": "GeForce 6600GT",
+            "OS": "Windows 10",
+            "Storage": "15 Go"
+        },
+        "online": true,
+        "mdp" : "steamrip.com"
+    },
+    {
+        "title": "Call of Duty: Modern Warfare 3",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00036706/jaquette-call-of-duty-modern-warfare-3-pc-cover-avant-g-1320657903.jpg",
+        "description": "Call of Duty : Modern Warfare 3 est un jeu de tir à la première personne dans lequel le joueur voyage aux quatre coins du monde pour accomplir des missions. Se déroulant pendant une supposée Troisième Guerre Mondiale, le jeu offre une grande richesse d'environnements ainsi qu'une mise en scène inspirée des grands films de guerre. Un mode coop et multijoueurs sont disponibles.",
+        "dl": [
+            "https://buzzheavier.com/0u1yl6ux9hjf"
+            
+        ],
+        "release_date": "08 novembre 2011",
+        "size": "17,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E6600 or AMD Phenom X3 8750",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 8600GT",
+            "OS": "Windows 10",
+            "Storage": "20 Go"
+        },
+        "online": false
     }
     
 ]
