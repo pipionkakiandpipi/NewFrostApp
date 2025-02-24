@@ -436,7 +436,144 @@
         },
         "online": false ,
         "mdp" : "steamrip.com"
+    },
+    {
+        "title": "Assassin’s Creed IV Black Flag",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00047804/jaquette-assassin-s-creed-iv-black-flag-pc-cover-avant-g-1362059979.jpg",
+        "description": "Jeu d'action-aventure en monde ouvert, Assassin's Creed prend place en 1191 alors que la troisième croisade secoue la Terre sainte. Le joueur se retrouve plongé dans le Moyen Orient de l'époque aux côtés d'Altaïr, un assassin d'élite ayant pour mission de mettre un terme aux hostilités en s'attaquant à la fois aux Croisés et aux Sarrasins.",
+        "dl": [
+            "https://buzzheavier.com/x05hezzbg7tn"
+            
+        ],
+        "release_date": "29 octobre 2013",
+        "size": "12,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core2Quad Q8400 @ 2.6 GHz or AMD Athlon II X4 620 @ 2.6 GHz",
+            "RAM": "2 Go",
+            "GPU": "Nvidia Geforce GTX 260 or AMD Radeon HD 4870",
+            "OS": "Windows 10",
+            "Storage": "15 Go"
+        },
+        "online": false,
+        "mdp": "steamrip.com"
+    },
+    {
+        "title": "Assassin’s Creed Odyssey",
+        "image": "https://image.jeuxvideo.com/medias-sm/152876/1528757449-2875-jaquette-avant.png",
+        "description": "Assassin's Creed Odyssey est une nouvelle entrée dans la franchise qui se déroule avant Assassin's Creed Origins. il sera possible d'y incarner le descendant de Leonidas de Sparte, garçon ou fille, dans la Grèce Antique. Au programme des nouveautés, un nouveau système de combat, des batailles rangées et un côté RPG encore plus poussé avec un système de dialogue à choix multiples.",
+        "dl": [
+            "https://buzzheavier.com/9ijwpud2aubn"
+            
+        ],
+        "release_date": "05 octobre 2018",
+        "size": "89,4 Go",
+        "min_requirements": {
+            "CPU": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz",
+            "RAM": "8 Go",
+            "GPU": "AMD Radeon R9 285, NVIDIA GeForce GTX 660",
+            "OS": "Windows 10",
+            "Storage": "95 Go"
+        },
+        "online": false ,
+        "mdp": "steamrip.com"
+    },
+    {
+        "title": "Assassin's Creed Origins",
+        "image": "https://image.jeuxvideo.com/medias-sm/149760/1497601876-9386-jaquette-avant.jpg",
+        "description": "Assassin's Creed Origins est un action RPG en monde ouvert incluant des mécaniques d'infiltration. Le titre vous fait visiter les terres mystérieuses de l'Egypte antique dans la peau de Bayek, nouveau héros d'un épisode nous dévoilant les origines de la création de la confrérie des assassins chère à la série phare d'Ubisoft.",
+        "dl": [
+            "https://buzzheavier.com/bsft1whjwsie"
+            
+        ],
+        "release_date": "27 octobre 2017",
+        "size": "56,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400s @ 2.5 GHz or AMD FX-6350 @ 3.9 GHz",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 660 or AMD R9 270",
+            "OS": "Windows 10",
+            "Storage": "60 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Assassin’s Creed Revelations",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00040012/jaquette-assassin-s-creed-revelations-pc-cover-avant-g-1322815279.jpg",
+        "description": "Assassin's Creed : Revelations est un jeu d'aventure appartenant à la série éponyme. Avec ses nouvelles armes et capacités d'assassin, Ezio essaye de marcher sur les traces de son ancêtre Altair, plus déterminé que jamais. L'histoire le mènera dans de nombreuses villes telles que Masyaf, Constantinople ou bien encore la Cappadoce. Un mode multijoueur permet également de se mesurer à ses amis.",
+        "dl": [
+            "https://buzzheavier.com/6y4o7rjjr1xa"
+            
+        ],
+        "release_date": "15 novembre 2011",
+        "size": "5,4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E4400 @ 2.0 GHz or AMD Athlon 64 X2 4000+ @ 2.1GHz",
+            "RAM": "2 Go",
+            "GPU": "256 MB DirectX 9.0",
+            "OS": "Windows 10",
+            "Storage": "10 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Assassin’s Creed Syndicate",
+        "image": "https://image.jeuxvideo.com/medias-sm/151256/1512556145-5805-jaquette-avant.jpg",
+        "description": "Prenant place dans le Londres de l'époque victorienne, Assassin's Creed Syndicate est un jeu d'action-aventure en monde ouvert. Parmi les nouveautés, on peut notamment citer la possibilité de se déplacer sur des éléments en mouvement (calèche par exemple).",
+        "dl": [
+            "https://buzzheavier.com/gh1h4l4r1u4m"
+            
+        ],
+        "release_date": "",
+        "size": "46,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5 2400s @ 2.5 GHz / AMD FX 6350 @ 3.9 GHz",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon R9 270",
+            "OS": "Windows 10",
+            "Storage": "50 Go"
+        },
+        "online": false ,
+        "mdp": "steamrip.com"
+    },
+    {
+        "title": "Assassin’s Creed Unity",
+        "image": "https://image.jeuxvideo.com/medias-sm/151256/1512556145-5805-jaquette-avant.jpg",
+        "description": "Prenant place dans le Londres de l'époque victorienne, Assassin's Creed Syndicate est un jeu d'action-aventure en monde ouvert. Parmi les nouveautés, on peut notamment citer la possibilité de se déplacer sur des éléments en mouvement (calèche par exemple).",
+        "dl": [
+            "https://buzzheavier.com/e5shwi6a457m"
+            
+        ],
+        "release_date": "23 octobre 2015",
+        "size": "39,8 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K @ 3.3 GHz or AMD FX-8350 @ 4.0 GHz",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 680 or AMD Radeon HD 7970",
+            "OS": "Windows 10",
+            "Storage": "45 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Assetto Corsa",
+        "image": "https://image.jeuxvideo.com/medias-sm/142590/1425899392-2317-jaquette-avant.jpg",
+        "description": "Jeu de simulation de courses, Assetto Corsa se démarque par son contenu exclusif notamment pour les voitures proposées. Le joueur pourra y retrouver les plus célèbres circuits dans un environnement toujours plus réaliste.",
+        "dl": [
+            "https://buzzheavier.com/qydb83rgncsa"
+            
+        ],
+        "release_date": "19 décembre 2014",
+        "size": "17,3 Go",
+        "min_requirements": {
+            "CPU": "AMD Athlon X2 2.8 GHZ, Intel Core 2 Duo 2.4 GHZ",
+            "RAM": "2 Go",
+            "GPU": "DirectX 10.1",
+            "OS": "Windows 10",
+            "Storage": "20 Go"
+        },
+        "online": false
     }
+    
     
     
 ]
