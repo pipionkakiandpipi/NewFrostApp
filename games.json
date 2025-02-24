@@ -572,6 +572,101 @@
             "Storage": "20 Go"
         },
         "online": false
+    },
+    {
+        "title": "Attack on Titan 2 Final Battle",
+        "image": "https://image.jeuxvideo.com/medias-sm/157684/1576836356-6612-jaquette-avant.png",
+        "description": "Attack on Titan 2 : Final Battle est le premier DLC du jeu qui sort au moment de la saison 3 du jeu d'action. Cette extension ajoutera 40 nouveaux personnages jouables, de nouvelles missions inédites et de nouvelles armes à débloquer.",
+        "dl": [
+            "https://buzzheavier.com/031o81xwavuq"
+            
+        ],
+        "release_date": "05 juillet 2019",
+        "size": "35 Go",
+        "min_requirements": {
+            "CPU": "Core I5 2400",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 660 VRAM 1GB",
+            "OS": "Windows 10",
+            "Storage": "40 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Autobahn Police Simulator 3",
+        "image": "https://cdn.joybuggy.com/img/p/2/0/9/7/5/7/autobahn-police-simulator-3.jpg?w=616&h=353&canvas.width=616&canvas.height=353",
+        "description": "Dans Autobahn Police Simulator 3, vous incarnez un officier de police débutant qui reprend du service après un grave accident de voiture qui l'a laissé quelque temps sur la touche. Travaillez sans relâche et accomplissez des missions afin de devenir un officier de police chevronné et assurer la sécurité sur l'Autobahn.",
+        "dl": [
+            "https://1cloudfile.com/99K7"
+            
+        ],
+        "release_date": "23 juin 2022",
+        "size": "9,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K@3.3GHz or AMD FX 6300@3.5GHz",
+            "RAM": "8 Go",
+            "GPU": "Nvidia GeForce GTX 1050 ti (3 GB) or AMD Radeon R9 570 (4GB)",
+            "OS": "Windows 10",
+            "Storage": "13 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Autopsy Simulator",
+        "image": "https://static.fnac-static.com/multimedia/Images/FR/NR/52/c6/13/18073170/1507-0/tsp20240607010637/Autopsy-Simulator.jpg",
+        "description": "Autopsy Simulator est une simulation d'horreur vous mettant dans la peau de Jack, un médecin légiste. En pleine autopsie, l'homme retrouve à l’intérieur d'une femme la bague de mariage de sa femme disparue depuis un moment. Jack va devoir alors mener son enquête et va se retrouver à affronter des forces obscures...",
+        "dl": [
+            "https://gofile.io/d/q5koQx"
+            
+        ],
+        "release_date": "novembre 2022",
+        "size": "8,2 Go",
+        "min_requirements": {
+            "CPU": "Intel core i7-860 or AMD Phenom II X4 955",
+            "RAM": "8 Go",
+            "GPU": "Nvidia GeForce GTX 1650, 4 GB or AMD Radeon RX 470, 4 GB",
+            "OS": "Windows 10",
+            "Storage": "10 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Baldur’s Gate 3",
+        "image": "https://image.jeuxvideo.com/medias-sm/169357/1693573355-2284-jaquette-avant.jpg",
+        "description": "Baldur's Gate III est le nouvel opus des jeux de rôle de la série Baldur's Gate, issue de l'univers Donjons et Dragons. Il se déroule avant le premier opus. Vous grandissez du premier au trentième niveau, de Baldur's Gate aux Enfers. Ce RPG reprend le principe de son aîné et propose la création d'un personnage parmi diverses classes, caractéristiques et compétences.",
+        "dl": [
+            "https://buzzheavier.com/otw41w3m9n3i"
+            
+        ],
+        "release_date": "03 août 2023",
+        "size": "122,2 Go",
+        "min_requirements": {
+            "CPU": "Intel I5 4690 / AMD FX 8350",
+            "RAM": "8 Go",
+            "GPU": "Nvidia GTX 970 / RX 480 (4GB+ of VRAM)",
+            "OS": "Windows 10",
+            "Storage": "130 Go"
+        },
+        "online": true
+    },
+    {
+        "title": "Banishers: Ghosts of New Eden",
+        "image": "https://image.jeuxvideo.com/medias-sm/169571/1695713394-6063-jaquette-avant.jpg",
+        "description": "Banishers : Ghosts of New Eden est un jeu d'action-aventure qui vous emmène en 1695, où deux amants (Antea Duarte et Red mac Raith), chassent les esprits qui tourmentent les humains. Mais Antéa perd la vie et devient, malgré elle, un des fantomes qu'elle à l'habitude de chasser.",
+        "dl": [
+            "https://gofile.io/d/MNF2i5"
+            
+        ],
+        "release_date": "13 février 2024",
+        "size": "54,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-8300 / AMD Ryzen 3 2200G",
+            "RAM": "8 Go",
+            "GPU": "4 GB VRAM, Nvidia GeForce GTX 1050 Ti / AMD Radeon RX 580",
+            "OS": "Windows 10",
+            "Storage": "60 Go"
+        },
+        "online": false
     }
     
     
