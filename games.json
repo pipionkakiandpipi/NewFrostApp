@@ -800,6 +800,101 @@
             "Storage": "10 Go"
         },
         "online": false
+    },
+    {
+        "title": "Bodycam",
+        "image": "https://image.jeuxvideo.com/medias-sm/172018/1720184282-3838-jaquette-avant.jpg",
+        "description": "Un FPS photo-réaliste et made in France, qui promet d'immerger les joueurs dans un expérience hors du commun. Ce titre multijoueur reprend les codes des FPS mais avec un réalisme fou, crée sous Unreal Engine 5. Plusieurs modes de jeu sont disponibles comme Deathmatch (jusqu’à 10 joueurs), Team Deathmatch (5vs5) et le modèle compétitif Body Bomb (5vs5). Il est disponible depuis le 08 juin en accès anticipé.",
+        "dl": [
+            "https://buzzheavier.com/c229t3btdmen"
+            
+        ],
+        "release_date": "08 juin 2024",
+        "size": "45,3 Go",
+        "min_requirements": {
+            "CPU": "AMD Ryzen 7 3700X, Intel Core i7-9700K",
+            "RAM": "8 Go",
+            "GPU": "AMD Radeon RX 5700 (8 GB), NVIDIA GeForce RTX 2070 (8 GB)",
+            "OS": "Windows 10",
+            "Storage": "50 Go"
+        },
+        "online": true
+    },
+    {
+        "title": "Boxes Lost Fragments",
+        "image": "https://media.senscritique.com/media/000021975576/0/boxes_lost_fragments.jpg",
+        "description": "Vous êtes un voleur légendaire. Votre prochaine mission consiste à pénétrer à l'intérieur d'un manoir opulent et somptueux. Franchissez les portes et découvrez une série de coffres énigmatiques dont l'origine et l'usage restent encore un mystère.",
+        "dl": [
+            "https://1fichier.com/?g6czf1ugiirmtsuxekbm"
+            
+        ],
+        "release_date": "1 février 2023",
+        "size": "3,2 Go",
+        "min_requirements": {
+            "CPU": "2.8 GHz Dual Core Processor",
+            "RAM": "4 Go",
+            "GPU": "Video card with 1024MB of VRAM",
+            "OS": "Windows 10",
+            "Storage": "5 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Broforce",
+        "image": "https://alloparadise.s3.eu-west-3.amazonaws.com/products/md/broforce.png",
+        "description": "Broforce est un jeu d'action / plates-formes sur PC. Vous aurez la possibilité d'incarner plusieurs personnages tout droit sortis des films d'action des années 80-90 avec toujours une bonne dose d'humour.",
+        "dl": [
+            "https://1cloudfile.com/1r5a5"
+            
+        ],
+        "release_date": "15 octobre 2015",
+        "size": "700 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3 / AMD Athlom 64",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce series 8000",
+            "OS": "Windows 10",
+            "Storage": "1 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Buckshot Roulette",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDAwMTMzZDUtZDE4OC00MjE3LWFiMzgtN2Q2NzcwMWNjMGMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "Buckshot Roulette est jeu de réflexion à l'ambiance glauque inspiré de la roulette russe. Face à un monstre terrifiant, vous devrez garder votre sang-froid pour presser la détente sur votre ennemi ou, si pensez savoir quel sera le prochain projectile, sur vous-même.",
+        "dl": [
+            "https://buzzheavier.com/8boa2b98pjzl"
+            
+        ],
+        "release_date": "04 avril 2024",
+        "size": "800 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 DUO 2.4 GHz / AMD Athlon X2 2.7 GHz",
+            "RAM": "8 Go",
+            "GPU": "Nvidia GTX 650 Ti or AMD HD 7850",
+            "OS": "Windows 10",
+            "Storage": "1 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Bus Simulator 21 Next Stop",
+        "image": "https://image.jeuxvideo.com/medias-sm/159722/1597218289-6296-jaquette-avant.jpg",
+        "description": "Bus Simulator 21 est le nouveau jeu de simulation et de gestion de compagnie de bus. Votre Bus, votre trajet, votre planning. Créez et décorez vos bus afin de faire le meilleur trajet pour desservir les 4 coins des différentes villes du jeu et satisfaire les voyageurs au mieux.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GO7vi0an8AA="
+            
+        ],
+        "release_date": "07 septembre 2021",
+        "size": "8 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2120 / AMD Phenom II X4 830",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760 (2GB VRAM) / AMD Radeon R9 280 (2GB VRAM)",
+            "OS": "Windows 10",
+            "Storage": "10 Go"
+        },
+        "online": false
     }
     
 ]
