@@ -762,8 +762,44 @@
             "Storage": "15 Go"
         },
         "online": false
+    },
+    {
+        "title": "Blasphemous",
+        "image": "https://gpstatic.com/acache/42/03/1/fr/packshot-ba2f22e33c3b6e24c05aadc290720f82.jpg",
+        "description": "Blasphemous est un jeu de type action-plateformer. Ici la violence est au cœur du jeu, les combats étant assez sanglants. Un univers dark fantasy proche de Dark Souls, mais réalisé en pixel art. Ainsi qu'une trame narrative profonde, qui se découvre à travers tout un monde à explorer.",
+        "dl": [
+            "https://1cloudfile.com/2ET9"
+            
+        ],
+        "release_date": "10 septembre 2019",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core2 Duo E8400 or AMD Phenom II x2 550",
+            "RAM": "4 Go",
+            "GPU": "GeForce GTX 260 or Radeon HD 4850",
+            "OS": "Windows 10",
+            "Storage": "5 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Blasphemous 2",
+        "image": "https://image.jeuxvideo.com/medias-sm/168806/1688055929-1245-jaquette-avant.jpg",
+        "description": "Blasphemous 2 est un jeu développé par The Game Kitchen et édité par Team17. C'est la suite de Blasphemous premier du nom. Il reprend la majorité des caractéristiques de son aîné. C'est un metroidvania difficile à la direction artistique dark-fantasy.",
+        "dl": [
+            "https://gofile.io/d/VXTL7o"
+            
+        ],
+        "release_date": "24 août 2023",
+        "size": "6,3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400 or AMD Phenom II X2 550",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GT 520, 1 GB or AMD Radeon HD 7470, 1 GB or Intel HD Graphics 4400",
+            "OS": "Windows 10",
+            "Storage": "10 Go"
+        },
+        "online": false
     }
-    
-    
     
 ]
