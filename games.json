@@ -1068,6 +1068,82 @@
             "Storage": "125 Go"
         },
         "online": true
+    },
+    {
+        "title": "Call of Duty: Ghosts",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00047823/jaquette-call-of-duty-ghosts-pc-cover-avant-g-1371021120.jpg",
+        "description": "Call of Duty Ghosts est un jeu de tir à la première personne dans lequel le joueur peut entrer dans la bataille future opposant les USA aux Nations d'Amérique Latine. Proposant un mode solo ainsi que des parties en multijoueur, le titre permet aussi d'accomplir des missions inhabituelles en mode Extinction, dans lequel quatre joueurs se battent contre des aliens.",
+        "dl": [
+            "https://buzzheavier.com/frv5wnsc2chd"
+            
+        ],
+        "release_date": "05 novembre 2013",
+        "size": "30,3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8200 2.66 GHZ / AMD Phenom X3 8750 2.4 GHZ",
+            "RAM": "6 Go",
+            "GPU": "Peu importe",
+            "OS": "Windows 10",
+            "Storage": "40 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Call of Duty: WWII",
+        "image": "https://m.media-amazon.com/images/I/A10VM2eEiML._AC_UF1000,1000_QL80_.jpg",
+        "description": "Call of Duty : WWII est un jeu d'action FPS du studio Sledgehammer Games. Pour cet opus, les développeurs ont opéré un retour aux sources de la saga en traitant la période historique de la Seconde Guerre mondiale. Cette fois-ci, exit les conflits futuristes et manichéens et place à un traitement plus réaliste et viscéral de ce conflit qui a chamboulé le monde entier.",
+        "dl": [
+            "https://buzzheavier.com/zl98e53vtvgy"
+            
+        ],
+        "release_date": "03 novembre 2017",
+        "size": "145,1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3 3225 3.3 GHz or AMD Ryzen 5 1400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 @ 2 GB / GTX 1050 or ATI Radeon HD 7850 @ 2GB / AMD RX 550",
+            "OS": "Windows 10",
+            "Storage": "150 Go"
+        },
+        "online": true
+    },
+    {
+        "title": "Car For Sale Simulator 2023",
+        "image": "https://cdkeyprices.com/images/games/5658138/car-for-sale-simulator-2023-desktop-logo-all.jpg",
+        "description": "Car For Sale Simulator 23 est principalement un jeu de vente de voitures. Vous achetez et vendez des véhicules d'occasion sur des marchés et dans des quartiers, puis développez votre entreprise.",
+        "dl": [
+            "https://gofile.io/d/bVST4X"
+            
+        ],
+        "release_date": "1 novembre 2024",
+        "size": "2,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500 @ 3,3 GHz (4 CPUs)",
+            "RAM": "6 Go",
+            "GPU": "NVidia GeForce GTX 670 2GB",
+            "OS": "Windows 10",
+            "Storage": "5 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Car Mechanic Simulator 2021",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1208/25pE8tZhyfg9FXIL9fwurS52.png",
+        "description": "Car Mechanic Simulator 2021 est une nouvelle production avec une base de joueurs bien établie. Commence en tant que nouveau propriétaire d'un garage automobile et deviens le maître de la réparation et de la transformation des voitures.",
+        "dl": [
+            "https://buzzheavier.com/n9ncmm728hnz"
+            
+        ],
+        "release_date": "11 août 2021",
+        "size": "14 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5 4690 / AMD Ryzen 5 1500X",
+            "RAM": "8 Go",
+            "GPU": "NVidia GeForce GTX 760 2GB",
+            "OS": "Windows 10",
+            "Storage": "20 Go"
+        },
+        "online": false
     }
     
 ]
