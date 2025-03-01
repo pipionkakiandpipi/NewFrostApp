@@ -749,7 +749,7 @@
         "image": "https://image.jeuxvideo.com/medias-sm/150530/1505296921-2396-jaquette-avant.jpg",
         "description": "Biomutant est un RPG open-world développé par Experiment 101, studio créé par des anciens de Just Cause, et édité par THQ Nordic. L'action se déroule dans un univers post-apocalyptique et est décrit comme une fable kung fu. Le héros, qui ressemble vaguement à un certain Rocket Raccoon, peut alterner combat au corps à corps et combat à distance, piloter des véhicules, crafter de l'équipement et personnaliser ses capacités.",
         "dl": [
-            "https://megadb.net/download"
+            "https://megadb.net/d/32"
             
         ],
         "release_date": "25 mai 2021",
@@ -1391,7 +1391,7 @@
         "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00047370/jaquette-dark-souls-ii-pc-cover-avant-g-1368565343.jpg",
         "description": "DARK SOULS II est un jeu d'action-RPG développé par FromSoftware et publié par Bandai Namco Games. Sorti en mars 2014, il s'agit du deuxième opus de la série Dark Souls. Les joueurs explorent le royaume de Drangleic, affrontant des ennemis redoutables et des boss imposants dans un univers sombre et complexe.",
         "dl": [
-            "https://megadb.net/download"
+            "https://megadb.net/pclv5565gvx8"
         ],
         "release_date": "11 mars 2014",
         "size": "14,8 Go",
@@ -1481,7 +1481,7 @@
         "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00019553/jaquette-dead-island-pc-cover-avant-g-1315319095.jpg",
         "description": "Dead Island est un jeu d'action-RPG en monde ouvert se déroulant sur une île paradisiaque infestée de zombies. Les joueurs doivent explorer, combattre et survivre en utilisant un large arsenal d'armes et en améliorant leurs compétences.",
         "dl": [
-            "https://megadb.net/download"
+            "https://megadb.net/bb209ei2eiil"
         ],
         "release_date": "6 septembre 2011",
         "size": "6 Go",
@@ -1530,6 +1530,25 @@
         },
         "online": false
     },
+    {
+        "title": "Deep Rock Galactic",
+        "image": "https://www.codesproduit.fr/wp-content/uploads/2022/02/deep-rock-galactic.jpg",
+        "description": "Deep Rock Galactic est un FPS coopératif où vous incarnez une équipe de nains spécialisés dans l'exploration et l'extraction de ressources sur des planètes hostiles. Travaillez en équipe pour survivre face aux créatures souterraines.",
+        "dl": [
+            "https://megadb.net/5xji72q5u5pf"
+        ],
+        "release_date": "13 mai 2020",
+        "size": "3,3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K / AMD FX-6300",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GTX 660 / AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": true
+    }
+
 
     
 ]
