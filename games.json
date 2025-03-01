@@ -1439,15 +1439,97 @@
             "Storage": "8 Go d'espace libre"
         },
         "online": false
-    }
-
-
-
-
-
-
-
-
+    },
+    {
+        "title": "Dave The Diver",
+        "image": "https://static.wikia.nocookie.net/dave-the-diver/images/3/30/Game-Page-Box-Art_DAVE-THE-DIVER-Initis.jpg/revision/latest?cb=20230329032616",
+        "description": "Dave The Diver est un jeu d'aventure et de gestion où vous explorez les profondeurs de l'océan le jour et gérez un restaurant de sushis la nuit. Découvrez des mystères sous-marins et améliorez votre équipement pour plonger plus profondément.",
+        "dl": [
+            "https://megadb.net/61q0xrswvp1l"
+        ],
+        "release_date": "28 juin 2023",
+        "size": "2,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 750 / AMD Radeon R7 260X",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Dead Cells",
+        "image": "https://ir.ozone.ru/s3/multimedia-r/c1000/6747046215.jpg",
+        "description": "Dead Cells est un jeu d'action et de plateforme roguelike où vous explorez un château en constante évolution. Combattez des ennemis redoutables, débloquez de nouvelles armes et compétences, et tentez de survivre dans cet univers impitoyable.",
+        "dl": [
+            "https://megadb.net/ekwrxg1ile3w"
+        ],
+        "release_date": "7 août 2018",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 460 / AMD Radeon HD 5750",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Dead Island",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00019553/jaquette-dead-island-pc-cover-avant-g-1315319095.jpg",
+        "description": "Dead Island est un jeu d'action-RPG en monde ouvert se déroulant sur une île paradisiaque infestée de zombies. Les joueurs doivent explorer, combattre et survivre en utilisant un large arsenal d'armes et en améliorant leurs compétences.",
+        "dl": [
+            "https://megadb.net/download"
+        ],
+        "release_date": "6 septembre 2011",
+        "size": "6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.2 GHz / AMD Athlon 64 X2 4600+",
+            "RAM": "1 Go",
+            "GPU": "NVIDIA GeForce 8600 GT / ATI Radeon HD 2600 XT",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Dead Island 2",
+        "image": "https://cdn1.epicgames.com/offer/236c74b4cd2e4e3099cbe2ebdc9686fd/EGS_DeadIsland2_DeepSilverDambusterStudios_S2_1200x1600-efc5201842cf642eb45f73227cd0789b",
+        "description": "Dead Island 2 est un jeu d'action-RPG en monde ouvert où les joueurs affrontent des hordes de zombies dans un Los Angeles infesté. Utilisez un vaste arsenal d'armes personnalisables et exploitez vos compétences pour survivre dans cet enfer post-apocalyptique.",
+        "dl": [
+            "https://buzzheavier.com/9zxxcqgnl4f8"
+        ],
+        "release_date": "21 avril 2023",
+        "size": "46,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i7-7700HQ / AMD FX-9590",
+            "RAM": "10 Go",
+            "GPU": "NVIDIA GTX 1060 / AMD Radeon RX 480",
+            "OS": "Windows 10/11",
+            "Storage": "60 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Deadpool",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Deadpool_video_game_cover.png",
+        "description": "Deadpool est un jeu d'action à la troisième personne mêlant combats intenses et humour déjanté. Incarnez le célèbre anti-héros de Marvel dans une aventure remplie de punchlines, d'explosions et de références absurdes.",
+        "dl": [
+            "https://gofile.io/d/tWdevB"
+        ],
+        "release_date": "25 juin 2013",
+        "size": "6,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8200 / AMD Phenom X3 8750",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 8800 GT / ATI Radeon HD 4850",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
 
     
 ]
