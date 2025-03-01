@@ -1385,7 +1385,64 @@
             "Storage": "40 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "DARK SOULS II",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00047370/jaquette-dark-souls-ii-pc-cover-avant-g-1368565343.jpg",
+        "description": "DARK SOULS II est un jeu d'action-RPG développé par FromSoftware et publié par Bandai Namco Games. Sorti en mars 2014, il s'agit du deuxième opus de la série Dark Souls. Les joueurs explorent le royaume de Drangleic, affrontant des ennemis redoutables et des boss imposants dans un univers sombre et complexe.",
+        "dl": [
+            "https://megadb.net/download"
+        ],
+        "release_date": "11 mars 2014",
+        "size": "14,8 Go",
+        "min_requirements": {
+            "CPU": "AMD Phenom II X2 555 3.2GHz ou Intel Pentium Core 2 Duo E8500 3.17GHz",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 9600GT ou ATI Radeon HD 5870",
+            "OS": "Windows 10/11",
+            "Storage": "22 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "DARK SOULS: REMASTERED",
+        "image": "https://www.codesproduit.fr/wp-content/uploads/2021/01/dark-souls-remastered_cover_original.jpg",
+        "description": "DARK SOULS: REMASTERED est une version améliorée du célèbre action-RPG de FromSoftware. Sorti en 2018, il offre des graphismes retravaillés, une meilleure fluidité et un mode multijoueur amélioré.",
+        "dl": [
+            "https://buzzheavier.com/n0y5bc5kze2n"
+        ],
+        "release_date": "25 mai 2018",
+        "size": "7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 / AMD FX-6300",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GTX 460 / AMD Radeon HD 6870",
+            "OS": "Windows 10/11",
+            "Storage": "12 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "DARK SOULS: Prepare To Die Edition",
+        "image": "https://m.media-amazon.com/images/I/81aRAH8ktGL._AC_UF1000,1000_QL80_.jpg",
+        "description": "DARK SOULS: Prepare To Die Edition est une version spéciale du célèbre action-RPG de FromSoftware. Elle inclut le jeu de base ainsi que du contenu supplémentaire avec de nouveaux boss, zones et ennemis redoutables.",
+        "dl": [
+            "https://buzzheavier.com/6b1fe3hnvs45"
+        ],
+        "release_date": "24 août 2012",
+        "size": "3,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E6850 / AMD Phenom II X2 545",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 9800 GTX+ / ATI Radeon HD 4870",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
 
 
 
