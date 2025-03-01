@@ -1803,7 +1803,7 @@
     },
     {
         "title": "Embr",
-        "image": "https://image.jeuxvideo.com/medias-sm/163213/1632131135-5432-jaquette-avant.jpg",
+        "image": "https://hobbygames.ru/image/cache/hobbygames_beta/enaza/19171218/Embr.jpg-1024x1024-wm.jpg",
         "description": "Embr est un jeu de simulation et d'action en coopération où vous incarnez un pompier freelance. Travaillez seul ou en équipe pour éteindre des incendies, sauver des vies et gagner de l'argent dans un monde loufoque et explosif.",
         "dl": [
             "https://megadb.net/jvvuam3zvy5l"
@@ -1857,7 +1857,7 @@
     },
     {
         "title": "Escape the Backrooms",
-        "image": "https://media.senscritique.com/media/000021005359/0/escape_the_backrooms.jpg",
+        "image": "https://cdn.cdkeys.com/700x700/media/catalog/product/e/s/escape_the_backrooms.jpg",
         "description": "Escape the Backrooms est un jeu d'horreur en coopération basé sur l'univers des 'Backrooms'. Explorez des labyrinthes inquiétants, résolvez des énigmes et échappez aux créatures terrifiantes qui rôdent dans l'obscurité.",
         "dl": [
             "https://buzzheavier.com/u7n6rdnwdpt1"
@@ -1908,14 +1908,151 @@
             "Storage": "45 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "F1 22",
+        "image": "https://image.jeuxvideo.com/medias-sm/165159/1651593166-5861-jaquette-avant.jpg",
+        "description": "F1 22 est le jeu officiel du championnat du monde de Formule 1 2022. Il propose une expérience immersive avec de nouvelles voitures, des circuits mis à jour et des fonctionnalités réalistes comme la gestion des pneus et des stratégies de course.",
+        "dl": [
+            "https://buzzheavier.com/bhdq7sosv5qr"
+        ],
+        "release_date": "1er juillet 2022",
+        "size": "42,1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-9600K / AMD Ryzen 5 2600X",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 1050 Ti / AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Factorio",
+        "image": "https://cdn.cdkeys.com/700x700/media/catalog/product/f/a/factorio.jpg",
+        "description": "Factorio est un jeu de gestion et de construction dans lequel vous devez concevoir et automatiser des chaînes de production complexes pour exploiter les ressources d'une planète hostile. Construisez des usines, gérez vos ressources et défendez-vous contre les ennemis.",
+        "dl": [
+            "https://gofile.io/d/4QVfcC"
+        ],
+        "release_date": "14 août 2020",
+        "size": "4,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-530 / AMD Athlon II X3 450",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTS 450 / AMD Radeon HD 5770",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "FAIRY TAIL",
+        "image": "https://www.fairytailgame.com/common/img/pre_standard_img01_eu.jpg",
+        "description": "FAIRY TAIL est un RPG basé sur le célèbre manga et anime du même nom. Incarnez Natsu, Lucy et d'autres membres de la guilde Fairy Tail dans des combats stratégiques et revivez des moments emblématiques de la série.",
+        "dl": [
+            "https://megadb.net/yftaiqi3rwow"
+        ],
+        "release_date": "30 juillet 2020",
+        "size": "5,4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 / AMD Phenom II X6 1090T",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Far Cry 3",
+        "image": "https://www.codesproduit.fr/wp-content/uploads/2021/01/far-cry-3_cover_original.jpg",
+        "description": "Far Cry 3 est un FPS en monde ouvert où vous incarnez Jason Brody, un touriste piégé sur une île tropicale infestée de pirates. Affrontez des ennemis impitoyables, explorez un vaste environnement et améliorez vos compétences pour survivre.",
+        "dl": [
+            "https://buzzheavier.com/hnam4zxjo3k5"
+        ],
+        "release_date": "29 novembre 2012",
+        "size": "7,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E6700 / AMD Athlon 64 X2 6000+",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 8800 GT / AMD Radeon HD 2900",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Far Cry 4",
+        "image": "https://www.codesproduit.fr/wp-content/uploads/2021/01/far-cry-4_cover_original.png",
+        "description": "Far Cry 4 est un FPS en monde ouvert qui vous plonge dans les montagnes de Kyrat, un pays fictif en proie à une guerre civile. Incarnez Ajay Ghale et affrontez le dictateur Pagan Min dans un monde rempli de dangers et d'opportunités.",
+        "dl": [
+            "https://buzzheavier.com/zrru6qj7sfhq"
+        ],
+        "release_date": "18 novembre 2014",
+        "size": "29,1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-750 / AMD Phenom II X4 955",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460 / AMD Radeon HD 5850",
+            "OS": "Windows 10/11",
+            "Storage": "40 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Far Cry 5",
+        "image": "https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png",
+        "description": "Far Cry 5 est un FPS en monde ouvert qui se déroule dans le comté fictif de Hope County, Montana. En tant que nouveau shérif adjoint, vous devez affronter la secte fanatique dirigée par Joseph Seed et libérer la région du contrôle de son culte.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GJzX0SWt4AA="
+        ],
+        "release_date": "27 mars 2018",
+        "size": "76,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 / AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 670 / AMD Radeon R9 270",
+            "OS": "Windows 10/11",
+            "Storage": "85 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Far Cry 6",
+        "image": "https://image.jeuxvideo.com/medias-sm/163161/1631607413-3853-jaquette-avant.jpg",
+        "description": "Far Cry 6 est un FPS en monde ouvert se déroulant sur l'île fictive de Yara, dirigée par le dictateur Antón Castillo. Incarnez Dani Rojas et rejoignez la guérilla pour renverser le régime oppressif.",
+        "dl": [
+            "https://buzzheavier.com/yam0smah3pin"
+        ],
+        "release_date": "7 octobre 2021",
+        "size": "130,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 / AMD Radeon RX 460",
+            "OS": "Windows 10/11",
+            "Storage": "140 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Far Cry Primal",
+        "image": "https://image.jeuxvideo.com/medias-sm/151921/1519207647-8340-jaquette-avant.jpg",
+        "description": "Far Cry Primal est un jeu d'action-aventure en monde ouvert qui vous plonge à l'âge de pierre. Incarnez Takkar, un chasseur qui doit survivre et unifier les tribus face aux dangers de la nature sauvage.",
+        "dl": [
+            "https://buzzheavier.com/dxyf7jvyz7b0"
+        ],
+        "release_date": "23 février 2016",
+        "size": "17,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-550 / AMD Phenom II X4 955",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460 / AMD Radeon HD 5770",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false
     }
-
-
-
-
-
-
-
 
 
 
