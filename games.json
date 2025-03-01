@@ -1277,6 +1277,25 @@
             "Storage": "1 Go"
         },
         "online": false
-    }
+    },
+    {
+    "title": "Contraband Police",
+    "image": "https://data.xxlgamer.com/products/5624/dg9DZNkm2WetkX-big.jpg",
+    "description": "Contraband Police est un jeu vidéo de simulation développé par Crazy Rocks Studios et publié par PlayWay. Sorti le 8 mars 2023, il place le joueur dans la peau d'un agent de contrôle aux frontières dans un pays communiste fictif des années 1980, chargé d'inspecter les véhicules à la recherche de contrebande.",
+    "dl": [
+        "https://buzzheavier.com/4vqnicd97vzn"
+    ],
+    "release_date": "8 mars 2023",
+    "size": "9,8 Go",
+    "min_requirements": {
+        "CPU": "Intel Core i5-6600 @ 3,3 GHz ou AMD Ryzen 5 1600 @ 3,2 GHz",
+        "RAM": "12 Go",
+        "GPU": "NVIDIA GeForce GTX 1050 ou AMD RX 560 (3 Go VRAM avec Shader Model 5.0 ou supérieur)",
+        "OS": "Windows 10/11",
+        "Storage": "12 Go d'espace libre"
+    },
+    "online": false
+}
+
     
 ]
