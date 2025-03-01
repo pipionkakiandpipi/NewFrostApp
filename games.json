@@ -1279,23 +1279,42 @@
         "online": false
     },
     {
-    "title": "Contraband Police",
-    "image": "https://data.xxlgamer.com/products/5624/dg9DZNkm2WetkX-big.jpg",
-    "description": "Contraband Police est un jeu vidéo de simulation développé par Crazy Rocks Studios et publié par PlayWay. Sorti le 8 mars 2023, il place le joueur dans la peau d'un agent de contrôle aux frontières dans un pays communiste fictif des années 1980, chargé d'inspecter les véhicules à la recherche de contrebande.",
-    "dl": [
-        "https://buzzheavier.com/4vqnicd97vzn"
-    ],
-    "release_date": "8 mars 2023",
-    "size": "9,8 Go",
-    "min_requirements": {
-        "CPU": "Intel Core i5-6600 @ 3,3 GHz ou AMD Ryzen 5 1600 @ 3,2 GHz",
-        "RAM": "12 Go",
-        "GPU": "NVIDIA GeForce GTX 1050 ou AMD RX 560 (3 Go VRAM avec Shader Model 5.0 ou supérieur)",
-        "OS": "Windows 10/11",
-        "Storage": "12 Go d'espace libre"
+        "title": "Contraband Police",
+        "image": "https://data.xxlgamer.com/products/5624/dg9DZNkm2WetkX-big.jpg",
+        "description": "Contraband Police est un jeu vidéo de simulation développé par Crazy Rocks Studios et publié par PlayWay. Sorti le 8 mars 2023, il place le joueur dans la peau d'un agent de contrôle aux frontières dans un pays communiste fictif des années 1980, chargé d'inspecter les véhicules à la recherche de contrebande.",
+        "dl": [
+            "https://buzzheavier.com/4vqnicd97vzn"
+        ],
+        "release_date": "8 mars 2023",
+        "size": "9,8 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600 @ 3,3 GHz ou AMD Ryzen 5 1600 @ 3,2 GHz",
+            "RAM": "12 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 ou AMD RX 560 (3 Go VRAM avec Shader Model 5.0 ou supérieur)",
+            "OS": "Windows 10/11",
+            "Storage": "12 Go d'espace libre"
+        },
+        "online": false
     },
-    "online": false
+    {
+        "title": "Coral Island",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3019/c3a55277aeaf027f8db167bc4f77f6f9a1389740d5764cb7.png",
+        "description": "Coral Island est un jeu de simulation de vie agricole développé par Stairway Games et publié par Humble Games. Sorti le 14 novembre 2023, il offre une réinvention vibrante et décontractée des jeux de simulation de ferme, permettant aux joueurs de cultiver, élever des animaux et interagir avec une communauté insulaire dynamique.",
+        "dl": [
+            "https://gofile.io/d/nEznr1"
+        ],
+        "release_date": "14 novembre 2023",
+        "size": "10 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 660 avec 2 Go de VRAM",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
 }
+
 
     
 ]
