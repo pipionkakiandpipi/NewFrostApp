@@ -1547,7 +1547,160 @@
             "Storage": "10 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "Detroit: Become Human",
+        "image": "https://image.jeuxvideo.com/medias-sm/165839/1658385637-1695-jaquette-avant.jpg",
+        "description": "Detroit: Become Human est un jeu narratif interactif qui plonge les joueurs dans un futur où les androïdes coexistent avec les humains. Vos choix influencent le destin des personnages et l'évolution de l'histoire.",
+        "dl": [
+            "https://buzzheavier.com/jm9rg8ae8koj"
+        ],
+        "release_date": "12 décembre 2019",
+        "size": "52,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 / AMD FX-8350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 780 / AMD Radeon HD 7950",
+            "OS": "Windows 10/11",
+            "Storage": "65 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Devil May Cry 5",
+        "image": "https://static.wikia.nocookie.net/devilmaycry/images/4/4a/Devil_May_Cry_5_base_cover.png/revision/latest?cb=20220319194333&path-prefix=pl",
+        "description": "Devil May Cry 5 est un jeu d'action hack'n'slash où vous incarnez Nero, Dante et V dans une bataille contre des forces démoniaques. Exécutez des combos spectaculaires et découvrez une histoire palpitante.",
+        "dl": [
+            "https://buzzheavier.com/em6rab3aenfq"
+        ],
+        "release_date": "8 mars 2019",
+        "size": "40,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 / AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 760 / AMD Radeon R7 260x",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Devil May Cry HD Collection",
+        "image": "https://image.api.playstation.com/cdn/EP0102/CUSA09263_00/I0qOqWREOTl1DDM5bKB1Qg8LmRWKDlMI.png",
+        "description": "Devil May Cry HD Collection regroupe les trois premiers jeux de la saga légendaire dans une version remastérisée en haute définition. Redécouvrez les combats spectaculaires et l'univers sombre de Dante.",
+        "dl": [
+            "https://megadb.net/8npmzb4kc8x2"
+        ],
+        "release_date": "13 mars 2018",
+        "size": "11,4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 / AMD FX-4100",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 760 / AMD Radeon R7 260x",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "DEVOUR",
+        "image": "https://cdn1.epicgames.com/spt-assets/9e85997cf2ed435ebade8a0f6639af03/download-devour-offer-acjuy.jpg",
+        "description": "DEVOUR est un jeu d'horreur coopératif multijoueur dans lequel les joueurs doivent unir leurs forces pour affronter un culte démoniaque et des forces surnaturelles. Explorez des environnements oppressants et travaillez en équipe pour empêcher la propagation d'une entité maléfique.",
+        "dl": [
+            "https://megadb.net/r24c6qudmb5w"
+        ],
+        "release_date": "26 août 2022",
+        "size": "6,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 / AMD FX-8320",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 660 / AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "DiRT Rally 2.0",
+        "image": "https://image.api.playstation.com/cdn/EP4001/CUSA12747_00/59UfzHlIjF8VYee5ivYYZdW8vhuHA0Df.png",
+        "description": "DiRT Rally 2.0 est un jeu de course axé sur la simulation de rallye. Affrontez des terrains difficiles, affinez votre conduite et participez à des compétitions intenses à travers le monde.",
+        "dl": [
+            "https://buzzheavier.com/df8mktxxzcv1"
+        ],
+        "release_date": "26 février 2019",
+        "size": "109 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2130 / AMD FX-4300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 650 Ti / AMD Radeon HD 7750",
+            "OS": "Windows 10/11",
+            "Storage": "120 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Don’t Starve Together",
+        "image": "https://image.api.playstation.com/cdn/EP2107/CUSA04282_00/HdLk1qcGl3QUoUPxj5BNxCbVeUnD13fm.png",
+        "description": "Don't Starve Together est un jeu de survie multijoueur dans un monde sombre et impitoyable. Coopérez avec vos amis pour explorer, collecter des ressources et survivre aux dangers qui vous entourent.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GZSC8bSXQAA"
+        ],
+        "release_date": "21 avril 2016",
+        "size": "2,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 / AMD FX-4300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 460 / AMD Radeon HD 6750",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "DOOM Eternal",
+        "image": "https://image.jeuxvideo.com/medias-sm/156043/1560427186-1260-jaquette-avant.jpg",
+        "description": "DOOM Eternal est un FPS nerveux et brutal où vous incarnez le Doom Slayer face aux forces démoniaques envahissant la Terre. Armé jusqu’aux dents, déchaînez votre puissance à travers des combats frénétiques.",
+        "dl": [
+            "https://buzzheavier.com/zrpti4vv72s5"
+        ],
+        "mdp": "steamrip.com",
+        "release_date": "20 mars 2020",
+        "size": "86,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6700K / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 1050 Ti / AMD Radeon R9 280",
+            "OS": "Windows 10/11",
+            "Storage": "100 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "DRAGON BALL FighterZ",
+        "image": "https://image.jeuxvideo.com/medias-sm/151681/1516808715-4062-jaquette-avant.jpg",
+        "description": "DRAGON BALL FighterZ est un jeu de combat dynamique inspiré de l'univers de Dragon Ball. Profitez d'un gameplay en 3v3, de graphismes fidèles à l'anime et d'une action rapide et intense.",
+        "dl": [
+            "https://buzzheavier.com/34cyovm24g5k"
+        ],
+        "release_date": "26 janvier 2018",
+        "size": "5,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3470 / AMD FX-4350",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 650 Ti / AMD Radeon HD 6870",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": true
     }
+
+
+
+
+
+
+
+
 
 
     
