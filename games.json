@@ -1692,7 +1692,26 @@
             "Storage": "10 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "Dragon Ball XenoVerse",
+        "image": "https://image.jeuxvideo.com/medias-sm/148292/1482919703-6686-jaquette-avant.jpg",
+        "description": "Dragon Ball XenoVerse est un jeu de combat et d'action qui permet aux joueurs de créer leur propre personnage et de voyager à travers le temps pour protéger l'histoire de Dragon Ball d'altérations dangereuses.",
+        "dl": [
+            "https://gofile.io/d/QavuCp"
+        ],
+        "release_date": "27 février 2015",
+        "size": "9,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E4400 / AMD Athlon 64 X2 5200+",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GTX 650 / AMD Radeon HD 6570",
+            "OS": "Windows 10/11",
+            "Storage": "12 Go d'espace libre"
+        },
+        "online": true
     }
+
 
 
 
