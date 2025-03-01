@@ -1710,7 +1710,102 @@
             "Storage": "12 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "DRAGON BALL XENOVERSE 2",
+        "image": "https://image.jeuxvideo.com/medias-sm/146789/1467894445-6228-jaquette-avant.jpg",
+        "description": "DRAGON BALL XENOVERSE 2 est un jeu de combat et d'action qui permet aux joueurs de revivre et modifier l'histoire légendaire de Dragon Ball. Créez votre propre personnage, entraînez-vous et affrontez des adversaires redoutables dans un vaste monde ouvert.",
+        "dl": [
+            "https://buzzheavier.com/rfo0bqe04czs"
+        ],
+        "release_date": "28 octobre 2016",
+        "size": "26,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-3210 / AMD Phenom II X2 550",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 650 / AMD Radeon HD 6570",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "DRAGON BALL Z: KAKAROT",
+        "image": "https://image.jeuxvideo.com/medias-xs/163232/1632318596-3728-jaquette-avant.png",
+        "description": "DRAGON BALL Z: KAKAROT est un action-RPG qui permet aux joueurs de revivre l'histoire épique de Goku et de ses amis. Explorez un vaste monde ouvert, entraînez-vous, combattez des ennemis puissants et plongez dans l'univers de Dragon Ball Z.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GHNs+k96gAA="
+        ],
+        "release_date": "17 janvier 2020",
+        "size": "47,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 / AMD Phenom II X6 1100T",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 750 Ti / AMD Radeon HD 7950",
+            "OS": "Windows 10/11",
+            "Storage": "55 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "DREDGE",
+        "image": "https://image.jeuxvideo.com/medias-sm/167717/1677171426-1832-jaquette-avant.jpg",
+        "description": "DREDGE est un jeu de pêche narratif avec une touche horrifique. Explorez des eaux mystérieuses, améliorez votre bateau et découvrez les secrets cachés sous la surface tout en évitant des créatures inquiétantes.",
+        "dl": [
+            "https://buzzheavier.com/65ofm965rtbo"
+        ],
+        "release_date": "30 mars 2023",
+        "size": "4,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 / AMD FX-4300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 750 / AMD Radeon R7 250",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Dying Light: The Following",
+        "image": "https://static.wikia.nocookie.net/dyinglight/images/7/76/The_Following_Cover.jpg/revision/latest?cb=20200206143924",
+        "description": "Dying Light: The Following est une extension du jeu de survie en monde ouvert Dying Light. Elle introduit une nouvelle carte immense, des véhicules tout-terrain et une intrigue inédite, tout en conservant le parkour et le combat brutal du jeu original.",
+        "dl": [
+            "https://buzzheavier.com/l5bryq7k5uls"
+        ],
+        "release_date": "9 février 2016",
+        "size": "31,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500 / AMD FX-8320",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 560 / AMD Radeon HD 6870",
+            "OS": "Windows 10/11",
+            "Storage": "40 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Dying Light 2 Stay Human",
+        "image": "https://image.jeuxvideo.com/medias-sm/163247/1632473272-6800-jaquette-avant.jpg",
+        "description": "Dying Light 2 Stay Human est un jeu d'action et de survie en monde ouvert mettant l'accent sur le parkour et le combat brutal contre des hordes de zombies. Explorez une ville ravagée, faites des choix qui influencent l'histoire et survivez dans un univers impitoyable.",
+        "dl": [
+            "https://buzzheavier.com/z2jxva9n0duh"
+        ],
+        "release_date": "4 février 2022",
+        "size": "54,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-9100 / AMD Ryzen 3 2300X",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 1050 Ti / AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "70 Go d'espace libre"
+        },
+        "online": true
     }
+
+
+
+
+
 
 
 
