@@ -10,7 +10,7 @@
             "CPU": "Intel Core i5-3570K",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 780",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "100 Go d'espace libre"
         },
         "online": false
@@ -28,7 +28,7 @@
             "CPU": "Intel Core i5-2500K",
             "RAM": "6 Go",
             "GPU": "NVIDIA GTX 660",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "60 Go d'espace libre"
         },
         "online": false
@@ -44,7 +44,7 @@
             "CPU": "Intel Core i5-2500K",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 770",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "150 Go d'espace libre"
         },
         "online": false
@@ -60,7 +60,7 @@
             "CPU": "Intel Core 2 Quad Q6600",
             "RAM": "4 Go",
             "GPU": "NVIDIA 9800 GT",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "120 Go d'espace libre"
         },
         "online": false
@@ -77,7 +77,7 @@
             "CPU": "Intel Core i5-8400",
             "RAM": "12 Go",
             "GPU": "NVIDIA GTX 1060",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "75 Go d'espace libre"
         },
         "online": false
@@ -93,7 +93,7 @@
             "CPU": "Intel Core i5-4460",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 960",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "170 Go d'espace libre"
         },
         "online": false
@@ -111,7 +111,7 @@
             "CPU": "Intel Core i5-7500",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 1050 Ti",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "45 Go d'espace libre"
         },
         "online": false
@@ -127,7 +127,7 @@
             "CPU": "Intel Core i3-6100",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 660",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "50 Go d'espace libre"
         },
         "online": false
@@ -146,7 +146,7 @@
             "CPU": "1.7 Ghz",
             "RAM": "512 Mo",
             "GPU": "DirectX 8.1 level Graphics Card",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "15 Go d'espace libre"
         },
         "online": false
@@ -165,7 +165,7 @@
             "CPU": "i5-3570K 3.4 GHz 4 Core",
             "RAM": "16 Go",
             "GPU": "GeForce GTX 1050",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "30 Go d'espace libre"
         },
         "online": true
@@ -184,7 +184,7 @@
             "CPU": " Intel Pentium IV @ 3.0 GHz or AMD Athlon64 3000 + @ 1.8 GHz",
             "RAM": "2 Go",
             "GPU": "GeForce 6800GT or AMD Radeon X1950 Pro",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "6 Go d'espace libre"
         },
         "online": false
@@ -203,7 +203,7 @@
             "CPU": "Dual Core+",
             "RAM": "1 Go",
             "GPU": "1 Go",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "100 Mo"
         },
         "online": false
@@ -222,7 +222,7 @@
             "CPU": "i5-2430M",
             "RAM": "4 Go",
             "GPU": "Nvidia GT540",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "700 Mo"
         },
         "online": false
@@ -241,7 +241,7 @@
             "CPU": "2.4 Ghz i5",
             "RAM": "16 Go",
             "GPU": "Nvidia GTX 650; AMD HD 5850",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "3 Go"
         },
         "online": false
@@ -260,7 +260,7 @@
             "CPU": "Intel Core 2 Duo or AMD Athlon 64×2 5600+",
             "RAM": "4 Go",
             "GPU": "NVIDIA GeForce GT 420 or ATI Radeon HD 6850 or Intel HD Graphics 4000",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "40 Go"
         },
         "online": false
@@ -279,7 +279,7 @@
             "CPU": "Intel Core i5-6300U or AMD Ryzen 5 2400G",
             "RAM": "8 Go",
             "GPU": "Intel HD 520 or AMD Radeon RX Vega 11",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "60 Go"
         },
         "online": false
@@ -298,7 +298,7 @@
             "CPU": "Intel i5-7600K",
             "RAM": "16 Go",
             "GPU": "GeForce RTX 2060 or Radeon RX 6600, 6 GB",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "110 Go"
         },
         "online": false
@@ -317,7 +317,7 @@
             "CPU": "Intel Core2 Duo",
             "RAM": "2048 Mo",
             "GPU": "Peu importe",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "10 Go"
         },
         "online": false
@@ -336,7 +336,7 @@
             "CPU": "Dual core CPU 2.4 GHz",
             "RAM": "4 Go",
             "GPU": "GeForce GTS 450-class (Intel HD 4000)",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "25 Go"
         },
         "online": false
@@ -355,7 +355,7 @@
             "CPU": "SSE2",
             "RAM": "1 Go",
             "GPU": "Peu importe",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "500 Mo"
         },
         "online": true
@@ -374,7 +374,7 @@
             "CPU": "2.5 GHz",
             "RAM": "4 Go",
             "GPU": "Nvidia GTX 970",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "5 Go"
         },
         "online": false
@@ -393,7 +393,7 @@
             "CPU": "Intel Core i5-2400/AMD FX-8320",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "115 Go"
         },
         "online": false
@@ -412,7 +412,7 @@
             "CPU": "Dual core processor 2.6 GHz Intel Pentium",
             "RAM": "1 Go",
             "GPU": "256 MB DirectX 10.0-compliant video card",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "7 Go"
         },
         "online": false
@@ -431,7 +431,7 @@
             "CPU": "2.60 GHz Intel Core 2 Duo E8200 or 2.60 GHz AMD Athlon II X4 620",
             "RAM": "2 Go",
             "GPU": "DirectX 10—compliant with Shader Model",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "15 Go"
         },
         "online": false ,
@@ -451,7 +451,7 @@
             "CPU": "Intel Core2Quad Q8400 @ 2.6 GHz or AMD Athlon II X4 620 @ 2.6 GHz",
             "RAM": "2 Go",
             "GPU": "Nvidia Geforce GTX 260 or AMD Radeon HD 4870",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "15 Go"
         },
         "online": false,
@@ -471,7 +471,7 @@
             "CPU": "AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz",
             "RAM": "8 Go",
             "GPU": "AMD Radeon R9 285, NVIDIA GeForce GTX 660",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "95 Go"
         },
         "online": false ,
@@ -491,7 +491,7 @@
             "CPU": "Intel Core i5-2400s @ 2.5 GHz or AMD FX-6350 @ 3.9 GHz",
             "RAM": "6 Go",
             "GPU": "NVIDIA GeForce GTX 660 or AMD R9 270",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "60 Go"
         },
         "online": false
@@ -510,7 +510,7 @@
             "CPU": "Intel Core 2 Duo E4400 @ 2.0 GHz or AMD Athlon 64 X2 4000+ @ 2.1GHz",
             "RAM": "2 Go",
             "GPU": "256 MB DirectX 9.0",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "10 Go"
         },
         "online": false
@@ -529,7 +529,7 @@
             "CPU": "Intel Core i5 2400s @ 2.5 GHz / AMD FX 6350 @ 3.9 GHz",
             "RAM": "6 Go",
             "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon R9 270",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "50 Go"
         },
         "online": false ,
@@ -549,7 +549,7 @@
             "CPU": "Intel Core i5-2500K @ 3.3 GHz or AMD FX-8350 @ 4.0 GHz",
             "RAM": "6 Go",
             "GPU": "NVIDIA GeForce GTX 680 or AMD Radeon HD 7970",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "45 Go"
         },
         "online": false
@@ -568,7 +568,7 @@
             "CPU": "AMD Athlon X2 2.8 GHZ, Intel Core 2 Duo 2.4 GHZ",
             "RAM": "2 Go",
             "GPU": "DirectX 10.1",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "20 Go"
         },
         "online": false
@@ -587,7 +587,7 @@
             "CPU": "Core I5 2400",
             "RAM": "6 Go",
             "GPU": "NVIDIA GeForce GTX 660 VRAM 1GB",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "40 Go"
         },
         "online": false
@@ -606,7 +606,7 @@
             "CPU": "Intel Core i5-2500K@3.3GHz or AMD FX 6300@3.5GHz",
             "RAM": "8 Go",
             "GPU": "Nvidia GeForce GTX 1050 ti (3 GB) or AMD Radeon R9 570 (4GB)",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "13 Go"
         },
         "online": false
@@ -625,7 +625,7 @@
             "CPU": "Intel core i7-860 or AMD Phenom II X4 955",
             "RAM": "8 Go",
             "GPU": "Nvidia GeForce GTX 1650, 4 GB or AMD Radeon RX 470, 4 GB",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "10 Go"
         },
         "online": false
@@ -644,7 +644,7 @@
             "CPU": "Intel I5 4690 / AMD FX 8350",
             "RAM": "8 Go",
             "GPU": "Nvidia GTX 970 / RX 480 (4GB+ of VRAM)",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "130 Go"
         },
         "online": true
@@ -663,7 +663,7 @@
             "CPU": "Intel Core i3-8300 / AMD Ryzen 3 2200G",
             "RAM": "8 Go",
             "GPU": "4 GB VRAM, Nvidia GeForce GTX 1050 Ti / AMD Radeon RX 580",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "60 Go"
         },
         "online": false
@@ -682,7 +682,7 @@
             "CPU": "Processor (AMD): AMD FX-6350 Processor (Intel): Intel Core i5 6600K",
             "RAM": "8 Go",
             "GPU": "Graphics card (AMD): AMD Radeon",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "30 Go"
         },
         "online": false
@@ -701,7 +701,7 @@
             "CPU": "AMD FX 6300 3.5Ghz / Intel Core i3-6300 3.8Ghz",
             "RAM": "8 Go",
             "GPU": "Radeon HD 7750 / Nvidia GeForce GTX 550 Ti",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "60 Go"
         },
         "online": true
@@ -720,7 +720,7 @@
             "CPU": "Core i7 870",
             "RAM": "4 Go",
             "GPU": "NVIDIA Geforce GTS 450",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "20 Go"
         },
         "online": false
@@ -739,7 +739,7 @@
             "CPU": "Intel i5",
             "RAM": "8 Go",
             "GPU": "NVIDIA Geforce GTX 960",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "5 Go"
         },
         "online": false
@@ -758,7 +758,7 @@
             "CPU": "AMD FX-8350 ou Intel Core i5-4690K",
             "RAM": "8 Go",
             "GPU": "GeForce GTX 960 or Radeon R9 380",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "15 Go"
         },
         "online": false
@@ -777,7 +777,7 @@
             "CPU": "Intel Core2 Duo E8400 or AMD Phenom II x2 550",
             "RAM": "4 Go",
             "GPU": "GeForce GTX 260 or Radeon HD 4850",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "5 Go"
         },
         "online": false
@@ -796,7 +796,7 @@
             "CPU": "Intel Core 2 Duo E8400 or AMD Phenom II X2 550",
             "RAM": "4 Go",
             "GPU": "NVIDIA GeForce GT 520, 1 GB or AMD Radeon HD 7470, 1 GB or Intel HD Graphics 4400",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "10 Go"
         },
         "online": false
@@ -815,7 +815,7 @@
             "CPU": "AMD Ryzen 7 3700X, Intel Core i7-9700K",
             "RAM": "8 Go",
             "GPU": "AMD Radeon RX 5700 (8 GB), NVIDIA GeForce RTX 2070 (8 GB)",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "50 Go"
         },
         "online": true
@@ -834,7 +834,7 @@
             "CPU": "2.8 GHz Dual Core Processor",
             "RAM": "4 Go",
             "GPU": "Video card with 1024MB of VRAM",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "5 Go"
         },
         "online": false
@@ -853,7 +853,7 @@
             "CPU": "Intel Core i3 / AMD Athlom 64",
             "RAM": "4 Go",
             "GPU": "NVIDIA GeForce series 8000",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "1 Go"
         },
         "online": false
@@ -872,7 +872,7 @@
             "CPU": "Intel Core 2 DUO 2.4 GHz / AMD Athlon X2 2.7 GHz",
             "RAM": "8 Go",
             "GPU": "Nvidia GTX 650 Ti or AMD HD 7850",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "1 Go"
         },
         "online": false
@@ -891,7 +891,7 @@
             "CPU": "Intel Core i3-2120 / AMD Phenom II X4 830",
             "RAM": "8 Go",
             "GPU": "NVIDIA GeForce GTX 760 (2GB VRAM) / AMD Radeon R9 280 (2GB VRAM)",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "10 Go"
         },
         "online": false
@@ -910,7 +910,7 @@
             "CPU": "Intel Pentium 4 2.4 Ghz / AMD(R) 64 (TM) 2800+ / Intel",
             "RAM": "1 Go",
             "GPU": "NVIDIA Geforce 6600",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "10 Go"
         },
         "online": false
@@ -929,7 +929,7 @@
             "CPU": "Intel Core i3-530 @ 2.93 GHz / AMD Phenom II X4 810 @ 2.60 GHz",
             "RAM": "6 Go",
             "GPU": "NVIDIA GeForce GTS 450 @ 1GB / ATI Radeon HD 5870 @ 1GB",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "40 Go"
         },
         "online": false
@@ -948,7 +948,7 @@
             "CPU": "Intel Core 2 Duo E6600 or AMD Phenom X3 8750",
             "RAM": "2 Go",
             "GPU": "GeForce® 8600GT / ATI Radeon® X1950Pro",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "12 Go"
         },
         "online": true
@@ -967,7 +967,7 @@
             "CPU": "Intel Core i3-4340 or AMD FX-6300",
             "RAM": "8 Go",
             "GPU": "NVIDIA GeForce GTX 670 / NVIDIA GeForce GTX 1650 or AMD Radeon HD 7950",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "220 Go"
         },
         "online": false
@@ -986,7 +986,7 @@
             "CPU": "Intel Pentium 4 3.2 GHz or AMD Athlon 64 3200",
             "RAM": "1 Go",
             "GPU": "GeForce 6600GT",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "15 Go"
         },
         "online": true,
@@ -1006,7 +1006,7 @@
             "CPU": "Intel Core 2 Duo E6600 or AMD Phenom X3 8750",
             "RAM": "2 Go",
             "GPU": "NVIDIA GeForce 8600GT",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "20 Go"
         },
         "online": false
@@ -1025,7 +1025,7 @@
             "CPU": "Pentium 4 @ 3 GHz/AMD 64 3200+",
             "RAM": "512 Mo",
             "GPU": "Peu importe",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "10 Go"
         },
         "online": true
@@ -1044,7 +1044,7 @@
             "CPU": "Intel Core2 Duo E8200 2.66 GHz or AMD Phenom X3 8750 2.4 GHz",
             "RAM": "2 Go",
             "GPU": "Nvidia GeForce 8800GT",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "35 Go"
         },
         "online": true,
@@ -1064,7 +1064,7 @@
             "CPU": "Intel Core i3-530 @ 2.93 GHz / AMD Phenom II X4 810 @ 2.60 GHz",
             "RAM": "6 Go",
             "GPU": "NVIDIA GeForce GTX 470 @ 1GB / ATI Radeon HD 6970 @ 1GB",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "125 Go"
         },
         "online": true
@@ -1083,7 +1083,7 @@
             "CPU": "Intel Core 2 Duo E8200 2.66 GHZ / AMD Phenom X3 8750 2.4 GHZ",
             "RAM": "6 Go",
             "GPU": "Peu importe",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "40 Go"
         },
         "online": false
@@ -1102,7 +1102,7 @@
             "CPU": "Intel Core i3 3225 3.3 GHz or AMD Ryzen 5 1400",
             "RAM": "8 Go",
             "GPU": "NVIDIA GeForce GTX 660 @ 2 GB / GTX 1050 or ATI Radeon HD 7850 @ 2GB / AMD RX 550",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "150 Go"
         },
         "online": true
@@ -1121,7 +1121,7 @@
             "CPU": "Intel Core i5-2500 @ 3,3 GHz (4 CPUs)",
             "RAM": "6 Go",
             "GPU": "NVidia GeForce GTX 670 2GB",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "5 Go"
         },
         "online": false
@@ -1140,8 +1140,141 @@
             "CPU": "Intel Core i5 4690 / AMD Ryzen 5 1500X",
             "RAM": "8 Go",
             "GPU": "NVidia GeForce GTX 760 2GB",
-            "OS": "Windows 10",
+            "OS": "Windows 10/11",
             "Storage": "20 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Celeste",
+        "image": "https://image.jeuxvideo.com/medias-sm/170430/1704295675-7242-jaquette-avant.jpg",
+        "description": "Celeste est un jeu développé par Maddy Thorson, créatrice de Towerfall Ascension. Il s'agit d'un platformer dans lequel il faut atteindre le sommet d'une montagne dans plus de 600 niveaux sur huit chapitres réservant de nombreux secrets.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GNhODwZfIAA="
+            
+        ],
+        "release_date": "25 janvier 2018",
+        "size": "2,4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3 M380",
+            "RAM": "2 Go",
+            "GPU": "Intel HD 4000",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Chained Together",
+        "image": "https://cdn.cdkeys.com/700x700/media/catalog/product/c/h/chntg-steam.jpg",
+        "description": "Chained Together est un jeu de plateforme 3D de 2024 développé et édité par Anegar Games. Reliés par une chaîne, les joueurs doivent coopérer pour échapper à l'enfer. Sorti le 19 juin 2024, le jeu a reçu un accueil positif pour son système de jeu.",
+        "dl": [
+            "https://gofile.io/d/kGAuPw"
+            
+        ],
+        "release_date": "19 juin 2024",
+        "size": "4,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600@ 3.1 GHz or AMD R5 1600X @ 3.5 GHz",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1650",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go"
+        },
+        "online": true
+    },
+    {
+        "title": "Chivalry 2",
+        "image": "https://static.muve.pl/uploads/product-cover/0162/4231/chivalry-2-okladka-gra-pc-muve.png",
+        "description": "Chivalry II est la suite du jeu de combat médiéval Chivalry : Medieval Warfare. Dans ce jeu d'action en vue à la première personne vous plongez dans un conflit moyenâgeux fictif. Vous pouvez choisir entre plusieurs classes et mener d'intenses batailles des environnements variés.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GJoflAbt4AA="
+            
+        ],
+        "release_date": "08 juin 2021",
+        "size": "25,2 Go",
+        "min_requirements": {
+            "CPU": "Intel i3-4370",
+            "RAM": "8 Go",
+            "GPU": "Nvidia GeForce GTX 660 ou AMD Radeon HD 7870 2 GB",
+            "OS": "Windows 10/11",
+            "Storage": "28 Go"
+        },
+        "online": true
+    },
+    {
+        "title": "Choo-Choo Charles",
+        "image": "https://cdn1.epicgames.com/spt-assets/ce12d040c108495c89ccc6b2e8ebe3c4/choochoo-charles-yffjr.png",
+        "description": "Choo-Choo Charles est un survival-horror vous demandant de repousser une menace terrible : un train doué de conscience se nommant Charles. Celui-ci a décidé de faire de vous son prochain repas. Améliorez votre propre train, combattez-le avec et empêchez-le de ne faire qu'une bouchée de vous !",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GOh53Kqn8AA="
+            
+        ],
+        "release_date": "09 décembre 2022",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "2.5 GHz Quad-core Intel",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Cities: Skylines",
+        "image": "https://image.ceneostatic.pl/data/products/36077164/p-cities-skylines-digital.jpg",
+        "description": "L'objectif du joueur est de construire une ville en gérant les infrastructures publiques : routes, services publics, acheminement de l'eau et de l'électricité, etc. En tant que maire, il a un budget lui permettant d'investir dans ces constructions et doit également gérer la politique de sa ville pour satisfaire ses administrés et attirer les touristes.",
+        "dl": [
+            "https://buzzheavier.com/113yxpar2ju0"
+            
+        ],
+        "release_date": "10 mars 2015",
+        "size": "8,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo, 3.0GHz or AMD Athlon 64 X2 6400+, 3.2GHz",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 260, 512 MB or ATI Radeon HD 5670",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Cities: Skylines II ",
+        "image": "https://data.xxlgamer.com/products/5534/EqsZ9aXkfZlwqy-big.jpg",
+        "description": "Cities Skylines II est la suite du célèbre city builder éponyme. Comme en 2015, le joueur devra construire et développer sa ville, veillant à prendre les bonnes décisions pour la faire prospérer. Comme indiqué sur Steam, ce second volet s'annonce comme la simulation urbaine la plus réaliste et ambitieuse qui soit.",
+        "dl": [
+            "https://buzzheavier.com/82v31of24eml"
+            
+        ],
+        "release_date": "24 octobre 2023",
+        "size": "58,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i7-6700K | AMD® Ryzen 5 2600X",
+            "RAM": "8 Go",
+            "GPU": "Nvidia GeForce GTX 970 (4 GB) | AMD Radeon RX 480 (8 GB)",
+            "OS": "Windows 10/11",
+            "Storage": "60 Go"
+        },
+        "online": false
+    },
+    {
+        "title": "Content Warning",
+        "image": "https://cdn2.steamgriddb.com/grid/8932ec9339ee0a87a7296465698e1404.png",
+        "description": "Content Warning est un jeu d'horreur en coopération au sein d'une équipe allant jusqu'à quatre joueurs. Armé d'une caméra et d'une lampe de poche, il faudra montrer au monde votre exploration d'un monde mystérieux. Plus vos vidéos seront virales, plus vous gagnerez d'argent. Avec un meilleur équipement, les chances de faire le buzz augmentent, mais les dangers également.",
+        "dl": [
+            "https://buzzheavier.com/f80zdil9qmca"
+            
+        ],
+        "release_date": "01 avril 2024",
+        "size": "500 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i5 @ 2.5 GHz",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 ti or AMD R9 380",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go"
         },
         "online": false
     }
