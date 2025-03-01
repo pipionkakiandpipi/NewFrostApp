@@ -1800,7 +1800,121 @@
             "Storage": "70 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "Embr",
+        "image": "https://image.jeuxvideo.com/medias-sm/163213/1632131135-5432-jaquette-avant.jpg",
+        "description": "Embr est un jeu de simulation et d'action en coopération où vous incarnez un pompier freelance. Travaillez seul ou en équipe pour éteindre des incendies, sauver des vies et gagner de l'argent dans un monde loufoque et explosif.",
+        "dl": [
+            "https://megadb.net/jvvuam3zvy5l"
+        ],
+        "release_date": "23 septembre 2021",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4670 / AMD FX-8350",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 660 / AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "ENDER LILIES: Quietus of the Knights",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2006/UQ0eSe7Rx4K0sXkO1nR7Iq9k.png",
+        "description": "ENDER LILIES: Quietus of the Knights est un action-RPG en 2D de type Metroidvania où vous incarnez Lily, une prêtresse explorant un monde ravagé par une pluie maudite. Accompagnée par les esprits des chevaliers déchus, elle doit percer les mystères de son royaume déchu.",
+        "dl": [
+            "https://megadb.net/9x6kem9xbae5"
+        ],
+        "release_date": "21 juin 2021",
+        "size": "1,3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7500 / AMD Ryzen 3 1300X",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 750 / AMD Radeon HD 7770",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Enshrouded",
+        "image": "https://image.jeuxvideo.com/medias-sm/171138/1711384623-6066-jaquette-avant.jpg",
+        "description": "Enshrouded est un jeu de survie en monde ouvert avec des éléments de RPG. Explorez un vaste royaume englouti par un mystérieux brouillard, affrontez des créatures redoutables et bâtissez votre propre refuge tout en dévoilant les secrets d'un monde perdu.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/Gbr-qgGXQAA"
+        ],
+        "release_date": "24 janvier 2024",
+        "size": "16,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400 / AMD Ryzen 3 3300X",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 1060 / AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Escape the Backrooms",
+        "image": "https://media.senscritique.com/media/000021005359/0/escape_the_backrooms.jpg",
+        "description": "Escape the Backrooms est un jeu d'horreur en coopération basé sur l'univers des 'Backrooms'. Explorez des labyrinthes inquiétants, résolvez des énigmes et échappez aux créatures terrifiantes qui rôdent dans l'obscurité.",
+        "dl": [
+            "https://buzzheavier.com/u7n6rdnwdpt1"
+        ],
+        "release_date": "11 août 2022",
+        "size": "22,4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4570 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 970 / AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Euro Truck Simulator 2",
+        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00042127/jaquette-euro-truck-simulator-2-pc-cover-avant-g-1351086645.jpg",
+        "description": "Euro Truck Simulator 2 est un jeu de simulation qui vous permet de prendre le volant d’un camion et de parcourir les routes d’Europe. Transportez des marchandises, développez votre entreprise et profitez d’un gameplay réaliste et immersif.",
+        "dl": [
+            "https://buzzheavier.com/2gmwuthbw8e1"
+        ],
+        "release_date": "19 octobre 2012",
+        "size": "30,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7600 / AMD Ryzen 5 2500U",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GTX 660 / AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "40 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "F1 2020",
+        "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA20027_00/3/i_d55efc67598c1cf55e998d4a9a358cbec0a3bf600c48753f081a0e402be98463/i/icon0.png",
+        "description": "F1 2020 est le jeu officiel du championnat du monde de Formule 1. Il permet aux joueurs de s’immerger dans la compétition avec des graphismes réalistes, un mode carrière complet et la possibilité de créer sa propre équipe pour concourir contre les meilleures écuries.",
+        "dl": [
+            "https://buzzheavier.com/5mzwdr7r7ufj"
+        ],
+        "release_date": "10 juillet 2020",
+        "size": "36,3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2130 / AMD FX-4300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 950 / AMD Radeon R9 280",
+            "OS": "Windows 10/11",
+            "Storage": "45 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
 
 
 
