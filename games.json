@@ -1313,7 +1313,83 @@
             "Storage": "8 Go d'espace libre"
         },
         "online": false
-}
+    },
+    {
+        "title": "Crusader Kings III",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1607/czGau6hOvx9iQYOOkACdxqDl.png",
+        "description": "Crusader Kings III est un jeu vidéo de grande stratégie mêlé de jeu de rôle, développé par Paradox Development Studio et publié par Paradox Interactive. Sorti le 1er septembre 2020 sur PC, il plonge les joueurs dans le Moyen Âge, leur permettant de diriger une dynastie à travers les siècles en gérant politique, guerre et relations dynastiques.",
+        "dl": [
+            "https://buzzheavier.com/ciku8nk1x4on"
+        ],
+        "release_date": "1er septembre 2020",
+        "size": "6,4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2120 ou AMD FX 6350",
+            "RAM": "6 Go",
+            "GPU": "Nvidia GeForce GTX 660 (2 Go) ou AMD Radeon HD 7870 (2 Go)",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Cult of the Lamb",
+        "image": "https://image.jeuxvideo.com/medias-sm/166134/1661338737-306-jaquette-avant.jpg",
+        "description": "Cult of the Lamb est un jeu vidéo roguelike développé par Massive Monster et publié par Devolver Digital. Sorti le 11 août 2022, le jeu met les joueurs dans la peau d'un agneau possédé qui doit créer et gérer une secte pour rembourser sa dette envers une entité mystérieuse.",
+        "dl": [
+            "https://gofile.io/d/VzbdzL"
+        ],
+        "release_date": "11 août 2022",
+        "size": "4,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-3240 ou AMD FX-4300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 560 Ti ou AMD Radeon HD 7750",
+            "OS": "Windows 10/11",
+            "Storage": "7 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Cuphead",
+        "image": "https://image.jeuxvideo.com/medias-sm/149751/1497514958-4620-jaquette-avant.png",
+        "description": "Cuphead est un jeu vidéo de type run and gun développé et édité par Studio MDHR. Sorti le 29 septembre 2017, il se distingue par son style graphique inspiré des dessins animés des années 1930. Les joueurs incarnent Cuphead ou son frère Mugman dans une série de combats contre des boss pour rembourser une dette contractée avec le diable.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GNZ2393fIAA="
+        ],
+        "release_date": "29 septembre 2017",
+        "size": "4,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 9600 GT",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "DARK SOULS III",
+        "image": "https://image.jeuxvideo.com/medias-sm/146728/1467275384-5543-jaquette-avant.jpg",
+        "description": "DARK SOULS III est un jeu vidéo de rôle et d'action développé par FromSoftware. Sorti le 24 mars 2016 au Japon et le 12 avril 2016 dans le reste du monde, il est le quatrième opus de la série Souls. Les joueurs y explorent un univers sombre et complexe, affrontant des ennemis redoutables et des boss imposants.",
+        "dl": [
+            "https://buzzheavier.com/97ki7d4o0n3w"
+        ],
+        "release_date": "12 avril 2016",
+        "size": "25,3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou ATI Radeon HD 7950",
+            "OS": "Windows 10/11",
+            "Storage": "40 Go d'espace libre"
+        },
+        "online": false
+    }
+
+
+
+
 
 
     
