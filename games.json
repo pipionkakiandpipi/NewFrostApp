@@ -2880,19 +2880,151 @@
             "Storage": "10 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "HITMAN 2",
+        "image": "https://image.jeuxvideo.com/medias-sm/153959/1539594389-7000-jaquette-avant.png",
+        "description": "HITMAN 2 est un jeu d'infiltration dans lequel vous incarnez l'Agent 47, un assassin d'élite chargé d'éliminer des cibles à travers le monde. Explorez de vastes environnements ouverts, utilisez diverses stratégies et perfectionnez votre art du meurtre.",
+        "dl": [
+            "https://1fichier.com/?utxacyd9uue866qq024l"
+        ],
+        "release_date": "13 novembre 2018",
+        "size": "110 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660",
+            "OS": "Windows 10/11",
+            "Storage": "150 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "HITMAN 3",
+        "image": "https://image.jeuxvideo.com/medias/159195/1591946454-1802-jaquette-avant.jpg",
+        "description": "HITMAN 3 est un jeu d'infiltration où vous incarnez l'Agent 47 dans sa dernière mission de la trilogie du Monde de l'Assassinat. Explorez des environnements riches et détaillés, utilisez diverses approches pour éliminer vos cibles et découvrez une intrigue captivante.",
+        "dl": [
+            "https://buzzheavier.com/1zc8kkeuiu1j"
+        ],
+        "release_date": "20 janvier 2021",
+        "size": "70,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660",
+            "OS": "Windows 10/11",
+            "Storage": "100 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Hogwarts Legacy",
+        "image": "https://image.jeuxvideo.com/medias-sm/163636/1636363677-7536-jaquette-avant.gif",
+        "description": "Hogwarts Legacy est un jeu de rôle en monde ouvert qui vous plonge dans l'univers magique de Harry Potter. Explorez Poudlard et ses environs, apprenez des sorts, affrontez des créatures magiques et façonnez votre propre aventure dans le monde des sorciers.",
+        "dl": [
+            "https://buzzheavier.com/sqsvm6qwnpnf"
+        ],
+        "release_date": "10 février 2023",
+        "size": "72,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce GTX 1070",
+            "OS": "Windows 10/11",
+            "Storage": "100 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Hollow Knight",
+        "image": "https://image.api.playstation.com/cdn/EP1805/CUSA13285_00/DmwPWlU0468FbsjrtI92FhQz1xBYMoog.png",
+        "description": "Hollow Knight est un jeu d'action et d'exploration en 2D de type metroidvania. Incarnez un chevalier insectoïde et explorez le royaume souterrain d'Hallownest, affrontez de puissants ennemis et découvrez de nombreux secrets dans un univers dessiné à la main.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GNZHVjKfIAA="
+        ],
+        "release_date": "24 février 2017",
+        "size": "1,3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E5200",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 9800GTX+",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Horizon Zero Dawn",
+        "image": "https://m.media-amazon.com/images/I/81i-E0DuBrL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Horizon Zero Dawn est un jeu d'action-RPG en monde ouvert où vous incarnez Aloy, une chasseuse évoluant dans un monde peuplé de machines redoutables. Explorez des paysages magnifiques, découvrez les mystères du passé et combattez des ennemis mécaniques à l'aide d'un arsenal varié.",
+        "dl": [
+            "https://buzzheavier.com/xesnxkrid8gi"
+        ],
+        "release_date": "7 août 2020",
+        "size": "59,1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 780",
+            "OS": "Windows 10/11",
+            "Storage": "80 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "House Party",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzJjZmFjYmUtMWNkNS00MzM0LWIzMDAtYmQwYzlkNmMyOTkxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "House Party est un jeu d'aventure et de simulation sociale où vous participez à une fête déjantée remplie d'interactions uniques et de choix multiples. Découvrez différentes histoires et influencez le déroulement de la soirée grâce à vos décisions.",
+        "dl": [
+            "https://gofile.io/d/63TmbV"
+        ],
+        "release_date": "15 juillet 2022",
+        "size": "3,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3 4000-series",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 650",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Human: Fall Flat",
+        "image": "https://oyuncustore.net/wp-content/uploads/2020/07/humanfallflat.jpg",
+        "description": "Human: Fall Flat est un jeu de plateforme et de réflexion basé sur la physique, où vous incarnez un personnage gélatineux devant résoudre des énigmes dans des environnements interactifs. Jouable en solo ou en coopération, le jeu offre une expérience fun et décalée.",
+        "dl": [
+            "https://megadb.net/tqnkd2qgwrp0"
+        ],
+        "release_date": "22 juillet 2016",
+        "size": "1,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E6750",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 8800 GT",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "HUMANKIND",
+        "image": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/newimg_1200x1600-41d8535c87839b2c2d0aeb3e43d00d57",
+        "description": "HUMANKIND est un jeu de stratégie au tour par tour qui vous permet de réécrire l’histoire de l’humanité en combinant différentes civilisations. Faites évoluer votre peuple, menez des batailles et façonnez votre propre destinée à travers les âges.",
+        "dl": [
+            "https://buzzheavier.com/0d6eae0rtpht"
+        ],
+        "release_date": "17 août 2021",
+        "size": "16,1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 770",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": false
     }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
