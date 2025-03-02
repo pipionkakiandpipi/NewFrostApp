@@ -2052,7 +2052,45 @@
             "Storage": "20 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Farming Simulator 22",
+        "image": "https://image.jeuxvideo.com/medias-sm/163353/1633528483-9809-jaquette-avant.jpg",
+        "description": "Farming Simulator 22 est un jeu de simulation agricole qui permet aux joueurs de gérer leur propre exploitation avec une grande variété de cultures, d'animaux et de véhicules agricoles.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GMzRZs72EAA="
+        ],
+        "release_date": "22 novembre 2021",
+        "size": "25,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3330 / AMD FX-8320",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon R7 265",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Farming Simulator 25",
+        "image": "https://image.jeuxvideo.com/medias-sm/173210/1732097450-4168-jaquette-avant.jpg",
+        "description": "Farming Simulator 25 est le dernier opus de la célèbre franchise de simulation agricole. Il offre de nouvelles cultures, machines et fonctionnalités pour une expérience encore plus immersive.",
+        "dl": [
+            "https://buzzheavier.com/7ekn032uvrk4"
+        ],
+        "release_date": "2025",
+        "size": "22,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 / AMD FX-8350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 770 / AMD Radeon R9 280",
+            "OS": "Windows 10/11",
+            "Storage": "28 Go d'espace libre"
+        },
+        "online": true
     }
+
+
 
 
 
