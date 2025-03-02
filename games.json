@@ -2196,7 +2196,121 @@
             "Storage": "500 Mo d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Five Nights at Freddy’s 3",
+        "image": "https://m.media-amazon.com/images/I/81paxGYlcqL.png",
+        "description": "Five Nights at Freddy’s 3 vous plonge 30 ans après les événements du premier jeu, où un nouvel établissement appelé 'Fazbear’s Fright' tente de raviver la légende des animatroniques hantés.",
+        "dl": [
+            "https://megadb.net/j763dt2ip8j0"
+        ],
+        "release_date": "2 mars 2015",
+        "size": "200 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo",
+            "RAM": "2 Go",
+            "GPU": "Carte graphique intégrée",
+            "OS": "Windows 10/11",
+            "Storage": "500 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Five Nights at Freddy’s 4",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/273968174129342161/87F0F81E1DA4082142EF942997864FA4C16009E3/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+        "description": "Dans Five Nights at Freddy’s 4, vous incarnez un enfant qui doit survivre aux nuits terrifiantes face aux animatroniques cauchemardesques qui hantent sa chambre.",
+        "dl": [
+            "https://megadb.net/pmmx9gmcqy48"
+        ],
+        "release_date": "23 juillet 2015",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo",
+            "RAM": "2 Go",
+            "GPU": "Carte graphique intégrée",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Five Nights at Freddy’s: Security Breach",
+        "image": "https://image.jeuxvideo.com/medias-sm/167604/1676041554-8489-jaquette-avant.gif",
+        "description": "Five Nights at Freddy’s: Security Breach est le dernier opus de la célèbre saga horrifique. Incarnez Gregory, un jeune garçon piégé dans le Freddy Fazbear’s Mega Pizzaplex et tentez de survivre aux menaces qui rôdent dans l’obscurité.",
+        "dl": [
+            "https://buzzheavier.com/vynzop6s5sd4"
+        ],
+        "release_date": "16 décembre 2021",
+        "size": "56 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K / AMD Ryzen 5 3600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti / AMD Radeon RX 560",
+            "OS": "Windows 10 (64-bit)",
+            "Storage": "60 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Five Nights at Freddy’s: Sister Location",
+        "image": "https://static.wikia.nocookie.net/fnaf-sister-location/images/c/c4/SLIcon.jpg/revision/latest?cb=20160801195954",
+        "description": "Five Nights at Freddy’s: Sister Location est un jeu d’horreur où vous incarnez un technicien travaillant dans une nouvelle pizzeria animatronique. Mais cette fois, les règles du jeu ont changé...",
+        "dl": [
+            "https://megadb.net/xcxu1y39nz35"
+        ],
+        "release_date": "7 octobre 2016",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3 / AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 650 / AMD Radeon HD 7770",
+            "OS": "Windows 7 (64-bit)",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Five Nights At Freddy’s: Help Wanted (NON-VR)",
+        "image": "https://static.posters.cz/image/750/affiches-et-posters/five-nights-at-freddy-s-help-wanted-i112549.jpg",
+        "description": "Five Nights At Freddy’s: Help Wanted est une compilation d'expériences d'horreur classiques et originales situées dans l'univers terrifiant de FNaF. Cette version est jouable sans VR.",
+        "dl": [
+            "https://buzzheavier.com/hylgfumoidee"
+        ],
+        "release_date": "28 mai 2019",
+        "size": "10 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4590 / AMD FX 8350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 970 / AMD R9 390",
+            "OS": "Windows 8 / 10 (64-bit)",
+            "Storage": "12 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Five Nights at Freddy’s: Into the Pit",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1313/d77182de9b178bdfc4e95e537a0d76096b917621477c1edc.png",
+        "description": "Five Nights at Freddy’s: Into the Pit est un jeu inspiré de l’univers de FNaF, basé sur l’histoire du même nom issue de la série de livres Fazbear Frights.",
+        "dl": [
+            "https://megadb.net/j93dkpdlf4iv"
+        ],
+        "release_date": "À déterminer",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics 4000",
+            "OS": "Windows 7 / 10 (64-bit)",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
 
 
 
