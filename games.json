@@ -2235,7 +2235,7 @@
     },
     {
         "title": "Five Nights at Freddy’s: Security Breach",
-        "image": "https://image.jeuxvideo.com/medias-sm/167604/1676041554-8489-jaquette-avant.gif",
+        "image": "https://i.redd.it/b051t5q7sta81.png",
         "description": "Five Nights at Freddy’s: Security Breach est le dernier opus de la célèbre saga horrifique. Incarnez Gregory, un jeune garçon piégé dans le Freddy Fazbear’s Mega Pizzaplex et tentez de survivre aux menaces qui rôdent dans l’obscurité.",
         "dl": [
             "https://buzzheavier.com/vynzop6s5sd4"
@@ -2294,7 +2294,7 @@
         "dl": [
             "https://megadb.net/j93dkpdlf4iv"
         ],
-        "release_date": "À déterminer",
+        "release_date": "26 décembre 2019",
         "size": "1 Go",
         "min_requirements": {
             "CPU": "Intel Core i3",
@@ -2304,7 +2304,64 @@
             "Storage": "2 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Football Manager 2021",
+        "image": "https://cdn2.unrealengine.com/egs-footballmanager2021-sportsinteractive-s1-2560x1440-070457508.jpg",
+        "description": "Football Manager 2021 vous permet de prendre les commandes de votre club favori et de le mener à la victoire grâce à votre gestion tactique et vos décisions de recrutement.",
+        "dl": [
+            "https://megadb.net/0na97roer6wa"
+        ],
+        "release_date": "24 novembre 2020",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400 / AMD Athlon 64 X2 6000+",
+            "RAM": "4 Go",
+            "GPU": "Intel GMA X4500 / NVIDIA GeForce 9600M GT / AMD Radeon HD 3650",
+            "OS": "Windows 7 / 8 / 10 (64-bit)",
+            "Storage": "7 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Football Manager 2023",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0613/PM5htqGXHJdO6Ht8snCDhyi4.png",
+        "description": "Football Manager 2023 vous permet de gérer votre propre équipe de football, avec des transferts, des tactiques et une simulation réaliste pour mener votre club à la gloire.",
+        "dl": [
+            "https://megadb.net/hpjrqraq0l20"
+        ],
+        "release_date": "8 novembre 2022",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400 / AMD Athlon 64 X2 6000+",
+            "RAM": "4 Go",
+            "GPU": "Intel UHD Graphics 620 / NVIDIA GeForce GTX 650 / AMD Radeon HD 7770",
+            "OS": "Windows 10 / 11 (64-bit)",
+            "Storage": "7 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Forager",
+        "image": "https://play-lh.googleusercontent.com/hjrLLqx9dek1-981r_dIuT-86AenCy3VJ-SjZZAfV1fZTcMh8jbu_zMRE56kJhzV-hKi",
+        "description": "Forager est un jeu d'exploration et de construction inspiré par des classiques du genre. Récoltez des ressources, développez votre base, et découvrez des secrets dans un monde ouvert dynamique.",
+        "dl": [
+            "https://megadb.net/d/3f"
+        ],
+        "release_date": "18/04/2019",
+        "size": "160 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400",
+            "RAM": "2 Go",
+            "GPU": "Intel HD Graphics 4000",
+            "OS": "Windows 7 / 8 / 10",
+            "Storage": "200 Mo d'espace libre"
+        },
+        "online": false
     }
+
+
+
 
 
 
