@@ -2754,7 +2754,140 @@
             "Storage": "45 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Hades",
+        "image": "https://image.jeuxvideo.com/medias-sm/161367/1613665411-7537-jaquette-avant.png",
+        "description": "Hades est un roguelike d'action développé par Supergiant Games. Incarnez Zagreus, fils d'Hadès, et tentez de vous échapper des Enfers en affrontant des ennemis redoutables et en recevant l'aide des dieux de l'Olympe.",
+        "dl": [
+            "https://gofile.io/d/zdQAWs"
+        ],
+        "release_date": "17 septembre 2020",
+        "size": "11,4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-3225",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Hades 2",
+        "image": "https://image.jeuxvideo.com/medias-sm/172018/1720184550-6554-jaquette-avant.jpg",
+        "description": "Hades 2 est la suite du célèbre roguelike d'action développé par Supergiant Games. Incarnez la princesse des Enfers et combattez les forces du Titan du Temps pour échapper à votre destinée.",
+        "dl": [
+            "https://gofile.io/d/4EWYg9"
+        ],
+        "release_date": "2024",
+        "size": "5,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Halo Infinite",
+        "image": "https://image.jeuxvideo.com/medias-sm/159542/1595423317-2836-jaquette-avant.png",
+        "description": "Halo Infinite est un jeu de tir à la première personne développé par 343 Industries. Incarnez le Major et explorez l'Anneau Zeta pour affronter les Bannis dans une aventure en monde ouvert épique.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GJKiUY1NQAA="
+        ],
+        "release_date": "8 décembre 2021",
+        "size": "45 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4440",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti",
+            "OS": "Windows 10/11",
+            "Storage": "60 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Happy Room",
+        "image": "https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco41li&w=640&q=75",
+        "description": "Happy Room est un jeu de simulation où vous testez différentes armes et pièges sur des clones dans un laboratoire expérimental. Expérimentez et maximisez les dégâts pour accomplir des défis variés.",
+        "dl": [
+            "https://megadb.net/ytzsdgqjqk12"
+        ],
+        "release_date": "19 décembre 2016",
+        "size": "200 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 7600 GT",
+            "OS": "Windows 10/11",
+            "Storage": "500 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Hearts of Iron IV",
+        "image": "https://www.stiftung-digitale-spielekultur.de/app/uploads/2021/06/HeartOfIron_IV.jpg",
+        "description": "Hearts of Iron IV est un jeu de stratégie développé par Paradox Interactive, vous plongeant dans la Seconde Guerre mondiale. Prenez le contrôle d'une nation et influencez le cours de l'histoire à travers des décisions militaires, économiques et diplomatiques.",
+        "dl": [
+            "https://megadb.net/ei10x570empk"
+        ],
+        "release_date": "6 juin 2016",
+        "size": "5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-750",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Hello Neighbor",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202109/1517/ZdInz2L9ZR5GAooeBPPELSZ3.jpg",
+        "description": "Hello Neighbor est un jeu d'infiltration et d'horreur dans lequel vous devez entrer discrètement dans la maison de votre voisin pour découvrir ses sombres secrets, tout en évitant d'être capturé par une intelligence artificielle avancée qui s'adapte à votre style de jeu.",
+        "dl": [
+            "https://megadb.net/attghgljotyv"
+        ],
+        "release_date": "8 décembre 2017",
+        "size": "1,9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3330",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 770",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Hello Neighbor 2",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0613/01a40ddbd5b8867c541f15c05b6e35eea207818fb63f861d.png",
+        "description": "Hello Neighbor 2 est un jeu d'infiltration et de mystère où vous enquêtez sur les secrets de votre voisin et de la ville entière. Doté d'une intelligence artificielle évolutive, chaque personnage apprend et s'adapte à votre style de jeu.",
+        "dl": [
+            "https://gofile.io/d/BX8NB5"
+        ],
+        "release_date": "6 décembre 2022",
+        "size": "6,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
+
 
 
 
