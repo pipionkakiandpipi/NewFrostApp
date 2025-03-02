@@ -2592,33 +2592,169 @@
             "Storage": "40 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "God of War",
+        "image": "https://image.jeuxvideo.com/medias-sm/164200/1642003637-1975-jaquette-avant.jpg",
+        "description": "God of War est un jeu d'action-aventure développé par Santa Monica Studio. Suivez Kratos et son fils Atreus dans un voyage épique à travers la mythologie nordique, mêlant combats intenses, exploration et narration poignante.",
+        "dl": [
+            "https://buzzheavier.com/lrtuuu7e0e73"
+        ],
+        "release_date": "20 avril 2018",
+        "size": "35,4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "God of War Ragnarök",
+        "image": "https://image.jeuxvideo.com/medias-sm/171711/1717109795-2790-jaquette-avant.jpg",
+        "description": "God of War Ragnarök est un jeu d'action-aventure développé par Santa Monica Studio. Kratos et Atreus poursuivent leur périple à travers les neuf royaumes, affrontant dieux et créatures mythologiques alors que le Ragnarök approche.",
+        "dl": [
+            "https://buzzheavier.com/7qzqvrto2lgy"
+        ],
+        "release_date": "09 novembre 2022",
+        "size": "112,3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i7-7700K",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce GTX 1080",
+            "OS": "Windows 10/11",
+            "Storage": "130 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Golf It!",
+        "image": "https://gaming-cdn.com/images/products/5302/orig/golf-it-pc-mac-jeu-steam-cover.jpg?v=1710771397",
+        "description": "Golf It! est un jeu de mini-golf multijoueur développé par Perfuse Entertainment. Il propose des parcours personnalisables, un éditeur de niveaux et un gameplay basé sur la physique pour des parties fun et compétitives entre amis.",
+        "dl": [
+            "https://megadb.net/a7ihj6tftves"
+        ],
+        "release_date": "17 février 2017",
+        "size": "4,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Granblue Fantasy: Relink",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0403/c72af8212e6bfbe853cb3769b3b6513d0685a497227c23ad.png",
+        "description": "Granblue Fantasy: Relink est un action-RPG développé par Cygames. Plongez dans l'univers enchanteur de Granblue Fantasy et combattez aux côtés de personnages emblématiques dans des affrontements dynamiques et spectaculaires.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GJNaQ9maAAA="
+        ],
+        "release_date": "01 février 2024",
+        "size": "55,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970",
+            "OS": "Windows 10/11",
+            "Storage": "70 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Green Hell",
+        "image": "https://alloparadise.s3.eu-west-3.amazonaws.com/products/md/green-hell.png",
+        "description": "Green Hell est un jeu de survie en monde ouvert développé par Creepy Jar. Perdu en pleine forêt amazonienne, le joueur doit gérer sa santé, construire un abri et affronter les dangers de la jungle pour survivre.",
+        "dl": [
+            "https://megadb.net/coyxd5fe7hij"
+        ],
+        "release_date": "05 septembre 2019",
+        "size": "7,4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4160",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660",
+            "OS": "Windows 10/11",
+            "Storage": "12 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Grounded",
+        "image": "https://assets.xboxservices.com/assets/85/45/8545cde4-e097-412a-b95e-3870a2d23d32.jpg?n=Grounded_GLP-Page-Hero-0_1083x1222.jpg",
+        "description": "Grounded est un jeu de survie développé par Obsidian Entertainment. Réduits à la taille d'insectes, les joueurs doivent explorer un jardin dangereux, collecter des ressources et coopérer pour survivre face aux créatures hostiles.",
+        "dl": [
+            "https://buzzheavier.com/q6qcdjyl6hpr"
+        ],
+        "release_date": "27 septembre 2022",
+        "size": "11,1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-3225",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 650 Ti",
+            "OS": "Windows 10/11",
+            "Storage": "16 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Grand Theft Auto IV",
+        "image": "https://www.gamecash.fr/thumbnail-600/gta-integrale-ps3-e36122.jpg",
+        "description": "Grand Theft Auto IV est un jeu d'action-aventure en monde ouvert développé par Rockstar North. Suivez l'histoire de Niko Bellic, un immigrant cherchant une nouvelle vie à Liberty City, entre crime, trahisons et vengeance.",
+        "dl": [
+            "https://buzzheavier.com/ynuxmsvjy3qh"
+        ],
+        "release_date": "29 avril 2008",
+        "size": "20 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 1.8 GHz",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 7900",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Grand Theft Auto: San Andreas",
+        "image": "https://www.reference-gaming.com/assets/media/product/102/grand-theft-auto-san-andreas-playstation-2.jpg?format=product-cover-large&k=",
+        "description": "Grand Theft Auto: San Andreas est un jeu d'action-aventure en monde ouvert développé par Rockstar North. Incarnez Carl Johnson (CJ) dans une quête de vengeance et de pouvoir à travers l'État fictif de San Andreas.",
+        "dl": [
+            "https://buzzheavier.com/798s0sck9y6i"
+        ],
+        "release_date": "26 octobre 2004",
+        "size": "3,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Pentium III 1 GHz",
+            "RAM": "256 Mo",
+            "GPU": "NVIDIA GeForce 3",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Grand Theft Auto: The Trilogy",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/0106/9EfOgkd9XN01Hzre1v61y27z.png",
+        "description": "Grand Theft Auto: The Trilogy – The Definitive Edition est une collection remastérisée incluant GTA III, GTA: Vice City et GTA: San Andreas. Redécouvrez ces classiques avec des améliorations graphiques et un gameplay modernisé.",
+        "dl": [
+            "https://buzzheavier.com/ky5nijowfyr1"
+        ],
+        "release_date": "11 novembre 2021",
+        "size": "31,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760",
+            "OS": "Windows 10/11",
+            "Storage": "45 Go d'espace libre"
+        },
+        "online": false
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
