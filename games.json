@@ -2088,7 +2088,121 @@
             "Storage": "28 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "Fear & Hunger",
+        "image": "https://image.jeuxvideo.com/medias-sm/168554/1685537815-1939-jaquette-avant.png",
+        "description": "Fear & Hunger est un RPG d'horreur brutal mêlant exploration, survie et combats stratégiques dans un univers sombre et oppressant.",
+        "dl": [
+            "https://megadb.net/v9xwsu2eviyt"
+        ],
+        "release_date": "2018",
+        "size": "800 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo",
+            "RAM": "2 Go",
+            "GPU": "Intel HD Graphics",
+            "OS": "Windows 10/11",
+            "Storage": "1,5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Fear & Hunger 2: Termina",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmIwMDFkYzAtOTU5My00Mjk4LTkyMmQtZGMwN2VhMWE4MDJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "Fear & Hunger 2: Termina est un RPG d'horreur au tour par tour où les joueurs doivent survivre à un rituel cauchemardesque dans un monde sombre et impitoyable.",
+        "dl": [
+            "https://megadb.net/ldkuybpx4wyy"
+        ],
+        "release_date": "2022",
+        "size": "4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "FIFA 17",
+        "image": "https://image.jeuxvideo.com/medias-sm/148292/1482917668-4750-jaquette-avant.jpg",
+        "description": "FIFA 17 est un jeu de football développé par EA Sports, introduisant le moteur Frostbite et un mode histoire inédit, 'The Journey'.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GKMzh9UQIAA="
+        ],
+        "release_date": "27 septembre 2016",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 460",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Final Fantasy VII Remake Intergrade",
+        "image": "https://img.asmedia.epimg.net/resizer/v2/32KMAJBMGBKFTC62OGUGOXIBAE.jpg?auth=aedbdac919d5a54418835aa5ebd2886a3e966932b39e2f3cb7735252902dfc2f&width=1472&height=1104&smart=true",
+        "description": "Final Fantasy VII Remake Intergrade est une version améliorée du remake du légendaire RPG de Square Enix, incluant des graphismes améliorés et un DLC exclusif mettant en vedette Yuffie.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GJstECEt4AA="
+        ],
+        "release_date": "16 décembre 2021",
+        "size": "4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3330",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 780",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Five Nights at Freddy’s",
+        "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_FiveNightsAtFreddys_image1600w.jpg",
+        "description": "Five Nights at Freddy’s est un jeu d’horreur en point-and-click où vous incarnez un gardien de nuit surveillant une pizzeria hantée par des animatroniques menaçants.",
+        "dl": [
+            "https://megadb.net/5fdmhxhldqku"
+        ],
+        "release_date": "8 août 2014",
+        "size": "300 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo",
+            "RAM": "2 Go",
+            "GPU": "Carte graphique intégrée",
+            "OS": "Windows 10/11",
+            "Storage": "500 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Five Nights at Freddy’s 2",
+        "image": "https://m.media-amazon.com/images/I/81HBpJd2h8L.png",
+        "description": "Five Nights at Freddy’s 2 est un jeu d’horreur en point-and-click où vous incarnez un gardien de nuit devant survivre face à de nouveaux animatroniques plus agressifs.",
+        "dl": [
+            "https://megadb.net/wr2cnmengp95"
+        ],
+        "release_date": "11 novembre 2014",
+        "size": "300 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo",
+            "RAM": "2 Go",
+            "GPU": "Carte graphique intégrée",
+            "OS": "Windows 10/11",
+            "Storage": "500 Mo d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
 
 
 
