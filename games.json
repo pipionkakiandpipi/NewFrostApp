@@ -2078,7 +2078,7 @@
         "dl": [
             "https://buzzheavier.com/7ekn032uvrk4"
         ],
-        "release_date": "2025",
+        "release_date": "12 novembre 2024",
         "size": "22,2 Go",
         "min_requirements": {
             "CPU": "Intel Core i5-4460 / AMD FX-8350",
@@ -2096,7 +2096,7 @@
         "dl": [
             "https://megadb.net/v9xwsu2eviyt"
         ],
-        "release_date": "2018",
+        "release_date": "11 décembre 2018",
         "size": "800 Mo",
         "min_requirements": {
             "CPU": "Intel Core 2 Duo",
@@ -2114,7 +2114,7 @@
         "dl": [
             "https://megadb.net/ldkuybpx4wyy"
         ],
-        "release_date": "2022",
+        "release_date": "9 décembre 2022",
         "size": "4 Go",
         "min_requirements": {
             "CPU": "Intel Core i3",
@@ -2246,7 +2246,7 @@
             "CPU": "Intel Core i5-6600K / AMD Ryzen 5 3600",
             "RAM": "8 Go",
             "GPU": "NVIDIA GeForce GTX 1050 Ti / AMD Radeon RX 560",
-            "OS": "Windows 10 (64-bit)",
+            "OS": "Windows 10/11",
             "Storage": "60 Go d'espace libre"
         },
         "online": false
@@ -2264,7 +2264,7 @@
             "CPU": "Intel Core i3 / AMD FX-6300",
             "RAM": "4 Go",
             "GPU": "NVIDIA GeForce GTX 650 / AMD Radeon HD 7770",
-            "OS": "Windows 7 (64-bit)",
+            "OS": "Windows 10/11",
             "Storage": "2 Go d'espace libre"
         },
         "online": false
@@ -2282,7 +2282,7 @@
             "CPU": "Intel Core i5-4590 / AMD FX 8350",
             "RAM": "8 Go",
             "GPU": "NVIDIA GTX 970 / AMD R9 390",
-            "OS": "Windows 8 / 10 (64-bit)",
+            "OS": "Windows 10/11",
             "Storage": "12 Go d'espace libre"
         },
         "online": false
@@ -2300,7 +2300,7 @@
             "CPU": "Intel Core i3",
             "RAM": "4 Go",
             "GPU": "Intel HD Graphics 4000",
-            "OS": "Windows 7 / 10 (64-bit)",
+            "OS": "Windows 10/11",
             "Storage": "2 Go d'espace libre"
         },
         "online": false
@@ -2318,7 +2318,7 @@
             "CPU": "Intel Core 2 Duo E8400 / AMD Athlon 64 X2 6000+",
             "RAM": "4 Go",
             "GPU": "Intel GMA X4500 / NVIDIA GeForce 9600M GT / AMD Radeon HD 3650",
-            "OS": "Windows 7 / 8 / 10 (64-bit)",
+            "OS": "Windows 10/11 ",
             "Storage": "7 Go d'espace libre"
         },
         "online": false
@@ -2336,7 +2336,7 @@
             "CPU": "Intel Core 2 Duo E8400 / AMD Athlon 64 X2 6000+",
             "RAM": "4 Go",
             "GPU": "Intel UHD Graphics 620 / NVIDIA GeForce GTX 650 / AMD Radeon HD 7770",
-            "OS": "Windows 10 / 11 (64-bit)",
+            "OS": "Windows 10/11 ",
             "Storage": "7 Go d'espace libre"
         },
         "online": false
@@ -2358,7 +2358,159 @@
             "Storage": "200 Mo d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Forza Horizon 5",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
+        "description": "Forza Horizon 5 est un jeu de course en monde ouvert développé par Playground Games et édité par Xbox Game Studios. Se déroulant au Mexique, il propose une grande variété d'environnements et une expérience immersive avec des graphismes spectaculaires et un gameplay dynamique.",
+        "dl": [
+            "https://buzzheavier.com/t2amr01dniyv"
+        ],
+        "release_date": "09 novembre 2021",
+        "size": "171,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 970 ou AMD RX 470",
+            "OS": "Windows 10/11",
+            "Storage": "185 Go d'espace libre"
+        },
+        "online": true
+    }, 
+    {
+        "title": "Gang Beasts",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2RhM2JhMTgtNzM1ZS00NjJkLThkMzAtMjgyYTMzZWFmM2NhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "Gang Beasts est un jeu de combat multijoueur développé par Boneloaf. Il propose des affrontements hilarants entre personnages gélatineux dans divers environnements interactifs, offrant une expérience fun et chaotique en solo ou en ligne.",
+        "dl": [
+            "https://megadb.net/6vvmg1siu7gl"
+        ],
+        "release_date": "12 décembre 2017",
+        "size": "900 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 260 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Garry's Mod",
+        "image": "https://fiu-original.b-cdn.net/fontsinuse.com/use-images/N230/230089/230089.jpeg?filename=garrysmod-1657387262990.jpg",
+        "description": "Garry's Mod est un jeu bac à sable développé par Facepunch Studios. Il permet aux joueurs d'expérimenter avec la physique et de créer du contenu en utilisant le moteur Source, offrant une liberté totale pour construire et jouer avec une multitude d'objets et de modes de jeu.",
+        "dl": [
+            "https://megadb.net/g7ahzj08b1fs"
+        ],
+        "release_date": "29 novembre 2006",
+        "size": "2,1 Go",
+        "min_requirements": {
+            "CPU": "Intel Pentium 4 3,0 GHz",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 6600 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Garten of Banban 2",
+        "image": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/software/switch/70010000079859/desc/a31f880e82f1c2b8fc5382500d7e58f74389f620ecbffc7cb1886ca66475436a",
+        "description": "Garten of Banban 2 est un jeu d'horreur et d'exploration développé par Euphoric Brothers. Suite directe du premier opus, il plonge les joueurs dans un environnement mystérieux et inquiétant où ils doivent résoudre des énigmes pour progresser.",
+        "dl": [
+            "https://megadb.net/6ghznmgb351y"
+        ],
+        "release_date": "03 mars 2023",
+        "size": "1,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 510",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Garten of Banban 3",
+        "image": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/software/switch/70010000079850/desc/8996c26f5a16ffe48ff2d2dac1704cb02213f823f74a5a1b8b1c297d64229db6",
+        "description": "Garten of Banban 3 est un jeu d'horreur et d'exploration développé par Euphoric Brothers. Cette suite continue l'histoire effrayante du jardin de Banban, où les joueurs doivent résoudre des énigmes et survivre aux créatures qui hantent les lieux.",
+        "dl": [
+            "https://megadb.net/a2zdyhdhidbl"
+        ],
+        "release_date": "05 mai 2023",
+        "size": "1,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 510",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Garten of Banban 4",
+        "image": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/software/switch/70010000079844/desc/0c62e16928097404d932ab5ff77af513cf0b56a08cbf6a8fbbf3785b759300cc",
+        "description": "Garten of Banban 4 est un jeu d'horreur et d'exploration développé par Euphoric Brothers. Dans ce nouvel opus, les joueurs plongent encore plus profondément dans les mystères du jardin de Banban, affrontant de nouvelles énigmes et créatures inquiétantes.",
+        "dl": [
+            "https://megadb.net/48ibb6vxm4jj"
+        ],
+        "release_date": "11 août 2023",
+        "size": "700 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 510",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Garten of Banban 6",
+        "image": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/software/switch/70010000087225/desc/7ec9411b176ba298514641065fe5957034c83f79776824c30319a5c8954410ce",
+        "description": "Garten of Banban 6 est un jeu d'horreur et d'exploration développé par Euphoric Brothers. Ce nouvel épisode plonge les joueurs encore plus profondément dans les secrets du jardin de Banban, avec de nouvelles énigmes et des créatures toujours plus effrayantes.",
+        "dl": [
+            "https://megadb.net/rc4mjaiuslrb"
+        ],
+        "release_date": "12 janvier 2024",
+        "size": "600 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 510",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Garten of Banban 7",
+        "image": "https://cdn1.epicgames.com/spt-assets/c97bd69018fc427d98808d1435bcc503/garten-of-banban-7-170tp.png",
+        "description": "Garten of Banban 7 est un jeu d'horreur et d'exploration développé par Euphoric Brothers. Dans cet opus, les joueurs continuent d'explorer les sombres mystères du jardin de Banban, confrontant de nouvelles menaces et résolvant des énigmes toujours plus complexes.",
+        "dl": [
+            "https://megadb.net/qx5mng7phti4"
+        ],
+        "release_date": "23 février 2024",
+        "size": "800 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 510",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
+
+
 
 
 
