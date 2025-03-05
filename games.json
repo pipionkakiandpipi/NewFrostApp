@@ -3315,7 +3315,7 @@
     },
     {
         "title": "Kerbal Space Program 2",
-        "image": "https://image.jeuxvideo.com/medias-sm/165277/1652772964-6510-jaquette-avant.png",
+        "image": "https://sm.ign.com/ign_fr/cover/k/kerbal-spa/kerbal-space-program-2_az5j.jpg",
         "description": "Kerbal Space Program 2 est la suite de Kerbal Space Program, un jeu de simulation spatiale où vous gérez un programme spatial et explorez l'univers avec des fusées et des technologies avancées.",
         "dl": [
             "https://buzzheavier.com/y3x4th3gc7j3"
@@ -3348,7 +3348,159 @@
             "Storage": "2 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Kingdom Come: Deliverance",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2908/I97gtV5WQtNNkzy9qve97nSl.png",
+        "description": "Kingdom Come: Deliverance est un jeu de rôle en monde ouvert qui vous plonge dans une aventure médiévale réaliste, avec des combats à l'épée et une histoire captivante.",
+        "dl": [
+            "https://buzzheavier.com/x7u23tejr2pz"
+        ],
+        "release_date": "13 février 2018",
+        "size": "69 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K / AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "75 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Kingdom Come: Deliverance II",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0108/4b36f4db68a6110b2a035b4a5631c983177d9626490497c7.png",
+        "description": "Kingdom Come: Deliverance II continue l'aventure avec un monde encore plus vaste et des mécaniques de gameplay enrichies pour une expérience médiévale authentique.",
+        "dl": [
+            "https://buzzheavier.com/c8amklcplyox"
+        ],
+        "release_date": "01 août 2024",
+        "size": "79 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i7-3770 / AMD Ryzen 5 1600",
+            "RAM": "12 Go",
+            "GPU": "NVIDIA GeForce GTX 1070 / AMD Radeon RX Vega 56",
+            "OS": "Windows 10/11",
+            "Storage": "85 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Left 4 Dead 2",
+        "image": "https://m.media-amazon.com/images/I/91cFzvxFGyS._AC_UF1000,1000_QL80_.jpg",
+        "description": "Left 4 Dead 2 est un jeu de tir à la première personne où vous et vos amis devez survivre à une invasion de zombies dans des niveaux intenses et coopératifs.",
+        "dl": [
+            "https://gofile.io/d/RPbTag"
+        ],
+        "release_date": "17 novembre 2009",
+        "size": "8 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E6600 / AMD Athlon 64 X2 6000+",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 7600 / ATI Radeon X1600",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "LEGO 2K Drive",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0918/993bf17561f1efee17dbad02781742c16d00546b46cc6f78.jpg",
+        "description": "LEGO 2K Drive est un jeu de course en monde ouvert où les joueurs peuvent créer, personnaliser et conduire leurs véhicules LEGO dans des courses dynamiques à travers des environnements variés.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GIC0m8yi4AA="
+        ],
+        "release_date": "19 mai 2023",
+        "size": "10 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4100 / AMD Ryzen 3 1200",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon R9 270X",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "LEGO Batman: The Videogame",
+        "image": "https://static.wikia.nocookie.net/batman/images/c/c7/LegoBatmancover.png/revision/latest?cb=20230621145637",
+        "description": "LEGO Batman: The Videogame est un jeu d'action-aventure dans lequel les joueurs incarnent Batman, Robin, ou d'autres personnages de l'univers Batman pour lutter contre les méchants et sauver Gotham City.",
+        "dl": [
+            "https://megadb.net/9mlxay6dvv5r"
+        ],
+        "release_date": "23 septembre 2008",
+        "size": "4 Go",
+        "min_requirements": {
+            "CPU": "Intel Pentium 4 2.4 GHz / AMD Athlon XP 2400+",
+            "RAM": "1 Go",
+            "GPU": "NVIDIA GeForce 6600 / ATI Radeon 9600",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "LEGO DC Super-Villains",
+        "image": "https://store-images.s-microsoft.com/image/apps.12197.68850728623624216.6e2867fc-0ab8-4f68-98cc-b59c6d10b278.4f7fcd3c-d803-4b42-8bf6-d338fbaf79a1",
+        "description": "LEGO DC Super-Villains permet aux joueurs de prendre le rôle des super-vilains de l'univers DC Comics. Le jeu propose un monde ouvert et des mécaniques de construction LEGO pour lutter contre les héros et plonger dans une aventure pleine d'humour et de mystère.",
+        "dl": [
+            "https://megadb.net/q3xdah4ybq49"
+        ],
+        "release_date": "16 octobre 2018",
+        "size": "18 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-530 / AMD Phenom II X4 955",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460 / AMD Radeon HD 6850",
+            "OS": "Windows 10/11",
+            "Storage": "18 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "LEGO Harry Potter: Years 1-4",
+        "image": "https://gpstatic.com/acache/20/48/1/fr/packshot-26ce7c555542214f26daf1e0d4db033d.jpg",
+        "description": "LEGO Harry Potter: Years 1-4 couvre les événements des quatre premiers livres et films de la saga Harry Potter, offrant aux joueurs une aventure LEGO avec des puzzles, des sorts magiques et des éléments de plateforme dans l'univers magique de Poudlard.",
+        "dl": [
+            "https://buzzheavier.com/wt8nupt0okrg"
+        ],
+        "release_date": "25 juin 2010",
+        "size": "6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.4 GHz / AMD Athlon 64 X2 4800+",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 8600 / ATI Radeon HD 3850",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "LEGO Star Wars: The Skywalker Saga",
+        "image": "https://cdn1.epicgames.com/offer/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S2_1200x1600-fba27b1ae598e355c3ad42d04d9025ba",
+        "description": "LEGO Star Wars: The Skywalker Saga couvre les neuf films de la saga Star Wars, permettant aux joueurs de revivre les aventures de Luke Skywalker, Rey, Han Solo et plus dans l'univers LEGO avec une expérience de jeu en monde ouvert.",
+        "dl": [
+            "https://buzzheavier.com/qti3paiyxshg"
+        ],
+        "release_date": "5 avril 2022",
+        "size": "28 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3450 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "28 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
+
+
 
 
 
