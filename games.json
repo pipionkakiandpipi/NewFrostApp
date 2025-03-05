@@ -3204,7 +3204,159 @@
             "Storage": "25 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "JUMP FORCE",
+        "image": "https://static.wikia.nocookie.net/jforce/images/f/f5/Jump_Force.jpg/revision/latest?cb=20240705193432",
+        "description": "JUMP FORCE est un jeu de combat crossover réunissant des personnages emblématiques de célèbres mangas comme Dragon Ball, One Piece, et Naruto. Il offre des combats dynamiques en 3D et un mode histoire captivant.",
+        "dl": [
+            "https://buzzheavier.com/1rv0xeou6ix2"
+        ],
+        "release_date": "15 février 2019",
+        "size": "20 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Jurassic World Evolution 2",
+        "image": "https://image.jeuxvideo.com/medias-sm/163336/1633356069-9512-jaquette-avant.jpg",
+        "description": "Jurassic World Evolution 2 est un jeu de gestion où les joueurs prennent le contrôle d'un parc à thème peuplé de dinosaures. Ils doivent construire et gérer des enclos tout en répondant aux défis de la faune préhistorique.",
+        "dl": [
+            "https://megadb.net/29gzys35xkvs"
+        ],
+        "release_date": "9 novembre 2021",
+        "size": "7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4590",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 780",
+            "OS": "Windows 10/11",
+            "Storage": "12 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Just Cause 2",
+        "image": "https://static.wikia.nocookie.net/just-cause/images/8/8a/Just_Cause_2_-_Jaquette.png/revision/latest?cb=20170330194624&path-prefix=fr",
+        "description": "Just Cause 2 est un jeu d'action-aventure en monde ouvert où les joueurs incarnent Rico Rodriguez, un agent d'élite, chargé de renverser un gouvernement tyrannique dans un pays fictif.",
+        "dl": [
+            "https://buzzheavier.com/wd40jnidba2j"
+        ],
+        "release_date": "23 mars 2010",
+        "size": "4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E6600",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 8800 Series",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Just Cause 3",
+        "image": "https://image.api.playstation.com/cdn/EP0082/CUSA02747_00/z2HzWq2wY5nHsiJnlfacm2AydqIv4GVx.png",
+        "description": "Just Cause 3 est un jeu d'action-aventure en monde ouvert où les joueurs incarnent Rico Rodriguez, qui doit renverser un dictateur dans une île fictive, en utilisant des explosions et une multitude de véhicules.",
+        "dl": [
+            "https://buzzheavier.com/gz9ocdanwc4u"
+        ],
+        "release_date": "1 décembre 2015",
+        "size": "47 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Just Cause 4",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307FOmjfvGAUnNfQNsZfrlkXYzhgyj1JQuxsSwBYUsMnLc8FlbIhNWL8E4h9DUGO0NicqwHAmNErq-hf-AyVWhLeAJ1gS8.png",
+        "description": "Just Cause 4 est un jeu d'action-aventure en monde ouvert où les joueurs incarnent à nouveau Rico Rodriguez, luttant contre des ennemis dans un environnement dynamique marqué par des tempêtes, des tornades et des combats explosifs.",
+        "dl": [
+            "https://buzzheavier.com/ezjjnjhpl1xp"
+        ],
+        "release_date": "4 décembre 2018",
+        "size": "64 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti",
+            "OS": "Windows 10/11",
+            "Storage": "70 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Kerbal Space Program",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2609/tvVAG92KJYkYzV17ebvuL5vQ.png",
+        "description": "Kerbal Space Program est un jeu de simulation spatiale où les joueurs construisent et lancent des fusées, explorent l'espace et gèrent des missions spatiales avec des éléments de physique réalistes.",
+        "dl": [
+            "https://buzzheavier.com/sjkpisjfu9c7"
+        ],
+        "release_date": "27 avril 2015",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 8600",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Kerbal Space Program 2",
+        "image": "https://image.jeuxvideo.com/medias-sm/165277/1652772964-6510-jaquette-avant.png",
+        "description": "Kerbal Space Program 2 est la suite de Kerbal Space Program, un jeu de simulation spatiale où vous gérez un programme spatial et explorez l'univers avec des fusées et des technologies avancées.",
+        "dl": [
+            "https://buzzheavier.com/y3x4th3gc7j3"
+        ],
+        "release_date": "24 février 2023",
+        "size": "15 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 970",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Kill It With Fire",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2209/FnfODiCzVwzwBGZWABzvSIBR.png",
+        "description": "Kill It With Fire est un jeu d'action où vous devez éliminer des araignées avec des armes de plus en plus dévastatrices tout en explorant différents environnements.",
+        "dl": [
+            "https://megadb.net/d/44"
+        ],
+        "release_date": "22 juin 2021",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 650",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
+
+
     
 
 
