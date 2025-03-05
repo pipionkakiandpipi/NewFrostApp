@@ -3168,7 +3168,46 @@
             "Storage": "50 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "JoJo’s Bizarre Adventure: All-Star Battle R",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0804/ppzendU4CtnBu8bGKNV1Dt6x.jpg",
+        "description": "JoJo’s Bizarre Adventure: All-Star Battle R est un jeu de combat basé sur le célèbre manga de Hirohiko Araki. Il propose un large casting de personnages issus de toutes les parties de l'œuvre, avec des combats dynamiques et fidèles au style unique de la série.",
+        "dl": [
+            "https://gofile.io/d/1cWssh"
+        ],
+        "release_date": "2 septembre 2022",
+        "size": "5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3470",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 770",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Jujutsu Kaisen Cursed Clash",
+        "image": "https://media.elkjop.com/assets/image/dv_web_D18000100575656",
+        "description": "Jujutsu Kaisen Cursed Clash est un jeu de combat en 3D basé sur l'anime à succès Jujutsu Kaisen. Les joueurs peuvent incarner leurs personnages favoris et utiliser des techniques maudites dans des affrontements dynamiques en 2v2.",
+        "dl": [
+            "https://buzzheavier.com/h1pw49jpqpkl"
+        ],
+        "release_date": "2 février 2024",
+        "size": "18 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": false
     }
+    
+
+
 
 
 
