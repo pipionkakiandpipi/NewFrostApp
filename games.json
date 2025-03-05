@@ -3024,7 +3024,159 @@
             "Storage": "25 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "ICARUS",
+        "image": "https://image.jeuxvideo.com/medias-sm/163353/1633528748-6064-jaquette-avant.gif",
+        "description": "ICARUS est un jeu de survie PvE en monde ouvert où les joueurs doivent explorer, extraire des ressources et survivre sur une planète hostile. Jouable en solo ou en coopération, il propose des missions exigeantes et un environnement dynamique.",
+        "dl": [
+            "https://gofile.io/d/iZh6wn"
+        ],
+        "release_date": "3 décembre 2021",
+        "size": "33,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce GTX 1060",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Immortals Fenyx Rising",
+        "image": "https://image.jeuxvideo.com/medias-sm/160768/1607683301-6263-jaquette-avant.jpg",
+        "description": "Immortals Fenyx Rising est un jeu d'action-aventure en monde ouvert inspiré de la mythologie grecque. Incarnez Fenyx, un demi-dieu ailé, et partez en quête pour sauver les dieux de l'Olympe d'une terrible menace.",
+        "dl": [
+            "https://buzzheavier.com/n8bpr90puoji"
+        ],
+        "release_date": "3 décembre 2020",
+        "size": "36,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660",
+            "OS": "Windows 10/11",
+            "Storage": "45 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Incredibox",
+        "image": "https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco53zu&w=640&q=75",
+        "description": "Incredibox est un jeu musical et une application qui permet de créer facilement sa propre musique en combinant différents sons et rythmes vocaux. Le jeu offre plusieurs styles musicaux et une interface intuitive.",
+        "dl": [
+            "https://megadb.net/a93omqnyhvq3"
+        ],
+        "release_date": "15 mars 2009",
+        "size": "300 Mo",
+        "min_requirements": {
+            "CPU": "Intel Pentium 4",
+            "RAM": "2 Go",
+            "GPU": "Carte graphique intégrée",
+            "OS": "Windows 10/11",
+            "Storage": "500 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Infection Free Zone",
+        "image": "https://cdn1.epicgames.com/spt-assets/25661b454c36428faf6264bd19f1087d/infection-free-zone-3q3xc.jpg",
+        "description": "Infection Free Zone est un jeu de stratégie et de survie post-apocalyptique où les joueurs doivent reconstruire des villes sécurisées après une pandémie mondiale, en utilisant des infrastructures existantes et en gérant les ressources pour survivre aux vagues d'infectés.",
+        "dl": [
+            "https://megadb.net/908b6jm4cja1"
+        ],
+        "release_date": "11 avril 2024",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 660",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Injustice 2",
+        "image": "https://store-images.s-microsoft.com/image/apps.51626.68598211680266771.73ef9826-822a-4a0b-ab4a-4fe8fd87fc3b.714f1b5c-6793-443d-a291-74b81479dc92",
+        "description": "Injustice 2 est un jeu de combat développé par NetherRealm Studios mettant en scène les héros et vilains de l'univers DC Comics. Le jeu propose une personnalisation avancée des personnages et un mode histoire immersif.",
+        "dl": [
+            "https://buzzheavier.com/gx3bztx4qkjx"
+        ],
+        "release_date": "11 mai 2017",
+        "size": "38 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-750",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 570",
+            "OS": "Windows 10/11",
+            "Storage": "45 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Internet Cafe Simulator 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1563180/capsule_616x353.jpg?t=1738185862",
+        "description": "Internet Cafe Simulator 2 est un jeu de gestion et de simulation où vous créez et développez votre propre cybercafé. Améliorez votre équipement, attirez des clients et gérez les défis du quotidien pour bâtir un empire du gaming.",
+        "dl": [
+            "https://megadb.net/gg6bi8n2s1sx"
+        ],
+        "release_date": "7 janvier 2022",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-540",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Isonzo",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1115/mNLgaEiIz7XbXWy1ijMfqp1U.png",
+        "description": "Isonzo est un jeu de tir à la première personne axé sur la Première Guerre mondiale, plongeant les joueurs dans des batailles réalistes inspirées du front italien. Stratégie, combat intense et authenticité historique sont au rendez-vous.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GZSF8SRXQAA"
+        ],
+        "release_date": "13 septembre 2022",
+        "size": "14 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4670K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "It Takes Two",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0815/0Xqi1LgRoEtJ5zlFprpd54Vu.png",
+        "description": "It Takes Two est un jeu d'aventure coopératif unique qui emmène les joueurs dans un voyage émotionnel à travers des niveaux imaginatifs remplis de défis variés et de mécaniques innovantes. Jouable uniquement en duo, il met l'accent sur la collaboration et la narration.",
+        "dl": [
+            "https://buzzheavier.com/ue1lr8hfi2ma"
+        ],
+        "release_date": "26 mars 2021",
+        "size": "45 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100T",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
+
+
 
 
 
