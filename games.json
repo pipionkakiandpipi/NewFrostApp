@@ -3492,36 +3492,115 @@
             "Storage": "28 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Lethal Company",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTQ4MThmYWYtNDQyYS00YTQ2LTgzMmMtYzJhMzkxOGI1N2JkXkEyXkFqcGc@._V1_.jpg",
+        "description": "Lethal Company est un jeu de coopération horrifique où les joueurs incarnent des employés chargés d'explorer des installations abandonnées pour récupérer des objets de valeur tout en évitant des créatures terrifiantes.",
+        "dl": [
+            "https://megadb.net/baprk5c03ow7"
+        ],
+        "release_date": "23 octobre 2023",
+        "size": "500 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7500 / AMD Ryzen 5 1600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 / AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Lies of P",
+        "image": "https://image.jeuxvideo.com/medias-sm/163654/1636538174-709-jaquette-avant.gif",
+        "description": "Lies of P est un action-RPG inspiré du conte de Pinocchio, proposant un univers sombre et gothique où le joueur incarne une marionnette cherchant à découvrir la vérité dans une ville ravagée par le chaos.",
+        "dl": [
+            "https://gofile.io/d/5modbZ"
+        ],
+        "release_date": "19 septembre 2023",
+        "size": "38 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400 / AMD Ryzen 3 3300X",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 / AMD Radeon R9 380",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Little Kitty, Big City",
+        "image": "https://image.jeuxvideo.com/medias-sm/163697/1636965261-7264-jaquette-avant.gif",
+        "description": "Little Kitty, Big City est un jeu d'aventure où vous incarnez un petit chat perdu dans une grande ville. Explorez librement, interagissez avec l'environnement et retrouvez votre chemin vers la maison tout en causant un peu de chaos félin.",
+        "dl": [
+            "https://megadb.net/yxobsxspewuh"
+        ],
+        "release_date": "09 mai 2024",
+        "size": "500 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 / AMD FX-8350",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 / AMD Radeon HD 7950",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Little Nightmares II",
+        "image": "https://image.jeuxvideo.com/medias-sm/163179/1631792667-3700-jaquette-avant.jpg",
+        "description": "Little Nightmares II est un jeu d'aventure et d'horreur où vous incarnez Mono, un jeune garçon piégé dans un monde distordu. Accompagné de Six, l'héroïne du premier opus, vous devrez affronter des cauchemars vivants et résoudre des énigmes pour échapper aux ténèbres.",
+        "dl": [
+            "https://megadb.net/xo2dhvxq4n3c"
+        ],
+        "release_date": "11 février 2021",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 / AMD FX-4350",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 570 / AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Longvinter",
+        "image": "https://products.eneba.games/resized-products/YxaM7wAX4-rjUpiMWC1PYG-EHIr41-VvoDzU8Q3GROM_1920x1080_1x-0.jpg",
+        "description": "Longvinter est un jeu de survie en monde ouvert où vous devez explorer, récolter des ressources, et construire votre propre camp. Jouable en ligne, il permet de collaborer ou de rivaliser avec d'autres joueurs pour dominer l'île.",
+        "dl": [
+            "https://megadb.net/pnuuctthuwgg"
+        ],
+        "release_date": "24 février 2022",
+        "size": "300 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-7100 / AMD Ryzen 3 1200",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Lords of the Fallen",
+        "image": "https://data.xxlgamer.com/products/5555/bFKZsMr7w17212-big.jpg",
+        "description": "Lords of the Fallen est un action-RPG se déroulant dans un monde dark fantasy. Incarnez Harkyn, un guerrier marqué par son passé criminel, et combattez les forces démoniaques du Seigneur Déchu dans un système de combat exigeant et stratégique.",
+        "dl": [
+            "https://buzzheavier.com/oab54qvgkqea"
+        ],
+        "release_date": "28 octobre 2014",
+        "size": "33 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500 / AMD FX-8320",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 560 / AMD Radeon HD 6870",
+            "OS": "Windows 10/11",
+            "Storage": "40 Go d'espace libre"
+        },
+        "online": false
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
