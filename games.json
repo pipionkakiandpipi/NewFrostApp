@@ -3780,7 +3780,121 @@
             "Storage": "4 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "MONSTER HUNTER RISE: SUNBREAK",
+        "image": "https://kikoomag.fr/wp-content/uploads/2023/09/Monster-Hunter-Sunbreak-VG247.webp",
+        "description": "Monster Hunter Rise: Sunbreak est une extension massive pour Monster Hunter Rise, introduisant de nouvelles régions, monstres, et missions, tout en apportant un défi supplémentaire aux chasseurs avec des quêtes plus difficiles.",
+        "dl": [
+            "https://buzzheavier.com/rtozwr2nstix"
+        ],
+        "release_date": "2022",
+        "size": "33 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 / AMD Ryzen 5 1500X",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Monster Hunter Stories 2: Wings of Ruin",
+        "image": "https://image.jeuxvideo.com/medias-sm/162549/1625489277-7213-jaquette-avant.jpg",
+        "description": "Monster Hunter Stories 2: Wings of Ruin est un jeu de rôle qui suit les aventures de l'héritier d'une lignée de Riders, alors qu'il se lance dans une quête pour sauver les monstres du monde de la destruction imminente.",
+        "dl": [
+            "https://megadb.net/pdsrl29hxbc0"
+        ],
+        "release_date": "09/07/2021",
+        "size": "30 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 / AMD Ryzen 5 1500X",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Mortal Kombat X",
+        "image": "https://image.api.playstation.com/cdn/EP1018/CUSA03679_00/WkptPw8MeeOqu2kskd6DNquGoYjKFc46.png",
+        "description": "Mortal Kombat X est un jeu de combat brutal qui propose une nouvelle génération de combattants, avec des graphismes époustouflants, des personnages classiques et des fatalities toujours aussi spectaculaires.",
+        "dl": [
+            "https://buzzheavier.com/fc4ospoad7qp"
+        ],
+        "release_date": "14/04/2015",
+        "size": "32 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-750 / AMD Phenom II X4 965",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 460 / AMD Radeon HD 6850",
+            "OS": "Windows 10/11",
+            "Storage": "32 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "MotoGP 24",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2609/bf474899d31067bb4e648ab00a193a30acb07b89078df2e3.png",
+        "description": "MotoGP 24 est un jeu de course de moto, offrant des sensations réalistes avec un gameplay intense, des courses sur des circuits légendaires et une immersion complète dans l'univers du MotoGP.",
+        "dl": [
+            "https://gofile.io/d/CZ8CrL"
+        ],
+        "release_date": "27/02/2024",
+        "size": "27 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4590 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "27 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Mount & Blade II: Bannerlord",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1215/AMVfKw3yLtykL3sMzhUQItMT.png",
+        "description": "Mount & Blade II: Bannerlord est un jeu de rôle et de stratégie en monde ouvert qui plonge les joueurs dans un univers médiéval. Il propose des batailles massives, des sièges, et un système de gestion du royaume.",
+        "dl": [
+            "https://buzzheavier.com/i14udaugtobm"
+        ],
+        "release_date": "27/03/2022",
+        "size": "36 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-8100 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 / AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "36 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "MX Bikes",
+        "image": "https://external-preview.redd.it/mx-bikes-free-download-build-10191165-reloaded-steam-v0-s5MZp6U_Lg0AziudHxy6mv7Dq18yJj3VA5iCV1woiUM.jpg?auto=webp&s=b2639a1435170bee47cbd0c9669106e7feeeb613",
+        "description": "MX Bikes est un jeu de motocross réaliste qui permet aux joueurs de piloter des motos tout-terrain dans divers environnements. Il se distingue par sa physique et son gameplay axés sur la simulation.",
+        "dl": [
+            "https://buzzheavier.com/uuop0hkj03yx"
+        ],
+        "release_date": "27/05/2020",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4590 / AMD Ryzen 5 1500X",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 1060 / AMD RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
 
 
 
