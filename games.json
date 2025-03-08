@@ -4071,7 +4071,7 @@
     },
     {
         "title": "OCTOPATH TRAVELER II",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1611/96GhAmaBp877rOTPEXRjECW2.png",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0201/jQdEZnhahIiSTzMAG1T0lvQ0.png",
         "description": "OCTOPATH TRAVELER II est la suite du jeu à succès OCTOPATH TRAVELER, offrant une nouvelle aventure avec huit personnages jouables, chacun ayant son propre destin à explorer dans un monde magnifiquement réalisé en 2D-HD.",
         "dl": [
             "https://gofile.io/d/MAcdxL"
@@ -4140,7 +4140,102 @@
             "Storage": "23 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Only Climb: Better Together",
+        "image": "https://img.tapimg.net/market/images/FhsomMAWIzBSyK44sGASCcX0_tEy.png",
+        "description": "Only Climb: Better Together est un jeu de simulation d'escalade en coopération. Il permet aux joueurs de gravir ensemble des murs d'escalade virtuels dans un environnement amusant et stimulant. Avec des graphismes colorés et une ambiance détendue, c'est le jeu parfait pour partager des moments de détente avec des amis.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GKSDMBgQIAA="
+        ],
+        "release_date": "15/02/2023",
+        "size": "15 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-8100 / AMD Ryzen 3 1200",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 / AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Only Up!",
+        "image": "https://assets-prd.ignimgs.com/2023/07/06/onlyup-1688683974212.jpg",
+        "description": "Only Up! est un jeu de plateforme à la première personne où vous devez grimper toujours plus haut, en surmontant des obstacles et des défis uniques. Avec des mécaniques de saut et d'escalade innovantes, ce jeu met au défi votre agilité et votre persévérance pour atteindre des sommets vertigineux.",
+        "dl": [
+            "https://gofile.io/d/s1bwYb"
+        ],
+        "release_date": "06/07/2023",
+        "size": "6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 / AMD Radeon RX 480",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Ori and the Blind Forest",
+        "image": "https://www.codesproduit.fr/wp-content/uploads/2021/12/47138-ori-and-the-blind-forest-definitive-edition-1.jpg",
+        "description": "Ori and the Blind Forest est un jeu de plateforme en 2D avec des éléments de puzzle et d'exploration. Vous incarnez Ori, un petit esprit, qui doit traverser une forêt magique et dangereuse pour sauver sa maison. Le jeu combine une narration émotive avec une direction artistique exceptionnelle.",
+        "dl": [
+            "https://buzzheavier.com/syidqupq5avb"
+        ],
+        "release_date": "11/03/2015",
+        "size": "5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-550 / AMD Phenom II X4 945",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTS 450 / AMD Radeon HD 5750",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Outlast 2",
+        "image": "https://image.api.playstation.com/cdn/EP4467/CUSA06633_00/8jdfNPVFM9lSN84bPAAIDXfEw2a2BSZW.png",
+        "description": "Outlast 2 est un jeu d'horreur psychologique à la première personne qui plonge les joueurs dans une histoire de terreur et de survie. Vous incarnez Blake Langermann, un journaliste qui enquête sur la disparition d'une jeune femme dans les montagnes reculées de l'Arizona, où il découvre un culte dangereux. Le jeu est connu pour sa tension constante et ses scènes effrayantes.",
+        "dl": [
+            "https://buzzheavier.com/qc7kjtp6swrn"
+        ],
+        "release_date": "25/04/2017",
+        "size": "22 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-530 / AMD Phenom II X4 940",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460 / AMD Radeon HD 6850",
+            "OS": "Windows 10/11",
+            "Storage": "22 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Paint the Town Red",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2104/ye5Ja7G3to8LVwdNoc2CekQx.png",
+        "description": "Paint the Town Red est un jeu d'action en vue subjective où les joueurs affrontent des vagues d'ennemis dans des environnements en voxel. Le jeu propose des combats violents et dynamiques, avec des graphismes stylisés en voxels. Chaque niveau offre des opportunités de combat à main nue ou avec des armes diverses, le tout dans une atmosphère déjantée.",
+        "dl": [
+            "https://megadb.net/bnyttcizggx8"
+        ],
+        "release_date": "19/10/2015",
+        "size": "6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.4 GHz / AMD Athlon 64 X2 4800+",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460 / ATI Radeon HD 6850",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
 
 
 
