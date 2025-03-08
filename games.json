@@ -3600,7 +3600,197 @@
             "Storage": "40 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Manor Lords",
+        "image": "https://image.jeuxvideo.com/medias-sm/163587/1635869170-3571-jaquette-avant.gif",
+        "description": "Manor Lords est un jeu de stratégie et de gestion médiévale offrant une simulation réaliste de construction de ville, de commerce et de batailles tactiques en temps réel. Développez votre village, gérez vos ressources et menez vos troupes à la victoire.",
+        "dl": [
+            "https://gofile.io/d/RP16hB"
+        ],
+        "release_date": "26 avril 2024",
+        "size": "8 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3470 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti / AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Marvel’s Spider-Man: Miles Morales",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
+        "description": "Marvel’s Spider-Man: Miles Morales est un jeu d'action-aventure dans lequel vous incarnez Miles Morales, un jeune Spider-Man qui doit défendre New York contre de nouvelles menaces tout en maîtrisant ses pouvoirs uniques.",
+        "dl": [
+            "https://buzzheavier.com/67pt5szrjk0h"
+        ],
+        "release_date": "18 novembre 2022",
+        "size": "39 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4670 / AMD Ryzen 5 1600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 950 / AMD Radeon RX 470",
+            "OS": "Windows 10/11",
+            "Storage": "75 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Marvel’s Spider-Man 2",
+        "image": "https://cdn1.epicgames.com/offer/b2818b59c0bb420e9647983dfd254931/EGS_Octopus_InsomniacGamesNixxesSoftware_S2_1200x1600-5831c61378872a1fe233b295fbf3140f",
+        "description": "Marvel’s Spider-Man 2 est un jeu d'action-aventure développé par Insomniac Games. Peter Parker et Miles Morales s'allient pour affronter de nouveaux ennemis comme Venom, tout en explorant une ville de New York plus immersive que jamais.",
+        "dl": [
+            "https://buzzheavier.com/5wj5uvnxura5"
+        ],
+        "release_date": "20 octobre 2023",
+        "size": "91 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4670 / AMD Ryzen 5 1600",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "110 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Marvel’s Spider-Man Remastered",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3021/BtsjAgHT9pqHRXtN9FCk7xc8.png",
+        "description": "Marvel’s Spider-Man Remastered est une version améliorée du jeu original, offrant des graphismes améliorés, des temps de chargement réduits et du contenu supplémentaire. Incarnez Peter Parker et affrontez des ennemis emblématiques dans un New York dynamique.",
+        "dl": [
+            "https://buzzheavier.com/716go6imtzta"
+        ],
+        "release_date": "12 août 2022",
+        "size": "54 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4670 / AMD Ryzen 5 1600",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "70 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Marvel’s Guardians of the Galaxy",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0215/Pw9cWnyqkix3EoCOGqrN1cgN.png",
+        "description": "Dans Marvel’s Guardians of the Galaxy, incarnez Star-Lord et dirigez les Gardiens à travers une aventure épique, pleine d'humour et de moments dramatiques. Prenez des décisions clés et explorez l'univers tout en affrontant des ennemis légendaires.",
+        "dl": [
+            "https://buzzheavier.com/jkx4vhdtsb2s"
+        ],
+        "release_date": "26 octobre 2021",
+        "size": "37 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Melatonin",
+        "image": "https://cdn1.epicgames.com/spt-assets/07109b840b8446d089419a84742c9239/melatonin-13c7o.png",
+        "description": "Melatonin est un jeu rythmique inspiré des rêves, dans lequel vous devez compléter des mini-jeux à travers une série de niveaux. Chaque niveau propose des défis uniques et un gameplay captivant, le tout sur fond d'une bande-son immersive.",
+        "dl": [
+            "https://megadb.net/pmh886rstne4"
+        ],
+        "release_date": "2022",
+        "size": "440 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4130 / AMD Ryzen 3 1200",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 / AMD Radeon R7 360",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Metro Exodus",
+        "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600-64a550825c1427140460cc3a86cafdb5",
+        "description": "Metro Exodus est un jeu de tir à la première personne qui mélange exploration, survie et aventure. Situé dans un monde post-apocalyptique, le joueur prend le contrôle d'Artjom dans sa quête pour un futur meilleur, tout en explorant de vastes paysages ouverts et en affrontant des ennemis terrifiants.",
+        "dl": [
+            "https://gofile.io/d/svpdaY"
+        ],
+        "release_date": "2020",
+        "size": "110 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4440 / AMD FX-8320",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "100 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Microsoft Flight Simulator",
+        "image": "https://assets.xboxservices.com/assets/8e/48/8e4805cd-f0b1-422d-88e8-73ce2d0c4368.jpg?n=Microsoft-Flight-Simulator_GLP-Page-Hero-0_1083x1222_06.jpg",
+        "description": "Microsoft Flight Simulator est un simulateur de vol qui offre une expérience de vol réaliste et immersive avec des graphismes époustouflants. Il permet aux joueurs de piloter divers avions dans des paysages du monde entier, avec un rendu précis des conditions météorologiques et des aéroports.",
+        "dl": [
+            "https://buzzheavier.com/060hwwriu3he"
+        ],
+        "release_date": "2020",
+        "size": "111 Go",
+        "min_requirements": {
+            "CPU": "Intel i5-4460 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 770 / AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "150 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Minecraft Legends",
+        "image": "https://img.asmedia.epimg.net/resizer/v2/PUTEFXJH3VE3DKU3M2SJK5QK7E.jpg?auth=fff8ce3f15b37f530f238bc5cd8e64a0c88ddb8463d9b958b59335abf0a38209&width=1472&height=1104&smart=true",
+        "description": "Minecraft Legends est un jeu d'action-stratégie qui plonge les joueurs dans un monde ouvert inspiré de l'univers de Minecraft. Les joueurs doivent défendre leur royaume contre des hordes de créatures et des ennemis, en exploitant des ressources et en construisant des structures pour lutter contre les invasions.",
+        "dl": [
+            "https://buzzheavier.com/uk9a4tbm45sc"
+        ],
+        "release_date": "2023",
+        "size": "11 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-7100 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 960 / AMD Radeon R9 380",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Minecraft Dungeons",
+        "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18779_00/4/i_c7b0467e8d83d7fa53d63d40a50e65e5da0edc39e07306e356cf5a6f2aba1977/i/icon0.png",
+        "description": "Minecraft Dungeons est un jeu d'action-aventure inspiré de l'univers Minecraft, dans lequel les joueurs explorent des donjons générés de manière procédurale, combattent des ennemis et collectent des trésors pour améliorer leurs équipements et leurs compétences.",
+        "dl": [
+            "https://buzzheavier.com/zp46hrqyfgsc"
+        ],
+        "release_date": "2020",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon 7850",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": true
     }
+
+
+
+
+
+
+
+
+
+
 
 
 
