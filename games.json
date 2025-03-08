@@ -4230,27 +4230,174 @@
             "Storage": "6 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "PANICORE",
+        "image": "https://media.senscritique.com/media/000021994843/0/panicore.jpg",
+        "description": "PANICORE est un jeu d'action et de survie intense, où les joueurs sont plongés dans un univers où la pression monte à chaque instant. Le but est de survivre tout en naviguant dans des environnements de plus en plus complexes et dangereux. Le jeu met l'accent sur les réflexes rapides et une prise de décision stratégique pour échapper à des situations périlleuses.",
+        "dl": [
+            "https://gofile.io/d/LTseck"
+        ],
+        "release_date": "Non spécifié",
+        "size": "13 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti / AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "13 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Papers, Please",
+        "image": "https://e.snmc.io/lk/l/x/319a26d9ec9004ddf631a5aee91e7bdd/11215378",
+        "description": "Papers, Please est un jeu de simulation où vous incarnez un inspecteur des frontières dans un pays fictif. Votre tâche consiste à vérifier les documents des voyageurs entrant dans le pays, tout en naviguant dans une atmosphère de tension politique et morale. Les choix difficiles sont au cœur de ce jeu, où chaque décision peut avoir des conséquences sur l'avenir des personnages et de la nation.",
+        "dl": [
+            "https://megadb.net/hj6cwdhgwsr6"
+        ],
+        "release_date": "Non spécifié",
+        "size": "140 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.4 GHz",
+            "RAM": "2 Go",
+            "GPU": "Intel HD Graphics 3000",
+            "OS": "Windows 10/11",
+            "Storage": "140 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "PAYDAY 2",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1918/b60749d24089932103168859d0c96c79db75383c55e4de18.png",
+        "description": "PAYDAY 2 est un jeu de tir coopératif où les joueurs incarnent des criminels réalisant des braquages. En équipe, vous devrez planifier et exécuter des missions de plus en plus complexes, tout en faisant face à la police et aux autorités. Chaque mission nécessite stratégie, coordination et un travail d'équipe impeccable.",
+        "dl": [
+            "https://buzzheavier.com/9gnm17w88bui"
+        ],
+        "release_date": "Non spécifié",
+        "size": "50 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.4 GHz",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 8800/AMD Radeon HD 3800",
+            "OS": "Windows 10/11",
+            "Storage": "50 Mo d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "PAYDAY 3",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2616/74efe3cba65d7ac5f08389b840602fa8349b075c4753901e.png",
+        "description": "PAYDAY 3 est un jeu de tir en coopération où vous incarnez des criminels qui réalisent des braquages spectaculaires. Dans cette suite, l'équipe de braqueurs fait face à de nouvelles missions et défis dans un monde encore plus dangereux, avec un gameplay dynamique et une grande importance pour la coordination et la stratégie.",
+        "dl": [
+            "https://gofile.io/d/hAEc5K"
+        ],
+        "release_date": "Non spécifié",
+        "size": "26 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K / AMD Ryzen 5 1600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 / AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "26 Mo d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "PC Building Simulator",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307VAZJs0vaAihu23q4mGnm3EFhOiDFDBtV_U9bt_5nuhYMroJYrp1rqqaSvUTrlEaVrJCARuwASTDkXN6cDhj0NskZ6aG.png",
+        "description": "PC Building Simulator permet aux joueurs de créer et d'entretenir des PC en construisant des systèmes informatiques et en réparant des machines. Le jeu propose un aspect réaliste de la conception de PC avec des composants réels et une simulation détaillée de la construction et des réparations.",
+        "dl": [
+            "https://buzzheavier.com/zcc7ae7upqla"
+        ],
+        "release_date": "Non spécifié",
+        "size": "14 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3 / AMD FX 4350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 760 / AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "14 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "PC Building Simulator 2",
+        "image": "https://bleedingcool.com/wp-content/uploads/2022/09/PC-Building-Simulator-2-Banner-Art-1200x900.jpg",
+        "description": "PC Building Simulator 2 permet aux joueurs de concevoir, construire et entretenir des PC avec encore plus de précision et de personnalisation. Le jeu ajoute des options avancées de modding et de personnalisation de boîtiers, tout en offrant une expérience de simulation réaliste avec des composants informatiques réels.",
+        "dl": [
+            "https://buzzheavier.com/5qmdl9koh83q"
+        ],
+        "release_date": "Non spécifié",
+        "size": "9 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5 / AMD Ryzen 5",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 960 / AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "9 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "People Playground",
+        "image": "https://images.gog-statics.com/4bb51ff19e082e45d9187564ea12f3c01d520c683db7da74b10a89efd254ee7c.jpg",
+        "description": "People Playground est un jeu de simulation où tu peux expérimenter avec des personnages dans des environnements destructibles. Le jeu propose une variété d'outils et de scénarios pour interagir de manière créative avec les personnages et l'environnement.",
+        "dl": [
+            "https://megadb.net/6krpl6u6ypaz"
+        ],
+        "release_date": "Non spécifié",
+        "size": "210 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3 / AMD FX 4300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 660 / AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "210 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Persona 5 Strikers",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1015/dOw2EImr9jrhdg2agB6qhApC.png",
+        "description": "Persona 5 Strikers est un jeu d'action-RPG qui mélange le système de combat dynamique de musou avec les éléments de jeu de rôle caractéristiques de la série Persona. Les joueurs peuvent explorer de nouvelles régions et affronter des ennemis dans des combats en temps réel.",
+        "dl": [
+            "https://buzzheavier.com/g1le3iel915i"
+        ],
+        "release_date": "Non spécifié",
+        "size": "24 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 / AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "24 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Phasmophobia",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1214/9ec3be8acd540e2f84e7362cb492e8d53b93e8a7bea4cd5f.png",
+        "description": "Phasmophobia est un jeu d'horreur coopératif où les joueurs incarnent des chasseurs de fantômes. Munis de différents équipements, ils doivent enquêter dans des lieux hantés, collecter des preuves et tenter de découvrir quel type de fantôme hante les lieux, tout en essayant de survivre.",
+        "dl": [
+            "https://buzzheavier.com/mg8ljlkdol02"
+        ],
+        "release_date": "Non spécifié",
+        "size": "12 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4590 / AMD FX 8350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 970 / AMD Radeon R9 290",
+            "OS": "Windows 10/11",
+            "Storage": "12 Go d'espace libre"
+        },
+        "online": true
     }
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
 
 
 
