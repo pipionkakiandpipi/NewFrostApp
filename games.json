@@ -4233,7 +4233,7 @@
     },
     {
         "title": "PANICORE",
-        "image": "https://media.senscritique.com/media/000021994843/0/panicore.jpg",
+        "image": "https://compu-pc.com/wp-content/uploads/2024/06/PANICORE-2024-PC-Full-portada.jpg",
         "description": "PANICORE est un jeu d'action et de survie intense, où les joueurs sont plongés dans un univers où la pression monte à chaque instant. Le but est de survivre tout en naviguant dans des environnements de plus en plus complexes et dangereux. Le jeu met l'accent sur les réflexes rapides et une prise de décision stratégique pour échapper à des situations périlleuses.",
         "dl": [
             "https://gofile.io/d/LTseck"
@@ -4392,7 +4392,197 @@
             "Storage": "12 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "Plague Inc: Evolved",
+        "image": "https://image.api.playstation.com/cdn/EP1955/CUSA04843_00/L6wNzpfcqKdOqJOhOIb71LUgVQkHf7MF.png",
+        "description": "Plague Inc: Evolved est un jeu de simulation où le joueur contrôle la propagation d'une maladie à l'échelle mondiale. Le but est d'infecter et d'éliminer la population humaine en utilisant des stratégies adaptées aux différents types de maladies.",
+        "dl": [
+            "https://megadb.net/ohlh4epfjigf"
+        ],
+        "release_date": "Non spécifié",
+        "size": "500 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.4 GHz",
+            "RAM": "2 Go",
+            "GPU": "ATI 2400 / NVIDIA 8600",
+            "OS": "Windows 10/11",
+            "Storage": "500 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Poppy Playtime",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDExMmI0NDUtNWJiMC00YTZjLThiYzAtZDE1MWRlNzhmZTJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "Poppy Playtime est un jeu d'horreur à la première personne où vous explorez une usine abandonnée et découvrez des secrets terrifiants. Vous devez résoudre des énigmes et éviter des créatures menaçantes tout en recherchant la vérité derrière la disparition des employés de l'usine.",
+        "dl": [
+            "https://buzzheavier.com/lylgv5gvvafi"
+        ],
+        "release_date": "Non spécifié",
+        "size": "56 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4430 / AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280",
+            "OS": "Windows 10/11",
+            "Storage": "56 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Portal",
+        "image": "https://assets-prd.ignimgs.com/2021/12/20/portal-cover-1640031155845.jpg",
+        "description": "Portal est un jeu de réflexion et de plateforme où vous utilisez un pistolet à portails pour résoudre des énigmes dans un laboratoire scientifique abandonné. Le jeu combine des éléments de physique et de puzzle dans un environnement de plus en plus complexe.",
+        "dl": [
+            "https://megadb.net/7vdjni7uvfud"
+        ],
+        "release_date": "10/04/2007",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Pentium 4 3.0 GHz",
+            "RAM": "512 Mo",
+            "GPU": "DirectX 8.1 compatible",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Portal 2",
+        "image": "https://m.media-amazon.com/images/I/71-a6b69rjL._UF1000,1000_QL80_.jpg",
+        "description": "Portal 2 est un jeu de puzzle et de plateforme où vous utilisez un pistolet à portails pour résoudre des énigmes dans un laboratoire scientifique. Le jeu propose une expérience solo captivante et un mode coopératif où deux joueurs résolvent des énigmes ensemble.",
+        "dl": [
+            "https://buzzheavier.com/jhbnag5ynrd9"
+        ],
+        "release_date": "18/04/2011",
+        "size": "7 Go",
+        "min_requirements": {
+            "CPU": "Dual-core CPU 2.8 GHz",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 7600/ATI Radeon X1600",
+            "OS": "Windows 10/11",
+            "Storage": "7 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Prison Simulator",
+        "image": "https://static.gabestore.ru/product/370x460_-5BDWR82YZCh9abqrVMr7qhiQNf1pLnw.jpg",
+        "description": "Prison Simulator vous place dans la peau d'un gardien de prison. Gérez les détenus, surveillez les incidents et assurez-vous que tout se déroule sans accroc dans cet environnement où la tension est constante.",
+        "dl": [
+            "https://megadb.net/c1s8gryndvsw"
+        ],
+        "release_date": "28/08/2020",
+        "size": "4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Project Zomboid",
+        "image": "https://www.codesproduit.fr/wp-content/uploads/2022/02/game-steam-project-zomboid-cover.jpg",
+        "description": "Project Zomboid est un jeu de survie en monde ouvert où vous devez survivre à une apocalypse zombie. Explorez, collectez des ressources et affrontez la menace des zombies tout en gérant votre santé mentale.",
+        "dl": [
+            "https://megadb.net/upsn0je6nt5v"
+        ],
+        "release_date": "08/11/2013",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.4 GHz",
+            "RAM": "2 Go",
+            "GPU": "Intel HD 4000",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Raft",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2516/606714c3dea91947fb3bd8f300b80bee3e205cd89497e962.png",
+        "description": "Raft est un jeu de survie où vous vous retrouvez sur un radeau au milieu de l'océan. Collectez des ressources, construisez et explorez tout en luttant pour survivre contre les dangers de la mer.",
+        "dl": [
+            "https://buzzheavier.com/9nxnlrqc5f4a"
+        ],
+        "release_date": "23/05/2018",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-650",
+            "RAM": "4 Go",
+            "GPU": "Intel HD 4000",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Ratchet & Clank: Rift Apart",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/DwVjpbKOsFOyPdNzmSTSWuxG.png",
+        "description": "Ratchet & Clank: Rift Apart est un jeu d'action-aventure qui suit les aventures de Ratchet et de son compagnon Clank alors qu'ils naviguent à travers des dimensions parallèles pour sauver leur univers. Le jeu est connu pour son gameplay dynamique et son utilisation innovante des portails dimensionnels.",
+        "dl": [
+            "https://buzzheavier.com/gzq7yqxlzktt"
+        ],
+        "release_date": "11/06/2021",
+        "size": "45 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 970 / AMD RX 480",
+            "OS": "Windows 10/11",
+            "Storage": "45 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Ready or Not",
+        "image": "https://www.gigantti.fi/image/dv_web_D1800010021387155/596926/ready-or-not-pc-windows.jpg",
+        "description": "Ready or Not est un jeu tactique de tir à la première personne où les joueurs incarnent des membres d'une unité d'élite de la SWAT. Le jeu met l'accent sur le réalisme et la coordination, où chaque décision et chaque mouvement peuvent être cruciaux pour réussir des missions difficiles.",
+        "dl": [
+            "https://buzzheavier.com/6t2eoegelngo"
+        ],
+        "release_date": "21/12/2022",
+        "size": "51 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 970 / AMD RX 480",
+            "OS": "Windows 10/11",
+            "Storage": "51 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Rebel Inc: Escalation",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1088790/capsule_616x353.jpg?t=1726476652",
+        "description": "Rebel Inc: Escalation est un jeu de simulation stratégique où le joueur doit stabiliser une région dévastée par la guerre. À travers des décisions politiques et militaires, l'objectif est d'empêcher la rébellion tout en gérant les ressources et en répondant aux besoins de la population.",
+        "dl": [
+            "https://megadb.net/4k8sri57yakp"
+        ],
+        "release_date": "06/03/2020",
+        "size": "700 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-3225",
+            "RAM": "4 Go",
+            "GPU": "Intel HD 4000",
+            "OS": "Windows 10/11",
+            "Storage": "700 Mo d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
+
+
+
+
 
 
 
