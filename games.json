@@ -3888,7 +3888,216 @@
             "Storage": "2 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 2",
+        "image": "https://down-id.img.susercontent.com/file/b3af6eadb6e98af01eeb1c06fb8aac48",
+        "description": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 2 est un jeu de combat basé sur l'univers de Naruto. Il propose un gameplay dynamique avec des personnages et des combats inspirés de la série animée.",
+        "dl": [
+            "https://megadb.net/fuhs0k0x0nxw"
+        ],
+        "release_date": "21/10/2010",
+        "size": "7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E6300 / AMD Athlon 64 X2 5600+",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 8600 / ATI Radeon HD 3650",
+            "OS": "Windows 10/11",
+            "Storage": "7 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "image": "https://image.api.playstation.com/cdn/EP0700/CUSA06210_00/p4461AvBMbNi2S9dsmKloUhD4iMbJbaH.png",
+        "description": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 est un jeu de combat où tu peux vivre les aventures de Naruto et ses alliés dans des combats épiques en 3D, avec de nouvelles mécaniques de jeu et un mode en ligne.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GNhiVVafIAA="
+        ],
+        "release_date": "04/08/2016",
+        "size": "37 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 / AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / ATI Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "37 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+        "image": "https://gpstatic.com/acache/65/55/1/fr/packshot-dd71b96184a534e7f8f214aa04e04422.jpg",
+        "description": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS est un jeu de combat où tu peux revivre les moments marquants de l'univers Naruto et Boruto avec un roster élargi et de nouveaux modes de jeu.",
+        "dl": [
+            "https://buzzheavier.com/sdclm8hksul2"
+        ],
+        "release_date": "17/11/2023",
+        "size": "29 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "29 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "NBA 2K22",
+        "image": "https://image.jeuxvideo.com/medias-sm/163154/1631535511-8544-jaquette-avant.jpg",
+        "description": "NBA 2K22 est un jeu de simulation de basketball avec des graphismes époustouflants, des modes de jeu variés et une expérience immersive du basketball moderne.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GXZ5O1gpAAA"
+        ],
+        "release_date": "10/09/2021",
+        "size": "105 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 770 / AMD Radeon RX 470",
+            "OS": "Windows 10/11",
+            "Storage": "105 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "NBA 2K23",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2201/XqvwZR1Ts9KlYvnBIwiD9vID.jpg",
+        "description": "NBA 2K23 offre une expérience de basketball encore plus réaliste avec des graphismes améliorés, des mises à jour des effectifs et des modes de jeu innovants.",
+        "dl": [
+            "https://buzzheavier.com/u87xysolly06"
+        ],
+        "release_date": "09/09/2022",
+        "size": "110 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 770 / AMD Radeon RX 470",
+            "OS": "Windows 10/11",
+            "Storage": "110 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Need for Speed Heat",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/3121/Xz6kd2CORZxe8JnfNJwvA35A.png",
+        "description": "Need for Speed Heat plonge les joueurs dans une compétition de street racing intense, avec des courses de jour pour gagner de l'argent et des courses de nuit pour accroître leur réputation.",
+        "dl": [
+            "https://buzzheavier.com/d4w08jp87eld"
+        ],
+        "release_date": "08/11/2019",
+        "size": "26 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4130 / AMD FX-4300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760 / AMD Radeon 7950",
+            "OS": "Windows 10/11",
+            "Storage": "26 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "NieR:Automata",
+        "image": "https://cdn11.bigcommerce.com/s-sdhub7he5o/images/stencil/1280x1280/products/1415/10550/c9c84346a7f8c9608ba2ba8d98bb9f94__34565.1683225006.jpg?c=1",
+        "description": "NieR:Automata est un jeu d'action-RPG qui plonge les joueurs dans une guerre entre les humains et des machines extraterrestres dans un futur post-apocalyptique.",
+        "dl": [
+            "https://buzzheavier.com/g572kmijds7r"
+        ],
+        "release_date": "10/03/2017",
+        "size": "15 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4160 / AMD FX-6120",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 770 / AMD Radeon R9 280X",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "NieR Replicant",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0404/Qrk97bxT6eQZXODNzDhKeFeE.png",
+        "description": "NieR Replicant est un jeu d'action-RPG dans lequel vous incarnez un jeune homme qui part en quête pour sauver sa sœur malade dans un monde dévasté. Ce jeu est une version remasterisée du jeu original NieR.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GO2CPgdn8AA="
+        ],
+        "release_date": "23/04/2021",
+        "size": "19 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4160 / AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 / AMD Radeon R9 380",
+            "OS": "Windows 10/11",
+            "Storage": "19 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Nioh 2",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0623/rV8N0pmXMx48TNK1m3JO0A47.png",
+        "description": "Nioh 2 est un jeu d'action-RPG où vous incarnez un personnage hybride entre humain et démon, luttant pour survivre dans un Japon féodal ravagé par des créatures surnaturelles. Le jeu propose des combats rapides et exigeants.",
+        "dl": [
+            "https://buzzheavier.com/l62v0as1wij8"
+        ],
+        "release_date": "13/03/2020",
+        "size": "59 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3550 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 / AMD Radeon RX 470",
+            "OS": "Windows 10/11",
+            "Storage": "59 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "OCTOPATH TRAVELER",
+        "image": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_octopathtraveler/CI_NSwitch_OctopathTraveler_Overview_Adventure_fhd_image950w.jpg",
+        "description": "OCTOPATH TRAVELER est un jeu de rôle qui se déroule dans un monde magnifique en 2D-HD. Le joueur peut choisir parmi huit personnages différents, chacun ayant sa propre histoire et ses compétences uniques, et explorer un vaste monde ouvert.",
+        "dl": [
+            "https://megadb.net/x7p1dqcx18ay"
+        ],
+        "release_date": "13/07/2018",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-3220 / AMD FX-4350",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "OCTOPATH TRAVELER II",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1611/96GhAmaBp877rOTPEXRjECW2.png",
+        "description": "OCTOPATH TRAVELER II est la suite du jeu à succès OCTOPATH TRAVELER, offrant une nouvelle aventure avec huit personnages jouables, chacun ayant son propre destin à explorer dans un monde magnifiquement réalisé en 2D-HD.",
+        "dl": [
+            "https://gofile.io/d/MAcdxL"
+        ],
+        "release_date": "24/02/2023",
+        "size": "8 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7400 / AMD Ryzen 3 2200G",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 / AMD Radeon RX 470",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
