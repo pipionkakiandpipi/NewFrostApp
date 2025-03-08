@@ -4086,7 +4086,64 @@
             "Storage": "8 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "OMORI",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1601/dQTo1IY9OqNn1hah29pE2rXZ.png",
+        "description": "OMORI est un RPG d'aventure dans un monde coloré et étrange. Suivez Omori, un jeune garçon qui explore un univers parallèle rempli de créatures et de mystères, tout en luttant contre ses propres peurs et traumatismes.",
+        "dl": [
+            "https://megadb.net/0tne2daufwz7"
+        ],
+        "release_date": "25/06/2022",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-530 / AMD Phenom II X4 960T",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460 / AMD Radeon HD 6850",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "ONE PIECE ODYSSEY",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1913/kNaKsiKF1T41mwl6Q1j6mMGH.png",
+        "description": "ONE PIECE ODYSSEY est un RPG d'aventure dans l'univers de One Piece. Rejoignez Luffy et l'équipage au chapeau de paille alors qu'ils partent dans une nouvelle aventure pour explorer un monde mystérieux et relever des défis.",
+        "dl": [
+            "https://buzzheavier.com/1bueog81jiuw"
+        ],
+        "release_date": "12/01/2023",
+        "size": "30 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 / AMD FX-6350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 / AMD Radeon R7 370",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "ONE PIECE World Seeker",
+        "image": "https://image.api.playstation.com/cdn/EP0700/CUSA14054_00/TPQCKhbCKCj8RY9NInKVEKPPVYPfEb28.png",
+        "description": "ONE PIECE World Seeker est un jeu d'action-aventure où Luffy explore une vaste île à la recherche de nouvelles aventures et alliés. Avec des combats dynamiques et une histoire originale, le jeu permet aux fans de vivre une nouvelle aventure dans l'univers de One Piece.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GIuSAIcNQAA="
+        ],
+        "release_date": "15/03/2019",
+        "size": "23 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 / AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "23 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
 
 
 
