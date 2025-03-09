@@ -5112,7 +5112,158 @@
             "Storage": "1 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Starfield",
+        "image": "https://store-images.s-microsoft.com/image/apps.35187.13567343664224659.1eb6fdf9-8a0b-4344-a135-ab17dfa3c609.c83b6d6a-56c3-4c3f-8b31-456cfb21c3b7",
+        "description": "Starfield est un jeu de rôle en monde ouvert développé par Bethesda Game Studios, plongeant les joueurs dans un univers spatial vaste et riche. Les joueurs peuvent explorer des planètes, interagir avec des factions, personnaliser leur vaisseau et vivre une aventure dans l'espace infini.",
+        "dl": [
+            "https://1fichier.com/?1v6ebqkzl7kznvkp6ulr"
+        ],
+        "release_date": "2023",
+        "size": "158 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K ou AMD Ryzen 5 2600X",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GTX 1070 / AMD Radeon RX 5700",
+            "OS": "Windows 10/11",
+            "Storage": "125 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Steep",
+        "image": "https://image.api.playstation.com/cdn/EP0001/CUSA05526_00/79N4QFa9wgKHnedhpuoeDlVFouTCBUnd.png",
+        "description": "Steep est un jeu de sport extrême en monde ouvert où les joueurs peuvent pratiquer des activités comme le ski, le snowboard, le parapente, et le wingsuit dans des environnements montagneux vastes et variés. Le jeu met l'accent sur la liberté de mouvement et d'exploration.",
+        "dl": [
+            "https://buzzheavier.com/94vnfk5rdxfs"
+        ],
+        "release_date": "2016",
+        "size": "30 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-750 2.67 GHz ou AMD Phenom II X4 955 3.2 GHz",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 460 ou AMD Radeon HD 6850",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Stranded Deep",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjYwNTAxZmMtM2E5Ny00NzBmLWIzOGMtZTBlNTFlNzNmNjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "Stranded Deep est un jeu de survie en monde ouvert où les joueurs doivent survivre sur des îles désertes après un accident d'avion. Le jeu met l'accent sur la collecte de ressources, la fabrication d'outils, et la gestion de la faim et de la soif.",
+        "dl": [
+            "https://gofile.io/d/SY0sou"
+        ],
+        "release_date": "2015",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 3.1 GHz ou AMD FX-8320",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Stray",
+        "image": "https://image.jeuxvideo.com/medias-sm/172019/1720185348-3962-jaquette-avant.jpg",
+        "description": "Stray est un jeu vidéo d'aventure développé par BlueTwelve Studio et publié par Annapurna Interactive. Le joueur y incarne un chat errant dans une ville futuriste, résolvant des énigmes et interagissant avec son environnement tout en étant accompagné d'un drone nommé B12.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GNZJKRQfIAA="
+        ],
+        "release_date": "19 juillet 2022",
+        "size": "7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 780 ou AMD Radeon RX 480",
+            "OS": "Windows 10/11",
+            "Storage": "9 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Street Fighter V: Champion Edition",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307onAazmXEWGmaLw3fQ7HOSP8ouLql35uFOqJaiND6nLokIIjICjTQ_GVXkazp3efAv7onxA4mzEQY02eemvOemopGC2q.png",
+        "description": "Street Fighter V: Champion Edition est une version améliorée du célèbre jeu de combat de Capcom. Elle inclut tous les personnages, stages et costumes sortis depuis le lancement du jeu, offrant l'expérience ultime aux fans de la saga.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GJHT2DZaAAA="
+        ],
+        "release_date": "14 février 2020",
+        "size": "53 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4690K ou AMD FX-9370",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon R7 370",
+            "OS": "Windows 10/11",
+            "Storage": "60 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Subnautica",
+        "image": "https://cdn1.epicgames.com/offer/jaguar/SN_EpicPortrait_1200x1800-f5ebad930a2f6eb715579a056807033f_1200x1600-a4410497e04b7826486cf68e24cdd08e",
+        "description": "Subnautica est un jeu de survie et d'exploration sous-marine développé par Unknown Worlds Entertainment. Le joueur incarne un naufragé sur une planète océanique extraterrestre et doit explorer, récolter des ressources et survivre face aux créatures marines.",
+        "dl": [
+            "https://buzzheavier.com/uzacf9wjubzl"
+        ],
+        "release_date": "23 janvier 2018",
+        "size": "4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-3220 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Subnautica: Below Zero",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1000/ajXEVMJhzxXuOezVXR6bFOkK.png",
+        "description": "Subnautica: Below Zero est un jeu de survie et d'exploration sous-marine développé par Unknown Worlds Entertainment. Suite du premier Subnautica, il plonge le joueur dans un environnement glacial où il doit explorer, collecter des ressources et survivre aux dangers sous-marins.",
+        "dl": [
+            "https://buzzheavier.com/aceujcun3imq"
+        ],
+        "release_date": "14 mai 2021",
+        "size": "6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-3250 ou AMD FX-4350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "SUPERHOT",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/2508/bcPCs06SjrXaOxa2oeuk2OBD.png",
+        "description": "SUPERHOT est un jeu de tir à la première personne unique où le temps ne s'écoule que lorsque le joueur bouge. Mélangeant stratégie et action, il offre une expérience immersive avec une direction artistique minimaliste et un gameplay innovant.",
+        "dl": [
+            "https://megadb.net/6t3b4nm9hkg5"
+        ],
+        "release_date": "25 février 2016",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
+
 
 
 
