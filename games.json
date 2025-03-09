@@ -4572,23 +4572,205 @@
             "Storage": "700 Mo d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Resident Evil 2",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png",
+        "description": "Resident Evil 2 est un jeu de survival horror dans lequel les joueurs incarnent Leon S. Kennedy et Claire Redfield, tentant de survivre à une épidémie de zombies dans la ville de Raccoon City. Remake du classique de 1998, le jeu offre des graphismes modernisés, une ambiance oppressante et un gameplay amélioré.",
+        "dl": [
+            "https://buzzheavier.com/gq13u1gmj0vc"
+        ],
+        "release_date": "25/01/2019",
+        "size": "22 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 / AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760 / AMD Radeon R7 260x",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Resident Evil 4 Remake",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png",
+        "description": "Resident Evil 4 Remake est une réinterprétation moderne du célèbre jeu d'horreur et d'action de Capcom. Suivez Leon S. Kennedy dans sa mission pour sauver la fille du président, tout en affrontant des hordes de créatures infectées et une secte mystérieuse. Ce remake propose des graphismes améliorés, un gameplay revisité et une ambiance encore plus immersive.",
+        "dl": [
+            "https://buzzheavier.com/fyjxbcrdstbj"
+        ],
+        "release_date": "24/03/2023",
+        "size": "58 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7500 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti / AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "65 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Resident Evil 4 Ultimate HD",
+        "image": "https://image.jeuxvideo.com/images/jaquettes/00051535/jaquette-resident-evil-4-hd-pc-cover-avant-g-1390333815.jpg",
+        "description": "Resident Evil 4 Ultimate HD est une version remasterisée du jeu culte de Capcom, offrant des graphismes améliorés en haute définition, un gameplay optimisé et un support pour les résolutions modernes. Suivez Leon S. Kennedy dans sa mission périlleuse pour sauver la fille du président, tout en affrontant des ennemis terrifiants et une menace biologique inquiétante.",
+        "dl": [
+            "https://buzzheavier.com/kq1ghgkoedtq"
+        ],
+        "release_date": "27/02/2014",
+        "size": "37 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.4 GHz / AMD Athlon X2 2.8 GHz",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 8800GTS / AMD Radeon HD 4850",
+            "OS": "Windows 10/11",
+            "Storage": "40 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "RESIDENT EVIL 7 biohazard",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0207/oGHhaQR5Y8ydAMUUBBPvylI7.png",
+        "description": "RESIDENT EVIL 7 biohazard marque un renouveau dans la célèbre saga d'horreur de Capcom. Plongez dans une atmosphère angoissante en vue à la première personne et explorez le manoir des Baker, une famille terrifiante aux sombres secrets. Avec une ambiance oppressante et une immersion inédite, ce survival-horror redéfinit la peur.",
+        "dl": [
+            "https://buzzheavier.com/xi1l7105xllr"
+        ],
+        "release_date": "24/01/2017",
+        "size": "60 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 / AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760 / AMD Radeon R7 260x",
+            "OS": "Windows 10/11",
+            "Storage": "65 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "RIDE 4",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/3016/3dsoMj0yRR8SWxBkOGjxlF8c.png",
+        "description": "RIDE 4 est une simulation de moto ultra-réaliste qui repousse les limites du genre. Avec une physique améliorée, un large choix de motos fidèlement modélisées et des circuits détaillés, ce jeu offre une expérience immersive aux passionnés de deux-roues.",
+        "dl": [
+            "https://buzzheavier.com/v6yagkwn977m"
+        ],
+        "release_date": "08/10/2020",
+        "size": "39 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K / AMD FX-6350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 / AMD Radeon HD 7950",
+            "OS": "Windows 10/11",
+            "Storage": "45 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "RimWorld",
+        "image": "https://image.jeuxvideo.com/medias-sm/143202/1432019633-1875-jaquette-avant.jpg",
+        "description": "RimWorld est un jeu de simulation et de gestion où vous dirigez une colonie de survivants sur une planète hostile. Générez des histoires uniques grâce à un narrateur IA dynamique qui influence les événements et les défis rencontrés.",
+        "dl": [
+            "https://megadb.net/ylvescfv4ag7"
+        ],
+        "release_date": "17/10/2018",
+        "size": "500 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics 4000",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Rise of the Tomb Raider: 20 Year Celebration",
+        "image": "https://image.api.playstation.com/cdn/EP0082/CUSA05716_00/4izLixKmm2JmGkJHuh8OJp1mjdx42f3B.png",
+        "description": "Rise of the Tomb Raider: 20 Year Celebration est une édition spéciale du jeu d'aventure et d'exploration où Lara Croft part en Sibérie à la recherche du secret de l'immortalité. Cette version inclut tous les DLC et du contenu exclusif.",
+        "dl": [
+            "https://buzzheavier.com/aqtoxxc3zd84"
+        ],
+        "release_date": "11/10/2016",
+        "size": "24 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD équivalent",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GTX 650 2 Go ou AMD HD 7770 2 Go",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Risk of Rain 2",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2220/RfRnyMuPPdQraj09cluhX5yZ.png",
+        "description": "Risk of Rain 2 est un roguelike en coop où vous affrontez des vagues d'ennemis sur des planètes hostiles. Progressez, débloquez des objets et survivez aussi longtemps que possible dans ce jeu d'action intense.",
+        "dl": [
+            "https://megadb.net/2zxxpvprftcy"
+        ],
+        "release_date": "11/08/2020",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 ou AMD FX-8350",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 580 ou AMD HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Rogue Legacy 2",
+        "image": "https://cdn1.epicgames.com/offer/4966d5da285c4f2c876937844b0e23ee/RL2tall_1200x1600-7ce135f08c7d29b93e77f6dd853e72ae",
+        "description": "Rogue Legacy 2 est un rogue-lite où chaque mort marque le début d'une nouvelle génération de héros. Explorez des donjons générés de manière procédurale, débloquez des améliorations et affrontez des défis uniques à chaque partie.",
+        "dl": [
+            "https://megadb.net/gjkk0orutwao"
+        ],
+        "release_date": "28/04/2022",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 ou AMD FX-8370",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 680 ou AMD Radeon HD 7970",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Rooftops & Alleys: The Parkour Game",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2703850/3590cbb273a8b33ced0937deb5103a9cfc4d9e6c/capsule_616x353.jpg?t=1741398714",
+        "description": "Rooftops & Alleys: The Parkour Game est un jeu de parkour en monde ouvert où vous pouvez courir, sauter et grimper sur les toits et les ruelles d'une ville dynamique. Testez vos compétences dans divers défis et explorez l'environnement urbain en toute liberté.",
+        "dl": [
+            "https://megadb.net/7023vnilmizl"
+        ],
+        "release_date": "2024",
+        "size": "900 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 660 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Rust",
+        "image": "https://assetsio.gnwcdn.com/co6mrg.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+        "description": "Rust est un jeu de survie multijoueur dans un monde ouvert où les joueurs doivent lutter pour leur survie en récoltant des ressources, fabriquant des objets et défendant leur territoire contre les autres joueurs. La stratégie, l'exploration et les combats sont au cœur de l'expérience.",
+        "dl": [
+            "https://buzzheavier.com/lu7nm4yer1wt"
+        ],
+        "release_date": "2024",
+        "size": "22 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K ou AMD Ryzen 5 1600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 1060 3GB ou AMD Radeon RX 580 4GB",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": true
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
 
 
 
