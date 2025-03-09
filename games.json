@@ -5256,7 +5256,178 @@
             "Storage": "4 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "SUPERHOT: MIND CONTROL DELETE",
+        "image": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/bc5d0888-7c4f-4380-a547-01ddad8492e4-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg",
+        "description": "SUPERHOT: MIND CONTROL DELETE est un jeu de tir à la première personne qui reprend le concept unique de SUPERHOT où le temps avance uniquement lorsque le joueur bouge. Cette version étendue introduit de nouveaux ennemis, capacités et niveaux pour une expérience encore plus intense.",
+        "dl": [
+            "https://megadb.net/04vl9nf30zuz"
+        ],
+        "release_date": "16 juillet 2020",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4130 ou AMD FX-8350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7770",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Supermarket Simulator",
+        "image": "https://cdn.cdkeys.com/700x700/media/catalog/product/s/u/supermarketsim-steam.jpg",
+        "description": "Supermarket Simulator est un jeu de simulation dans lequel le joueur gère son propre supermarché. Il doit organiser les rayons, gérer les stocks, fixer les prix et satisfaire les clients pour faire prospérer son commerce.",
+        "dl": [
+            "https://megadb.net/v16ef12j4lc2"
+        ],
+        "release_date": "20 février 2024",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7400 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Teardown",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1512/7da7be0ff6860b50de10834174f0b0146c434beb6b41ad0d.png",
+        "description": "Teardown est un jeu de destruction basé sur la physique où le joueur peut interagir librement avec un environnement entièrement destructible. Grâce à des outils variés, il doit planifier et exécuter des braquages en utilisant la créativité et l'ingéniosité.",
+        "dl": [
+            "https://gofile.io/d/WcSZvu"
+        ],
+        "release_date": "21 avril 2022",
+        "size": "6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K ou AMD Ryzen 5 1400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "TEKKEN 8",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2009/04S9doVJzhHa0OE8o8wax88S.png",
+        "description": "TEKKEN 8 est le dernier opus de la célèbre franchise de jeux de combat développée par Bandai Namco. Avec des graphismes améliorés sous Unreal Engine 5 et un gameplay toujours plus intense, il propose de nouveaux personnages, arènes et mécaniques de combat.",
+        "dl": [
+            "https://buzzheavier.com/fzijyo9xa4fj"
+        ],
+        "release_date": "26 janvier 2024",
+        "size": "104 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K ou AMD Ryzen 5 1600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "120 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Terraria",
+        "image": "https://www.codesproduit.fr/wp-content/uploads/2021/01/terraria_cover_original.png",
+        "description": "Terraria est un jeu d'aventure en 2D mêlant exploration, construction et combat. Développé par Re-Logic, il propose un monde généré aléatoirement où le joueur peut creuser, fabriquer et affronter des créatures variées.",
+        "dl": [
+            "https://megadb.net/d98p8nfao54t"
+        ],
+        "release_date": "16 mai 2011",
+        "size": "600 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo ou équivalent",
+            "RAM": "2 Go",
+            "GPU": "Carte graphique compatible DirectX 9.0",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "The Binding of Isaac: Rebirth",
+        "image": "https://image.api.playstation.com/cdn/EP2103/CUSA01344_00/kQvvmdMFo1e5YWePU1KLZ8A5FrwMDg0X.png",
+        "description": "The Binding of Isaac: Rebirth est un rogue-like d'action où le joueur explore des donjons générés aléatoirement, affronte des monstres et collecte des objets aux effets variés. Inspiré par des classiques du genre, il propose un gameplay exigeant et une forte rejouabilité.",
+        "dl": [
+            "https://megadb.net/uxrnhjpp75tk"
+        ],
+        "release_date": "4 novembre 2014",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo ou AMD Athlon 64 X2",
+            "RAM": "2 Go",
+            "GPU": "Carte graphique compatible DirectX 9.0c",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "The Forest",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3001/AlYV7v5B6nny9nxu10jrV2r5.png",
+        "description": "The Forest est un jeu de survie et d'horreur dans lequel le joueur doit survivre après un crash d'avion en pleine forêt. Il doit gérer ses besoins fondamentaux tout en explorant un environnement hostile peuplé de créatures effrayantes et de dangers.",
+        "dl": [
+            "https://megadb.net/7o2nk6mw02fq"
+        ],
+        "release_date": "30 avril 2018",
+        "size": "4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4160 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 760 ou AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "The Last of Us Part I",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eEczyEMDd2BLa3dtkGJVE9Id.png",
+        "description": "The Last of Us Part I est un remake du jeu original, une aventure narrative intense et poignante où Joel et Ellie tentent de survivre dans un monde post-apocalyptique rempli de dangers humains et infectés. Avec des graphismes améliorés, le jeu propose une expérience immersive et émotionnelle.",
+        "dl": [
+            "https://buzzheavier.com/7phph7go965c"
+        ],
+        "release_date": "2 septembre 2022",
+        "size": "80 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K ou AMD Ryzen 5 1600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD Radeon RX 480",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "The LEGO NINJAGO Movie Video Game",
+        "image": "https://products.eneba.games/resized-products/E2S-y9-TUCwTMSKJnfZPcAVg_oLBdUl27_RbqhkvdaE_350x200_3x-0.jpeg",
+        "description": "The LEGO NINJAGO Movie Video Game est un jeu d'action-aventure basé sur le film d'animation LEGO. Le joueur incarne un des ninjas de Ninjago, combattant à travers des niveaux remplis d'ennemis et de puzzles, tout en utilisant des pouvoirs spéciaux et des compétences uniques.",
+        "dl": [
+            "https://megadb.net/ugravv0i9joz"
+        ],
+        "release_date": "6 septembre 2017",
+        "size": "17 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-540 ou AMD Phenom II X4 965",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460 ou AMD Radeon HD 6850",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
+
+
+
 
 
 
