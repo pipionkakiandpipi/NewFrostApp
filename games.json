@@ -4824,7 +4824,178 @@
             "Storage": "20 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "Sea of Thieves",
+        "image": "https://image.jeuxvideo.com/medias/152240/1522396063-3523-jaquette-avant.jpg",
+        "description": "Sea of Thieves est un jeu d'aventure multijoueur en ligne où les joueurs incarnent des pirates et explorent un monde ouvert en mer. Le jeu met l'accent sur la coopération entre joueurs, le combat naval et la recherche de trésors.",
+        "dl": [
+            "https://buzzheavier.com/1ganqcr8iohx"
+        ],
+        "release_date": "2018",
+        "size": "110 Go",
+        "min_requirements": {
+            "CPU": "Intel 64-bit i5-4690 ou AMD Ryzen 3 1200",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "60 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Sekiro: Shadows Die Twice",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png",
+        "description": "Sekiro: Shadows Die Twice est un jeu d'action-aventure qui plonge le joueur dans le Japon féodal. Il suit l'histoire d'un shinobi nommé Sekiro, qui doit sauver son maître kidnappé et se venger de ceux qui lui ont fait du tort.",
+        "dl": [
+            "https://buzzheavier.com/bpf4xp9ptrlv"
+        ],
+        "release_date": "2019",
+        "size": "14 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD Ryzen 3 3200G",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 760 ou AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Sifu",
+        "image": "https://cdn1.epicgames.com/offer/b7b42e2078524ab386a8b2a9856ef557/EGS_SIFUStandardEdition_Sloclap_S4_1200x1600-32aca69d756abfcc25f8581942a6162b_1200x1600-32aca69d756abfcc25f8581942a6162b",
+        "description": "Sifu est un jeu d'action qui vous met dans la peau d'un jeune homme en quête de vengeance. Utilisez des arts martiaux pour surmonter les obstacles, tout en vieillissant à chaque échec. La maîtrise des combats est la clé pour réussir.",
+        "dl": [
+            "https://buzzheavier.com/fx56v77o7kqx"
+        ],
+        "release_date": "2022",
+        "size": "24 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4590 ou AMD Ryzen 5 1400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon RX 470",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "SILENT BREATH",
+        "image": "https://static.wikia.nocookie.net/silent-breath/images/5/51/BreathGame.jpg/revision/latest/scale-to-width-down/985?cb=20240413191442",
+        "description": "SILENT BREATH est un jeu d'horreur et de survie où les joueurs doivent naviguer dans un monde silencieux, utilisant leur instinct pour échapper à des dangers invisibles. La tension est palpable à chaque mouvement.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GLaTLEjGkAA="
+        ],
+        "release_date": "2024",
+        "size": "14 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7200U ou équivalent",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Skater XL – The Ultimate Skateboarding Game",
+        "image": "https://data.xxlgamer.com/products/5094/mfsVt9l9YUIs5W-big.jpg",
+        "description": "Skater XL est un jeu de skateboard réaliste qui offre une expérience de skate sans restrictions. Les joueurs peuvent créer leurs propres figures, explorer des environnements ouverts, et personnaliser leurs skateboards et leur style de jeu.",
+        "dl": [
+            "https://megadb.net/0foejux4x2jy"
+        ],
+        "release_date": "2020",
+        "size": "5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4570 ou équivalent",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Sleeping Dogs: Definitive Edition",
+        "image": "https://image.api.playstation.com/cdn/EP0082/CUSA01004_00/fCFO5UkjlOlOypZCZUvLWepuw7rBBHA4.png",
+        "description": "Sleeping Dogs: Definitive Edition est un jeu d'action-aventure en monde ouvert qui vous plonge dans la vie d'un policier infiltré à Hong Kong. Le jeu combine des combats au corps-à-corps, des courses-poursuites en voiture, et des missions d'investigation.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GLt7xvwGkAA="
+        ],
+        "release_date": "2014",
+        "size": "12 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 / AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 560 / AMD Radeon HD 6870",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Slime Rancher",
+        "image": "https://image.api.playstation.com/cdn/EP2149/CUSA11650_00/4M9t3865RyDrlBfrwsow37Gx4h9hMNOZ.png",
+        "description": "Slime Rancher est un jeu d'aventure et de gestion où vous incarnez un rancher qui capture, élève et collecte des slimes sur une planète lointaine. Vous devez gérer vos ressources, explorer, et créer un ranch prospère.",
+        "dl": [
+            "https://megadb.net/d/4s"
+        ],
+        "release_date": "2017",
+        "size": "800 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2120 / AMD A8-5600K",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 550 Ti / AMD Radeon HD 7770",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Slime Rancher 2",
+        "image": "https://cdn1.epicgames.com/offer/4f09ede568514ca6ad487f9c22a66b81/EGS_SlimeRancher2_MonomiPark_S2_1200x1600-0beb445243a6a24f7af7ddda60084de5_1200x1600-0beb445243a6a24f7af7ddda60084de5",
+        "description": "Slime Rancher 2 continue l'aventure de son prédécesseur, dans un monde encore plus vaste. Vous incarnez un rancher qui explore de nouveaux biomes, capture des slimes rares, et développe son ranch sur une île lointaine.",
+        "dl": [
+            "https://megadb.net/93rtf923xmnt"
+        ],
+        "release_date": "2022",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 / AMD Ryzen 3 1200",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon RX 460",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "SnowRunner",
+        "image": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_PortraitImage_860x1148-860x1148-bdf591a23e5a348671dc2a77465d0ba6c5871d68-860x1148-5a5adeae2140a3f0b5586750f70bf8e2-860x1148-5a5adeae2140a3f0b5586750f70bf8e2.jpg",
+        "description": "SnowRunner vous plonge dans des environnements sauvages et impraticables où vous devez traverser des terrains difficiles à bord de véhicules tout-terrain pour accomplir diverses missions et débloquer de nouveaux véhicules et équipements.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GPaprE24gAA="
+        ],
+        "release_date": "2020",
+        "size": "38 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7500 / AMD Ryzen 5 1600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 / AMD Radeon RX 480",
+            "OS": "Windows 10/11",
+            "Storage": "38 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
+
+
+
 
 
 
