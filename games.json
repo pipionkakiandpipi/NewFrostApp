@@ -4986,15 +4986,133 @@
             "Storage": "38 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Sonic Generations",
+        "image": "https://products.eneba.games/resized-products/dBayDyP_350x200_3x-0.jpg",
+        "description": "Sonic Generations combine les deux versions du célèbre hérisson bleu, Sonic classique et moderne, dans un jeu d'action où il faut traverser des niveaux en 2D et 3D pour sauver l'univers.",
+        "dl": [
+            "https://buzzheavier.com/s6aovvhhdk26"
+        ],
+        "release_date": "2011",
+        "size": "8 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.4 GHz / AMD Athlon 64 X2 4800+",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 8800 / ATI Radeon HD 3800",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Sonic Mania",
+        "image": "https://static.wikia.nocookie.net/sonicthehedgehog/images/2/2f/SonicMania%28AlbumVinyl%29.png/revision/latest?cb=20170901210407&path-prefix=fr",
+        "description": "Sonic Mania est un jeu de plateforme 2D qui rend hommage aux classiques de la saga Sonic, avec des graphismes rétro et une bande-son dynamique, tout en introduisant de nouveaux niveaux et personnages.",
+        "dl": [
+            "https://megadb.net/b9yl2vh5hoti"
+        ],
+        "release_date": "2017",
+        "size": "300 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3 2.4 GHz",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GT 430 / AMD Radeon HD 6570",
+            "OS": "Windows 10/11",
+            "Storage": "300 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Sons Of The Forest",
+        "image": "https://static.actugaming.net/media/2021/03/sons-of-the-forest-jaquette.jpg",
+        "description": "Sons Of The Forest est un jeu d'horreur et de survie dans un monde ouvert où vous explorez une île mystérieuse, luttant pour votre survie contre des créatures surnaturelles et des dangers imprévus.",
+        "dl": [
+            "https://buzzheavier.com/s2kxq0tkw2j6"
+        ],
+        "release_date": "2023",
+        "size": "11 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1070",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "SOUTH PARK: SNOW DAY",
+        "image": "https://sm.ign.com/ign_za/cover/s/south-park/south-park-snow-day_93kz.jpg",
+        "description": "SOUTH PARK: SNOW DAY est un jeu d'aventure inspiré de l'univers de South Park, où vous pourrez jouer avec les personnages dans des aventures délirantes pendant une journée de neige dans la ville.",
+        "dl": [
+            "https://trashbytes.net/f/GRpcDOuiYAA"
+        ],
+        "release_date": "2024",
+        "size": "28 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "STAR WARS: Dark Forces Remaster",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1020/768015044a0458a8a9f24d850f1adb4379ee7fb3837bf2f5.jpg",
+        "description": "STAR WARS: Dark Forces Remaster est une version remasterisée du classique jeu de tir à la première personne des années 90, vous mettant dans la peau de Kyle Katarn, un soldat de l'Alliance Rebelle combattant l'Empire Galactique.",
+        "dl": [
+            "https://megadb.net/rhh6j7kppj1l"
+        ],
+        "release_date": "2024",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4400",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Star Wars The Force Unleashed: Ultimate Sith Edition",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTYyMzMzNWItYzlmMS00ZWZmLThiYmEtYzUyYjg3YjJjMWRjXkEyXkFqcGc@._V1_.jpg",
+        "description": "Star Wars The Force Unleashed: Ultimate Sith Edition propose une histoire alternative où vous incarnez Starkiller, l'apprenti secret de Dark Vador, dans une quête pour anéantir les rebelles et prendre le contrôle de la galaxie.",
+        "dl": [
+            "https://buzzheavier.com/fg6udq637d5y"
+        ],
+        "release_date": "2009",
+        "size": "14 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.4 GHz",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 8600 GT",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Stardew Valley",
+        "image": "https://store-images.s-microsoft.com/image/apps.44413.65985311967005000.4f51b5e9-febf-4990-8951-33ba59b634c9.924253ef-36b2-4cc0-8bb1-9a97c88d4828",
+        "description": "Stardew Valley est un jeu de simulation où vous gérez une ferme, cultivez des récoltes, élevez des animaux et développez des relations avec les habitants d'un petit village. Un jeu apaisant et captivant qui vous plonge dans la gestion de votre propre domaine.",
+        "dl": [
+            "https://megadb.net/gvjknv99gkvy"
+        ],
+        "release_date": "2016",
+        "size": "600 Mo",
+        "min_requirements": {
+            "CPU": "Intel Pentium 4 2.0 GHz",
+            "RAM": "2 Go",
+            "GPU": "Intel HD Graphics",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false
     }
-
-
-
-
-
-
-
-
 
 
 
