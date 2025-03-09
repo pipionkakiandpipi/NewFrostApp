@@ -4770,7 +4770,64 @@
             "Storage": "25 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "Sackboy: A Big Adventure",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/TJiBEQMJ9qa93lWBu4sKScY9.png",
+        "description": "Sackboy: A Big Adventure est un jeu de plateforme d'aventure où les joueurs incarnent Sackboy dans un monde rempli de défis. Le jeu propose une aventure solo et un mode coopératif local ou en ligne pour résoudre des énigmes et affronter des ennemis dans un environnement dynamique.",
+        "dl": [
+            "https://buzzheavier.com/xgrwatqsm228"
+        ],
+        "release_date": "2020",
+        "size": "42 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 ou AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Saints Row",
+        "image": "https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24",
+        "description": "Saints Row est un jeu d'action-aventure qui permet aux joueurs de prendre le contrôle d'une bande criminelle dans la ville fictive de Santo Ileso. Le jeu combine exploration, combats et missions dans un monde ouvert où le joueur peut créer son propre personnage et façonner son aventure.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GNiKX0hfIAA="
+        ],
+        "release_date": "2022",
+        "size": "40 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4670 ou AMD Ryzen 5 1400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD Radeon RX 480",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Satisfactory",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8tfy.jpg",
+        "description": "Satisfactory est un jeu de simulation en monde ouvert où le joueur doit construire des usines automatisées pour récolter des ressources, fabriquer des produits et explorer un monde alien. Le jeu met l'accent sur la construction et la gestion d'infrastructures complexes.",
+        "dl": [
+            "https://gofile.io/d/M8IcSj"
+        ],
+        "release_date": "2020",
+        "size": "13 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3570K ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 780 ou AMD Radeon RX 470",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": true
     }
+
+
+
 
 
 
