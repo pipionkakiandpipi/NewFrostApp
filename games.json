@@ -5673,7 +5673,7 @@
     },
     {
         "title": "Ultimate Epic Battle Simulator 2",
-        "image": "https://media.senscritique.com/media/000020259476/0/ultimate_epic_battle_simulator_2.jpg",
+        "image": "https://i.playground.ru/e/TIG-Y3LZRZhSYgwYx9RVEQ.jpeg?414x574",
         "description": "Ultimate Epic Battle Simulator 2 est un jeu de simulation massif permettant de créer et d'observer des batailles épiques avec des milliers, voire des millions d'unités en temps réel. Testez différents scénarios et laissez libre cours à votre imagination stratégique.",
         "dl": [
             "https://megadb.net/tuf5et8zeifj"
@@ -5815,6 +5815,150 @@
         },
         "online": false,
         "mdp":"Installez et exécutez EPIC Games Launcher. Et ajoutez « Hello Neighbor Mod Kit » à votre bibliothèque. Exécutez le jeu Voidtrain"
+    },
+    {
+        "title": "Warhammer 40,000: Rogue Trader",
+        "image": "https://cdn1.epicgames.com/offer/cb88aea9aed742e4a911a65c4898d857/EGS_Warhammer40000RogueTrader_OwlcatGames_S2_1200x1600-8dfa0d14d08a40975cdf58694a03f55e",
+        "description": "Warhammer 40,000: Rogue Trader est un jeu de rôle tactique dans l'univers de Warhammer 40k. Explorez l'espace lointain en tant que Rogue Trader, engagez-vous dans des combats au tour par tour et prenez des décisions cruciales qui affecteront l'avenir de l'Empire de l'Humanité.",
+        "dl": [
+            "https://buzzheavier.com/ewfa2cx040d6"
+        ],
+        "release_date": "7 décembre 2023",
+        "size": "29 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7500 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "35 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "WARNO",
+        "image": "https://aussui.fra1.cdn.digitaloceanspaces.com/Gameskey/Steam/warno_poster_steam.webp",
+        "description": "WARNO est un jeu de stratégie en temps réel qui se déroule pendant la guerre froide, où vous dirigez des unités militaires dans des combats tactiques. Le jeu propose des mécaniques de gestion et de stratégie complexes dans des environnements réalistes.",
+        "dl": [
+            "https://buzzheavier.com/uio9zst2jiv0"
+        ],
+        "release_date": "20 janvier 2023",
+        "size": "43 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Watch Dogs 2",
+        "image": "https://image.api.playstation.com/cdn/EP0001/CUSA04294_00/4SWTZZ2ZXqYC6aYF71kmtXkZuOPFCrB8.png",
+        "description": "Watch Dogs 2 est un jeu d'action-aventure en monde ouvert où vous incarnez Marcus Holloway, un hacker talentueux dans la ville de San Francisco. Le jeu vous permet d'utiliser la technologie pour pirater divers systèmes et aider à lutter contre l'injustice.",
+        "dl": [
+            "https://buzzheavier.com/2u96bsppi26y"
+        ],
+        "release_date": "15 novembre 2016",
+        "size": "44 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400S ou AMD FX-6300",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Watch Dogs: Legion",
+        "image": "https://data.xxlgamer.com/products/4847/fbY7cK3V7UGlxs-big.jpg",
+        "description": "Watch Dogs: Legion est un jeu d'action-aventure en monde ouvert qui vous permet d'incarner n'importe quel citoyen de Londres. Grâce à un système de recrutement unique, vous pouvez recruter et contrôler des personnages aux compétences variées pour mener à bien des missions.",
+        "dl": [
+            "https://buzzheavier.com/3is42p5qk08o"
+        ],
+        "release_date": "29 octobre 2020",
+        "size": "100 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD Ryzen 5 1400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD Radeon RX 480",
+            "OS": "Windows 10/11",
+            "Storage": "110 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Wolfenstein: The New Order",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3004/V6rH21cN1JtpOt6Hk9wFBrJS.png",
+        "description": "Wolfenstein: The New Order est un jeu de tir à la première personne où vous incarnez BJ Blazkowicz, un soldat qui lutte contre un régime nazi qui a dominé le monde. Le jeu propose une action intense avec des armes variées et une intrigue captivante.",
+        "dl": [
+            "https://dd.buzzheavier.com/f/GG%2FGeIQnoAA="
+        ],
+        "release_date": "20 mai 2014",
+        "size": "42 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i7-920 ou AMD Phenom II X4 940",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460 ou AMD Radeon HD 6850",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Worms W.M.D",
+        "image": "https://image.api.playstation.com/cdn/EP4064/CUSA04022_00/DAyywhQEMaRv3o98rrEE0eyIpfJo5ixg.png",
+        "description": "Worms W.M.D est un jeu de stratégie au tour par tour où des vers armés jusqu'aux dents s'affrontent dans des environnements destructibles. Le jeu propose des armes et des véhicules uniques, ainsi que de nouveaux mécanismes de gameplay pour pimenter les batailles.",
+        "dl": [
+            "https://megadb.net/omefjn8uxzzt"
+        ],
+        "release_date": "23 août 2016",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-530 ou AMD Phenom II X4 960T",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce GTX 650 ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "WWE 2K24",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/0902/78cd23038921f6fc9a2935aaf4989b64fbf6f1bfce94bfae.png",
+        "description": "WWE 2K24 est un jeu de simulation de lutte professionnelle où les joueurs peuvent incarner leurs superstars préférées de la WWE. Le jeu propose des combats spectaculaires, des graphismes améliorés et de nouvelles mécaniques de gameplay.",
+        "dl": [
+            "https://buzzheavier.com/rl7945s1wh33"
+        ],
+        "release_date": "03 mars 2024",
+        "size": "95 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD Ryzen 5 1500X",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "120 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Youtubers Life 2",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1315/AxeimfRdrJ7IdIvmBE7huKL0.png",
+        "description": "Youtubers Life 2 est un jeu de simulation où les joueurs incarnent un créateur de contenu sur YouTube. Ils doivent gérer leur carrière, leurs réseaux sociaux, et leurs collaborations pour devenir l'influenceur ultime.",
+        "dl": [
+            "https://megadb.net/xbsjo8d20gcs"
+        ],
+        "release_date": "19 octobre 2021",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 ou AMD Ryzen 3 1200",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": false
     }
     
 
@@ -5825,29 +5969,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
 
 
     
