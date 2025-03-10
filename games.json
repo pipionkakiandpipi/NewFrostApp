@@ -5562,7 +5562,275 @@
             "Storage": "6 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Totally Accurate Battle Simulator",
+        "image": "https://store-images.s-microsoft.com/image/apps.44329.14176345306313891.79ca8837-5397-4838-85b6-4a8a9720856c.ee70365f-2fde-4714-a069-8c43500ef3bc",
+        "description": "Totally Accurate Battle Simulator est un jeu de simulation de bataille basé sur une physique déjantée. Les joueurs créent des armées absurdes et assistent à des combats hilarants entre différentes unités dans divers environnements.",
+        "dl": [
+            "https://megadb.net/cajutoqh5dvv"
+        ],
+        "release_date": "1 avril 2021",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 ou AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 670 ou AMD Radeon R9 270",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Totally Reliable Delivery Service",
+        "image": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-5a3e263755fa37296e09a29c2b97454be7a6836b-860x1148-085bbf75525211c635a7c5ad2853da2a.jpg",
+        "description": "Totally Reliable Delivery Service est un jeu de simulation multijoueur basé sur une physique hilarante. Livrez des colis seul ou avec des amis tout en affrontant des défis loufoques et des obstacles imprévisibles.",
+        "dl": [
+            "https://megadb.net/d/5m"
+        ],
+        "release_date": "1 avril 2020",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Trailmakers",
+        "image": "https://www.wog.ch/nas/cover_xl/pcd/pcd_trailmakers.jpg",
+        "description": "Trailmakers est un jeu de construction et d'exploration où les joueurs assemblent leurs propres véhicules à partir de blocs modulaires pour parcourir un monde ouvert rempli de défis et d'aventures.",
+        "dl": [
+            "https://buzzheavier.com/yd85ewuipe0m"
+        ],
+        "release_date": "18 septembre 2019",
+        "size": "7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4440 ou AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon R7 370",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Transport Fever 2",
+        "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TransportFever2_UrbanGames_S4_1200x1600-bef6585cd1b06984a51d8b6801580c08",
+        "description": "Transport Fever 2 est un jeu de simulation de transport où les joueurs développent un réseau de transport terrestre, maritime et aérien à travers différentes époques pour assurer le développement des villes et de l'économie.",
+        "dl": [
+            "https://buzzheavier.com/30ji143pqm4v"
+        ],
+        "release_date": "11 décembre 2019",
+        "size": "28 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 750 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "35 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "TUNIC",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0301/KSalsBYWb0IuDrdD1SbptAd6.png",
+        "description": "TUNIC est un jeu d'aventure isométrique où vous incarnez un petit renard explorant un vaste monde rempli de mystères, de donjons et d'ennemis redoutables. Inspiré des classiques du genre, il offre des combats exigeants et une exploration captivante.",
+        "dl": [
+            "https://megadb.net/5phktofnwm43"
+        ],
+        "release_date": "16 mars 2022",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K ou AMD Ryzen 3 1200",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Ultimate Chicken Horse",
+        "image": "https://s.pacn.ws/1/p/uq/ultimate-chicken-horse-553159.10.jpg?v=rlr4lm&width=800&crop=598,898",
+        "description": "Ultimate Chicken Horse est un jeu de plateforme multijoueur où les joueurs construisent ensemble un niveau tout en y jouant. Placez des pièges et des obstacles pour empêcher vos adversaires d'atteindre l'objectif, tout en essayant d'y parvenir vous-même !",
+        "dl": [
+            "https://megadb.net/wlswx80x86a0"
+        ],
+        "release_date": "4 mars 2016",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 ou AMD FX-6300",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce GTX 460 ou AMD Radeon HD 5750",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Ultimate Epic Battle Simulator 2",
+        "image": "https://media.senscritique.com/media/000020259476/0/ultimate_epic_battle_simulator_2.jpg",
+        "description": "Ultimate Epic Battle Simulator 2 est un jeu de simulation massif permettant de créer et d'observer des batailles épiques avec des milliers, voire des millions d'unités en temps réel. Testez différents scénarios et laissez libre cours à votre imagination stratégique.",
+        "dl": [
+            "https://megadb.net/tuf5et8zeifj"
+        ],
+        "release_date": "12 mai 2022",
+        "size": "13 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i7-4770K ou AMD Ryzen 5 1600",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce GTX 1070 ou AMD Radeon RX Vega 56",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "ULTRAKILL",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGIyZDE4OTYtNjBhOS00NzFkLTkyYWMtYzAzNWUxZThmMDBlXkEyXkFqcGc@._V1_.jpg",
+        "description": "ULTRAKILL est un FPS frénétique inspiré des jeux rétro comme DOOM et Quake. Affrontez des hordes d'ennemis en utilisant des armes puissantes et un gameplay basé sur le mouvement et les combos pour maximiser votre score.",
+        "dl": [
+            "https://gofile.io/d/aElxe6"
+        ],
+        "release_date": "3 septembre 2020",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "UNCHARTED: Legacy of Thieves Collection",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png",
+        "description": "UNCHARTED: Legacy of Thieves Collection regroupe les aventures de Nathan Drake et Chloe Frazer dans des versions remasterisées de UNCHARTED 4: A Thief's End et UNCHARTED: The Lost Legacy. Plongez dans des récits captivants, des paysages époustouflants et une action palpitante.",
+        "dl": [
+            "https://buzzheavier.com/lnbo0bforf7e"
+        ],
+        "release_date": "19 octobre 2022",
+        "size": "73 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4330 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon R9 290X",
+            "OS": "Windows 10/11",
+            "Storage": "90 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Undertale",
+        "image": "https://image.jeuxvideo.com/medias-sm/144430/1444298844-4196-jaquette-avant.png",
+        "description": "Undertale est un RPG indépendant où vous incarnez un enfant tombé dans un monde souterrain peuplé de monstres. Faites des choix qui influencent l'histoire et combattez ou épargnez vos ennemis grâce à un système unique.",
+        "dl": [
+            "https://megadb.net/s358a5o8s4l4"
+        ],
+        "release_date": "15 septembre 2015",
+        "size": "200 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo",
+            "RAM": "2 Go",
+            "GPU": "Carte graphique intégrée",
+            "OS": "Windows 10/11",
+            "Storage": "500 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Untitled Goose Game",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/0405/zqpKTik58BHcclOYA7YUnh4S.png",
+        "description": "Untitled Goose Game est un jeu d'infiltration dans lequel vous incarnez une oie qui sème la pagaille dans un village. Résolvez des énigmes tout en perturbant les habitants et en accomplissant des objectifs comiques.",
+        "dl": [
+            "https://megadb.net/sxctnbjhkmu9"
+        ],
+        "release_date": "20 septembre 2019",
+        "size": "400 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-3220 ou AMD A8-7600",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 550 Ti ou AMD Radeon HD 6770",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Valheim",
+        "image": "https://alloparadise.s3.eu-west-3.amazonaws.com/products/md/valheim.png",
+        "description": "Valheim est un jeu de survie en monde ouvert inspiré de la mythologie nordique. Explorez des forêts, construisez des bases, combattez des créatures mythologiques et progressez à travers un vaste monde généré procéduralement.",
+        "dl": [
+            "https://megadb.net/7cpzbjo3zupt"
+        ],
+        "release_date": "2 février 2021",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6300U ou AMD Ryzen 3 1200",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 500 ou AMD Radeon RX 500",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Viewfinder",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2910/e044ff6a8b014b8deba24a17924a445de8b1aab3430c8472.png",
+        "description": "Viewfinder est un jeu de puzzle visuel où vous explorez un monde rempli d'énigmes, en utilisant des photos et des illusions d'optique pour interagir avec l'environnement et résoudre des défis.",
+        "dl": [
+            "https://gofile.io/d/FQ21D9"
+        ],
+        "release_date": "30 avril 2024",
+        "size": "6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-7100 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon R9 380",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Voidtrain",
+        "image": "https://image.jeuxvideo.com/medias/163715/1637145840-5448-jaquette-avant.gif",
+        "description": "Voidtrain est un jeu de survie et d'aventure où vous voyagez à travers un monde mystérieux à bord d'un train flottant. Récupérez des ressources, construisez des structures et combattez des ennemis tout en explorant des paysages fantastiques.",
+        "dl": [
+            "https://megadb.net/9yape0uqku1e"
+        ],
+        "release_date": "11 mars 2023",
+        "size": "12 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6400 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false,
+        "mdp":"Installez et exécutez EPIC Games Launcher. Et ajoutez « Hello Neighbor Mod Kit » à votre bibliothèque. Exécutez le jeu Voidtrain"
     }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
