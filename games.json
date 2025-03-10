@@ -5418,34 +5418,151 @@
             "Storage": "20 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "The Mortuary Assistant",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0221/49f4f6d2b3f9f62529a6b7651f44882cdc0809536e5b80fd.png",
+        "description": "The Mortuary Assistant est un jeu d'horreur psychologique où le joueur incarne un employé de morgue chargé d'embaumer des corps tout en faisant face à des phénomènes paranormaux inquiétants. Entre possession démoniaque et rituels occultes, l'ambiance est angoissante et immersive.",
+        "dl": [
+            "https://megadb.net/yk168f3sjt9i"
+        ],
+        "release_date": "2 août 2022",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon R9 380",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "The Planet Crafter",
+        "image": "https://bleedingcool.com/wp-content/uploads/2024/03/Planet-Crafter-Main-Art-900x900.jpg",
+        "description": "The Planet Crafter est un jeu de survie et de terraformation en monde ouvert. Le joueur doit transformer une planète inhospitalière en un écosystème viable en récoltant des ressources, construisant des structures et modifiant l'environnement.",
+        "dl": [
+            "https://megadb.net/35ca6eon3rbj"
+        ],
+        "release_date": "24 mars 2022",
+        "size": "4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7500 ou AMD Ryzen 3 1300X",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 950 ou AMD Radeon R7 370",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "The Sims 4",
+        "image": "https://media.kasperskydaily.com/wp-content/uploads/sites/93/2016/03/06094920/ratings-sims4.jpg",
+        "description": "The Sims 4 est un jeu de simulation de vie où le joueur crée et contrôle des personnages dans un monde virtuel. Il peut construire des maisons, gérer les relations, les carrières et explorer différentes extensions pour enrichir l'expérience.",
+        "dl": [
+            "https://buzzheavier.com/7ai4xosalycp"
+        ],
+        "release_date": "2 septembre 2014",
+        "size": "66 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 650 ou AMD Radeon HD 7770",
+            "OS": "Windows 10/11",
+            "Storage": "75 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "The Stanley Parable: Ultra Deluxe",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2023/T4HUZHzWw6fDKyNBxHMcMGmF.png",
+        "description": "The Stanley Parable: Ultra Deluxe est une version étendue du jeu narratif culte. Le joueur incarne Stanley, un employé de bureau dont les choix influencent l’histoire, guidé (ou non) par une voix-off omniprésente et pleine d’humour.",
+        "dl": [
+            "https://megadb.net/o8fkxr2jbf67"
+        ],
+        "release_date": "27 avril 2022",
+        "size": "4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 650 ou AMD Radeon HD 7750",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "The Walking Dead: Destinies",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1513/a54dba795db07a2737310d900f15be48aed55d71354aa662.jpg",
+        "description": "The Walking Dead: Destinies est un jeu d'action-aventure qui permet aux joueurs de revivre l'histoire emblématique de la série en faisant des choix qui peuvent modifier le destin des personnages. Dans un monde post-apocalyptique envahi par les zombies, chaque décision peut mener à une nouvelle issue.",
+        "dl": [
+            "https://buzzheavier.com/hbqepkkkce7l"
+        ],
+        "release_date": "17 novembre 2023",
+        "size": "37 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K ou AMD Ryzen 5 1400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "45 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Titanfall 2",
+        "image": "https://image.api.playstation.com/cdn/EP0006/CUSA04013_00/Kl0b3oYp8EW9sEAvTNxDeOMAnwSJ7Zdt.png",
+        "description": "Titanfall 2 est un jeu de tir à la première personne qui mêle combats dynamiques et affrontements spectaculaires entre pilotes et titans, des mechas géants. Il propose une campagne solo immersive et un mode multijoueur compétitif intense.",
+        "dl": [
+            "https://buzzheavier.com/dx2fzxxlbxdf"
+        ],
+        "release_date": "28 octobre 2016",
+        "size": "49 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6300T ou AMD FX-4350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "60 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Tom Clancy’s Rainbow Six Siege",
+        "image": "https://static.muve.pl/uploads/product-cover/0041/7939/cover.jpg",
+        "description": "Tom Clancy’s Rainbow Six Siege est un jeu de tir tactique multijoueur axé sur des affrontements en équipe. Les joueurs incarnent des agents spécialisés avec des capacités uniques et doivent utiliser stratégie et coordination pour remporter la victoire.",
+        "dl": [
+            "https://buzzheavier.com/78jt3u9xlpk2"
+        ],
+        "release_date": "1 décembre 2015",
+        "size": "130 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-560 ou AMD Phenom II X4 945",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 460 ou AMD Radeon HD 5870",
+            "OS": "Windows 10/11",
+            "Storage": "150 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Tomb Raider I-III Remastered Starring Lara Croft",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0221/57e41521e1e91f38cf6ce3ce64cc2116522c302a30c1ec6c.png",
+        "description": "Tomb Raider I-III Remastered Starring Lara Croft est une compilation remastérisée des trois premiers jeux de la saga culte. Redécouvrez les aventures emblématiques de Lara Croft avec des graphismes modernisés et des améliorations de gameplay.",
+        "dl": [
+            "https://buzzheavier.com/u81pp6wjhwh1"
+        ],
+        "release_date": "14 février 2024",
+        "size": "4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-4300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
