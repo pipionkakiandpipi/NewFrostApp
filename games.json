@@ -5959,7 +5959,64 @@
             "Storage": "4 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "BioShock Infinite",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307sTZ0IfHm2mu2m-Bv67cCZdanpm3BrdhlSEdrfCM_Lk4_LU8iLKiFXzeca0FX_xWI8YQTxGjcbyQjPENYMTj7gE6a0kt.png",
+        "description": "BioShock Infinite est un jeu de tir à la première personne se déroulant dans la ville flottante de Columbia. Vous incarnez Booker DeWitt, un détective chargé de retrouver une mystérieuse jeune femme nommée Elizabeth. Le jeu mêle action, exploration et pouvoirs surnaturels.",
+        "dl": [
+            "https://buzzheavier.com/tlvke8hv4ddu"
+        ],
+        "release_date": "26 mars 2013",
+        "size": "40 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E4600 ou AMD Athlon 64 X2 5200+",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 8800 GT ou AMD Radeon HD 3870",
+            "OS": "Windows 10/11",
+            "Storage": "45 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Granny",
+        "image": "https://cdn-bgp.bluestacks.com/BGP/fr/gametiles_com.dvloper.granny.jpg",
+        "description": "Granny est un jeu d'horreur et de survie où vous êtes enfermé dans une maison sinistre. Vous devez explorer, résoudre des énigmes et éviter Granny, une vieille femme terrifiante qui vous traque à chaque instant. Saurez-vous vous échapper avant qu'il ne soit trop tard ?",
+        "dl": [
+            "https://megadb.net/9lwkoo3m2fgp"
+        ],
+        "release_date": "24 novembre 2017",
+        "size": "700 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3 ou équivalent",
+            "RAM": "2 Go",
+            "GPU": "Intel HD Graphics 4000",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Lost Records: Bloom & Rage",
+        "image": "https://bigwax.io/cdn/shop/files/03_Pochette_B_R_1000x.png?v=1738855643",
+        "description": "Lost Records: Bloom & Rage est un jeu d'aventure développé par Don't Nod Montréal, se déroulant à la fois en 1995 et en 2022. Il suit l'histoire de quatre adolescentes dans un groupe punk, explorant les complexités de l'amitié et des secrets du passé.",
+        "dl": [
+            "https://buzzheavier.com/a67qp8b59ing"
+        ],
+        "release_date": "18 février 2025",
+        "size": "41 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD Ryzen 5 1500X",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
     
 
     
