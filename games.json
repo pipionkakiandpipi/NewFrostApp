@@ -6013,7 +6013,104 @@
             "Storage": "50 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Neon White",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1823/inNCaoSDd2pF8YY7koHm0e5U.png",
+        "description": "Neon White est un jeu d'action et de plateformes rapide mélangeant FPS et deck-building. Incarnez White, un assassin tiré de l'enfer pour affronter d'autres tueurs célestes dans une compétition visant à obtenir une place au paradis.",
+        "dl": [
+            "https://megadb.net/g6hl3xugdcii"
+        ],
+        "release_date": "16 juin 2022",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-6300",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Control",
+        "image": "https://cdn1.epicgames.com/offer/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
+        "description": "Control est un jeu d'action-aventure à la troisième personne développé par Remedy Entertainment. Incarnez Jesse Faden et explorez le Bureau Fédéral du Contrôle, un bâtiment mystérieux abritant des phénomènes paranormaux et des forces surnaturelles.",
+        "dl": [
+            "https://gofile.io/d/7fjqpT"
+        ],
+        "release_date": "27 août 2019",
+        "size": "26 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4690 ou AMD FX-4350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 780 ou AMD Radeon R9 280X",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "DEATH STRANDING DIRECTOR’S CUT",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2214/Trdth4yKbz45CVH7VGCT1INp.png",
+        "description": "DEATH STRANDING DIRECTOR’S CUT est une version améliorée du jeu d'action-aventure de Hideo Kojima, avec des graphismes retravaillés, des fonctionnalités supplémentaires et des missions inédites. Vous incarnez Sam Porter Bridges, qui doit reconnecter les États-Unis après une apocalypse mystérieuse.",
+        "dl": [
+            "https://buzzheavier.com/im7ze73zxzwr"
+        ],
+        "release_date": "24 septembre 2021",
+        "size": "77 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3470 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "90 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Mass Effect 1 LE",
+        "image": "https://image.jeuxvideo.com/medias/161979/1619790031-5334-jaquette-avant.jpg",
+        "description": "Mass Effect 1 LE (Legendary Edition) est une version remastérisée du célèbre jeu de rôle d'action où vous incarnez le Commandant Shepard dans une mission intergalactique pour sauver la galaxie. Cette édition comprend des graphismes améliorés, tout le contenu téléchargeable et des améliorations de gameplay.",
+        "dl": [
+            "https://buzzheavier.com/ncel6hqk6155"
+        ],
+        "release_date": "14 mai 2021",
+        "size": "23 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3570 ou AMD Ryzen 3 3200G",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760 ou AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Dishonored 2",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2918/1UfdyQmXpeSdoFE104sNkLd4.png",
+        "description": "Dishonored 2 est un jeu d'action-aventure où les joueurs prennent le rôle de l'une des deux protagonistes, Emily Kaldwin ou Corvo Attano, dans un monde steampunk. Avec une grande liberté d'action, le jeu offre un gameplay riche en exploration, furtivité et manipulation des pouvoirs surnaturels.",
+        "dl": [
+            "https://buzzheavier.com/ytlmbwnwnets"
+        ],
+        "release_date": "11 novembre 2016",
+        "size": "39 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 ou AMD FX-8320",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7900",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
     }
+    
+
+
+
+
+    
+
 
 
 
