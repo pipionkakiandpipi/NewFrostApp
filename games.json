@@ -6103,7 +6103,84 @@
             "Storage": "50 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Assetto Corsa EVO",
+        "image": "https://cdn.joybuggy.com/img/p/2/2/3/1/5/7/assetto-corsa-evo.jpg?w=616&h=353&canvas.width=616&canvas.height=353",
+        "description": "Assetto Corsa EVO est un jeu de simulation de course offrant une physique réaliste, une large gamme de véhicules et des circuits détaillés. Avec un support pour la réalité virtuelle et des options de personnalisation avancées, il est conçu pour les amateurs de course automobile à la recherche d'une expérience immersive.",
+        "dl": [
+            "https://gofile.io/d/bsAeHO"
+        ],
+        "release_date": "16 janvier 2025",
+        "size": "16 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD FX-8120",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD Radeon R9 290",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Assetto Corsa Competizione",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2922/42a58ec7aff10990d3af0c968e9223b9f3b0e1aa7c516ae8.png",
+        "description": "Assetto Corsa Competizione est une simulation de course automobile officielle des séries GT World Challenge. Avec un réalisme poussé, une physique avancée et une gestion dynamique de la météo, il offre une immersion complète pour les amateurs de sports mécaniques.",
+        "dl": [
+            "https://gofile.io/d/oiocNk"
+        ],
+        "release_date": "29 mai 2019",
+        "size": "20 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD FX-8120",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460 ou AMD Radeon HD 7770",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "BLEACH Rebirth of Souls",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2400/3eb8086ba39c55661548a320c65ad875ba97079b0fd4f617.png",
+        "description": "BLEACH Rebirth of Souls est un jeu de combat basé sur le célèbre anime 'Bleach'. Développé par Tamsoft Corporation et édité par Bandai Namco Entertainment, il permet aux joueurs d'incarner leurs personnages favoris de la série dans des affrontements épiques.",
+        "dl": [
+            "https://gofile.io/d/3d9fVX"
+        ],
+        "release_date": "21 mars 2025",
+        "size": "72 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i7-9700K ou AMD Ryzen 5 3600",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce RTX 2070 ou AMD Radeon VII",
+            "OS": "Windows 10/11",
+            "Storage": "75 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Nine Sols",
+        "image": "https://store-images.s-microsoft.com/image/apps.45976.14000456863863255.e1180b2d-029d-4c02-9385-6ad73421ad63.508279c9-acdd-45b3-9321-9d8f45feb958",
+        "description": "Nine Sols est un jeu d'action et de plateforme en 2D mêlant des combats inspirés de Sekiro et une direction artistique unique inspirée de la culture asiatique. Développé par Red Candle Games, il propose une aventure intense dans un monde cyber-fantastique.",
+        "dl": [
+            "https://gofile.io/d/g3JBl5"
+        ],
+        "release_date": "29 mai 2024",
+        "size": "7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4670K ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon R9 280",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
     }
+    
+
+
+
+
     
 
 
