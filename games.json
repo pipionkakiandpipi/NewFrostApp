@@ -6409,7 +6409,26 @@
             "Storage": "30 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Cataclismo",
+        "image": "https://alloparadise.s3.eu-west-3.amazonaws.com/products/md/cataclismo-steam.png",
+        "description": "Cataclismo est un jeu de stratégie et de construction où les joueurs doivent ériger des forteresses pour survivre à des hordes d'ennemis. Il mêle gestion des ressources et combats tactiques dans un univers sombre et médiéval.",
+        "dl": [
+            "https://megadb.net/4pj22gb6nvn0"
+        ],
+        "release_date": "16 juillet 2024",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6400 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
     }
+
 
     
 
