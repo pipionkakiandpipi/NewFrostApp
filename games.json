@@ -6427,7 +6427,26 @@
             "Storage": "5 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "The Invincible",
+        "image": "https://cdn1.epicgames.com/offer/cf318a791de349f2b724136be105a6f1/EGS_TheInvincible_StarwardIndustries_S2_1200x1600-b27ebfcdde3cb97013f69ff5f4621025",
+        "description": "The Invincible est un jeu narratif de science-fiction inspiré du roman de Stanisław Lem. Le joueur incarne un scientifique en mission sur une planète mystérieuse et hostile, où il devra explorer, résoudre des énigmes et survivre.",
+        "dl": [
+            "https://gofile.io/d/lceT6a"
+        ],
+        "release_date": "6 novembre 2023",
+        "size": "18 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400 ou AMD Ryzen 5 2600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": false
     }
+
 
 
     
