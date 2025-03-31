@@ -6391,7 +6391,26 @@
             "Storage": "2 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "inZOI",
+        "image": "https://sm.ign.com/ign_fr/cover/i/inzoi/inzoi_frq8.jpg",
+        "description": "inZOI est un simulateur de vie qui permet aux joueurs de créer et personnaliser leur propre monde. Grâce à des graphismes réalistes et une grande liberté d'action, il offre une expérience immersive unique.",
+        "dl": [
+            "https://gofile.io/d/BwgaS2"
+        ],
+        "release_date": "22 mars 2024",
+        "size": "23 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400 ou AMD Ryzen 5 2600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
     }
+
     
 
     
