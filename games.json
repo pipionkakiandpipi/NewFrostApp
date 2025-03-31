@@ -6463,7 +6463,26 @@
             "Storage": "12 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Life is Strange Remastered",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1412/bJYCCmymxvgviuuolfOx8srg.png",
+        "description": "Life is Strange Remastered est une version améliorée du jeu narratif acclamé, avec des graphismes retravaillés et des animations améliorées. Suivez l'histoire de Max Caulfield, une étudiante en photographie capable de remonter le temps, et découvrez les conséquences de vos choix.",
+        "dl": [
+            "https://1fichier.com/?68f0dhg9267n6xebvdm7"
+        ],
+        "release_date": "1 février 2022",
+        "size": "18 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 ou AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": false
     }
+
 
 
 
