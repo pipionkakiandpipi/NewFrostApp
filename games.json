@@ -6175,7 +6175,245 @@
             "Storage": "10 Go d'espace libre"
         },
         "online": false
-    }
+    },
+    {
+        "title": "Far Cry New Dawn",
+        "image": "https://cdn1.epicgames.com/offer/cumin/FCB_StorePortrait_1200x1600_1200x1600-89a688a166ecb85c46cddefc7aa91b44",
+        "description": "Far Cry New Dawn est un jeu de tir à la première personne développé par Ubisoft. Se déroulant après une catastrophe nucléaire, il propose un monde ouvert post-apocalyptique où le joueur doit affronter les ravageurs et reconstruire la civilisation.",
+        "dl": [
+            "https://1fichier.com/?ehcmx546frqwnk6u1vgg"
+        ],
+        "release_date": "15 février 2019",
+        "size": "32 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 ou AMD FX-6350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 670 ou AMD Radeon R9 270X",
+            "OS": "Windows 10/11",
+            "Storage": "40 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Schedule I",
+        "image": "https://cdn.cdkeys.com/700x700/media/catalog/product/s/c/schedule_i_cdkeys.png",
+        "description": "Schedule I est un jeu indépendant qui plonge le joueur dans un univers sombre et oppressant, où il doit survivre à des expériences mystérieuses et résoudre des énigmes complexes.",
+        "dl": [
+            "https://gofile.io/d/4dHe93"
+        ],
+        "release_date": "24 mars 2025",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Bloons TD 6",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWM2ZDRiMjMtMTk5Mi00ZDMyLTk1NmMtZjI1NTlmMzQ2YTE0XkEyXkFqcGc@._V1_.jpg",
+        "description": "Bloons TD 6 est un jeu de tower defense développé et édité par Ninja Kiwi. Le joueur doit placer des tours stratégiquement pour éclater les vagues de ballons ennemis en utilisant différentes capacités et améliorations.",
+        "dl": [
+            "https://gofile.io/d/18rzwK"
+        ],
+        "release_date": "14 juin 2018",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 650 ou AMD Radeon HD 7750",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Wildcat Gun Machine",
+        "image": "https://cdn1.epicgames.com/spt-assets/d92266115f8d4d5680562d993435daa5/download-wildcat-gun-machine-offer-tg9yg.jpg",
+        "description": "Wildcat Gun Machine est un dungeon crawler frénétique où le joueur affronte des hordes d'ennemis avec un large arsenal d’armes. Le jeu propose des combats intenses et un gameplay basé sur l'esquive et la précision.",
+        "dl": [
+            "https://megadb.net/j5b5k08mo9sj"
+        ],
+        "release_date": "04 mai 2022",
+        "size": "800 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3470 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon R7 370",
+            "OS": "Windows 10/11",
+            "Storage": "1,5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Placid Plastic Duck Simulator",
+        "image": "https://cdn1.epicgames.com/spt-assets/9f8dc3993c9e45ac8204f93849010d60/placid-plastic-duck-simulator-e8y98.png",
+        "description": "Placid Plastic Duck Simulator est une expérience relaxante où le joueur observe des canards en plastique flotter paisiblement dans différentes piscines, avec des interactions amusantes et des surprises à découvrir.",
+        "dl": [
+            "https://megadb.net/qcudw6jgvjm9"
+        ],
+        "release_date": "08 juillet 2022",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 650 ou AMD Radeon HD 7750",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "MiniGolf Maker",
+        "image": "https://assetsio.gnwcdn.com/co3oek.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+        "description": "MiniGolf Maker est un jeu de mini-golf où les joueurs peuvent créer, partager et jouer sur des parcours uniques. Avec un éditeur de niveaux complet, il offre une grande liberté de personnalisation.",
+        "dl": [
+            "https://megadb.net/o9468jm80x43"
+        ],
+        "release_date": "22 mars 2019",
+        "size": "3,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 650 ou AMD Radeon HD 7750",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "To the Moon",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2717/cef2b8661ea679e312ead85ff2a11e7312473e13f3ab5d1c.png",
+        "description": "To the Moon est un jeu d'aventure narratif développé par Freebird Games. Il suit deux docteurs explorant les souvenirs d’un homme mourant afin de réaliser son dernier souhait : aller sur la Lune.",
+        "dl": [
+            "https://megadb.net/t74exe0plpi8"
+        ],
+        "release_date": "01 novembre 2011",
+        "size": "200 Mo",
+        "min_requirements": {
+            "CPU": "Intel Pentium 4 ou équivalent",
+            "RAM": "1 Go",
+            "GPU": "Carte graphique intégrée compatible DirectX 9",
+            "OS": "Windows 10/11",
+            "Storage": "500 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "NEOGEO POCKET COLOR SELECTION Vol. 1",
+        "image": "https://media.senscritique.com/media/000020267959/300/neogeo_pocket_color_selection_vol_1.jpg",
+        "description": "NEOGEO POCKET COLOR SELECTION Vol. 1 est une compilation de jeux classiques de la console portable de SNK. Elle regroupe plusieurs titres emblématiques, offrant aux joueurs une expérience rétro revisitée.",
+        "dl": [
+            "https://megadb.net/42tpa12kvg08"
+        ],
+        "release_date": "17 mars 2021",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-4300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GT 640 ou AMD Radeon HD 7750",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Red Wings: American Aces",
+        "image": "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_download_software/1x1_NSwitchDS_RedWingsAmericanAces_image500w.jpg",
+        "description": "Red Wings: American Aces est un jeu d'arcade aérien qui plonge les joueurs dans des combats de la Première Guerre mondiale. Avec un mode solo et multijoueur, il offre des affrontements aériens dynamiques et stratégiques.",
+        "dl": [
+            "https://megadb.net/z5xa9y0c8u2i"
+        ],
+        "release_date": "31 mars 2022",
+        "size": "1,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "BIT.TRIP RUNNER",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2020/bb034a85cfab7b612da5f65f6caab8f7654a454a43c0c4f5.jpg",
+        "description": "BIT.TRIP RUNNER est un jeu de plateforme rythmique où le joueur contrôle un personnage qui court automatiquement. Le but est de sauter, glisser et éviter des obstacles en synchronisation avec la musique pour réussir les niveaux.",
+        "dl": [
+            "https://megadb.net/1ikgj2adb99e"
+        ],
+        "release_date": "11 mai 2010",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo ou AMD Athlon 64 X2",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 8600 GT ou AMD Radeon HD 3600",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Moo Lander",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2215/PyHW7pmPGqVNYhO8VkVYlW2G.png",
+        "description": "Moo Lander est un jeu d'aventure où le joueur incarne un extraterrestre qui doit explorer des planètes pour récupérer des ressources précieuses tout en combattant des créatures hostiles. Le jeu mêle exploration et combat dans un univers unique.",
+        "dl": [
+            "https://megadb.net/h9bclaryzq53"
+        ],
+        "release_date": "28 juin 2021",
+        "size": "1,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "The Binding of Isaac: Repentance",
+        "image": "https://cdn1.epicgames.com/dbf5337d024e457bac68f2059112da86/offer/EGS_TheBindingofIsaacRepentance_NicalisIncEdmundMcmillen_S2-1200x1600-eb480826546ffb2ed1560ceec262b615.jpg",
+        "description": "The Binding of Isaac: Repentance est une extension majeure du jeu d'action-RPG roguelike The Binding of Isaac. Il introduit de nouveaux niveaux, ennemis, objets et personnages, tout en apportant de nombreuses améliorations à l'expérience de jeu originale.",
+        "dl": [
+            "https://megadb.net/spyxjx0w83yr"
+        ],
+        "release_date": "31 mars 2021",
+        "size": "1,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2000 ou AMD Ryzen 3 1200",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 560 ou AMD Radeon HD 6870",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": true
+    },
+    
+
+    
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
     
 
 
