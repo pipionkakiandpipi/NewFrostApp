@@ -6445,7 +6445,26 @@
             "Storage": "25 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Drive Beyond Horizons",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8hss.jpg",
+        "description": "Drive Beyond Horizons est un jeu de course et d'exploration en monde ouvert où les joueurs peuvent parcourir de vastes paysages, relever des défis et personnaliser leurs véhicules pour affronter des terrains variés.",
+        "dl": [
+            "https://gofile.io/d/jQ73iW"
+        ],
+        "release_date": "15 mars 2024",
+        "size": "8 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400 ou AMD Ryzen 5 2600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "12 Go d'espace libre"
+        },
+        "online": false
     }
+
 
 
 
