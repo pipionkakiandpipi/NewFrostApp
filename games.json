@@ -6517,7 +6517,26 @@
             "Storage": "10 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "DeepWeb Simulator",
+        "image": "https://hisgames.org/images6/5/DeepWeb_Simulator-1.jpg",
+        "description": "DeepWeb Simulator est un jeu où les joueurs explorent les mystères du Dark Web. Le but est de naviguer à travers des sites secrets, récupérer des informations sensibles et éviter les dangers qui guettent dans les coins sombres de l'Internet.",
+        "dl": [
+            "https://1fichier.com/?w1j94u8vfr05yfmf3c0k"
+        ],
+        "release_date": "10 octobre 2023",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4100 ou AMD Ryzen 3 1200",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou AMD Radeon RX 460",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
     }
+
 
 
 
