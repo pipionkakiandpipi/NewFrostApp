@@ -6199,7 +6199,7 @@
         "image": "https://cdn.cdkeys.com/700x700/media/catalog/product/s/c/schedule_i_cdkeys.png",
         "description": "Schedule I est un jeu indépendant qui plonge le joueur dans un univers sombre et oppressant, où il doit survivre à des expériences mystérieuses et résoudre des énigmes complexes.",
         "dl": [
-            "https://gofile.io/d/4dHe93"
+            "https://gofile.io/d/wtPxac"
         ],
         "release_date": "24 mars 2025",
         "size": "2 Go",
@@ -6499,7 +6499,26 @@
             "Storage": "5 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Thief Simulator 2",
+        "image": "https://products.eneba.games/resized-products/Gdw_UKgKTtbgRaSqtlV_Xoqy4F3bUABxtVztUhCHy-8_350x200_1x-0.jpg",
+        "description": "Thief Simulator 2 est un jeu de simulation où les joueurs incarnent un voleur. Vous devrez explorer des environnements urbains, planifier des cambriolages, voler des objets et éviter les autorités tout en développant vos compétences.",
+        "dl": [
+            "https://gofile.io/d/rJwCr9"
+        ],
+        "release_date": "14 juin 2024",
+        "size": "7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7400 ou AMD Ryzen 3 2200G",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 ou AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
     }
+
 
 
 
