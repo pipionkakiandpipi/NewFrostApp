@@ -6481,7 +6481,26 @@
             "Storage": "25 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Yasuke Simulator",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdBy8nu3fFwSJNylY8Ww9OduqWWZpxUPiEHI5vSsHvSpo612wdojujvxql6Doy9uGxqY&usqp=CAU",
+        "description": "Yasuke Simulator est un jeu d'action et d'aventure inspiré de l'histoire du célèbre samouraï Yasuke. Incarnez un guerrier légendaire, explorez le Japon féodal et combattez pour votre honneur.",
+        "dl": [
+            "https://megadb.net/346kta8uxm40"
+        ],
+        "release_date": "10 avril 2024",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6400 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD Radeon RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
     }
+
 
 
 
