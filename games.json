@@ -6535,7 +6535,83 @@
             "Storage": "2 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "FINAL FANTASY XVI",
+        "image": "https://image.jeuxvideo.com/medias/160396/1603960843-5635-jaquette-avant.jpg",
+        "description": "FINAL FANTASY XVI est un RPG d'action épique qui plonge les joueurs dans le royaume de Valisthea, déchiré par des conflits entre nations et dominé par les porteurs des Primordiaux. Incarnez Clive Rosfield dans une quête de vengeance et de destinée.",
+        "dl": [
+            "https://1fichier.com/?g8tcmlcbkqk733b1ezbn"
+        ],
+        "release_date": "22 juin 2023",
+        "size": "165 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i7-8700K ou AMD Ryzen 5 3600X",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce RTX 2060 ou AMD Radeon RX 5700",
+            "OS": "Windows 10/11",
+            "Storage": "200 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Golf Club Wasteland",
+        "image": "https://image.jeuxvideo.com/medias-sm/152959/1529588312-367-jaquette-avant.jpg",
+        "description": "Golf Club Wasteland est un jeu de golf dystopique où la Terre est devenue un terrain de jeu désertique pour les ultra-riches. Incarnez un golfeur solitaire explorant les ruines de la civilisation humaine à travers des parcours intrigants et mélancoliques.",
+        "dl": [
+            "https://megadb.net/ngn3x4d09sv4"
+        ],
+        "release_date": "3 septembre 2021",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2120 ou AMD FX-4100",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Shovel Knight Dig",
+        "image": "https://assets-prd.ignimgs.com/2022/09/23/shovel-knight-dig-button-1663954253764.jpg",
+        "description": "Shovel Knight Dig est un jeu de plateforme roguelike où le célèbre chevalier à la pelle doit creuser profondément pour affronter des ennemis redoutables, découvrir des trésors et stopper le machiavélique Drill Knight.",
+        "dl": [
+            "https://megadb.net/ttkrshfjskyv"
+        ],
+        "release_date": "23 septembre 2022",
+        "size": "300 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-4300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 ou AMD Radeon HD 7770",
+            "OS": "Windows 10/11",
+            "Storage": "500 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Balatro",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/07b7236708c1c0791eb7aaa6601d014f6a2b5b69b0bcda9f.png",
+        "description": "Balatro est un jeu de cartes roguelike où les joueurs doivent constituer des mains stratégiques en combinant des cartes de poker et des effets uniques pour affronter des adversaires redoutables.",
+        "dl": [
+            "https://megadb.net/z4u1c9cgnyhm"
+        ],
+        "release_date": "20 février 2024",
+        "size": "100 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-4300",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics 4000 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "300 Mo d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
 
 
 
