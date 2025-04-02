@@ -6607,7 +6607,83 @@
             "Storage": "300 Mo d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "R.E.P.O.",
+        "image": "https://images.g2a.com/323x433/1x1x1/repo-p10000510013/33d5982d7aca4b5ebffc8f63",
+        "description": "R.E.P.O. est un jeu d'action et d'exploration où vous incarnez un agent de récupération chargé de récupérer des objets précieux dans des environnements hostiles remplis de dangers et de mystères.",
+        "dl": [
+            "https://gofile.io/d/iWSIOl"
+        ],
+        "release_date": "15 mars 2024",
+        "size": "400 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-4300",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics 4000 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "700 Mo d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "MYRIAD DEATH",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9ksl.jpg",
+        "description": "MYRIAD DEATH est un jeu d'action intense où les joueurs affrontent des hordes d'ennemis dans un univers stylisé et dynamique. Chaque partie est un défi tactique mêlant réflexes et prise de décision rapide.",
+        "dl": [
+            "https://megadb.net/h51z8r1x5kic"
+        ],
+        "release_date": "12 avril 2024",
+        "size": "200 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-4300",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics 4000 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "500 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Ranch Simulator Build, Farm, Hunt",
+        "image": "https://i.gadgets360cdn.com/products/large/EGS-RanchSimulator-ToxicDog-S2-1200x1600-2dba2a702616b164ae27196736256870-1200x1600-2dba2a702616b164ae27196736256870-1000x1333-1701344310.jpg",
+        "description": "Ranch Simulator Build, Farm, Hunt est un jeu de simulation où vous devez rénover un ranch délabré, élever du bétail, cultiver des terres et partir à la chasse pour survivre dans un environnement ouvert et réaliste.",
+        "dl": [
+            "https://gofile.io/d/dviwEu"
+        ],
+        "release_date": "04 mars 2021",
+        "size": "10 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-3570K ou AMD FX-8310",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760 ou AMD Radeon R9 280",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Frostpunk 2",
+        "image": "https://cdn1.epicgames.com/offer/32bc7c6aaecd40eeb5f58bb83dba1c05/EGS_Frostpunk2_11bitstudios_S2_1200x1600-8b452490754cb4a4fe1a983c533cfb5d",
+        "description": "Frostpunk 2 est un jeu de gestion et de survie qui se déroule dans un monde glacial où vous devez guider votre ville à travers des crises politiques et des défis environnementaux pour assurer la survie de votre population.",
+        "dl": [
+            "https://gofile.io/d/97fwGA"
+        ],
+        "release_date": "25 juillet 2024",
+        "size": "11 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K ou AMD Ryzen 5 1600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "16 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
 
 
 
