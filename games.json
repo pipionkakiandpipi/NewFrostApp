@@ -6679,7 +6679,26 @@
             "Storage": "16 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "The Elder Scrolls V: Skyrim Anniversary Edition",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2614/XL4wR1xTkKMsz084z910rYPL.jpg",
+        "description": "The Elder Scrolls V: Skyrim Anniversary Edition est une version enrichie du célèbre RPG en monde ouvert de Bethesda. Elle comprend le jeu de base, les extensions officielles ainsi qu'une grande sélection de contenu additionnel du Creation Club.",
+        "dl": [
+            "https://gofile.io/d/X6iffL"
+        ],
+        "release_date": "11 novembre 2021",
+        "size": "17 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K ou AMD Ryzen 5 1400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 970 ou AMD RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": false
     }
+
 
 
 
