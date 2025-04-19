@@ -692,7 +692,7 @@
         "image": "https://products.eneba.games/resized-products/EDf5URdyBQXPkHs2Frdr-UicraSenMbtZhXBlNzbWL0_350x200_3x-0.jpeg",
         "description": "BeamNG.drive est une simulation automobile qui se veut très réaliste. Il parvient à recréer avec quasi exactitude le comportement réel de plusieurs types de véhicules. Plusieurs modes de jeu allant des simples courses contre l'IA au mode libre / exploration sont disponibles. Son fort accent sur le coté sandbox donne l'occasion de créer des situations spectaculaires.",
         "dl": [
-            "https://buzzheavier.com/gokj4rwbq9fb"
+            "https://buzzheavier.com/zstpnvswsigh"
             
         ],
         "release_date": "29 mai 2015",
@@ -6613,7 +6613,7 @@
         "image": "https://images.g2a.com/323x433/1x1x1/repo-p10000510013/33d5982d7aca4b5ebffc8f63",
         "description": "R.E.P.O. est un jeu d'action et d'exploration où vous incarnez un agent de récupération chargé de récupérer des objets précieux dans des environnements hostiles remplis de dangers et de mystères.",
         "dl": [
-            "https://datanodes.to/7664igv4y7qv/REPO_-_SteamGG.NET.zip"
+            "https://buzzheavier.com/w8go0wtix504"
         ],
         "release_date": "15 mars 2024",
         "size": "400 Mo",
@@ -6697,7 +6697,86 @@
             "Storage": "25 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "The Last of Us Part II Remastered",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/315718bce7eed62e3cf3fb02d61b81ff1782d6b6cf850fa4.png",
+        "description": "The Last of Us Part II Remastered est une version améliorée du jeu d'action-aventure acclamé de Naughty Dog. Cette édition remastérisée offre des graphismes retravaillés, des temps de chargement réduits et de nouveaux contenus tels que le mode No Return.",
+        "dl": [
+            "https://buzzheavier.com/tcibtnfemphk"
+        ],
+        "release_date": "19 janvier 2024",
+        "size": "103 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i7-4770K ou AMD Ryzen 5 1500X",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GTX 1060 6GB ou AMD RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "120 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Taxi Life: A City Driving Simulator",
+        "image": "https://cdn1.epicgames.com/offer/659883a1ecfc4aeeb5fb69dd4688e734/EGS_TaxiLifeACityDrivingSimulator_Simteract_S2_1200x1600-01eb1ee7f3ff396cff9347719eb3394c",
+        "description": "Taxi Life: A City Driving Simulator est un jeu de simulation où vous incarnez un chauffeur de taxi dans une grande ville dynamique. Gérez vos courses, respectez le code de la route et développez votre entreprise tout en explorant un environnement urbain vivant.",
+        "dl": [
+            "https://gofile.io/d/EBBjrE"
+        ],
+        "release_date": "07 mars 2024",
+        "size": "4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4690 ou AMD FX-8370",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 970 ou AMD RX 570",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "NARUTO TO BORUTO: SHINOBI STRIKER",
+        "image": "https://image.api.playstation.com/cdn/UP0700/CUSA08789_00/UYMVKoryxmjlsE6UPjhh0cKFRjyAJGa8.png",
+        "description": "NARUTO TO BORUTO: SHINOBI STRIKER est un jeu de combat multijoueur en ligne qui plonge les joueurs dans l’univers de Naruto. Formez votre équipe de quatre shinobis et affrontez d'autres équipes dans des arènes dynamiques avec un gameplay axé sur la coopération et la stratégie.",
+        "dl": [
+            "https://pd.cybar.xyz/GgijnaHM"
+        ],
+        "release_date": "30 août 2018",
+        "size": "14 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K ou AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "18 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "A Dance of Fire and Ice",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGI3ZjU0ZjktNWM3ZC00ZGFlLThjNGQtNzViMDI5MGI1ZmE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "A Dance of Fire and Ice est un jeu de rythme minimaliste mais exigeant, où vous devez contrôler deux orbites en parfait équilibre pour suivre la musique. Chaque niveau introduit de nouveaux rythmes et obstacles dans une progression aussi esthétique que stimulante.",
+        "dl": [
+            "https://pd.cybar.xyz/5ZoBTgAN"
+        ],
+        "release_date": "24 janvier 2019",
+        "size": "700 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3 ou équivalent",
+            "RAM": "2 Go",
+            "GPU": "Carte graphique compatible DirectX 9",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false
     }
+    
+
+    
+
+    
+
+
 
 
 
