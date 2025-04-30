@@ -346,7 +346,7 @@
         "image": "https://image.jeuxvideo.com/medias-sm/165286/1652861057-9390-jaquette-avant.jpg",
         "description": "Dans Another Crab’s Treasure, vous incarnez Krill, un Bernard l'Hermite qui doit résister face aux autres créatures de l'océan pour espérer retrouver sa coquille. Embarquez dans une véritable chasse au trésor dans les océans pollués.",
         "dl": [
-            "https://gofile.io/d/kmShkW"
+            "https://gofile.io/d/ysHtHn"
             
         ],
         "release_date": "25 Avril 2024",
@@ -6521,7 +6521,102 @@
             "Storage": "1 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Outer Wilds",
+        "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OuterWildsArchaeologistEdition_MobiusDigital_Editions_S2_1200x1600-cbee3eb8c11e928652161c949c28cab4",
+        "description": "Outer Wilds est un jeu d’exploration en monde ouvert mystérieux, se déroulant dans un système solaire piégé dans une boucle temporelle infinie. Incarnez un astronaute curieux, explorez des planètes énigmatiques et percez les secrets d’une ancienne civilisation.",
+        "dl": [
+            "https://pd.cybar.xyz/AALVi46x"
+        ],
+        "release_date": "28 mai 2019",
+        "size": "5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 / AMD FX-4350",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 560 / AMD Radeon HD 6870",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Batman Arkham Knight",
+        "image": "https://image.api.playstation.com/cdn/EP1018/CUSA00135_00/e1lbaSUnmBzv5cqMyM9DjbcrG0mpMrHi.png",
+        "description": "Batman Arkham Knight conclut la trilogie épique des jeux Arkham. Incarnez le Chevalier Noir dans une Gotham City assiégée par l’Épouvantail et découvrez l'identité mystérieuse du Chevalier d’Arkham, un nouvel ennemi redoutable.",
+        "dl": [
+            "https://buzzheavier.com/qlhbq0546no5"
+        ],
+        "release_date": "23 juin 2015",
+        "size": "53 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-750 / AMD Phenom II X4 965",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "60 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "The Long Drive",
+        "image": "https://gamestore.b-cdn.net/public/images/games/25510-2023-09-09-09-16-42-15569-2023-07-07-14-36-44-the-long-drive-game-1638991436.webp",
+        "description": "The Long Drive est un jeu de conduite en monde ouvert axé sur l'exploration, la survie et la liberté. Parcourez un désert infini à bord de votre voiture, trouvez des pièces, du carburant et vivez une aventure étrange et imprévisible.",
+        "dl": [
+            "https://buzzheavier.com/vww0za2sfro0"
+        ],
+        "release_date": "25 septembre 2019",
+        "size": "400 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 650 / AMD équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Wartales",
+        "image": "https://images.gog-statics.com/5a2e7e334c1e5ae40538a64766e7ab677e9b50ecee0bc14b5b000a059c5a5904.jpg",
+        "description": "Wartales est un RPG tactique en monde ouvert où vous dirigez un groupe de mercenaires à travers des terres ravagées. Gérer votre troupe, combattre stratégiquement, explorer un univers médiéval rude et faire des choix moraux complexes sont au cœur de l’expérience.",
+        "dl": [
+            "https://gofile.io/d/Ys70ZB"
+        ],
+        "release_date": "12 avril 2023",
+        "size": "15 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6500 / AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 950 / AMD Radeon R9 270",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false
+    },
+        {
+        "title": "Clair Obscur: Expedition 33",
+        "image": "https://store-images.s-microsoft.com/image/apps.55260.14322280443288156.27788484-2760-47f7-be0d-dd693682e016.c7b2322a-d6b0-4051-a58b-d0b11aa37b20",
+        "description": "Clair Obscur: Expedition 33 est un jeu de rôle narratif au style artistique unique mêlant éléments fantastiques et science-fiction. Vous incarnez un membre de l’Expédition 33, déterminé à stopper un cycle fatal imposé par une mystérieuse peintre prophétique.",
+        "dl": [
+            "https://gofile.io/d/Br02rE"
+        ],
+        "release_date": "4 mars 2025",
+        "size": "43 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 1060 / AMD RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
     
 
     
