@@ -4137,7 +4137,7 @@
             "RAM": "4 Go",
             "GPU": "NVIDIA GeForce 8800/AMD Radeon HD 3800",
             "OS": "Windows 10/11",
-            "Storage": "50 Mo d'espace libre"
+            "Storage": "50 Go d'espace libre"
         },
         "online": true
     },
@@ -4149,13 +4149,13 @@
             "https://gofile.io/d/hAEc5K"
         ],
         "release_date": "Non spécifié",
-        "size": "26 Mo",
+        "size": "26 Go",
         "min_requirements": {
             "CPU": "Intel Core i5-2500K / AMD Ryzen 5 1600",
             "RAM": "8 Go",
             "GPU": "NVIDIA GeForce GTX 970 / AMD Radeon RX 570",
             "OS": "Windows 10/11",
-            "Storage": "26 Mo d'espace libre"
+            "Storage": "26 Go d'espace libre"
         },
         "online": true
     },
