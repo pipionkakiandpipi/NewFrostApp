@@ -1086,7 +1086,7 @@
             "OS": "Windows 10/11",
             "Storage": "5 Go"
         },
-        "online": false
+        "online": true
     },
     {
         "title": "Car Mechanic Simulator 2021",
@@ -6611,7 +6611,236 @@
             "Storage": "50 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Moo Lander",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2215/PyHW7pmPGqVNYhO8VkVYlW2G.png",
+        "description": "Moo Lander est un jeu d’action-aventure en 2D où vous pilotez un vaisseau à la recherche de la source laitière ultime dans un univers extraterrestre peuplé de vaches intelligentes. Résolvez des énigmes, affrontez des ennemis et découvrez un récit insolite et humoristique.",
+        "dl": [
+            "https://gofile.io/d/K2aOTr"
+        ],
+        "release_date": "27 mai 2022",
+        "size": "1,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 / AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 660 / AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "MiSide",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGFiMGQzNTEtNmVjMS00ODk4LWI3MDYtMmMyNGJiNjQ2NDJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "MiSide est une expérience narrative unique mêlant simulation de vie et aventure psychologique. Interagissez avec une intelligence artificielle devenue trop humaine dans un univers virtuel intrigant, où chaque décision influence le cours de l'histoire.",
+        "dl": [
+            "https://gofile.io/d/ox3pRC"
+        ],
+        "release_date": "12 octobre 2022",
+        "size": "1,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 / AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti / AMD Radeon R7 265",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+      "title": "Need for Speed Most Wanted Black Edition",
+      "image": "https://products.eneba.games/resized-products/-p1aWDRB8RYYFfLnr7MIa0QaHxM2BXQvkBLJdfjhXXk_1920x1080_1x-0.jpg",
+      "description": "Need for Speed Most Wanted Black Edition est une version spéciale du célèbre jeu de course, combinant les poursuites policières intenses, les courses de rue et une ambiance urbaine sombre. Cette édition inclut du contenu exclusif, des voitures supplémentaires et des défis inédits.",
+      "dl": [
+        "https://gofile.io/d/UYgx5I"
+      ],
+      "release_date": "15 novembre 2005",
+      "size": "2,2 Go",
+      "min_requirements": {
+        "CPU": "Pentium 4 ou équivalent",
+        "RAM": "512 Mo",
+        "GPU": "Carte graphique 128 Mo compatible DirectX 9.0c",
+        "OS": "Windows 10/11",
+        "Storage": "3 Go d'espace libre"
+      },
+      "online": false
+    },
+    {
+      "title": "SILENT HILL 2",
+      "image": "https://sm.ign.com/t/ign_fr/cover/s/silent-hil/silent-hill-2-remake_87rs.1200.jpg",
+      "description": "SILENT HILL 2 est un jeu d'horreur psychologique culte où James Sunderland explore la ville brumeuse de Silent Hill après avoir reçu une lettre de sa femme décédée. Ce remake modernise les graphismes et le gameplay tout en conservant l'atmosphère oppressante et l'histoire poignante de l'original.",
+      "dl": [
+        "https://gofile.io/d/zgnYBJ"
+      ],
+      "release_date": "19 septembre 2024",
+      "size": "37 Go",
+      "min_requirements": {
+        "CPU": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "RAM": "12 Go",
+        "GPU": "NVIDIA GeForce GTX 1080 / AMD Radeon RX 5700",
+        "OS": "Windows 10/11",
+        "Storage": "45 Go d'espace libre"
+      },
+      "online": false
+    },
+    {
+      "title": "Metal Gear Rising: Revengeance",
+      "image": "https://products.eneba.games/resized-products/ZDE-pLX1Z_RA0SAiPn5AUyS-4pqpN9Hs_N491gN3O6M_350x200_1x-0.jpg",
+      "description": "Metal Gear Rising: Revengeance est un jeu d'action intense développé par PlatinumGames, mettant en scène Raiden, un cyborg ninja. Le jeu se distingue par son système de découpe libre et son rythme frénétique, dans un univers issu de la série Metal Gear, mais orienté vers un gameplay spectaculaire et nerveux.",
+      "dl": [
+        "https://buzzheavier.com/9x2zshzpicx0"
+      ],
+      "release_date": "19 février 2013",
+      "size": "24 Go",
+      "min_requirements": {
+        "CPU": "Intel Core i5 2400 / AMD FX-8100",
+        "RAM": "2 Go",
+        "GPU": "NVIDIA GeForce GTS 450 / AMD Radeon HD 4850",
+        "OS": "Windows 10/11",
+        "Storage": "25 Go d'espace libre"
+      },
+      "online": false
+    },
+    {
+      "title": "Lossless Scaling",
+      "image": "https://images.g2a.com/470x276/1x1x0/lossless-scaling-pc-steam-key-europe-i10000506871001/46087bca84974414bfc6d8e3",
+      "description": "Lossless Scaling est un utilitaire permettant d'améliorer l'expérience de jeu en plein écran en ajoutant un mode de mise à l'échelle sans perte. Il est particulièrement utile pour les jeux sans support natif de plein écran ou pour les anciens titres.",
+      "dl": [
+        "https://buzzheavier.com/7i4bpq96z4mt"
+      ],
+      "release_date": "14 mars 2019",
+      "size": "100 Mo",
+      "min_requirements": {
+        "CPU": "Processeur dual-core",
+        "RAM": "2 Go",
+        "GPU": "Carte graphique compatible DirectX 11",
+        "OS": "Windows 10/11",
+        "Storage": "150 Mo d'espace libre"
+      },
+      "online": false
+    },
+    {
+      "title": "Fallout 4",
+      "image": "https://m.media-amazon.com/images/I/91t5iD+-QIL._UF1000,1000_QL80_.jpg",
+      "description": "Fallout 4 est un RPG en monde ouvert post-apocalyptique développé par Bethesda. Vous incarnez un survivant du Vault 111 dans un Boston dévasté, à la recherche de votre fils disparu tout en luttant pour survivre dans un monde ravagé par la guerre nucléaire.",
+      "dl": [
+        "https://buzzheavier.com/kxjjt9j05s10"
+      ],
+      "release_date": "10 novembre 2015",
+      "size": "90 Go",
+      "min_requirements": {
+        "CPU": "Intel Core i5-2300 / AMD Phenom II X4 945",
+        "RAM": "8 Go",
+        "GPU": "NVIDIA GTX 550 Ti / AMD Radeon HD 7870",
+        "OS": "Windows 10/11",
+        "Storage": "100 Go d'espace libre"
+      },
+      "online": false
+    },
+    {
+      "title": "That’s not my Neighbor",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3431040/d713591d7029c993a790bfb284f49ca6f1b43b46/capsule_616x353.jpg?t=1741708884",
+      "description": "Dans That’s not my Neighbor, vous incarnez un portier chargé d'empêcher des sosies inquiétants de s'introduire dans un immeuble. Ce jeu en pixel art mêle horreur psychologique, observation minutieuse et gestion de documents, dans une ambiance inspirée de Papers, Please.",
+      "dl": [
+        "https://gofile.io/d/RvnOet"
+      ],
+      "release_date": "15 février 2024",
+      "size": "450 Mo",
+      "min_requirements": {
+        "CPU": "Intel Core i3",
+        "RAM": "4 Go",
+        "GPU": "Intel HD Graphics ou équivalent",
+        "OS": "Windows 10/11",
+        "Storage": "1 Go d'espace libre"
+      },
+      "online": false
+    },
+    {
+      "title": "TCG Card Shop Simulator",
+      "image": "https://data.xxlgamer.com/products/5810/Lbx1Kd6r3oOaxU-medium.jpg",
+      "description": "TCG Card Shop Simulator vous place dans la peau d’un propriétaire de boutique de cartes à collectionner. Gérez les stocks, vendez des cartes, interagissez avec des clients passionnés et développez votre commerce dans un monde inspiré des jeux de cartes à succès comme Magic ou Yu-Gi-Oh!",
+      "dl": [
+        "https://pd.cybar.xyz/zVaQAGqz"
+      ],
+      "release_date": "5 mars 2024",
+      "size": "1,5 Go",
+      "min_requirements": {
+        "CPU": "Intel Core i3",
+        "RAM": "4 Go",
+        "GPU": "Intel HD Graphics 4000",
+        "OS": "Windows 10/11",
+        "Storage": "2 Go d'espace libre"
+      },
+      "online": false
+    },
+    {
+      "title": "My Summer Car",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTQ4MjEyZjQtOTM1MC00N2FmLWJhYzUtYWVjZGU3ZjNlZGI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "description": "My Summer Car est une simulation de survie et de mécanique automobile dans laquelle vous devez assembler, entretenir et conduire votre propre voiture tout en gérant vos besoins vitaux. Situé dans la Finlande rurale des années 90, le jeu propose une expérience réaliste, pleine d’humour et de défis.",
+      "dl": [
+        "https://buzzheavier.com/naiglnah0e1x"
+      ],
+      "release_date": "24 octobre 2016",
+      "size": "500 Mo",
+      "min_requirements": {
+        "CPU": "Intel Core i3 2,0 GHz",
+        "RAM": "6 Go",
+        "GPU": "NVIDIA GTX 950 / AMD R7 370",
+        "OS": "Windows 10/11",
+        "Storage": "1 Go d'espace libre"
+      },
+      "online": false
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0711/7mO2To2nF21yRyEd2hNusdFP.jpg",
+      "description": "Warhammer 40,000: Space Marine 2 est un jeu d'action intense où vous incarnez un Space Marine dans l'univers de Warhammer 40,000. Dans ce jeu, vous affrontez des hordes d'ennemis à travers des combats brutaux et spectaculaires en solo ou en coopération.",
+      "dl": [
+        "https://gofile.io/d/VU9oj7"
+      ],
+      "release_date": "2023",
+      "size": "170 Mo",
+      "min_requirements": {
+        "CPU": "Intel Core i5 3.0 GHz",
+        "RAM": "8 Go",
+        "GPU": "NVIDIA GTX 1060 / AMD RX 580",
+        "OS": "Windows 10/11",
+        "Storage": "15 Go d'espace libre"
+      },
+      "online": false
+    },
+    {
+      "title": "Bully: Scholarship Edition",
+      "image": "https://products.eneba.games/resized-products/d35Ef20_350x200_3x-0.jpg",
+      "description": "Bully: Scholarship Edition est un jeu d'aventure et d'action dans lequel vous incarnez Jimmy Hopkins, un jeune garçon rebelle, dans le cadre d'une école privée. Vous devrez naviguer entre les classes, les activités parascolaires et les rivalités avec d'autres élèves.",
+      "dl": [
+        "https://gofile.io/d/41UQkD"
+      ],
+      "release_date": "2008",
+      "size": "3 Go",
+      "min_requirements": {
+        "CPU": "Intel Pentium 4 3.0 GHz",
+        "RAM": "1 Go",
+        "GPU": "NVIDIA GeForce 6600 / ATI Radeon 9800 Pro",
+        "OS": "Windows 10/11",
+        "Storage": "4 Go d'espace libre"
+      },
+      "online": true
     }
+    
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
