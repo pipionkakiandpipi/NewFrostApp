@@ -1678,7 +1678,7 @@
         "image": "https://www.codesproduit.fr/wp-content/uploads/2021/01/DragonballZ-Kakarot-PC-COVER.jpg",
         "description": "DRAGON BALL Z: KAKAROT est un action-RPG qui permet aux joueurs de revivre l'histoire épique de Goku et de ses amis. Explorez un vaste monde ouvert, entraînez-vous, combattez des ennemis puissants et plongez dans l'univers de Dragon Ball Z.",
         "dl": [
-            "https://gofile.io/d/JRSgqr"
+            "https://buzzheavier.com/7r3qru7ixkaw"
         ],
         "release_date": "17 janvier 2020",
         "size": "47,9 Go",
@@ -6827,87 +6827,71 @@
         "Storage": "4 Go d'espace libre"
       },
       "online": true
+    },
+    {
+        "title": "Mon Bazou",
+        "image": "https://cdn.gracza.pl/galeria/gry13/1085711796.jpg",
+        "description": "Mon Bazou est un jeu de simulation en monde ouvert développé par Santa Goat. Le joueur doit améliorer sa voiture, gagner de l'argent et survivre dans une région rurale canadienne. Le jeu mélange humour, bricolage et gestion de la vie quotidienne.",
+        "dl": [
+            "https://buzzheavier.com/xgd08t4p5woo"
+        ],
+        "release_date": "16 décembre 2021",
+        "size": "400 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3 ou équivalent AMD",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 460 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "600 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "TrackDayR",
+        "image": "https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco9gpp&w=640&q=75",
+        "description": "TrackDayR est un simulateur de moto développé par MadCow, offrant une expérience réaliste de pilotage sur circuit. Le jeu vise une physique ultra-précise pour les passionnés de deux-roues et propose de nombreux réglages pour une immersion totale.",
+        "dl": [
+            "https://pd.cybar.xyz/j1LnxTTj"
+        ],
+        "release_date": "17 mars 2021",
+        "size": "35 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500 ou AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 760 ou AMD R9 270X",
+            "OS": "Windows 10/11",
+            "Storage": "40 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Riders Republic",
+        "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_MAD_STD_GAME_EPIC_Store_Portrait_1200x1600_EN_1200x1600-ddd4f456e3035ce50ddfa0d358efa208",
+        "description": "Riders Republic est un jeu de sport en monde ouvert développé par Ubisoft Annecy. Il permet aux joueurs de participer à diverses disciplines extrêmes comme le VTT, le ski, le snowboard et le wingsuit dans un immense terrain de jeu multijoueur.",
+        "dl": [
+            "https://gofile.io/d/1X1nEt"
+        ],
+        "release_date": "28 octobre 2021",
+        "size": "28 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD Ryzen 5 1400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD RX 470",
+            "OS": "Windows 10/11",
+            "Storage": "32 Go d'espace libre"
+        },
+        "online": false
     }
     
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
     
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-
-    
-
-
-
-
-    
-
-
-
-
-    
-
-
-
-
-    
 
     
 ]
