@@ -188,5 +188,35 @@
             "Storage": "6 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Riders Republic",
+        "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_MAD_STD_GAME_EPIC_Store_Portrait_1200x1600_EN_1200x1600-ddd4f456e3035ce50ddfa0d358efa208",
+        "description": "Riders Republic est un jeu de sport en monde ouvert développé par Ubisoft Annecy. Il permet aux joueurs de participer à diverses disciplines extrêmes comme le VTT, le ski, le snowboard et le wingsuit dans un immense terrain de jeu multijoueur.",
+        "dl": [
+            "https://gofile.io/d/1X1nEt"
+        ],
+        "release_date": "28 octobre 2021",
+        "size": "28 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD Ryzen 5 1400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD RX 470",
+            "OS": "Windows 10/11",
+            "Storage": "32 Go d'espace libre"
+        },
+        "online": false
     }
+    
+
+
+
+    
+
+
+
+
+
+
+    
 ]
