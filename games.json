@@ -3,7 +3,7 @@
         "title": "Cyberpunk 2077",
         "image": "https://image.jeuxvideo.com/medias-sm/163835/1638354762-4961-jaquette-avant.gif",
         "description": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
-        "dl": ["https://buzzheavier.com/rote732j8jn3"],
+        "dl": ["https://buzzheavier.com/3nbhvi632e30"],
         "release_date": "10 décembre 2020",
         "size": "89 Go",
         "min_requirements": {
@@ -6881,7 +6881,334 @@
             "Storage": "32 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "Feed and Grow: Fish",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1kvh.jpg",
+        "description": "Feed and Grow: Fish est un jeu de simulation aquatique développé par Old B1ood. Le joueur incarne un poisson dans un écosystème dynamique et doit manger d'autres poissons pour survivre, évoluer et devenir le prédateur ultime.",
+        "dl": [
+            "https://pd.cybar.xyz/WhegHYw1"
+        ],
+        "release_date": "08 janvier 2016",
+        "size": "1,4 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "DRAGON BALL: Sparking! ZERO",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2213/caf3b629a8afbc72a94ec15a568a898ac1845231398d77ac.png",
+        "description": "DRAGON BALL: Sparking! ZERO est un jeu de combat explosif basé sur l'univers de Dragon Ball, développé par Spike Chunsoft et édité par Bandai Namco. Reprenant l’héritage des Budokai Tenkaichi, le jeu offre des affrontements intenses avec des graphismes modernes et un large choix de personnages emblématiques.",
+        "dl": [
+            "https://buzzheavier.com/hgh1ff4e7c0l"
+        ],
+        "release_date": "7 octobre 2024",
+        "size": "28 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400 ou AMD Ryzen 5 2600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "32 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Red Dead Redemption",
+        "image": "https://www.codiciprodotto.it/wp-content/uploads/2021/01/RDR2-PC-COVER.jpg",
+        "description": "Red Dead Redemption est un jeu d'action-aventure en monde ouvert développé par Rockstar San Diego. Se déroulant à la frontière américaine au début du XXe siècle, le jeu suit John Marston, un ancien hors-la-loi forcé de traquer les membres de son ancien gang pour sauver sa famille.",
+        "dl": [
+            "https://buzzheavier.com/hy0e51nhccrk"
+        ],
+        "release_date": "18 mai 2010",
+        "size": "8,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "11 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Days Gone",
+        "image": "https://products.eneba.games/resized-products/bwF96S6ImbL-4l9gRyo8Nvd-oWcbGItWyfaMC_0A7sk_350x200_3x-0.jpeg",
+        "description": "Days Gone est un jeu d'action-aventure en monde ouvert développé par Bend Studio. Il suit Deacon St. John, un ancien motard devenu chasseur de primes, qui tente de survivre dans un monde ravagé par une pandémie transformant les humains en créatures féroces appelées Freakers.",
+        "dl": [
+            "https://buzzheavier.com/9f7e2ch81ddy"
+        ],
+        "release_date": "18 mai 2021",
+        "size": "61 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K ou AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 780 ou AMD Radeon R9 290",
+            "OS": "Windows 10/11",
+            "Storage": "70 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "JDM: Japanese Drift Master",
+        "image": "https://cdn.cdkeys.com/496x700/media/catalog/product/j/d/jdm-cdkeys.png",
+        "description": "JDM: Japanese Drift Master est un jeu de course centré sur le drift dans des paysages japonais réalistes. Le jeu met l'accent sur une physique authentique, des voitures personnalisables et une atmosphère inspirée de la culture JDM.",
+        "dl": [
+            "https://buzzheavier.com/5tt2g7gbt492"
+        ],
+        "release_date": "18 avril 2024",
+        "size": "13 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7400 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "16 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "HumanitZ",
+        "image": "https://cdn1.epicgames.com/spt-assets/12e086656a814373b9e257aa1bd80977/download-humanitz-offer-qff3r.png",
+        "description": "HumanitZ est un jeu de survie en vue isométrique dans un monde post-apocalyptique infesté de zombies. Jouable en solo ou en coopération, il propose un gameplay centré sur la survie, la fabrication, l’exploration et la gestion des ressources.",
+        "dl": [
+            "https://pd.cybar.xyz/3XAXHyMb"
+        ],
+        "release_date": "18 septembre 2023",
+        "size": "15 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7400 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon R9 380",
+            "OS": "Windows 10/11",
+            "Storage": "18 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "My Dream Setup",
+        "image": "https://media.senscritique.com/media/000022085936/0/my_dream_setup.jpg",
+        "description": "My Dream Setup est un jeu de simulation et de décoration d'intérieur qui permet aux joueurs de concevoir et personnaliser leur pièce idéale. Du choix des meubles à la disposition des éléments, il offre une liberté créative pour créer l'espace de ses rêves.",
+        "dl": [
+            "https://pd.cybar.xyz/h55DpUTu"
+        ],
+        "release_date": "20 février 2023",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "WHAT THE CAR?",
+        "image": "https://static.actugaming.net/media/2024/06/what-the-car-jaquette.jpg",
+        "description": "WHAT THE CAR? est un jeu de course loufoque où chaque course réserve des surprises inattendues. Avec des véhicules dotés de jambes, de bras ou d'autres particularités absurdes, le gameplay mêle humour et créativité dans un univers farfelu.",
+        "dl": [
+            "https://pd.cybar.xyz/qvD1pwB3"
+        ],
+        "release_date": "5 mai 2024",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Spirit City: Lofi Sessions",
+        "image": "https://howlongtobeat.com/games/148483_Spirit_City_Lofi_Sessions.jpg",
+        "description": "Spirit City: Lofi Sessions est une expérience interactive mêlant productivité et ambiance relaxante. Le joueur peut personnaliser un espace virtuel cosy, écouter de la musique lo-fi, suivre ses objectifs et se détendre dans un environnement apaisant accompagné d’un esprit compagnon.",
+        "dl": [
+            "https://pd.cybar.xyz/kpjkbGyD"
+        ],
+        "release_date": "8 avril 2024",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "FANTASY LIFE i: The Girl Who Steals Time",
+        "image": "https://www.fantasylife.jp/fli/en/assets/img/product/img_dwl_dx.jpg",
+        "description": "FANTASY LIFE i: The Girl Who Steals Time est un jeu de rôle et de simulation de vie développé par Level-5. Le joueur explore une île mystérieuse, voyage dans le temps, personnalise son village et choisit parmi diverses vies pour forger sa propre aventure.",
+        "dl": [
+            "https://buzzheavier.com/bfxpnyvk1kam"
+        ],
+        "release_date": "10 mai 2024",
+        "size": "10 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "12 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Deadzone Rogue",
+        "image": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-zduu4.jpg",
+        "description": "Deadzone Rogue est un jeu d'action tactique roguelite où le joueur affronte des ennemis dans des zones dangereuses, utilisant stratégie et compétences pour survivre à chaque nouvelle mission. Le jeu propose un mode en ligne pour des parties compétitives et coopératives.",
+        "dl": [
+            "https://pd.cybar.xyz/74s5ga6w"
+        ],
+        "release_date": "15 février 2024",
+        "size": "10 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7400 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon R9 380",
+            "OS": "Windows 10/11",
+            "Storage": "12 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "RoadCraft",
+        "image": "https://cdn1.epicgames.com/spt-assets/a09a1e719daa45c992dee7dd284ed51f/roadcraft-1b7fz.jpg",
+        "description": "RoadCraft est un jeu de simulation de construction de routes où les joueurs conçoivent et construisent des infrastructures routières dans des environnements variés, en optimisant le trafic et en gérant les ressources pour un développement urbain réussi.",
+        "dl": [
+            "https://gofile.io/d/zTyqsQ"
+        ],
+        "release_date": "10 avril 2024",
+        "size": "31 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7400 ou AMD Ryzen 5 1600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "35 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Kebab Chefs! Restaurant Simulator",
+        "image": "https://images.g2a.com/360x600/1x1x1/kebab-chefs-restaurant-simulator-pc-steam-cle-global-i10000503151004/e151fc1575c248e59346fc9a",
+        "description": "Kebab Chefs! Restaurant Simulator est un jeu de simulation de gestion où vous incarnez un chef de restaurant spécialisé dans la préparation de kebabs. Gérez votre cuisine, améliorez vos recettes et offrez un service rapide pour satisfaire vos clients.",
+        "dl": [
+            "https://gofile.io/d/l29quK"
+        ],
+        "release_date": "12 avril 2024",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "3 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "House Flipper 2",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1614/bfe378bd3e7b0220998dafd485f1daee1b275a5afeeec15c.png",
+        "description": "House Flipper 2 est un jeu de simulation où vous rénovez, décorez et transformez des maisons délabrées en propriétés modernes et élégantes. Gérez vos projets de rénovation, achetez des meubles et créez des espaces uniques.",
+        "dl": [
+            "https://gofile.io/d/AkHJXK"
+        ],
+        "release_date": "15 mars 2024",
+        "size": "13 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7400 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon RX 560",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Cubic Odyssey",
+        "image": "https://img-grouvee-com.b-cdn.net/upload/cache/e0/d3/e0d32a097d5bc45f820b944def336eec.jpg",
+        "description": "Cubic Odyssey est un jeu d'action-aventure en 3D combinant exploration, combat et résolution d'énigmes dans un univers cubique stylisé. Le jeu propose un mode en ligne pour affronter d'autres joueurs et collaborer dans des quêtes.",
+        "dl": [
+            "https://buzzheavier.com/m2uimc0pjwqo"
+        ],
+        "release_date": "20 mars 2024",
+        "size": "2,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Fast Food Simulator",
+        "image": "https://data.xxlgamer.com/products/5878/jrFKiTEwMkuVsc-big.jpg",
+        "description": "Fast Food Simulator est un jeu de gestion où vous incarnez un propriétaire de fast-food. Préparez des commandes rapidement, gérez le personnel et améliorez votre restaurant pour satisfaire les clients et développer votre entreprise.",
+        "dl": [
+            "https://pd.cybar.xyz/JXDHCJg1"
+        ],
+        "release_date": "5 mars 2024",
+        "size": "5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Planet Coaster",
+        "image": "https://www.codesproduit.fr/wp-content/uploads/2021/01/planet-coaster-1_cover_original.jpg",
+        "description": "Planet Coaster est un jeu de simulation de parc d'attractions qui permet aux joueurs de construire, gérer et personnaliser leur propre parc à thème avec une grande liberté créative.",
+        "dl": [
+            "https://buzzheavier.com/51hu3glb84hj"
+        ],
+        "release_date": "17 novembre 2016",
+        "size": "8 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 ou AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 560 ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false
     }
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+    
+
+
     
 
 
