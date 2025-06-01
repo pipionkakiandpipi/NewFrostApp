@@ -7475,7 +7475,26 @@
             "Storage": "60 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "ELDEN RING NIGHTREIGN",
+        "image": "https://www.weareplaystation.fr/cdn-cgi/image/w=3840,f=auto,q=80/api/upload/media/post/0006/89/thumb_588181_post_big.jpg",
+        "description": "ELDEN RING NIGHTREIGN est une extension ou un mod ambitieux du célèbre action-RPG en monde ouvert ELDEN RING, qui propose de nouvelles zones à explorer, des boss inédits et un univers encore plus sombre et immersif.",
+        "dl": [
+            "https://buzzheavier.com/kzpxms5tvvk2"
+        ],
+        "release_date": "25 mai 2025",
+        "size": "20 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400",
+            "RAM": "12 Go",
+            "GPU": "NVIDIA GTX 1060 6 Go",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": true
     }
+
     
 
 
