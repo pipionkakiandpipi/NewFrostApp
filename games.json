@@ -7493,7 +7493,123 @@
             "Storage": "30 Go d'espace libre"
         },
         "online": true
+    },
+    {
+        "title": "WorldBox",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDcyYTczOGYtOTZkYS00YTNiLWE2YWItZjFkNjgzOTkwMDliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "WorldBox est un simulateur de dieu en pixel art dans lequel vous pouvez créer et détruire des mondes entiers. Observez des civilisations se développer, se battre ou s’éteindre, tout en intervenant avec des pouvoirs divins.",
+        "dl": [
+            "https://buzzheavier.com/gqi4i3m7uf5k"
+        ],
+        "release_date": "02 décembre 2021",
+        "size": "450 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3",
+            "RAM": "2 Go",
+            "GPU": "Carte graphique intégrée",
+            "OS": "Windows 10/11",
+            "Storage": "600 Mo d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Hellblade: Senua’s Sacrifice",
+        "image": "https://image.api.playstation.com/cdn/EP8941/CUSA07527_00/1ctKqm7qNbvS539Uzea6wIhPCp8Fsp32.png",
+        "description": "Hellblade: Senua’s Sacrifice est un jeu d'action-aventure immersif qui vous plonge dans la psyché d’une guerrière celte en proie à des hallucinations et des traumatismes, alors qu’elle tente de sauver l’âme de son amant dans le royaume des morts nordique.",
+        "dl": [
+            "https://gofile.io/d/JrFs4g"
+        ],
+        "release_date": "08 août 2017",
+        "size": "13 Go",
+        "min_requirements": {
+            "CPU": "Intel i5 3570K / AMD FX-8350",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 770 / AMD R9 280X",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Better Mart",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1389092631_IGDB-272x380.jpg",
+        "description": "Better Mart est un jeu de simulation de gestion dans lequel vous créez, personnalisez et développez votre propre supermarché. Achetez des stocks, placez les rayons, fixez les prix et attirez les clients pour devenir le roi du commerce de proximité.",
+        "dl": [
+            "https://buzzheavier.com/r5scna293kbg"
+        ],
+        "release_date": "17 avril 2024",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-7100 / AMD Ryzen 3 1200",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics 620 / AMD Radeon Vega 8",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Before Your Eyes",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2001/tiOjF3j8tX86RmqkmdiyoWUm.jpg",
+        "description": "Before Your Eyes est une aventure narrative unique qui se joue littéralement avec vos clignements d’yeux. Revivez les souvenirs d’une vie entière et découvrez une histoire poignante où chaque regard compte.",
+        "dl": [
+            "https://pd.cybar.xyz/WduTSzLA"
+        ],
+        "release_date": "8 avril 2021",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K / AMD FX-6350",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 650 / AMD Radeon HD 7750",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Deltarune",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202109/2213/xaMIvuorPgfCqjlhWPZ79qqn.png",
+        "description": "Deltarune est un RPG indépendant créé par Toby Fox, l'auteur d’Undertale. Dans ce jeu mystérieux et émouvant, vous explorez un monde alternatif peuplé de personnages attachants et d’énigmes intrigantes.",
+        "dl": [
+            "https://gofile.io/d/9ja9fm"
+        ],
+        "release_date": "31 octobre 2018",
+        "size": "500 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E8400",
+            "RAM": "2 Go",
+            "GPU": "Integrated Graphics",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Arma 3",
+        "image": "https://data.xxlgamer.com/products/1497/NB8KeBPYipQeAQ-big.jpg",
+        "description": "Arma 3 est un simulateur militaire réaliste en monde ouvert, offrant des combats tactiques intenses, un vaste arsenal d’armes et de véhicules, ainsi qu’un éditeur de missions complet pour créer vos propres scénarios de guerre.",
+        "dl": [
+            "https://gofile.io/d/ZY4BmS"
+        ],
+        "release_date": "12 septembre 2013",
+        "size": "170 Go",
+        "min_requirements": {
+            "CPU": "Intel Dual-Core 2.4 GHz ou AMD Dual-Core Athlon 2.5 GHz",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 9800 GT ou ATI Radeon HD 5670",
+            "OS": "Windows 10/11",
+            "Storage": "180 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+    
+
+
+
+    
 
     
 
