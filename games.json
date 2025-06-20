@@ -434,8 +434,8 @@
             "OS": "Windows 10/11",
             "Storage": "15 Go"
         },
-        "online": false,
-        "mdp": "steamrip.com"
+        "online": false
+      
     },
     {
         "title": "Assassin’s Creed Odyssey",
@@ -454,8 +454,8 @@
             "OS": "Windows 10/11",
             "Storage": "95 Go"
         },
-        "online": false ,
-        "mdp": "steamrip.com"
+        "online": false 
+    
     },
     {
         "title": "Assassin's Creed Origins",
@@ -512,8 +512,8 @@
             "OS": "Windows 10/11",
             "Storage": "50 Go"
         },
-        "online": false ,
-        "mdp": "steamrip.com"
+        "online": false 
+
     },
     {
         "title": "Assassin’s Creed Unity",
@@ -950,8 +950,8 @@
             "OS": "Windows 10/11",
             "Storage": "15 Go"
         },
-        "online": true,
-        "mdp" : "steamrip.com"
+        "online": true
+
     },
     {
         "title": "Call of Duty: Modern Warfare 3",
