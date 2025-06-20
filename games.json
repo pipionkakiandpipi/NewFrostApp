@@ -7723,7 +7723,8 @@
             "Storage": "7 Go d'espace libre"
         },
         "online": true,
-        "mdp": "Aller dans l'app Xbox, se connecter à un compte. Ensuite, aller dans GDK_Helper en administrateur, activer le mode développeur, puis faire 'Install Game'. Ensuite, désactiver le mode développeur et lancer 'Start Protected Game'."
+        "mdp": "1. Aller dans l'app Xbox et se connecter à un compte.\n2. Ouvrir GDK_Helper en tant qu'administrateur.\n3. Activer le mode développeur.\n4. Cliquer sur 'Install Game'.\n5. Désactiver le mode développeur.\n6. Lancer 'Start Protected Game'."
+
     }
 
 
