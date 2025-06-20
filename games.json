@@ -155,7 +155,7 @@
         "image": "https://image.jeuxvideo.com/medias-sm/171026/1710255088-1947-jaquette-avant.jpg",
         "description": "Palworld est un jeu de survie action-aventure du développeur japonais Pocket Pair. Le jeu se déroule dans un monde ouvert peuplé de créatures ressemblant à des animaux connues sous le nom de « Pals ».",
         "dl": [
-            "https://gofile.io/d/9dK27D"
+            "https://buzzheavier.com/e4d3r64z8ke1"
             
         ],
         "release_date": "9 Janvier 2024",
@@ -7597,7 +7597,144 @@
             "Storage": "180 Go d'espace libre"
         },
         "online": false
+    },
+    {
+        "title": "SCUM",
+        "image": "https://products.eneba.games/resized-products/goousUnds6WJxyGD6SI3TD_I2-5L3bMQ4c29NtIwb5U_350x200_1x-0.jpeg",
+        "description": "SCUM est un jeu de survie en monde ouvert développé par Gamepires. Se déroulant dans un environnement réaliste, il combine des mécaniques complexes de gestion du corps humain, de survie, de craft et de multijoueur dans une expérience immersive et brutale.",
+        "dl": [
+            "https://buzzheavier.com/a1hwtmdwifka"
+        ],
+        "release_date": "29 août 2018",
+        "size": "32 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4430 ou AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon R7 370",
+            "OS": "Windows 10/11",
+            "Storage": "36 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Final Fantasy Type-0 HD",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAAz48SFDwasWV_TsY18BQMtUZbPFrByV7w&s",
+        "description": "Final Fantasy Type-0 HD est un jeu de rôle et d'action développé par Square Enix. Porté sur PC avec des graphismes remasterisés, il propose une histoire sombre et mature dans le monde d'Orience, où les étudiants de la classe Zero sont plongés dans une guerre dévastatrice.",
+        "dl": [
+            "https://buzzheavier.com/hianyr78wjhi"
+        ],
+        "release_date": "18 août 2015",
+        "size": "25 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-530 ou AMD Phenom II X2 940",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTS 450 ou AMD Radeon HD 7770",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Call of Duty: Infinite Warfare",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9XOXb4q4r4rO4sKWDiirOg-CW45HqDsbJw&s",
+        "description": "Call of Duty: Infinite Warfare est un jeu de tir à la première personne développé par Infinity Ward et édité par Activision. Il propose une campagne futuriste axée sur la guerre interstellaire, ainsi qu'un mode multijoueur et un mode zombies très complets.",
+        "dl": [
+            "https://pd.cybar.xyz/hG7WURH3"
+        ],
+        "release_date": "04 novembre 2016",
+        "size": "76 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-3225 ou équivalent AMD",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660 2 Go ou AMD Radeon HD 7850 2 Go",
+            "OS": "Windows 10/11",
+            "Storage": "85 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Neighbors Suburban Warfare",
+        "image": "https://cdn.gamekult.com/images/gallery/37/371770/neuighbors-suburban-warfare-pc-90efcedb.jpg",
+        "description": "Neighbors Suburban Warfare est un jeu multijoueur déjanté dans lequel des voisins s'affrontent dans un quartier résidentiel à coups de pièges, gadgets et tactiques loufoques. L'accent est mis sur l'humour et la compétition en ligne dans des environnements domestiques destructibles.",
+        "dl": [
+            "https://buzzheavier.com/okj9il0jm7u3"
+        ],
+        "release_date": "22 avril 2022",
+        "size": "5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou AMD FX-6300",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou AMD R7 260X",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Tower Dominion",
+        "image": "https://cdn.cdkeys.com/496x700/media/catalog/product/t/o/tower_dominion_cdkeys.png",
+        "description": "Tower Dominion est un jeu de stratégie et de tower defense dans lequel le joueur doit défendre son royaume contre des vagues d’ennemis en plaçant habilement différentes tours aux capacités variées. Il combine réflexion, rapidité et planification dans un univers médiéval fantastique.",
+        "dl": [
+            "https://buzzheavier.com/gzc4hwi9gqh8"
+        ],
+        "release_date": "17 septembre 2021",
+        "size": "500 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100",
+            "RAM": "2 Go",
+            "GPU": "Intel HD Graphics 4000 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Kenshi",
+        "image": "https://cdn1.epicgames.com/spt-assets/19cef5ebcae9472aa8e8eef995d7cde9/kenshi-1bpln.jpeg",
+        "description": "Kenshi est un jeu de rôle en monde ouvert développé par Lo-Fi Games. Il propose une expérience sandbox où le joueur incarne un personnage dans un univers post-apocalyptique, libre de devenir un marchand, un guerrier, un voleur ou un chef de faction, avec une gestion poussée et un gameplay exigeant.",
+        "dl": [
+            "https://buzzheavier.com/c8qlmh3k7h3k"
+        ],
+        "release_date": "06 décembre 2018",
+        "size": "6,5 Go",
+        "min_requirements": {
+            "CPU": "Dual-core 64-bit",
+            "RAM": "6 Go",
+            "GPU": "Pixel shader 3.0 capable card",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "REMATCH",
+        "image": "https://sm.ign.com/ign_fr/cover/r/rematch/rematch_3t9y.jpg",
+        "description": "REMATCH est un jeu multijoueur futuriste mêlant action rapide, compétition en ligne et stratégies avancées. Il plonge les joueurs dans des affrontements intenses avec une emphase sur la précision et la coordination d’équipe.",
+        "dl": [
+            "https://buzzheavier.com/ic9j0udsonfm"
+        ],
+        "release_date": "12 mars 2024",
+        "size": "6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-8100 ou équivalent AMD",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 750 Ti ou AMD Radeon R7 360",
+            "OS": "Windows 10/11",
+            "Storage": "7 Go d'espace libre"
+        },
+        "online": true,
+        "mdp": "Aller dans l'app Xbox, se connecter à un compte. Ensuite, aller dans GDK_Helper en administrateur, activer le mode développeur, puis faire 'Install Game'. Ensuite, désactiver le mode développeur et lancer 'Start Protected Game'."
     }
+
+
+
+
+
+    
+
+    
+
+    
 
 
 
