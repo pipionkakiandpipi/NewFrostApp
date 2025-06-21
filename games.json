@@ -6034,7 +6034,7 @@
         "image": "https://cdn.cdkeys.com/700x700/media/catalog/product/s/c/schedule_i_cdkeys.png",
         "description": "Schedule I est un jeu indépendant qui plonge le joueur dans un univers sombre et oppressant, où il doit survivre à des expériences mystérieuses et résoudre des énigmes complexes.",
         "dl": [
-            "https://gofile.io/d/aLYJGm"
+            "https://gofile.io/d/GboGrN"
         ],
         "release_date": "24 mars 2025",
         "size": "2 Go",
@@ -7725,7 +7725,217 @@
         "online": true,
         "mdp": "1. Aller dans l'app Xbox et se connecter à un compte.\n2. Ouvrir GDK_Helper en tant qu'administrateur.\n3. Activer le mode développeur.\n4. Cliquer sur 'Install Game'.\n5. Désactiver le mode développeur.\n6. Lancer 'Start Protected Game'."
 
+    },
+    {
+        "title": "Drug Dealer Simulator",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDdlNDdjZTYtZTU0Yi00OTFlLTkwZTQtY2YyY2RlMzMyODJjXkEyXkFqcGc@._V1_.jpg",
+        "description": "Drug Dealer Simulator est un jeu de simulation dans lequel le joueur incarne un trafiquant de drogue en pleine expansion. Il doit gérer la production, la vente, les relations avec les gangs et échapper à la police dans un monde semi-ouvert sombre et immersif.",
+        "dl": [
+            "https://buzzheavier.com/rkcg2uuydaxp"
+        ],
+        "release_date": "16 avril 2020",
+        "size": "10,8 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 770 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "13 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "TEKKEN 7",
+        "image": "https://image.api.playstation.com/cdn/EP0700/CUSA06014_00/60LMXmTtlbr3RwGglLc9awmBpcFRCC5S.png",
+        "description": "TEKKEN 7 est un jeu de combat développé et édité par Bandai Namco Entertainment. Il conclut l’histoire de la famille Mishima à travers un gameplay nerveux, des graphismes impressionnants et un vaste choix de personnages emblématiques, avec un mode multijoueur en ligne très populaire.",
+        "dl": [
+            "https://buzzheavier.com/dwvu7c0fuz4k"
+        ],
+        "release_date": "02 juin 2017",
+        "size": "48 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4160",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon R7 370",
+            "OS": "Windows 10/11",
+            "Storage": "60 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Five Nights at Freddy’s: Secret of the Mimic",
+        "image": "https://cdn1.epicgames.com/spt-assets/a3843e0de6d545b3957ce2173972092c/five-nights-at-freddys-secret-of-the-mimic-gs7np.png",
+        "description": "Five Nights at Freddy’s: Secret of the Mimic est un jeu d’horreur et de survie dans l’univers terrifiant de la célèbre franchise. Le joueur est confronté à de nouveaux animatroniques et doit survivre à des nuits angoissantes en résolvant des énigmes et en échappant au Mimic.",
+        "dl": [
+            "https://gofile.io/d/Yt2mRo"
+        ],
+        "release_date": "19 avril 2024",
+        "size": "20 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 950 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "MX vs ATV Legends",
+        "image": "https://image.jeuxvideo.com/medias/163196/1631959008-121-jaquette-avant.jpg",
+        "description": "MX vs ATV Legends est un jeu de course tout-terrain qui permet aux joueurs de piloter des motocross, quads et UTV dans des environnements variés. Il propose un mode carrière immersif, un gameplay multijoueur et une personnalisation poussée des véhicules.",
+        "dl": [
+            "https://buzzheavier.com/rcxnsimnh965"
+        ],
+        "release_date": "28 juin 2022",
+        "size": "42 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Tempest Rising",
+        "image": "https://infinity-area.com/medias/statics/gameapi/2025-01/game_678ee504f065b.webp",
+        "description": "Tempest Rising est un jeu de stratégie en temps réel qui s’inspire des classiques du genre des années 90. Le jeu propose deux factions distinctes, une campagne solo immersive et des affrontements multijoueurs intenses dans un univers post-nucléaire.",
+        "dl": [
+            "https://buzzheavier.com/vjyxzlaagugz"
+        ],
+        "release_date": "28 août 2023",
+        "size": "42 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "The Alters",
+        "image": "https://cdn1.epicgames.com/spt-assets/cbdabb1be05c4501bc3c37538d939bb3/the-alters-100bg.jpg",
+        "description": "The Alters est un jeu de survie et de science-fiction développé par 11 bit studios. Le joueur incarne Jan, un travailleur isolé sur une planète hostile, qui crée des versions alternatives de lui-même pour survivre, résoudre des problèmes et faire face à ses dilemmes existentiels.",
+        "dl": [
+            "https://gofile.io/d/BNlJ8L"
+        ],
+        "release_date": "06 juin 2024",
+        "size": "51 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8600K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1070 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "60 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Crash Bandicoot N. Sane Trilogy",
+        "image": "https://i0.wp.com/gamestore.dk/wp-content/uploads/2018/05/550d7eaf-9540-4ca5-8285-e8cbaf12241a.jpg?fit=385%2C465&ssl=1",
+        "description": "Crash Bandicoot N. Sane Trilogy est une compilation remastérisée des trois premiers jeux Crash Bandicoot. Développée par Vicarious Visions, elle propose des graphismes modernisés, une jouabilité retravaillée et de nombreux défis dans des niveaux emblématiques.",
+        "dl": [
+            "https://gofile.io/d/10oF7M"
+        ],
+        "release_date": "29 juin 2018",
+        "size": "32 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 660 ou AMD Radeon HD 7850",
+            "OS": "Windows 10/11",
+            "Storage": "40 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "Call of Duty: Modern Warfare (2019)",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/e/e9/CallofDutyModernWarfare%282019%29.jpg/revision/latest?cb=20190608144713&path-prefix=fr",
+        "description": "Call of Duty: Modern Warfare (2019) est un reboot de la célèbre franchise de tir à la première personne. Développé par Infinity Ward, le jeu propose une campagne intense, un mode multijoueur compétitif et une expérience coopérative avec Spec Ops. Il se distingue par son réalisme et ses graphismes immersifs.",
+        "dl": [
+            "https://gofile.io/d/OEr9qE"
+        ],
+        "release_date": "25 octobre 2019",
+        "size": "200 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 670 / GTX 1650 ou AMD Radeon HD 7950",
+            "OS": "Windows 10/11",
+            "Storage": "220 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "Berserk or Die",
+        "image": "https://static.actugaming.net/media/2025/06/berserk-or-die-jaquette.jpg",
+        "description": "Berserk or Die est un jeu d'action frénétique en vue du dessus dans lequel vous affrontez des hordes d’ennemis dans des arènes sanglantes. Avec un style graphique rétro et une difficulté relevée, le jeu mise sur des réflexes rapides et une progression roguelike intense.",
+        "dl": [
+            "https://buzzheavier.com/zj6gnrh3zdch"
+        ],
+        "release_date": "15 juin 2025",
+        "size": "500 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics 530 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false
+    },
+    {
+        "title": "PEAK",
+        "image": "https://steamrip.com/wp-content/uploads/2025/06/peak-poster-steamrip.jpg.webp",
+        "description": "PEAK est un jeu d'aventure et de plateforme qui propose des environnements variés, des défis d'escalade et une exploration immersive. Le joueur doit surmonter des obstacles pour atteindre des sommets vertigineux dans un univers visuellement captivant.",
+        "dl": [
+            "https://gofile.io/d/liLJ4S"
+        ],
+        "release_date": "15 juin 2025",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics 530 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": true
+    },
+    {
+        "title": "CONVERGENCE: A League of Legends Story",
+        "image": "https://cdn1.epicgames.com/offer/8d26e33298454f97888010e66a681b93/Updraft_EN_EG_Product%20Portrait%20Image_1200x1600-a5bbb23800cfa28ef23daf0a3b248be2",
+        "description": "CONVERGENCE: A League of Legends Story est un jeu d'aventure et de plateforme qui se déroule dans l'univers de League of Legends. Il propose une narration immersive et un gameplay en 2.5D avec des énigmes et de l'action, explorant l'histoire d'un héros dans un monde fantastique.",
+        "dl": [
+            "https://gofile.io/d/Ey0Ct1"
+        ],
+        "release_date": "26 avril 2023",
+        "size": "11 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false
     }
+
+
+
+
+
+
+
+    
+
+
+
+
 
 
 
