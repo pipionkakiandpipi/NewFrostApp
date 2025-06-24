@@ -9656,5 +9656,532 @@
             "Action",
             "Aventure"
         ]
+    },
+    {
+        "title": "Wallpaper Engine",
+        "image": "https://products.eneba.games/resized-products/mZ-J2wfpe1rL3yUmMVz4NGMJ98brsNDYDBr_HceIJfI_350x200_3x-0.jpeg",
+        "description": "Wallpaper Engine est une application permettant de créer et d'utiliser des fonds d'écran animés et interactifs sur Windows. Elle prend en charge des arrière-plans 2D, 3D, et même des vidéos, avec une vaste personnalisation possible.",
+        "dl": [
+            "https://gofile.io/d/etjEnh"
+        ],
+        "release_date": "10 novembre 2016",
+        "size": "3,9 Go",
+        "min_requirements": {
+            "CPU": "1.66 GHz Intel i5 ou équivalent",
+            "RAM": "1 Go",
+            "GPU": "HD Graphics 4000 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Simulation",
+            "Indépendant"
+        ]
+    },
+    {
+        "title": "Forza Horizon 4",
+        "image": "https://cdn.cdkeys.com/media/catalog/product/f/o/forza_horizon_4_xbox_one_pc_eu_.jpg",
+        "description": "Forza Horizon 4 est un jeu de course en monde ouvert développé par Playground Games et édité par Microsoft Studios. Se déroulant au Royaume-Uni, il propose un système de saisons dynamiques, des centaines de voitures et une expérience multijoueur fluide.",
+        "dl": [
+            "https://gofile.io/d/hRF2Xq"
+        ],
+        "release_date": "02 octobre 2018",
+        "size": "102 Go",
+        "min_requirements": {
+            "CPU": "Intel i3-4170 ou Intel i5 750",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 650 Ti ou AMD R7 250X",
+            "OS": "Windows 10/11",
+            "Storage": "110 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Course",
+            "Monde ouvert",
+            "Simulation"
+        ]
+    },
+    {
+        "title": "DayZ",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1014/ORrwkbfh9B1OwfQbPGLBsgs7.png?w=440",
+        "description": "DayZ est un jeu vidéo de survie multijoueur en monde ouvert développé et publié par Bohemia Interactive. Le joueur doit survivre dans un environnement post-apocalyptique infesté de zombies en explorant, collectant des ressources et interagissant avec d'autres survivants.",
+        "dl": [
+            "https://buzzheavier.com/vuz7n5e0pocr"
+        ],
+        "release_date": "13 décembre 2018",
+        "size": "19 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4430",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760 ou AMD R9 270X",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Survie",
+            "Tir",
+            "Monde ouvert",
+            "Action",
+            "Coopération"
+        ],
+        "mdp": "COMMENT EXÉCUTER\n\n1. Assurez-vous que le chemin d'accès à l'extraction ne comporte aucune lettre non anglaise.\n2. Exécutez le lanceur DayZavr Dayz.exe dans le dossier du lanceur : DayZ\\DayZavr_Launcher\n3. Spécifiez l'emplacement du fichier .exe du jeu « DayZ_x64 », qui devrait se trouver dans ce dossier : DayZ\\DayZavr\n4. Sélectionnez un serveur et jouez.\n5. Si vous ne voyez aucun serveur, utilisez un VPN."
+    },
+    {
+        "title": "The Elder Scrolls V: Skyrim SE",
+        "image": "https://keyoff.net/wp-content/uploads/2023/09/The-Elder-Scrolls-V-1.jpg",
+        "description": "The Elder Scrolls V: Skyrim Special Edition est une version remasterisée du célèbre RPG en monde ouvert de Bethesda. Elle comprend des graphismes améliorés, tous les DLC et un support complet des mods.",
+        "dl": [
+            "https://gofile.io/d/LlYE0S"
+        ],
+        "release_date": "28 octobre 2016",
+        "size": "11 Go",
+        "min_requirements": {
+            "CPU": "Intel i5-750 ou AMD Phenom II X4-945",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 470 ou AMD HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "RPG",
+            "Monde ouvert",
+            "Aventure"
+        ]
+    },
+    {
+        "title": "The Elder Scrolls IV: Oblivion Remastered",
+        "image": "https://images.ctfassets.net/rporu91m20dc/6dB3142n5ZIQjwVUmQf10e/1372c32e60d79ef12fe616f160f67b57/Jaws-Standard_2D_frontcover_Agnostic-01.png",
+        "description": "The Elder Scrolls IV: Oblivion Remastered est une version modernisée du RPG classique de Bethesda. Le jeu combine l'univers riche de Tamriel avec des graphismes retravaillés, des performances améliorées et une compatibilité avec les systèmes modernes.",
+        "dl": [
+            "https://buzzheavier.com/fagwi8ecnvsv"
+        ],
+        "release_date": "15 mars 2025",
+        "size": "124 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400 ou équivalent",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 1060 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "135 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "RPG",
+            "Monde ouvert",
+            "Aventure"
+        ]
+    },
+    {
+        "title": "Minecraft: Story Mode",
+        "image": "https://images.frandroid.com/wp-content/uploads/2015/10/minecraft-story-mode.jpg",
+        "description": "Minecraft: Story Mode est un jeu d'aventure narratif développé par Telltale Games en collaboration avec Mojang. Le joueur suit Jesse et ses amis dans une quête épique pour sauver leur monde, dans un univers inspiré de Minecraft.",
+        "dl": [
+            "https://gofile.io/d/ZpMbTh"
+        ],
+        "release_date": "13 octobre 2015",
+        "size": "6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.0 GHz",
+            "RAM": "4 Go",
+            "GPU": "ATI or NVIDIA card w/512 MB RAM",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Aventure",
+            "Plateforme"
+        ]
+    },
+    {
+        "title": "Watch Dogs",
+        "image": "https://store.ubisoft.com/on/demandware.static/-/Sites-masterCatalog/default/dwdb4a77ea/images/large/56c4948d88a7e300458b48a0.jpg",
+        "description": "Watch Dogs est un jeu d'action-aventure en monde ouvert développé par Ubisoft. Le joueur incarne Aiden Pearce, un hacker capable de pirater l'infrastructure technologique de la ville de Chicago pour traquer ses ennemis ou échapper à la police.",
+        "dl": [
+            "https://buzzheavier.com/tih1vqd4m3nt"
+        ],
+        "release_date": "27 mai 2014",
+        "size": "16 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Quad Q8400",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GTX 460 ou AMD Radeon HD 5770",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Aventure",
+            "Monde ouvert"
+        ]
+    },
+    {
+        "title": "The Coffin of Andy and Leyley",
+        "image": "https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco9mrn&w=640&q=75",
+        "description": "The Coffin of Andy and Leyley est un jeu indépendant mêlant horreur psychologique et narration intense. Il plonge le joueur dans une histoire sombre centrée sur les relations humaines et les traumatismes.",
+        "dl": [
+            "https://buzzheavier.com/bbt6syokayav"
+        ],
+        "release_date": "15 janvier 2024",
+        "size": "600 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "Carte graphique intégrée compatible DirectX 10",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Indépendant",
+            "Horreur"
+        ]
+    },
+    {
+        "title": "Liar’s Bar",
+        "image": "https://a.allegroimg.com/original/11bc52/21d1445e466689917e53c6488a6f/Liars-Bar-NOWA-PELNA-WERSJA-STEAM-PC",
+        "description": "Liar’s Bar est un jeu indépendant en ligne axé sur la stratégie sociale. Les joueurs doivent user de ruse, mentir et démasquer leurs adversaires dans une atmosphère tendue où chaque décision compte.",
+        "dl": [
+            "https://buzzheavier.com/so2sg757s1co"
+        ],
+        "release_date": "8 mars 2023",
+        "size": "3,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3",
+            "RAM": "4 Go",
+            "GPU": "Carte graphique compatible DirectX 10",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Indépendant",
+            "Stratégie",
+            "Coopération"
+        ]
+    },
+    {
+        "title": "BIGFOOT",
+        "image": "https://s.pacn.ws/1/p/15p/bigfoot-750673.1.jpg?v=rs0lb2&width=400&crop=598,898",
+        "description": "BIGFOOT est un jeu d'action et survie en ligne où les joueurs incarnent soit le légendaire Bigfoot ou des chasseurs déterminés à le capturer dans une vaste forêt dense.",
+        "dl": [
+            "https://gofile.io/d/OS3at1"
+        ],
+        "release_date": "12 juillet 2019",
+        "size": "6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 660 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Action",
+            "Survie",
+            "Multijoueur"
+        ]
+    },
+    {
+        "title": "MONSTER HUNTER: WORLD",
+        "image": "https://image.jeuxvideo.com/medias-sm/149760/1497601320-218-jaquette-avant.jpg",
+        "description": "Monster Hunter: World est un jeu d'action-RPG en monde ouvert développé par Capcom où les joueurs chassent des monstres gigantesques dans des environnements variés.",
+        "dl": [
+            "https://gofile.io/d/TUQIGC"
+        ],
+        "release_date": "26 janvier 2018",
+        "size": "110 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760",
+            "OS": "Windows 10/11",
+            "Storage": "120 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "RPG",
+            "Monde ouvert"
+        ]
+    },
+    {
+        "title": "Need for Speed Most Wanted",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzZlMjBjYjItMzUzOC00YTJlLThiNWQtNjViZjc1MTA2ZGE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "Need for Speed Most Wanted est un jeu de course dynamique où les joueurs s'affrontent dans des poursuites à grande vitesse à travers une ville ouverte remplie de défis et de missions.",
+        "dl": [
+            "https://buzzheavier.com/ofw9io1em10w"
+        ],
+        "release_date": "30 octobre 2005",
+        "size": "6,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Pentium 4 3.0 GHz",
+            "RAM": "1 Go",
+            "GPU": "NVIDIA GeForce 6600 GT",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Course",
+            "Monde ouvert"
+        ]
+    },
+    {
+        "title": "FIFA 19",
+        "image": "https://image.jeuxvideo.com/medias/152856/1528561887-2268-jaquette-avant.jpg",
+        "description": "FIFA 19 est un jeu de simulation de football réaliste développé par EA Sports, proposant des graphismes améliorés, un gameplay fluide et la Champions League officielle.",
+        "dl": [
+            "https://gofile.io/d/HSAyhe"
+        ],
+        "release_date": "28 septembre 2018",
+        "size": "50 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 460",
+            "OS": "Windows 10/11",
+            "Storage": "55 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Sport",
+            "Simulation"
+        ]
+    },
+    {
+        "title": "Assassin’s Creed Mirage",
+        "image": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/Carousel_BoxArt_1200x1600_1200x1600-38bda67bb1290f58e8a18ddc38a3c0ec",
+        "description": "Assassin’s Creed Mirage est un jeu d'action-aventure mêlant furtivité et exploration, situé dans Bagdad au IXe siècle, offrant un retour aux sources de la série avec un gameplay plus concentré.",
+        "dl": [
+            "https://gofile.io/d/rznNRY"
+        ],
+        "release_date": "12 octobre 2023",
+        "size": "39 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970",
+            "OS": "Windows 10/11",
+            "Storage": "45 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Aventure"
+        ]
+    },
+    {
+        "title": "Call of Duty: Modern Warfare II (Campaign Version)",
+        "image": "https://static.posters.cz/image/1300/149551.jpg",
+        "description": "Call of Duty: Modern Warfare II (Campaign Version) est un jeu de tir à la première personne axé sur une campagne solo intense et immersive, offrant des missions scénarisées dans divers environnements.",
+        "dl": [
+            "https://buzzheavier.com/ndyr2jxmg8gz"
+        ],
+        "release_date": "28 octobre 2022",
+        "size": "31 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 670",
+            "OS": "Windows 10/11",
+            "Storage": "35 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Tir"
+        ]
+    },
+    {
+        "title": "Vampire Survivors",
+        "image": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1obv8.jpg",
+        "description": "Vampire Survivors est un jeu d'action indépendant de type survie où le joueur affronte des vagues incessantes d'ennemis dans un gameplay simple mais addictif.",
+        "dl": [
+            "https://buzzheavier.com/h8j5j4p1i0f1"
+        ],
+        "release_date": "17 décembre 2021",
+        "size": "700 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics 4000",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Indépendant",
+            "Survie",
+            "Action"
+        ]
+    },
+    {
+        "title": "Metaphor: ReFantazio",
+        "image": "https://image.jeuxvideo.com/medias-sm/171386/1713856361-9241-jaquette-avant.jpg",
+        "description": "Metaphor: ReFantazio est un RPG d'action avec un univers fantastique riche, mêlant exploration, combats dynamiques et narration immersive.",
+        "dl": [
+            "https://buzzheavier.com/l4w0ez14pd74"
+        ],
+        "release_date": "23 mai 2024",
+        "size": "42 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970",
+            "OS": "Windows 10/11",
+            "Storage": "50 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "RPG",
+            "Action",
+            "Aventure"
+        ]
+    },
+    {
+        "title": "Grand Theft Auto: Vice City",
+        "image": "https://image.jeuxvideo.com/images/pc/g/t/gtavpc0f.jpg",
+        "description": "Grand Theft Auto: Vice City est un jeu d'action-aventure en monde ouvert se déroulant dans une ville fictive inspirée de Miami des années 80, proposant missions, exploration et conduite libre.",
+        "dl": [
+            "https://buzzheavier.com/k3ykmmfdvrep"
+        ],
+        "release_date": "29 octobre 2002",
+        "size": "1,2 Go",
+        "min_requirements": {
+            "CPU": "Intel Pentium 4 1.2 GHz",
+            "RAM": "256 Mo",
+            "GPU": "NVIDIA GeForce 3",
+            "OS": "Windows 10/11",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Monde ouvert",
+            "Aventure"
+        ]
+    },
+    {
+        "title": "Batman: Arkham City – GOTY",
+        "image": "https://products.eneba.games/resized-products/twfYM6sYK5Ow6FNHRUt5QQgAImURMHKUmWPUm0oCgJ0_1920x1080_1x-0.jpg",
+        "description": "Batman: Arkham City – GOTY est un jeu d'action-aventure en monde ouvert où Batman doit affronter ses ennemis dans une vaste prison urbaine pleine de dangers.",
+        "dl": [
+            "https://gofile.io/d/sMc1Qa"
+        ],
+        "release_date": "21 octobre 2011",
+        "size": "17 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo E4700",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce 8800 GT",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Aventure",
+            "Monde ouvert"
+        ]
+    },
+    {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "image": "https://data.xxlgamer.com/products/5393/TbufBCr3yERidg-big.jpg",
+        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobyl est un jeu de tir à la première personne combinant survie, exploration et horreur dans une zone post-apocalyptique contaminée.",
+        "dl": [
+            "https://gofile.io/d/hU5QZc"
+        ],
+        "release_date": "28 décembre 2023",
+        "size": "160 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce GTX 1060",
+            "OS": "Windows 10/11",
+            "Storage": "180 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Tir",
+            "Survie"
+        ]
+    },
+    {
+        "title": "HITMAN 2",
+        "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA12414_00/2/i_b370c5dff005744ec640dab6d344ea80be9284f376fd6f69da658d2bb85fa82a/i/icon0.png",
+        "description": "HITMAN 2 est un jeu d'action-infiltration où le joueur incarne l'agent 47, un assassin professionnel, dans des missions variées à travers le monde.",
+        "dl": [
+            "https://gofile.io/d/8NfR0r"
+        ],
+        "release_date": "13 novembre 2018",
+        "size": "74 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 660",
+            "OS": "Windows 10/11",
+            "Storage": "80 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Tir",
+            "Aventure"
+        ]
+    },
+    {
+        "title": "7 Days to Die",
+        "image": "https://data.xxlgamer.com/products/3912/vbQJWz9EvQyixo-medium.jpg",
+        "description": "7 Days to Die est un jeu de survie en monde ouvert combinant tir à la première personne, construction, et éléments de RPG dans un univers post-apocalyptique.",
+        "dl": [
+            "https://gofile.io/d/PxoqlZ"
+        ],
+        "release_date": "13 décembre 2013",
+        "size": "14 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 560",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Survie",
+            "Tir",
+            "Construction",
+            "Monde ouvert"
+        ]
     }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
 ]
