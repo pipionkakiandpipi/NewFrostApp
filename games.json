@@ -1,213 +1,284 @@
 [
-    {
-        "title": "Cyberpunk 2077",
-        "image": "https://image.jeuxvideo.com/medias-sm/163835/1638354762-4961-jaquette-avant.gif",
-        "description": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
-        "dl": ["https://buzzheavier.com/s606g4b9965q"],
-        "release_date": "10 décembre 2020",
-        "size": "89 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-3570K",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GTX 780",
-            "OS": "Windows 10/11",
-            "Storage": "100 Go d'espace libre"
-        },
-        "online": false
-    },
-    {
-        "title": "The Witcher 3",
-        "image": "https://image.jeuxvideo.com/medias-sm/142247/1422469608-7141-jaquette-avant.jpg",
-        "description": "The Witcher 3: Wild Hunt est un jeu vidéo de type action-RPG développé par le studio polonais CD Projekt RED, sorti le 19 mai 2015 sur PC, PlayStation 4 et Xbox One, puis sur Nintendo Switch le 15 octobre 2019.",
-        "dl": [
-            "https://buzzheavier.com/wge5xqrqagzc"
-        ],
-        "release_date": "19 mai 2015",
-        "size": "51 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-2500K",
-            "RAM": "6 Go",
-            "GPU": "NVIDIA GTX 660",
-            "OS": "Windows 10/11",
-            "Storage": "60 Go d'espace libre"
-        },
-        "online": false
-    },
-    {
-        "title": "Red Dead Redemption 2",
-        "image": "https://image.jeuxvideo.com/medias-sm/165165/1651652506-3619-jaquette-avant.jpg",
-        "description": "Red Dead Redemption II est un jeu vidéo d'action-aventure et de western développé et édité par Rockstar Games, sorti en octobre 2018.",
-        "dl": ["https://buzzheavier.com/ck7nob6r1bcv"],
-        "release_date": "26 octobre 2018",
-        "size": "122 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-2500K",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GTX 770",
-            "OS": "Windows 10/11",
-            "Storage": "150 Go d'espace libre"
-        },
-        "online": false
-    },
-    {
-        "title": "Grand Theft Auto V",
-        "image": "https://image.jeuxvideo.com/medias-sm/163129/1631287693-8700-jaquette-avant.jpg",
-        "description": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games.",
-        "dl": ["https://buzzheavier.com/ouvyovqmuez0"],
-        "release_date": "17 septembre 2013",
-        "size": "113 Go",
-        "min_requirements": {
-            "CPU": "Intel Core 2 Quad Q6600",
-            "RAM": "4 Go",
-            "GPU": "NVIDIA 9800 GT",
-            "OS": "Windows 10/11",
-            "Storage": "120 Go d'espace libre"
-        },
-        "online": false
-    },
-    {
-        "title": "Elden Ring",
-        "image": "https://image.jeuxvideo.com/medias-sm/163301/1633006670-7022-jaquette-avant.jpg",
-        "description": "Elden Ring est un jeu vidéo d'action-RPG développé par FromSoftware et édité par Bandai Namco Entertainment.",
-        "dl": ["https://gofile.io/d/S683NC"],
-        "release_date": "25 février 2022",
-        "size": "67 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-8400",
-            "RAM": "12 Go",
-            "GPU": "NVIDIA GTX 1060",
-            "OS": "Windows 10/11",
-            "Storage": "75 Go d'espace libre"
-        },
-        "online": false
-    },
-    {
-        "title": "Assassin’s Creed Valhalla",
-        "image": "https://image.jeuxvideo.com/medias-sm/158826/1588264397-5261-jaquette-avant.jpg",
-        "description": "Assassin’s Creed Valhalla est un jeu vidéo d'action-aventure et de rôle, développé par Ubisoft Montréal.",
-        "dl": ["https://buzzheavier.com/u31t4e6ce6pj"],
-        "release_date": "10 novembre 2020",
-        "size": "161 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-4460",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GTX 960",
-            "OS": "Windows 10/11",
-            "Storage": "170 Go d'espace libre"
-        },
-        "online": false
-    },
-    {
-        "title": "Resident Evil Village",
-        "image": "https://image.jeuxvideo.com/medias-sm/161979/1619789555-8363-jaquette-avant.jpg",
-        "description": "Resident Evil Village est un jeu vidéo d'horreur en vue à la première personne développé par Capcom.",
-        "dl": [
-            "https://buzzheavier.com/b2u9ojw83tgl"
-        ],
-        "release_date": "7 mai 2021",
-        "size": "38 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-7500",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GTX 1050 Ti",
-            "OS": "Windows 10/11",
-            "Storage": "45 Go d'espace libre"
-        },
-        "online": false
-    },
-    {
-        "title": "FIFA 23",
-        "image": "https://image.jeuxvideo.com/medias-sm/165945/1659449057-7682-jaquette-avant.jpg",
-        "description": "Il s'agit de la dernière version du célèbre licence de football en collaboration avec la FIFA. FIFA 23 apporte des améliorations techniques, de nouveaux modes et de nouveaux joueurs pour créer les équipes de foot.",
-        "dl": ["https://buzzheavier.com/zmasjuexf733"],
-        "release_date": "30 septembre 2022",
-        "size": "46 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i3-6100",
-            "RAM": "8 Go",
-            "GPU": "NVIDIA GTX 660",
-            "OS": "Windows 10/11",
-            "Storage": "50 Go d'espace libre"
-        },
-        "online": false
-    },
-    {
-        "title": "Half Life 2",
-        "image": "https://image.jeuxvideo.com/images-sm/pc/h/l/hlf2pc0f.jpg",
-        "description": "Half-Life 2, stylisé HλLF-LIFE² et abrégé en HL2, est un jeu vidéo de tir à la première personne produit par Valve Corporation, sorti le 16 novembre 2004 après un développement prolongé de plus de cinq ans.",
-        "dl": [
-            "https://buzzheavier.com/oqde6ntz13c7"
-            
-        ],
-        "release_date": "16 Novembre 2004",
-        "size": "10 Go",
-        "min_requirements": {
-            "CPU": "1.7 Ghz",
-            "RAM": "512 Mo",
-            "GPU": "DirectX 8.1 level Graphics Card",
-            "OS": "Windows 10/11",
-            "Storage": "15 Go d'espace libre"
-        },
-        "online": false
-    },
-    {
-        "title": "Palworld",
-        "image": "https://image.jeuxvideo.com/medias-sm/171026/1710255088-1947-jaquette-avant.jpg",
-        "description": "Palworld est un jeu de survie action-aventure du développeur japonais Pocket Pair. Le jeu se déroule dans un monde ouvert peuplé de créatures ressemblant à des animaux connues sous le nom de « Pals ».",
-        "dl": [
-            "https://buzzheavier.com/e4d3r64z8ke1"
-            
-        ],
-        "release_date": "9 Janvier 2024",
-        "size": "22 Go",
-        "min_requirements": {
-            "CPU": "i5-3570K 3.4 GHz 4 Core",
-            "RAM": "16 Go",
-            "GPU": "GeForce GTX 1050",
-            "OS": "Windows 10/11",
-            "Storage": "30 Go d'espace libre"
-        },
-        "online": true
-    },
-    {
-        "title": "Rayman Legends",
-        "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00049641/jaquette-rayman-legends-pc-cover-avant-g-1378220913.jpg",
-        "description": "Rayman Legends est un jeu vidéo de plates-formes développé par Ubisoft Montpellier et édité par Ubisoft. Il est le cinquième épisode dans la série principale de Rayman, et la suite de Rayman Origins.",
-        "dl": [
-            "https://buzzheavier.com/9w8palf6we8d"
-            
-        ],
-        "release_date": "29 Aout 2013",
-        "size": "4.13 Go",
-        "min_requirements": {
-            "CPU": " Intel Pentium IV @ 3.0 GHz or AMD Athlon64 3000 + @ 1.8 GHz",
-            "RAM": "2 Go",
-            "GPU": "GeForce 6800GT or AMD Radeon X1950 Pro",
-            "OS": "Windows 10/11",
-            "Storage": "6 Go d'espace libre"
-        },
-        "online": false
-    },
-    {
-        "title": "20 Minutes Till Dawn",
-        "image": "https://cdn-bgp.bluestacks.com/BGP/us/gametiles_com.Flanne.MinutesTillDawn.roguelike.shooting.gp.jpg",
-        "description": "20 Minutes Till Dawn est un roguelite de type bullet hell en 2D. Abattez une horde grandissante de monstres lovecraftiens pour survivre à la nuit. Choisissez parmi une variété d'améliorations pour créer des builds uniques et surpuissants. Déverrouillez une panoplie de personnages et d'armes aux pouvoirs uniques.",
-        "dl": [
-            "https://buzzheavier.com/byt6w5fridqm"
-            
-        ],
-        "release_date": "08 juin 2022",
-        "size": "83 Mo",
-        "min_requirements": {
-            "CPU": "Dual Core+",
-            "RAM": "1 Go",
-            "GPU": "1 Go",
-            "OS": "Windows 10/11",
-            "Storage": "100 Mo"
-        },
-        "online": false
-    },
-    {
+   {
+      "title":"Cyberpunk 2077",
+      "image":"https://image.jeuxvideo.com/medias-sm/163835/1638354762-4961-jaquette-avant.gif",
+      "description":"Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED et édité par CD Projekt, inspiré du jeu de rôle sur table Cyberpunk 2020 conçu par Mike Pondsmith.",
+      "dl":[
+         "https://buzzheavier.com/s606g4b9965q"
+      ],
+      "release_date":"10 décembre 2020",
+      "size":"89 Go",
+      "min_requirements":{
+         "CPU":"Intel Core i5-3570K",
+         "RAM":"8 Go",
+         "GPU":"NVIDIA GTX 780",
+         "OS":"Windows 10/11",
+         "Storage":"100 Go d'espace libre"
+      },
+      "online":false,
+      "categories":[
+         "Action",
+         "Aventure",
+         "Monde ouvert",
+         "Tir"
+      ]
+   },
+   {
+      "title":"The Witcher 3",
+      "image":"https://image.jeuxvideo.com/medias-sm/142247/1422469608-7141-jaquette-avant.jpg",
+      "description":"The Witcher 3: Wild Hunt est un jeu vidéo de type action-RPG développé par le studio polonais CD Projekt RED, sorti le 19 mai 2015 sur PC, PlayStation 4 et Xbox One, puis sur Nintendo Switch le 15 octobre 2019.",
+      "dl":[
+         "https://buzzheavier.com/wge5xqrqagzc"
+      ],
+      "release_date":"19 mai 2015",
+      "size":"51 Go",
+      "min_requirements":{
+         "CPU":"Intel Core i5-2500K",
+         "RAM":"6 Go",
+         "GPU":"NVIDIA GTX 660",
+         "OS":"Windows 10/11",
+         "Storage":"60 Go d'espace libre"
+      },
+      "online":false,
+      "categories":[
+         "Action",
+         "Aventure",
+         "Monde ouvert"
+      ]
+   },
+   {
+      "title":"Red Dead Redemption 2",
+      "image":"https://image.jeuxvideo.com/medias-sm/165165/1651652506-3619-jaquette-avant.jpg",
+      "description":"Red Dead Redemption II est un jeu vidéo d'action-aventure et de western développé et édité par Rockstar Games, sorti en octobre 2018.",
+      "dl":[
+         "https://buzzheavier.com/ck7nob6r1bcv"
+      ],
+      "release_date":"26 octobre 2018",
+      "size":"122 Go",
+      "min_requirements":{
+         "CPU":"Intel Core i5-2500K",
+         "RAM":"8 Go",
+         "GPU":"NVIDIA GTX 770",
+         "OS":"Windows 10/11",
+         "Storage":"150 Go d'espace libre"
+      },
+      "online":false,
+      "categories":[
+         "Action",
+         "Aventure",
+         "Monde ouvert",
+         "Tir",
+         "Simulation"
+      ]
+   },
+   {
+      "title":"Grand Theft Auto V",
+      "image":"https://image.jeuxvideo.com/medias-sm/163129/1631287693-8700-jaquette-avant.jpg",
+      "description":"Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games.",
+      "dl":[
+         "https://buzzheavier.com/ouvyovqmuez0"
+      ],
+      "release_date":"17 septembre 2013",
+      "size":"113 Go",
+      "min_requirements":{
+         "CPU":"Intel Core 2 Quad Q6600",
+         "RAM":"4 Go",
+         "GPU":"NVIDIA 9800 GT",
+         "OS":"Windows 10/11",
+         "Storage":"120 Go d'espace libre"
+      },
+      "online":false,
+      "categories":[
+         "Action",
+         "Aventure",
+         "Monde ouvert",
+         "Tir",
+         "Simulation"
+      ]
+   },
+   {
+      "title":"Elden Ring",
+      "image":"https://image.jeuxvideo.com/medias-sm/163301/1633006670-7022-jaquette-avant.jpg",
+      "description":"Elden Ring est un jeu vidéo d'action-RPG développé par FromSoftware et édité par Bandai Namco Entertainment.",
+      "dl":[
+         "https://gofile.io/d/S683NC"
+      ],
+      "release_date":"25 février 2022",
+      "size":"67 Go",
+      "min_requirements":{
+         "CPU":"Intel Core i5-8400",
+         "RAM":"12 Go",
+         "GPU":"NVIDIA GTX 1060",
+         "OS":"Windows 10/11",
+         "Storage":"75 Go d'espace libre"
+      },
+      "online":false,
+      "categories":[
+         "Action",
+         "Aventure",
+         "Monde ouvert"
+      ]
+   },
+   {
+      "title":"Assassin’s Creed Valhalla",
+      "image":"https://image.jeuxvideo.com/medias-sm/158826/1588264397-5261-jaquette-avant.jpg",
+      "description":"Assassin’s Creed Valhalla est un jeu vidéo d'action-aventure et de rôle, développé par Ubisoft Montréal.",
+      "dl":[
+         "https://buzzheavier.com/u31t4e6ce6pj"
+      ],
+      "release_date":"10 novembre 2020",
+      "size":"161 Go",
+      "min_requirements":{
+         "CPU":"Intel Core i5-4460",
+         "RAM":"8 Go",
+         "GPU":"NVIDIA GTX 960",
+         "OS":"Windows 10/11",
+         "Storage":"170 Go d'espace libre"
+      },
+      "online":false,
+      "categories":[
+         "Action",
+         "Aventure",
+         "Monde ouvert"
+      ]
+   },
+   {
+      "title":"Resident Evil Village",
+      "image":"https://image.jeuxvideo.com/medias-sm/161979/1619789555-8363-jaquette-avant.jpg",
+      "description":"Resident Evil Village est un jeu vidéo d'horreur en vue à la première personne développé par Capcom.",
+      "dl":[
+         "https://buzzheavier.com/b2u9ojw83tgl"
+      ],
+      "release_date":"7 mai 2021",
+      "size":"38 Go",
+      "min_requirements":{
+         "CPU":"Intel Core i5-7500",
+         "RAM":"8 Go",
+         "GPU":"NVIDIA GTX 1050 Ti",
+         "OS":"Windows 10/11",
+         "Storage":"45 Go d'espace libre"
+      },
+      "online":false,
+      "categories":[
+         "Action",
+         "Horreur",
+         "Tir",
+         "Aventure"
+      ]
+   },
+   {
+      "title":"FIFA 23",
+      "image":"https://image.jeuxvideo.com/medias-sm/165945/1659449057-7682-jaquette-avant.jpg",
+      "description":"Il s'agit de la dernière version du célèbre licence de football en collaboration avec la FIFA. FIFA 23 apporte des améliorations techniques, de nouveaux modes et de nouveaux joueurs pour créer les équipes de foot.",
+      "dl":[
+         "https://buzzheavier.com/zmasjuexf733"
+      ],
+      "release_date":"30 septembre 2022",
+      "size":"46 Go",
+      "min_requirements":{
+         "CPU":"Intel Core i3-6100",
+         "RAM":"8 Go",
+         "GPU":"NVIDIA GTX 660",
+         "OS":"Windows 10/11",
+         "Storage":"50 Go d'espace libre"
+      },
+      "online":false,
+      "categories":[
+         "Sport",
+         "Simulation"
+      ]
+   },
+   {
+      "title":"Half Life 2",
+      "image":"https://image.jeuxvideo.com/images-sm/pc/h/l/hlf2pc0f.jpg",
+      "description":"Half-Life 2, stylisé HλLF-LIFE² et abrégé en HL2, est un jeu vidéo de tir à la première personne produit par Valve Corporation, sorti le 16 novembre 2004 après un développement prolongé de plus de cinq ans.",
+      "dl":[
+         "https://buzzheavier.com/oqde6ntz13c7"
+      ],
+      "release_date":"16 Novembre 2004",
+      "size":"10 Go",
+      "min_requirements":{
+         "CPU":"1.7 Ghz",
+         "RAM":"512 Mo",
+         "GPU":"DirectX 8.1 level Graphics Card",
+         "OS":"Windows 10/11",
+         "Storage":"15 Go d'espace libre"
+      },
+      "online":false,
+      "categories":[
+         "Action",
+         "Tir",
+         "Aventure"
+      ]
+   },
+   {
+      "title":"Palworld",
+      "image":"https://image.jeuxvideo.com/medias-sm/171026/1710255088-1947-jaquette-avant.jpg",
+      "description":"Palworld est un jeu de survie action-aventure du développeur japonais Pocket Pair. Le jeu se déroule dans un monde ouvert peuplé de créatures ressemblant à des animaux connues sous le nom de « Pals ».",
+      "dl":[
+         "https://buzzheavier.com/e4d3r64z8ke1"
+      ],
+      "release_date":"9 Janvier 2024",
+      "size":"22 Go",
+      "min_requirements":{
+         "CPU":"i5-3570K 3.4 GHz 4 Core",
+         "RAM":"16 Go",
+         "GPU":"GeForce GTX 1050",
+         "OS":"Windows 10/11",
+         "Storage":"30 Go d'espace libre"
+      },
+      "online":true,
+      "categories":[
+         "Action",
+         "Aventure",
+         "Monde ouvert",
+         "Construction",
+         "Simulation",
+         "Anime"
+      ]
+   },
+   {
+      "title":"Rayman Legends",
+      "image":"https://image.jeuxvideo.com/images-sm/jaquettes/00049641/jaquette-rayman-legends-pc-cover-avant-g-1378220913.jpg",
+      "description":"Rayman Legends est un jeu vidéo de plates-formes développé par Ubisoft Montpellier et édité par Ubisoft. Il est le cinquième épisode dans la série principale de Rayman, et la suite de Rayman Origins.",
+      "dl":[
+         "https://buzzheavier.com/9w8palf6we8d"
+      ],
+      "release_date":"29 Aout 2013",
+      "size":"4.13 Go",
+      "min_requirements":{
+         "CPU":" Intel Pentium IV @ 3.0 GHz or AMD Athlon64 3000 + @ 1.8 GHz",
+         "RAM":"2 Go",
+         "GPU":"GeForce 6800GT or AMD Radeon X1950 Pro",
+         "OS":"Windows 10/11",
+         "Storage":"6 Go d'espace libre"
+      },
+      "online":false,
+      "categories":[
+         "Aventure",
+         "Indépendant"
+      ]
+   },
+   {
+      "title":"20 Minutes Till Dawn",
+      "image":"https://cdn-bgp.bluestacks.com/BGP/us/gametiles_com.Flanne.MinutesTillDawn.roguelike.shooting.gp.jpg",
+      "description":"20 Minutes Till Dawn est un roguelite de type bullet hell en 2D. Abattez une horde grandissante de monstres lovecraftiens pour survivre à la nuit. Choisissez parmi une variété d'améliorations pour créer des builds uniques et surpuissants. Déverrouillez une panoplie de personnages et d'armes aux pouvoirs uniques.",
+      "dl":[
+         "https://buzzheavier.com/byt6w5fridqm"
+      ],
+      "release_date":"08 juin 2022",
+      "size":"83 Mo",
+      "min_requirements":{
+         "CPU":"Dual Core+",
+         "RAM":"1 Go",
+         "GPU":"1 Go",
+         "OS":"Windows 10/11",
+         "Storage":"100 Mo"
+      },
+      "online":false
+   },
+   {
+      
         "title": "60 Seconds! Reatomized",
         "image": "https://cdn1.epicgames.com/spt-assets/9b574fb62beb47c4a6e2da240201c3ec/download-60-seconds-reatomized-offer-g91je.png",
         "description": "60 Seconds! Reatomized est une version remastérisée du jeu d'origine, ici, les graphismes ont été revues à la hausse mélangeant 2D et 3D, un nouveau menu interactif à été rajouté, mais également du contenu avec par exemple un nouveau mode de jeu.",
