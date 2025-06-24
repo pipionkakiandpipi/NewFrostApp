@@ -17,7 +17,9 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Action",
+            "Monde ouvert",
+            "RPG"
         ]
     },
     {
@@ -38,7 +40,10 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Action",
+            "Aventure",
+            "Monde ouvert",
+            "RPG"
         ]
     },
     {
@@ -60,7 +65,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -81,8 +87,9 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Aventure"
+            "TheTrilogy:Action",
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -103,7 +110,10 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Action",
+            "Aventure",
+            "Monde ouvert",
+            "RPG"
         ]
     },
     {
@@ -125,7 +135,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -146,7 +157,9 @@
         },
         "online": false,
         "categories": [
-            "Horreur"
+            "Horreur",
+            "Action",
+            "Aventure"
         ]
     },
     {
@@ -211,10 +224,8 @@
         "online": true,
         "categories": [
             "Action",
-            "Horreur",
             "Monde ouvert",
-            "Aventure",
-            "Anime"
+            "Survie"
         ]
     },
     {
@@ -234,7 +245,9 @@
             "Storage": "6 Go d'espace libre"
         },
         "online": false,
-        "categories": ["Action", "Aventure", "Indépendant"]
+        "categories": [
+            "Plateforme"
+        ]
     },
     {
         "title": "20 Minutes Till Dawn",
@@ -254,9 +267,8 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Horreur",
-            "Tir"
+            "Action",
+            "Indépendant"
         ]
     },
     {
@@ -276,7 +288,10 @@
             "Storage": "700 Mo"
         },
         "online": false,
-        "categories": ["Indépendant", "Stratégie", "Simulation"]
+        "categories": [
+            "Indépendant",
+            "Survie"
+        ]
     },
     {
         "title": "Age of Empires",
@@ -316,7 +331,9 @@
             "Storage": "40 Go"
         },
         "online": false,
-        "categories": ["Stratégie"]
+        "categories": [
+            "Stratégie"
+        ]
     },
     {
         "title": "Age of Empires IV",
@@ -336,8 +353,7 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Action"
+            "Stratégie"
         ]
     },
     {
@@ -358,8 +374,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Horreur",
+            "Aventure"
         ]
     },
     {
@@ -380,8 +396,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Course"
+            "Simulation"
         ]
     },
     {
@@ -402,8 +417,8 @@
         },
         "online": true,
         "categories": [
-            "Indépendant",
-            "Stratégie"
+            "Coopération",
+            "Indépendant"
         ]
     },
     {
@@ -424,8 +439,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Indépendant"
+            "Action",
+            "Plateforme"
         ]
     },
     {
@@ -446,8 +461,9 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Survie",
+            "Action",
+            "Monde ouvert"
         ]
     },
     {
@@ -469,8 +485,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -492,10 +508,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Construction",
-            "Monde ouvert",
             "Aventure",
-            "Tir"
+            "Monde ouvert"
         ]
     },
     {
@@ -517,8 +531,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -539,7 +553,10 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Action",
+            "Aventure",
+            "Monde ouvert",
+            "RPG"
         ]
     },
     {
@@ -560,9 +577,10 @@
         },
         "online": false,
         "categories": [
-            "Construction",
             "Action",
-            "Monde ouvert"
+            "Aventure",
+            "Monde ouvert",
+            "RPG"
         ]
     },
     {
@@ -583,9 +601,9 @@
         },
         "online": false,
         "categories": [
-            "Construction",
+            "Action",
             "Aventure",
-            "Tir"
+            "Monde ouvert"
         ]
     },
     {
@@ -607,8 +625,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -630,8 +648,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -652,9 +670,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Sport",
-            "Course"
+            "Course",
+            "Simulation"
         ]
     },
     {
@@ -676,7 +693,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir"
+            "Anime"
         ]
     },
     {
@@ -697,7 +714,7 @@
         },
         "online": false,
         "categories": [
-            "Course"
+            "Simulation"
         ]
     },
     {
@@ -719,8 +736,7 @@
         "online": false,
         "categories": [
             "Simulation",
-            "Horreur",
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -741,7 +757,9 @@
         },
         "online": true,
         "categories": [
-            "Construction"
+            "RPG",
+            "Action",
+            "Monde ouvert"
         ]
     },
     {
@@ -806,11 +824,7 @@
         },
         "online": true,
         "categories": [
-            "Sport",
-            "Simulation",
-            "Course",
-            "Monde ouvert",
-            "Aventure"
+            "Simulation"
         ]
     },
     {
@@ -831,6 +845,7 @@
         },
         "online": false,
         "categories": [
+            "Action",
             "Anime"
         ]
     },
@@ -852,9 +867,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Construction",
-            "Simulation"
+            "Simulation",
+            "Construction"
         ]
     },
     {
@@ -876,8 +890,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Horreur",
-            "Aventure"
+            "Indépendant",
+            "Plateforme"
         ]
     },
     {
@@ -898,7 +912,9 @@
         },
         "online": false,
         "categories": [
-            "Action, Aventure"
+            "Action",
+            "Indépendant",
+            "Plateforme"
         ]
     },
     {
@@ -920,8 +936,7 @@
         "online": true,
         "categories": [
             "Simulation",
-            "Tir",
-            "Action"
+            "Indépendant"
         ]
     },
     {
@@ -942,7 +957,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "Indépendant",
+            "Puzzle"
         ]
     },
     {
@@ -963,7 +979,8 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Action",
+            "Indépendant"
         ]
     },
     {
@@ -984,7 +1001,8 @@
         },
         "online": false,
         "categories": [
-            "Horreur"
+            "Action",
+            "Indépendant"
         ]
     },
     {
@@ -1005,8 +1023,6 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
-            "Construction",
             "Simulation"
         ]
     },
@@ -1163,9 +1179,7 @@
         "online": true,
         "categories": [
             "Action",
-            "Tir",
-            "Course",
-            "Anime"
+            "Tir"
         ]
     },
     {
@@ -1187,8 +1201,7 @@
         "online": true,
         "categories": [
             "Action",
-            "Tir",
-            "Horreur"
+            "Tir"
         ]
     },
     {
@@ -1254,9 +1267,8 @@
         },
         "online": true,
         "categories": [
-            "Simulation",
-            "Tir",
-            "Action"
+            "ModernWarfare(2019):Action",
+            "Tir"
         ]
     },
     {
@@ -1277,7 +1289,7 @@
         },
         "online": true,
         "categories": [
-            "Course"
+            "Simulation"
         ]
     },
     {
@@ -1298,7 +1310,7 @@
         },
         "online": false,
         "categories": [
-            "Course"
+            "Simulation"
         ]
     },
     {
@@ -1319,8 +1331,8 @@
         },
         "online": false,
         "categories": [
-            "Indépendant",
-            "Aventure"
+            "Plateforme",
+            "Indépendant"
         ]
     },
     {
@@ -1341,8 +1353,8 @@
         },
         "online": true,
         "categories": [
-            "Indépendant",
-            "Action"
+            "Coopération",
+            "Indépendant"
         ]
     },
     {
@@ -1384,6 +1396,7 @@
         },
         "online": false,
         "categories": [
+            "Horreur",
             "Action"
         ]
     },
@@ -1450,9 +1463,7 @@
         },
         "online": false,
         "categories": [
-            "Horreur",
-            "Aventure",
-            "Monde ouvert"
+            "Indépendant"
         ]
     },
     {
@@ -1473,8 +1484,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Course"
+            "Simulation"
         ]
     },
     {
@@ -1495,7 +1505,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation"
+            "Simulation",
+            "Construction"
         ]
     },
     {
@@ -1538,8 +1549,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Stratégie",
-            "Indépendant"
+            "Indépendant",
+            "Survie"
         ]
     },
     {
@@ -1560,8 +1571,9 @@
         },
         "online": false,
         "categories": [
+            "Plateforme",
             "Action",
-            "Tir"
+            "Indépendant"
         ]
     },
     {
@@ -1583,7 +1595,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Anime"
+            "Aventure",
+            "RPG"
         ]
     },
     {
@@ -1604,7 +1617,9 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "PrepareToDieEdition:Action",
+            "Aventure",
+            "RPG"
         ]
     },
     {
@@ -1667,10 +1682,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Construction",
-            "Simulation",
-            "Aventure"
+            "Action",
+            "Indépendant"
         ]
     },
     {
@@ -1692,7 +1705,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir"
+            "Indépendant"
         ]
     },
     {
@@ -1714,10 +1727,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Horreur",
-            "Monde ouvert",
-            "Aventure",
-            "Tir"
+            "Survie"
         ]
     },
     {
@@ -1738,10 +1748,8 @@
         },
         "online": false,
         "categories": [
-            "Horreur",
             "Action",
-            "Tir",
-            "Monde ouvert"
+            "Survie"
         ]
     },
     {
@@ -1762,8 +1770,7 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Aventure"
+            "Action"
         ]
     },
     {
@@ -1785,9 +1792,8 @@
         "online": true,
         "categories": [
             "Action",
-            "Tir",
-            "Monde ouvert",
-            "Aventure"
+            "Coopération",
+            "Survie"
         ]
     },
     {
@@ -1829,8 +1835,7 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Aventure"
+            "Action"
         ]
     },
     {
@@ -1851,7 +1856,9 @@
         },
         "online": true,
         "categories": [
-            "Horreur"
+            "Horreur",
+            "Action",
+            "Coopération"
         ]
     },
     {
@@ -1872,9 +1879,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Sport",
-            "Course"
+            "Course",
+            "Simulation"
         ]
     },
     {
@@ -1895,8 +1901,9 @@
         },
         "online": true,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Survie",
+            "Coopération",
+            "Indépendant"
         ]
     },
     {
@@ -1939,7 +1946,7 @@
         },
         "online": true,
         "categories": [
-            "Action",
+            "Sparking!ZERO:Action",
             "Anime"
         ]
     },
@@ -1962,7 +1969,7 @@
         "online": true,
         "categories": [
             "Action",
-            "Aventure"
+            "Anime"
         ]
     },
     {
@@ -1984,8 +1991,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Anime"
         ]
     },
     {
@@ -2029,8 +2035,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Simulation"
+            "Survie",
+            "Indépendant"
         ]
     },
     {
@@ -2078,10 +2084,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Horreur",
-            "Construction",
-            "Monde ouvert",
-            "Aventure"
+            "Survie"
         ]
     },
     {
@@ -2124,8 +2127,8 @@
         },
         "online": true,
         "categories": [
-            "Horreur",
-            "Aventure",
+            "Action",
+            "Survie",
             "Monde ouvert"
         ]
     },
@@ -2147,8 +2150,9 @@
         },
         "online": true,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Horreur",
+            "Indépendant",
+            "Survie"
         ]
     },
     {
@@ -2169,8 +2173,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Sport"
+            "Simulation"
         ]
     },
     {
@@ -2191,9 +2194,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Sport",
-            "Course"
+            "Course",
+            "Simulation"
         ]
     },
     {
@@ -2214,11 +2216,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Sport",
-            "Construction",
-            "Simulation",
-            "Course"
+            "Course",
+            "Simulation"
         ]
     },
     {
@@ -2241,7 +2240,7 @@
         "categories": [
             "Stratégie",
             "Construction",
-            "Simulation"
+            "Indépendant"
         ]
     },
     {
@@ -2263,7 +2262,6 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir",
             "Monde ouvert"
         ]
     },
@@ -2286,7 +2284,6 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir",
             "Monde ouvert"
         ]
     },
@@ -2309,7 +2306,6 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir",
             "Monde ouvert"
         ]
     },
@@ -2332,7 +2328,6 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir",
             "Monde ouvert"
         ]
     },
@@ -2355,8 +2350,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Monde ouvert"
         ]
     },
     {
@@ -2377,8 +2371,7 @@
         },
         "online": true,
         "categories": [
-            "Simulation",
-            "Course"
+            "Simulation"
         ]
     },
     {
@@ -2420,10 +2413,9 @@
         },
         "online": false,
         "categories": [
-            "Horreur",
+            "Termina:Horreur",
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Survie"
         ]
     },
     {
@@ -2466,8 +2458,6 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Aventure",
             "Sport"
         ]
     },
@@ -2490,7 +2480,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Aventure"
+            "Aventure",
+            "RPG"
         ]
     },
     {
@@ -2511,7 +2502,7 @@
         },
         "online": false,
         "categories": [
-            "Horreur",
+            "HelpWanted(NON-VR):Horreur",
             "Indépendant"
         ]
     },
@@ -2685,9 +2676,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Simulation",
-            "Sport"
+            "Sport",
+            "Stratégie"
         ]
     },
     {
@@ -2708,9 +2698,9 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Aventure",
-            "Monde ouvert"
+            "Action",
+            "Indépendant",
+            "Construction"
         ]
     },
     {
@@ -2732,7 +2722,6 @@
         "online": true,
         "categories": [
             "Course",
-            "Sport",
             "Monde ouvert"
         ]
     },
@@ -2754,7 +2743,9 @@
         },
         "online": true,
         "categories": [
-            "Action"
+            "Action",
+            "Coopération",
+            "Indépendant"
         ]
     },
     {
@@ -2775,7 +2766,9 @@
         },
         "online": false,
         "categories": [
-            "Monde ouvert"
+            "Indépendant",
+            "Construction",
+            "Coopération"
         ]
     },
     {
@@ -2797,8 +2790,7 @@
         "online": false,
         "categories": [
             "Horreur",
-            "Aventure",
-            "Monde ouvert"
+            "Indépendant"
         ]
     },
     {
@@ -2820,8 +2812,7 @@
         "online": false,
         "categories": [
             "Horreur",
-            "Aventure",
-            "Monde ouvert"
+            "Indépendant"
         ]
     },
     {
@@ -2843,8 +2834,7 @@
         "online": false,
         "categories": [
             "Horreur",
-            "Aventure",
-            "Monde ouvert"
+            "Indépendant"
         ]
     },
     {
@@ -2866,8 +2856,7 @@
         "online": false,
         "categories": [
             "Horreur",
-            "Aventure",
-            "Monde ouvert"
+            "Indépendant"
         ]
     },
     {
@@ -2889,8 +2878,7 @@
         "online": false,
         "categories": [
             "Horreur",
-            "Aventure",
-            "Monde ouvert"
+            "Indépendant"
         ]
     },
     {
@@ -2911,8 +2899,8 @@
         },
         "online": false,
         "categories": [
-            "Indépendant",
-            "Action"
+            "Plateforme",
+            "Musical / Rythme"
         ]
     },
     {
@@ -2955,8 +2943,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -3020,7 +3008,6 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
             "Aventure"
         ]
     },
@@ -3043,7 +3030,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -3065,7 +3053,7 @@
         "online": false,
         "categories": [
             "Sport",
-            "Indépendant"
+            "Simulation"
         ]
     },
     {
@@ -3086,7 +3074,9 @@
         },
         "online": true,
         "categories": [
-            "Action"
+            "Relink:Action",
+            "Anime",
+            "RPG"
         ]
     },
     {
@@ -3107,9 +3097,8 @@
         },
         "online": false,
         "categories": [
-            "Horreur",
-            "Aventure",
-            "Monde ouvert"
+            "Survie",
+            "Simulation"
         ]
     },
     {
@@ -3130,8 +3119,9 @@
         },
         "online": true,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Survie",
+            "Action",
+            "Coopération"
         ]
     },
     {
@@ -3153,8 +3143,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -3220,7 +3210,9 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Action",
+            "RPG",
+            "Indépendant"
         ]
     },
     {
@@ -3241,7 +3233,9 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Action",
+            "RPG",
+            "Indépendant"
         ]
     },
     {
@@ -3263,9 +3257,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir",
-            "Monde ouvert",
-            "Aventure"
+            "Tir"
         ]
     },
     {
@@ -3286,9 +3278,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Indépendant",
-            "Tir"
+            "Indépendant"
         ]
     },
     {
@@ -3309,8 +3299,7 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
-            "Aventure"
+            "Stratégie"
         ]
     },
     {
@@ -3331,7 +3320,8 @@
         },
         "online": false,
         "categories": [
-            "Horreur"
+            "Horreur",
+            "Indépendant"
         ]
     },
     {
@@ -3352,8 +3342,8 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Aventure"
+            "Horreur",
+            "Indépendant"
         ]
     },
     {
@@ -3374,8 +3364,7 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Tir"
+            "Action"
         ]
     },
     {
@@ -3396,8 +3385,9 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
+            "Action",
             "Aventure",
+            "RPG",
             "Monde ouvert"
         ]
     },
@@ -3420,8 +3410,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Indépendant",
+            "Plateforme"
         ]
     },
     {
@@ -3443,8 +3433,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -3465,9 +3455,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Action",
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -3509,9 +3497,7 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Action",
-            "Aventure"
+            "Stratégie"
         ]
     },
     {
@@ -3532,9 +3518,8 @@
         },
         "online": false,
         "categories": [
-            "Horreur",
-            "Aventure",
-            "Monde ouvert"
+            "Survie",
+            "Action"
         ]
     },
     {
@@ -3556,7 +3541,6 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
             "Aventure"
         ]
     },
@@ -3578,9 +3562,9 @@
         },
         "online": false,
         "categories": [
+            "Musical / Rythme",
             "Indépendant"
         ]
-
     },
     {
         "title": "Infection Free Zone",
@@ -3600,10 +3584,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Construction",
-            "Aventure",
-            "Horreur"
+            "Indépendant",
+            "Survie"
         ]
     },
     {
@@ -3624,8 +3606,7 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Aventure"
+            "Action"
         ]
     },
     {
@@ -3646,11 +3627,7 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Action",
-            "Construction",
-            "Simulation",
-            "Tir"
+            "Simulation"
         ]
     },
     {
@@ -3671,10 +3648,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Simulation",
-            "Tir",
-            "Action"
+            "Action",
+            "Tir"
         ]
     },
     {
@@ -3695,6 +3670,8 @@
         },
         "online": false,
         "categories": [
+            "Coopération",
+            "Plateforme",
             "Aventure"
         ]
     },
@@ -3716,7 +3693,7 @@
         },
         "online": true,
         "categories": [
-            "Action",
+            "All-StarBattleR:Action",
             "Anime"
         ]
     },
@@ -3761,8 +3738,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Anime",
-            "Aventure"
+            "Anime"
         ]
     },
     {
@@ -3783,8 +3759,6 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Construction",
             "Simulation"
         ]
     },
@@ -3807,8 +3781,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -3829,10 +3803,9 @@
         },
         "online": false,
         "categories": [
-            "Course",
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -3854,8 +3827,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -3876,7 +3849,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation"
+            "Simulation",
+            "Construction"
         ]
     },
     {
@@ -3897,7 +3871,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation"
+            "Simulation",
+            "Construction"
         ]
     },
     {
@@ -3919,7 +3894,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir"
+            "Indépendant"
         ]
     },
     {
@@ -3940,10 +3915,9 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Action",
-            "Monde ouvert",
-            "Aventure"
+            "DeliveranceII:Action",
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -3986,8 +3960,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir",
-            "Horreur"
+            "Survie",
+            "Coopération"
         ]
     },
     {
@@ -4009,8 +3983,8 @@
         "online": false,
         "categories": [
             "Course",
-            "Sport",
-            "Monde ouvert"
+            "Action",
+            "Coopération"
         ]
     },
     {
@@ -4053,9 +4027,8 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Aventure",
-            "Monde ouvert"
+            "Action",
+            "Coopération"
         ]
     },
     {
@@ -4076,8 +4049,9 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Aventure"
+            "Years1-4:Action",
+            "Plateforme",
+            "Coopération"
         ]
     },
     {
@@ -4120,7 +4094,8 @@
         },
         "online": true,
         "categories": [
-            "Aventure"
+            "Action",
+            "Survie"
         ]
     },
     {
@@ -4141,8 +4116,9 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Action"
+            "Action",
+            "Monde ouvert",
+            "RPG"
         ]
     },
     {
@@ -4163,8 +4139,8 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Aventure"
+            "Indépendant",
+            "Plateforme"
         ]
     },
     {
@@ -4185,8 +4161,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Horreur",
+            "Plateforme"
         ]
     },
     {
@@ -4207,9 +4183,8 @@
         },
         "online": true,
         "categories": [
-            "Horreur",
-            "Aventure",
-            "Monde ouvert"
+            "Survie",
+            "Indépendant"
         ]
     },
     {
@@ -4230,7 +4205,8 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Action",
+            "RPG"
         ]
     },
     {
@@ -4251,10 +4227,7 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Construction",
-            "Simulation",
-            "Action"
+            "Stratégie"
         ]
     },
     {
@@ -4297,9 +4270,9 @@
         },
         "online": false,
         "categories": [
-            "Construction",
             "Action",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -4320,7 +4293,8 @@
         },
         "online": false,
         "categories": [
-            "Indépendant"
+            "Action",
+            "Aventure"
         ]
     },
     {
@@ -4341,7 +4315,9 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "Action",
+            "Aventure",
+            "RPG"
         ]
     },
     {
@@ -4362,8 +4338,7 @@
         },
         "online": false,
         "categories": [
-            "Indépendant",
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -4384,12 +4359,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
             "Action",
-            "Horreur",
-            "Monde ouvert",
-            "Aventure",
-            "Tir"
+            "Aventure"
         ]
     },
     {
@@ -4410,7 +4381,6 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
             "Simulation"
         ]
     },
@@ -4433,9 +4403,7 @@
         "online": true,
         "categories": [
             "Stratégie",
-            "Construction",
-            "Action",
-            "Monde ouvert"
+            "Action"
         ]
     },
     {
@@ -4456,9 +4424,8 @@
         },
         "online": true,
         "categories": [
-            "Construction",
             "Action",
-            "Aventure"
+            "RPG"
         ]
     },
     {
@@ -4479,8 +4446,9 @@
         },
         "online": true,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "SUNBREAK:Action",
+            "Survie",
+            "RPG"
         ]
     },
     {
@@ -4501,8 +4469,9 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "WingsofRuin:Action",
+            "Anime",
+            "RPG"
         ]
     },
     {
@@ -4544,9 +4513,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Sport",
-            "Course"
+            "Course",
+            "Simulation"
         ]
     },
     {
@@ -4567,11 +4535,9 @@
         },
         "online": false,
         "categories": [
+            "Bannerlord:Action",
             "Stratégie",
-            "Action",
-            "Construction",
-            "Simulation",
-            "Monde ouvert"
+            "RPG"
         ]
     },
     {
@@ -4592,8 +4558,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Course"
+            "Course",
+            "Simulation"
         ]
     },
     {
@@ -4657,7 +4623,8 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Action",
+            "Anime"
         ]
     },
     {
@@ -4678,7 +4645,6 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
             "Sport"
         ]
     },
@@ -4700,7 +4666,6 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
             "Sport"
         ]
     },
@@ -4723,7 +4688,7 @@
         "online": false,
         "categories": [
             "Course",
-            "Sport"
+            "Action"
         ]
     },
     {
@@ -4766,8 +4731,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Indépendant",
-            "Aventure"
+            "RPG"
         ]
     },
     {
@@ -4789,7 +4753,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Anime"
+            "RPG"
         ]
     },
     {
@@ -4810,7 +4774,7 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "RPG"
         ]
     },
     {
@@ -4831,7 +4795,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "Indépendant",
+            "RPG"
         ]
     },
     {
@@ -4852,7 +4817,9 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "Action",
+            "Anime",
+            "RPG"
         ]
     },
     {
@@ -4874,8 +4841,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Indépendant",
-            "Aventure"
+            "Anime",
+            "Monde ouvert"
         ]
     },
     {
@@ -4917,8 +4884,8 @@
         },
         "online": false,
         "categories": [
-            "Indépendant",
-            "Aventure"
+            "Plateforme",
+            "Indépendant"
         ]
     },
     {
@@ -4939,8 +4906,9 @@
         },
         "online": false,
         "categories": [
+            "Action",
             "Aventure",
-            "Monde ouvert"
+            "Plateforme"
         ]
     },
     {
@@ -4961,8 +4929,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Horreur",
+            "Action"
         ]
     },
     {
@@ -4984,7 +4952,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir"
+            "Indépendant"
         ]
     },
     {
@@ -5005,9 +4973,7 @@
         },
         "online": true,
         "categories": [
-            "Action",
-            "Horreur",
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -5028,7 +4994,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation"
+            "Indépendant",
+            "Puzzle"
         ]
     },
     {
@@ -5049,9 +5016,8 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
             "Action",
-            "Tir"
+            "Coopération"
         ]
     },
     {
@@ -5072,9 +5038,8 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
             "Action",
-            "Tir"
+            "Coopération"
         ]
     },
     {
@@ -5095,7 +5060,6 @@
         },
         "online": false,
         "categories": [
-            "Construction",
             "Simulation"
         ]
     },
@@ -5117,9 +5081,7 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Simulation",
-            "Tir"
+            "Simulation"
         ]
     },
     {
@@ -5140,7 +5102,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation"
+            "Simulation",
+            "Indépendant"
         ]
     },
     {
@@ -5161,9 +5124,9 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
             "Action",
-            "Aventure"
+            "Anime",
+            "RPG"
         ]
     },
     {
@@ -5184,8 +5147,9 @@
         },
         "online": true,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Horreur",
+            "Coopération",
+            "Indépendant"
         ]
     },
     {
@@ -5206,7 +5170,7 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
+            "Evolved:Stratégie",
             "Simulation"
         ]
     },
@@ -5228,8 +5192,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Horreur",
+            "Indépendant"
         ]
     },
     {
@@ -5250,8 +5214,9 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Tir"
+            "Puzzle",
+            "Action",
+            "Indépendant"
         ]
     },
     {
@@ -5272,8 +5237,9 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Tir"
+            "Puzzle",
+            "Action",
+            "Coopération"
         ]
     },
     {
@@ -5294,8 +5260,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Indépendant"
+            "Simulation"
         ]
     },
     {
@@ -5316,9 +5281,9 @@
         },
         "online": true,
         "categories": [
-            "Horreur",
-            "Aventure",
-            "Monde ouvert"
+            "Survie",
+            "Action",
+            "Indépendant"
         ]
     },
     {
@@ -5339,8 +5304,9 @@
         },
         "online": true,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Survie",
+            "Indépendant",
+            "Coopération"
         ]
     },
     {
@@ -5361,7 +5327,8 @@
         },
         "online": false,
         "categories": [
-            "Action",
+            "RiftApart:Action",
+            "Plateforme",
             "Aventure"
         ]
     },
@@ -5383,7 +5350,6 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
             "Action",
             "Tir"
         ]
@@ -5427,8 +5393,8 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Horreur"
+            "Horreur",
+            "Action"
         ]
     },
     {
@@ -5449,8 +5415,8 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Horreur"
+            "Horreur",
+            "Action"
         ]
     },
     {
@@ -5471,9 +5437,8 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Tir",
-            "Horreur"
+            "Horreur",
+            "Action"
         ]
     },
     {
@@ -5494,8 +5459,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Horreur"
+            "Horreur",
+            "Action"
         ]
     },
     {
@@ -5516,8 +5481,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Course"
+            "Course",
+            "Simulation"
         ]
     },
     {
@@ -5539,9 +5504,8 @@
         "online": false,
         "categories": [
             "Stratégie",
-            "Construction",
-            "Simulation",
-            "Aventure"
+            "Survie",
+            "Indépendant"
         ]
     },
     {
@@ -5562,8 +5526,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Monde ouvert"
+            "20YearCelebration:Action",
+            "Aventure"
         ]
     },
     {
@@ -5584,7 +5548,9 @@
         },
         "online": true,
         "categories": [
-            "Action"
+            "Action",
+            "Indépendant",
+            "Survie"
         ]
     },
     {
@@ -5606,7 +5572,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Aventure",
+            "Plateforme",
             "Indépendant"
         ]
     },
@@ -5628,8 +5594,8 @@
         },
         "online": true,
         "categories": [
-            "Construction",
-            "Monde ouvert"
+            "TheParkourGame:Plateforme",
+            "Action"
         ]
     },
     {
@@ -5650,11 +5616,9 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
-            "Action",
-            "Horreur",
+            "Survie",
             "Monde ouvert",
-            "Aventure"
+            "Action"
         ]
     },
     {
@@ -5696,10 +5660,9 @@
         },
         "online": false,
         "categories": [
-            "Construction",
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -5720,11 +5683,8 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
             "Construction",
-            "Simulation",
-            "Monde ouvert",
-            "Aventure"
+            "Survie"
         ]
     },
     {
@@ -5746,8 +5706,8 @@
         "online": true,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Coopération",
+            "Monde ouvert"
         ]
     },
     {
@@ -5791,9 +5751,7 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Action",
-            "Aventure"
+            "Action"
         ]
     },
     {
@@ -5814,8 +5772,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Horreur",
+            "Indépendant"
         ]
     },
     {
@@ -5836,9 +5794,8 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
-            "Simulation",
-            "Aventure"
+            "Sport",
+            "Simulation"
         ]
     },
     {
@@ -5884,10 +5841,9 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Construction",
             "Simulation",
-            "Aventure"
+            "Survie",
+            "Indépendant"
         ]
     },
     {
@@ -5908,7 +5864,9 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "Simulation",
+            "Survie",
+            "Indépendant"
         ]
     },
     {
@@ -5929,7 +5887,8 @@
         },
         "online": false,
         "categories": [
-            "Course"
+            "Simulation",
+            "Construction"
         ]
     },
     {
@@ -5950,7 +5909,8 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Action",
+            "Plateforme"
         ]
     },
     {
@@ -5972,8 +5932,7 @@
         "online": true,
         "categories": [
             "Horreur",
-            "Aventure",
-            "Monde ouvert"
+            "Survie"
         ]
     },
     {
@@ -5994,8 +5953,8 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Aventure"
+            "SNOWDAY:Sport",
+            "Plateforme"
         ]
     },
     {
@@ -6038,9 +5997,7 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Tir",
-            "Aventure"
+            "UltimateSithEdition:Action"
         ]
     },
     {
@@ -6061,9 +6018,9 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
+            "Simulation",
             "Construction",
-            "Simulation"
+            "Indépendant"
         ]
     },
     {
@@ -6086,7 +6043,7 @@
         "categories": [
             "Action",
             "Monde ouvert",
-            "Aventure"
+            "RPG"
         ]
     },
     {
@@ -6107,9 +6064,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
             "Sport",
-            "Monde ouvert"
+            "Simulation"
         ]
     },
     {
@@ -6130,12 +6086,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Horreur",
-            "Construction",
-            "Simulation",
-            "Monde ouvert",
-            "Aventure"
+            "Survie",
+            "Simulation"
         ]
     },
     {
@@ -6156,8 +6108,8 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Aventure"
+            "Action",
+            "Indépendant"
         ]
     },
     {
@@ -6199,8 +6151,7 @@
         },
         "online": false,
         "categories": [
-            "Horreur",
-            "Aventure",
+            "BelowZero:Survie",
             "Monde ouvert"
         ]
     },
@@ -6245,9 +6196,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Action",
-            "Tir"
+            "MINDCONTROLDELETE:Action",
+            "Indépendant"
         ]
     },
     {
@@ -6312,8 +6262,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Construction",
-            "Indépendant"
+            "Indépendant",
+            "Construction"
         ]
     },
     {
@@ -6356,9 +6306,8 @@
         "online": true,
         "categories": [
             "Construction",
-            "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Survie",
+            "Indépendant"
         ]
     },
     {
@@ -6379,8 +6328,8 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Horreur"
+            "Rebirth:Action",
+            "Indépendant"
         ]
     },
     {
@@ -6401,8 +6350,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Survie",
+            "Action"
         ]
     },
     {
@@ -6423,8 +6372,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Indépendant"
+            "Action",
+            "Aventure"
         ]
     },
     {
@@ -6446,7 +6395,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Aventure"
+            "Plateforme"
         ]
     },
     {
@@ -6467,7 +6416,8 @@
         },
         "online": false,
         "categories": [
-            "Horreur"
+            "Horreur",
+            "Indépendant"
         ]
     },
     {
@@ -6488,10 +6438,8 @@
         },
         "online": false,
         "categories": [
-            "Horreur",
-            "Construction",
-            "Aventure",
-            "Monde ouvert"
+            "Survie",
+            "Construction"
         ]
     },
     {
@@ -6512,8 +6460,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Aventure"
+            "Simulation"
         ]
     },
     {
@@ -6534,7 +6481,7 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "UltraDeluxe:Indépendant"
         ]
     },
     {
@@ -6555,9 +6502,7 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Horreur",
-            "Aventure"
+            "Destinies:Aventure"
         ]
     },
     {
@@ -6600,9 +6545,9 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
             "Action",
-            "Tir"
+            "Tir",
+            "Coopération"
         ]
     },
     {
@@ -6623,6 +6568,7 @@
         },
         "online": false,
         "categories": [
+            "Action",
             "Aventure"
         ]
     },
@@ -6644,8 +6590,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Action"
+            "Stratégie",
+            "Indépendant"
         ]
     },
     {
@@ -6666,7 +6612,9 @@
         },
         "online": true,
         "categories": [
-            "Simulation"
+            "Action",
+            "Coopération",
+            "Indépendant"
         ]
     },
     {
@@ -6688,11 +6636,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Construction",
-            "Course",
-            "Monde ouvert",
-            "Aventure",
-            "Tir"
+            "Construction"
         ]
     },
     {
@@ -6713,9 +6657,8 @@
         },
         "online": false,
         "categories": [
-            "Construction",
             "Simulation",
-            "Sport"
+            "Construction"
         ]
     },
     {
@@ -6737,8 +6680,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Plateforme",
+            "Indépendant"
         ]
     },
     {
@@ -6759,8 +6702,8 @@
         },
         "online": true,
         "categories": [
-            "Indépendant",
-            "Action"
+            "Coopération",
+            "Plateforme"
         ]
     },
     {
@@ -6782,7 +6725,6 @@
         "online": false,
         "categories": [
             "Stratégie",
-            "Simulation",
             "Action"
         ]
     },
@@ -6805,7 +6747,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir"
+            "Tir",
+            "Indépendant"
         ]
     },
     {
@@ -6848,10 +6791,8 @@
         },
         "online": false,
         "categories": [
-            "Action",
             "Indépendant",
-            "Horreur",
-            "Aventure"
+            "RPG"
         ]
     },
     {
@@ -6872,7 +6813,7 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -6893,10 +6834,9 @@
         },
         "online": true,
         "categories": [
-            "Horreur",
+            "Survie",
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Construction"
         ]
     },
     {
@@ -6917,7 +6857,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "Puzzle",
+            "Indépendant"
         ]
     },
     {
@@ -6938,9 +6879,9 @@
         },
         "online": false,
         "categories": [
+            "Survie",
             "Action",
-            "Horreur",
-            "Aventure"
+            "Monde ouvert"
         ]
     },
     {
@@ -6983,10 +6924,7 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Construction",
-            "Simulation",
-            "Action"
+            "Stratégie"
         ]
     },
     {
@@ -7007,10 +6945,9 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Legion:Action",
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -7076,10 +7013,9 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
+            "Strategie",
             "Action",
-            "Tir",
-            "Course"
+            "Indépendant"
         ]
     },
     {
@@ -7100,8 +7036,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Action"
+            "Sport"
         ]
     },
     {
@@ -7122,7 +7057,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation"
+            "Simulation",
+            "Indépendant"
         ]
     },
     {
@@ -7144,10 +7080,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Construction",
-            "Monde ouvert",
-            "Aventure",
-            "Tir"
+            "Aventure"
         ]
     },
     {
@@ -7168,8 +7101,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Horreur",
+            "Indépendant"
         ]
     },
     {
@@ -7212,10 +7145,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Sport",
-            "Construction",
-            "Course",
-            "Tir"
+            "Indépendant",
+            "Plateforme"
         ]
     },
     {
@@ -7236,7 +7167,6 @@
         },
         "online": false,
         "categories": [
-            "Construction",
             "Action",
             "Aventure"
         ]
@@ -7259,8 +7189,8 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -7281,7 +7211,9 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Action",
+            "Aventure",
+            "RPG"
         ]
     },
     {
@@ -7303,7 +7235,6 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
             "Aventure"
         ]
     },
@@ -7325,9 +7256,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Sport",
-            "Course"
+            "Course",
+            "Simulation"
         ]
     },
     {
@@ -7348,11 +7278,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Sport",
-            "Construction",
-            "Simulation",
-            "Course"
+            "Course",
+            "Simulation"
         ]
     },
     {
@@ -7396,7 +7323,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -7418,7 +7345,6 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir",
             "Monde ouvert"
         ]
     },
@@ -7440,7 +7366,6 @@
         },
         "online": true,
         "categories": [
-            "Aventure",
             "Indépendant"
         ]
     },
@@ -7462,9 +7387,8 @@
         },
         "online": true,
         "categories": [
-            "Action",
-            "Indépendant",
-            "Stratégie"
+            "Stratégie",
+            "Indépendant"
         ]
     },
     {
@@ -7486,7 +7410,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir"
+            "Indépendant"
         ]
     },
     {
@@ -7507,7 +7431,8 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Simulation",
+            "Indépendant"
         ]
     },
     {
@@ -7528,7 +7453,8 @@
         },
         "online": false,
         "categories": [
-            "Monde ouvert"
+            "Simulation",
+            "Construction"
         ]
     },
     {
@@ -7549,7 +7475,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "Indépendant",
+            "RPG"
         ]
     },
     {
@@ -7591,8 +7518,8 @@
         },
         "online": false,
         "categories": [
-            "Indépendant",
-            "Action"
+            "Musical / Rythme",
+            "Indépendant"
         ]
     },
     {
@@ -7635,9 +7562,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Action",
-            "Monde ouvert"
+            "Indépendant"
         ]
     },
     {
@@ -7658,10 +7583,7 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Construction",
-            "Simulation",
-            "Action"
+            "Indépendant"
         ]
     },
     {
@@ -7682,6 +7604,7 @@
         },
         "online": false,
         "categories": [
+            "Action",
             "Aventure"
         ]
     },
@@ -7703,10 +7626,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Sport",
-            "Monde ouvert",
-            "Course"
+            "Course",
+            "Simulation"
         ]
     },
     {
@@ -7727,7 +7648,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "Aventure",
+            "Indépendant"
         ]
     },
     {
@@ -7748,9 +7670,8 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Anime",
-            "Aventure"
+            "Simulation",
+            "Indépendant"
         ]
     },
     {
@@ -7771,8 +7692,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Aventure"
+            "Simulation"
         ]
     },
     {
@@ -7794,7 +7714,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Aventure"
+            "Aventure",
+            "RPG"
         ]
     },
     {
@@ -7815,8 +7736,8 @@
         },
         "online": false,
         "categories": [
+            "Plateforme",
             "Action",
-            "Aventure",
             "Indépendant"
         ]
     },
@@ -7838,8 +7759,8 @@
         },
         "online": false,
         "categories": [
-            "Indépendant",
-            "Aventure"
+            "Stratégie",
+            "Indépendant"
         ]
     },
     {
@@ -7860,9 +7781,7 @@
         },
         "online": true,
         "categories": [
-            "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -7883,9 +7802,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Tir",
-            "Action"
+            "Simulation"
         ]
     },
     {
@@ -7907,10 +7824,7 @@
         "online": false,
         "categories": [
             "Stratégie",
-            "Horreur",
-            "Construction",
-            "Simulation",
-            "Aventure"
+            "Survie"
         ]
     },
     {
@@ -8020,6 +7934,7 @@
         },
         "online": false,
         "categories": [
+            "Musical / Rythme",
             "Indépendant"
         ]
     },
@@ -8042,7 +7957,7 @@
         "online": false,
         "categories": [
             "Aventure",
-            "Monde ouvert"
+            "Indépendant"
         ]
     },
     {
@@ -8085,10 +8000,8 @@
         },
         "online": true,
         "categories": [
-            "Horreur",
-            "Aventure",
-            "Monde ouvert",
-            "Course"
+            "Simulation",
+            "Indépendant"
         ]
     },
     {
@@ -8110,9 +8023,7 @@
         "online": false,
         "categories": [
             "Stratégie",
-            "Action",
-            "Monde ouvert",
-            "Aventure"
+            "RPG"
         ]
     },
     {
@@ -8155,8 +8066,7 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -8177,9 +8087,7 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Horreur",
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -8201,7 +8109,7 @@
         "online": false,
         "categories": [
             "Course",
-            "Sport"
+            "Action"
         ]
     },
     {
@@ -8222,10 +8130,8 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Aventure",
-            "Indépendant",
-            "Horreur"
+            "Horreur",
+            "Action"
         ]
     },
     {
@@ -8246,7 +8152,7 @@
         },
         "online": false,
         "categories": [
-            "Action"
+            "Revengeance:Action"
         ]
     },
     {
@@ -8267,8 +8173,7 @@
         },
         "online": false,
         "categories": [
-            "Indépendant",
-            "Simulation"
+            "Indépendant"
         ]
     },
     {
@@ -8289,6 +8194,9 @@
         },
         "online": false,
         "categories": [
+            "Action",
+            "Aventure",
+            "RPG",
             "Monde ouvert"
         ]
     },
@@ -8310,10 +8218,7 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Construction",
-            "Simulation",
-            "Horreur"
+            "Indépendant"
         ]
     },
     {
@@ -8335,7 +8240,7 @@
         "online": false,
         "categories": [
             "Simulation",
-            "Stratégie"
+            "Indépendant"
         ]
     },
     {
@@ -8356,10 +8261,8 @@
         },
         "online": false,
         "categories": [
-            "Course",
             "Simulation",
-            "Horreur",
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -8423,11 +8326,7 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Construction",
-            "Simulation",
-            "Course",
-            "Monde ouvert"
+            "Indépendant"
         ]
     },
     {
@@ -8471,6 +8370,7 @@
         "online": false,
         "categories": [
             "Sport",
+            "Course",
             "Monde ouvert"
         ]
     },
@@ -8492,7 +8392,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation"
+            "Fish:Survie",
+            "Indépendant"
         ]
     },
     {
@@ -8535,8 +8436,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -8558,8 +8459,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Survie",
+            "Monde ouvert"
         ]
     },
     {
@@ -8604,12 +8505,7 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
-            "Horreur",
-            "Construction",
-            "Simulation",
-            "Monde ouvert",
-            "Aventure"
+            "Simulation"
         ]
     },
     {
@@ -8631,7 +8527,7 @@
         "online": false,
         "categories": [
             "Simulation",
-            "Monde ouvert"
+            "Indépendant"
         ]
     },
     {
@@ -8652,8 +8548,8 @@
         },
         "online": false,
         "categories": [
-            "Course",
-            "Sport"
+            "Simulation",
+            "Indépendant"
         ]
     },
     {
@@ -8717,8 +8613,8 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
-            "Action"
+            "Action",
+            "Tir"
         ]
     },
     {
@@ -8739,8 +8635,8 @@
         },
         "online": false,
         "categories": [
-            "Construction",
-            "Simulation"
+            "Simulation",
+            "Construction"
         ]
     },
     {
@@ -8761,8 +8657,6 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
-            "Construction",
             "Simulation"
         ]
     },
@@ -8784,7 +8678,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation"
+            "Simulation",
+            "Construction"
         ]
     },
     {
@@ -8805,9 +8700,7 @@
         },
         "online": true,
         "categories": [
-            "Action",
-            "Monde ouvert",
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -8828,8 +8721,6 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
-            "Construction",
             "Simulation"
         ]
     },
@@ -8851,9 +8742,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation",
-            "Action",
-            "Monde ouvert"
+            "Construction",
+            "Simulation"
         ]
     },
     {
@@ -8874,7 +8764,8 @@
         },
         "online": false,
         "categories": [
-            "Horreur"
+            "Horreur",
+            "Action"
         ]
     },
     {
@@ -8896,7 +8787,6 @@
         "online": false,
         "categories": [
             "Action",
-            "Indépendant",
             "Tir"
         ]
     },
@@ -8918,9 +8808,9 @@
         },
         "online": false,
         "categories": [
+            "Plateforme",
             "Action",
-            "Course",
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -8941,7 +8831,8 @@
         },
         "online": false,
         "categories": [
-            "Horreur"
+            "Horreur",
+            "Indépendant"
         ]
     },
     {
@@ -8962,8 +8853,7 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Construction"
+            "Stratégie"
         ]
     },
     {
@@ -8984,8 +8874,8 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Aventure"
+            "Requiem:Aventure",
+            "Action"
         ]
     },
     {
@@ -9006,8 +8896,9 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Aventure"
+            "Survivor:Action",
+            "Aventure",
+            "Monde ouvert"
         ]
     },
     {
@@ -9028,8 +8919,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Horreur",
+            "Action"
         ]
     },
     {
@@ -9051,8 +8942,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Tir",
-            "Aventure"
+            "Aventure",
+            "RPG"
         ]
     },
     {
@@ -9074,7 +8965,7 @@
         "online": false,
         "categories": [
             "Aventure",
-            "Monde ouvert"
+            "Indépendant"
         ]
     },
     {
@@ -9095,8 +8986,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Aventure"
+            "Indépendant",
+            "Puzzle"
         ]
     },
     {
@@ -9117,7 +9008,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "Indépendant",
+            "RPG"
         ]
     },
     {
@@ -9138,8 +9030,9 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Monde ouvert"
+            "Action",
+            "Indépendant",
+            "RPG"
         ]
     },
     {
@@ -9160,6 +9053,7 @@
         },
         "online": false,
         "categories": [
+            "Indépendant",
             "Aventure"
         ]
     },
@@ -9181,7 +9075,9 @@
         },
         "online": false,
         "categories": [
-            "Horreur"
+            "Action",
+            "Horreur",
+            "Indépendant"
         ]
     },
     {
@@ -9225,8 +9121,9 @@
         "online": true,
         "categories": [
             "Action",
+            "Aventure",
             "Monde ouvert",
-            "Aventure"
+            "RPG"
         ]
     },
     {
@@ -9247,7 +9144,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation"
+            "Stratégie",
+            "Indépendant"
         ]
     },
     {
@@ -9291,11 +9189,7 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Action",
-            "Construction",
-            "Simulation",
-            "Tir"
+            "Indépendant"
         ]
     },
     {
@@ -9316,7 +9210,7 @@
         },
         "online": false,
         "categories": [
-            "Aventure"
+            "Indépendant"
         ]
     },
     {
@@ -9337,8 +9231,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Indépendant"
+            "Indépendant",
+            "RPG"
         ]
     },
     {
@@ -9359,12 +9253,9 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
             "Action",
-            "Course",
-            "Simulation",
-            "Monde ouvert",
-            "Tir"
+            "Tir",
+            "Simulation"
         ]
     },
     {
@@ -9385,12 +9276,8 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
-            "Horreur",
-            "Construction",
-            "Simulation",
-            "Monde ouvert",
-            "Aventure"
+            "Survie",
+            "Action"
         ]
     },
     {
@@ -9412,7 +9299,8 @@
         "online": false,
         "categories": [
             "Action",
-            "Aventure"
+            "Aventure",
+            "RPG"
         ]
     },
     {
@@ -9456,9 +9344,8 @@
         },
         "online": true,
         "categories": [
-            "Stratégie",
-            "Course",
-            "Sport"
+            "Action",
+            "Tir"
         ]
     },
     {
@@ -9479,7 +9366,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie"
+            "Stratégie",
+            "Indépendant"
         ]
     },
     {
@@ -9500,11 +9388,9 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
             "Action",
-            "Construction",
-            "Simulation",
-            "Monde ouvert"
+            "Stratégie",
+            "Survie"
         ]
     },
     {
@@ -9526,11 +9412,8 @@
         "online": true,
         "mdp": "1. Aller dans l'app Xbox et se connecter à un compte.\n2. Ouvrir GDK_Helper en tant qu'administrateur.\n3. Activer le mode développeur.\n4. Cliquer sur 'Install Game'.\n5. Désactiver le mode développeur.\n6. Lancer 'Start Protected Game'.",
         "categories": [
-            "Stratégie",
             "Action",
-            "Sport",
-            "Course",
-            "Tir"
+            "Indépendant"
         ]
     },
     {
@@ -9551,7 +9434,8 @@
         },
         "online": false,
         "categories": [
-            "Simulation"
+            "Simulation",
+            "Indépendant"
         ]
     },
     {
@@ -9572,8 +9456,7 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Aventure"
+            "Action"
         ]
     },
     {
@@ -9617,7 +9500,7 @@
         "online": false,
         "categories": [
             "Course",
-            "Sport"
+            "Simulation"
         ]
     },
     {
@@ -9638,8 +9521,8 @@
         },
         "online": false,
         "categories": [
-            "Stratégie",
-            "Action"
+            "Action",
+            "Indépendant"
         ]
     },
     {
@@ -9660,8 +9543,8 @@
         },
         "online": false,
         "categories": [
-            "Aventure",
-            "Horreur"
+            "Survie",
+            "Indépendant"
         ]
     },
     {
@@ -9682,8 +9565,8 @@
         },
         "online": false,
         "categories": [
-            "Action",
-            "Aventure"
+            "Plateforme",
+            "Action"
         ]
     },
     {
@@ -9727,7 +9610,7 @@
         "online": false,
         "categories": [
             "Action",
-            "Horreur"
+            "Anime"
         ]
     },
     {
@@ -9748,8 +9631,8 @@
         },
         "online": true,
         "categories": [
-            "Aventure",
-            "Monde ouvert"
+            "Simulation",
+            "Indépendant"
         ]
     },
     {
