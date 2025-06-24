@@ -185,6 +185,7 @@
       "online":false,
       "categories":[
          "Sport",
+         "Action",
          "Simulation"
       ]
    },
@@ -256,6 +257,7 @@
       "online":false,
       "categories":[
          "Aventure",
+         "Action",
          "Indépendant"
       ]
    },
@@ -275,7 +277,10 @@
          "OS":"Windows 10/11",
          "Storage":"100 Mo"
       },
-      "online":false
+      "online":false,
+      "categories":[
+         "Aventure",
+         "Action",
    },
    {
       
