@@ -302,6 +302,13 @@
             "Storage": "700 Mo"
         },
         "online": false
+         },
+         "online":false,
+         "categories":[
+            "Aventure",
+            "Action",
+            "Indépendant"
+         ]
     },
     {
         "title": "Age of Empires",
