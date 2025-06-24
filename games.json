@@ -301,14 +301,13 @@
             "OS": "Windows 10/11",
             "Storage": "700 Mo"
         },
-        "online": false
-         },
-         "online":false,
+        "online": false,
          "categories":[
             "Aventure",
-            "Action",
-            "Indépendant"
+            "Action"
          ]
+         },
+         
     },
     {
         "title": "Age of Empires",
@@ -327,7 +326,12 @@
             "OS": "Windows 10/11",
             "Storage": "3 Go"
         },
-        "online": false
+        "online": false,
+        "categories":[
+         "Aventure",
+         "Action"
+      ]
+         
     },
     {
         "title": "Age of Empires II",
@@ -346,7 +350,11 @@
             "OS": "Windows 10/11",
             "Storage": "40 Go"
         },
-        "online": false
+        "online": false,
+        "categories":[
+         "Aventure",
+         "Action"
+      ]
     },
     {
         "title": "Age of Empires IV",
@@ -365,7 +373,11 @@
             "OS": "Windows 10/11",
             "Storage": "60 Go"
         },
-        "online": false
+        "online": false,
+        "categories":[
+         "Aventure",
+         "Action"
+      ]
     },
     {
         "title": "Alan Wake 2",
