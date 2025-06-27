@@ -210,9 +210,9 @@
         "image": "https://image.jeuxvideo.com/medias-sm/171026/1710255088-1947-jaquette-avant.jpg",
         "description": "Palworld est un jeu de survie action-aventure du développeur japonais Pocket Pair. Le jeu se déroule dans un monde ouvert peuplé de créatures ressemblant à des animaux connues sous le nom de « Pals ».",
         "dl": [
-            "https://buzzheavier.com/e4d3r64z8ke1"
+            "https://gofile.io/d/Qopy8O"
         ],
-        "release_date": "9 Janvier 2024",
+        "release_date": "9 janvier 2024",
         "size": "22 Go",
         "min_requirements": {
             "CPU": "i5-3570K 3.4 GHz 4 Core",
@@ -222,12 +222,14 @@
             "Storage": "30 Go d'espace libre"
         },
         "online": true,
+        "mdp": "1. Exécutez GDK_Helper.bat, situé dans le dossier du jeu (une fois).\n2. Activez le mode développeur (redémarrez votre PC si nécessaire). (une fois).\n3. Installez le jeu (une fois).\n4. Désactivez le mode développeur (une fois).\n5. Lancez le jeu via le menu Démarrer.",
         "categories": [
             "Action",
             "Monde ouvert",
             "Survie"
         ]
     },
+
     {
         "title": "Rayman Legends",
         "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00049641/jaquette-rayman-legends-pc-cover-avant-g-1378220913.jpg",
@@ -5157,7 +5159,7 @@
         "image": "https://image.api.playstation.com/cdn/EP1955/CUSA04843_00/L6wNzpfcqKdOqJOhOIb71LUgVQkHf7MF.png",
         "description": "Plague Inc: Evolved est un jeu de simulation où le joueur contrôle la propagation d'une maladie à l'échelle mondiale. Le but est d'infecter et d'éliminer la population humaine en utilisant des stratégies adaptées aux différents types de maladies.",
         "dl": [
-            "https://buzzheavier.com/1n7j8y3f17b3"
+            "https://buzzheavier.com/na6891a08xvl"
         ],
         "release_date": "Non spécifié",
         "size": "500 Mo",
@@ -10159,7 +10161,81 @@
             "Construction",
             "Monde ouvert"
         ]
+    },
+    {
+        "title": "Minecraft",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
+        "description": "Minecraft est un jeu de construction et de survie en monde ouvert développé par Mojang. Il permet aux joueurs de créer, explorer et survivre dans un univers composé de blocs, avec de nombreuses possibilités de jeu solo ou multijoueur.",
+        "dl": [
+            "https://buzzheavier.com/r5gehdqsaq7z"
+        ],
+        "release_date": "18 novembre 2011",
+        "size": "600 Mo",
+        "min_requirements": {
+            "CPU": "Intel Core i3-3210 / AMD A8-7600",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics 4000 / AMD Radeon R5",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false,
+        "mdp": "",
+        "categories": [
+            "Construction",
+            "Monde ouvert",
+            "Survie"
+        ]
+    },
+    {
+        "title": "Firewatch",
+        "image": "https://image.api.playstation.com/cdn/EP0144/CUSA04118_00/ggQdzcbimtqao8aHOHFowA8MPW9c6m9k.png",
+        "description": "Firewatch est un jeu narratif à la première personne se déroulant en pleine nature sauvage du Wyoming. Vous incarnez Henry, un homme qui accepte un poste de guetteur d'incendies, et qui entretient une relation radio avec sa superviseure Delilah. Le jeu explore des thèmes de solitude, de confiance et de mystère.",
+        "dl": [
+            "https://pd.cybar.xyz/3DdPkDpK"
+        ],
+        "release_date": "9 février 2016",
+        "size": "4,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3 2.00 GHz",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce 450 / AMD Radeon HD 5750",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false,
+        "mdp": "",
+        "categories": [
+            "Aventure",
+            "Indépendant"
+        ]
+    },
+    {
+        "title": "Broken Arrow",
+        "image": "https://alloparadise.s3.eu-west-3.amazonaws.com/products/md/broken-arrow-steam.png",
+        "description": "Broken Arrow est un jeu de stratégie en temps réel combinant des éléments de tactique militaire moderne et de simulation. Il propose des affrontements massifs avec une grande variété d'unités personnalisables, sur fond de conflits contemporains.",
+        "dl": [
+            "https://gofile.io/d/aR7ddz"
+        ],
+        "release_date": "22 février 2024",
+        "size": "63 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 1060 / AMD RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "70 Go d'espace libre"
+        },
+        "online": false,
+        "mdp": "",
+        "categories": [
+            "Stratégie",
+            "Simulation"
+        ]
     }
+    
+
+
+
     
 
 
