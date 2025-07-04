@@ -222,7 +222,7 @@
             "Storage": "30 Go d'espace libre"
         },
         "online": true,
-        "mdp": "1. Exécutez GDK_Helper.bat, situé dans le dossier du jeu (une fois).\n2. Activez le mode développeur (redémarrez votre PC si nécessaire). (une fois).\n3. Installez le jeu (une fois).\n4. Désactivez le mode développeur (une fois).\n5. Lancez le jeu via le menu Démarrer.",
+        "": "1. Exécutez GDK_Helper.bat, situé dans le dossier du jeu (une fois).\n2. Activez le mode développeur (redémarrez votre PC si nécessaire). (une fois).\n3. Installez le jeu (une fois).\n4. Désactivez le mode développeur (une fois).\n5. Lancez le jeu via le menu Démarrer.",
         "categories": [
             "Action",
             "Monde ouvert",
@@ -9412,7 +9412,7 @@
             "Storage": "7 Go d'espace libre"
         },
         "online": true,
-        "mdp": "1. Aller dans l'app Xbox et se connecter à un compte.\n2. Ouvrir GDK_Helper en tant qu'administrateur.\n3. Activer le mode développeur.\n4. Cliquer sur 'Install Game'.\n5. Désactiver le mode développeur.\n6. Lancer 'Start Protected Game'.",
+        "": "1. Aller dans l'app Xbox et se connecter à un compte.\n2. Ouvrir GDK_Helper en tant qu'administrateur.\n3. Activer le mode développeur.\n4. Cliquer sur 'Install Game'.\n5. Désactiver le mode développeur.\n6. Lancer 'Start Protected Game'.",
         "categories": [
             "Action",
             "Indépendant"
@@ -9728,7 +9728,7 @@
             "Action",
             "Coopération"
         ],
-        "mdp": "COMMENT EXÉCUTER\n\n1. Assurez-vous que le chemin d'accès à l'extraction ne comporte aucune lettre non anglaise.\n2. Exécutez le lanceur DayZavr Dayz.exe dans le dossier du lanceur : DayZ\\DayZavr_Launcher\n3. Spécifiez l'emplacement du fichier .exe du jeu « DayZ_x64 », qui devrait se trouver dans ce dossier : DayZ\\DayZavr\n4. Sélectionnez un serveur et jouez.\n5. Si vous ne voyez aucun serveur, utilisez un VPN."
+        "": "COMMENT EXÉCUTER\n\n1. Assurez-vous que le chemin d'accès à l'extraction ne comporte aucune lettre non anglaise.\n2. Exécutez le lanceur DayZavr Dayz.exe dans le dossier du lanceur : DayZ\\DayZavr_Launcher\n3. Spécifiez l'emplacement du fichier .exe du jeu « DayZ_x64 », qui devrait se trouver dans ce dossier : DayZ\\DayZavr\n4. Sélectionnez un serveur et jouez.\n5. Si vous ne voyez aucun serveur, utilisez un VPN."
     },
     {
         "title": "The Elder Scrolls V: Skyrim SE",
@@ -10201,7 +10201,6 @@
             "Storage": "70 Go d'espace libre"
         },
         "online": false,
-        "mdp": "",
         "categories": [
             "Stratégie",
             "Simulation"
