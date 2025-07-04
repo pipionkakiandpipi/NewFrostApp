@@ -1189,7 +1189,7 @@
         "image": "https://image.jeuxvideo.com/images-sm/jaquettes/00043689/jaquette-call-of-duty-black-ops-ii-pc-cover-avant-g-1352711537.jpg",
         "description": "Call of Duty : Black Ops II est un jeu de tir à la première personne proposant un mode scénario solo et du multijoueur. Le joueur peut suivre deux personnages différents dans deux scénarios distincts, faire des missions classiques stratégiques en Strike Force, ou encore s'amuser en ligne avec le mode Zombie.",
         "dl": [
-            "https://gofile.io/d/Mej24k"
+            "https://pd.cybar.xyz/DWdbTKag"
         ],
         "release_date": "13 novembre 2012",
         "size": "30,9 Go",
@@ -10163,30 +10163,6 @@
         ]
     },
     {
-        "title": "Minecraft",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
-        "description": "Minecraft est un jeu de construction et de survie en monde ouvert développé par Mojang. Il permet aux joueurs de créer, explorer et survivre dans un univers composé de blocs, avec de nombreuses possibilités de jeu solo ou multijoueur.",
-        "dl": [
-            "https://buzzheavier.com/r5gehdqsaq7z"
-        ],
-        "release_date": "18 novembre 2011",
-        "size": "600 Mo",
-        "min_requirements": {
-            "CPU": "Intel Core i3-3210 / AMD A8-7600",
-            "RAM": "4 Go",
-            "GPU": "Intel HD Graphics 4000 / AMD Radeon R5",
-            "OS": "Windows 10/11",
-            "Storage": "1 Go d'espace libre"
-        },
-        "online": false,
-        "mdp": "",
-        "categories": [
-            "Construction",
-            "Monde ouvert",
-            "Survie"
-        ]
-    },
-    {
         "title": "Firewatch",
         "image": "https://image.api.playstation.com/cdn/EP0144/CUSA04118_00/ggQdzcbimtqao8aHOHFowA8MPW9c6m9k.png",
         "description": "Firewatch est un jeu narratif à la première personne se déroulant en pleine nature sauvage du Wyoming. Vous incarnez Henry, un homme qui accepte un poste de guetteur d'incendies, et qui entretient une relation radio avec sa superviseure Delilah. Le jeu explore des thèmes de solitude, de confiance et de mystère.",
@@ -10203,7 +10179,6 @@
             "Storage": "6 Go d'espace libre"
         },
         "online": false,
-        "mdp": "",
         "categories": [
             "Aventure",
             "Indépendant"
