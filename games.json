@@ -10518,7 +10518,56 @@
             "Aventure",
             "Monde ouvert"
         ]
+    },
+    {
+        "title": "DOOM",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2814/9J6nuH0EFjDlWOceK8RucMKD.png",
+        "description": "DOOM est un jeu de tir à la première personne frénétique et brutal, développé par id Software. Incarnez le Doom Slayer et affrontez des hordes de démons dans des environnements infernaux, armé d’un arsenal dévastateur.",
+        "dl": [
+            "https://buzzheavier.com/ydoifogzx08c"
+        ],
+        "release_date": "13 mai 2016",
+        "size": "61 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 ou AMD FX-8320",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 670 2 Go ou AMD Radeon HD 7870 2 Go",
+            "OS": "Windows 10/11",
+            "Storage": "70 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Tir",
+            "Horreur"
+        ]
+    },
+    {
+        "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Metal_Gear_Solid_V_The_Phantom_Pain_cover.png",
+        "description": "METAL GEAR SOLID V: THE PHANTOM PAIN est un jeu d'action-infiltration en monde ouvert développé par Kojima Productions. Vous incarnez Big Boss, alias Venom Snake, dans une mission de vengeance et d'espionnage en Afghanistan et en Afrique pendant les années 1980.",
+        "dl": [
+            "https://buzzheavier.com/rku5dkkw4xea"
+        ],
+        "release_date": "1er septembre 2015",
+        "size": "28 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 3.2GHz ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 650 / AMD Radeon HD 5850",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Aventure",
+            "Monde ouvert"
+        ]
     }
+
+    
+
 
 
 
