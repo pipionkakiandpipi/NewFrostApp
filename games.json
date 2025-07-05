@@ -10205,7 +10205,336 @@
             "Stratégie",
             "Simulation"
         ]
+    },
+    {
+        "title": "MY HERO ONE’S JUSTICE 2",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307_jspqRMWZJU1catHzu7Ilvm8joqTgnQLgGD46RFtProkycrnB2liXlRysbatIriez7l5iFarrzOt0LDWwKO1Hs88pJh.png",
+        "description": "MY HERO ONE’S JUSTICE 2 est un jeu de combat basé sur le célèbre manga My Hero Academia. Les joueurs incarnent leurs héros et vilains préférés pour des combats explosifs en 3D.",
+        "dl": [
+            "https://pd.cybar.xyz/Xwrntuhv"
+        ],
+        "release_date": "2 mars 2020",
+        "size": "11 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-750",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Anime"
+        ]
+    },
+    {
+        "title": "No Place Like Home",
+        "image": "https://media.senscritique.com/media/000021155711/300/no_place_like_home.jpg",
+        "description": "No Place Like Home est un jeu de simulation et de construction dans lequel vous incarnez une jeune femme tentant de reconstruire un monde détruit par la pollution. Nettoyez, recyclez, cultivez et redonnez vie à votre environnement.",
+        "dl": [
+            "https://pd.cybar.xyz/nuAwkNx2"
+        ],
+        "release_date": "5 mai 2022",
+        "size": "7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-4160 / AMD FX-4350",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD Radeon R7 370",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Simulation",
+            "Construction"
+        ]
+    },
+    {
+        "title": "Mortal Kombat 11",
+        "image": "https://sm.ign.com/ign_tr/cover/m/mortal-kom/mortal-kombat-11_pw16.jpg",
+        "description": "Mortal Kombat 11 est un jeu de combat brutal et cinématographique développé par NetherRealm Studios. Il offre un gameplay nerveux, des fatalités spectaculaires et une histoire immersive dans l'univers sanglant de Mortal Kombat.",
+        "dl": [
+            "https://buzzheavier.com/xipeqmrtttam"
+        ],
+        "release_date": "23 avril 2019",
+        "size": "143 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-750 / AMD Phenom II X4 965",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 670 / AMD Radeon HD 7950",
+            "OS": "Windows 10/11",
+            "Storage": "160 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Action"
+        ]
+    },
+    {
+        "title": "The Amazing Spider-Man 2",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/53/The_Amazing_Spider-Man_2_%282014_video_game%29_cover.png",
+        "description": "The Amazing Spider-Man 2 est un jeu d'action-aventure en monde ouvert basé sur le film du même nom. Incarnez Spider-Man et affrontez de redoutables ennemis tout en explorant librement New York.",
+        "dl": [
+            "https://buzzheavier.com/iczgre6ilrqm"
+        ],
+        "release_date": "29 avril 2014",
+        "size": "7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 2.6 GHz / AMD Athlon 64 X2 6000+",
+            "RAM": "3 Go",
+            "GPU": "NVIDIA GeForce 8800 GT / AMD Radeon HD 4770",
+            "OS": "Windows 10/11",
+            "Storage": "9 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Aventure",
+            "Monde ouvert"
+        ]
+    },
+    {
+        "title": "Split Fiction",
+        "image": "https://cdn1.epicgames.com/offer/578f39d17be846e7a6fa335f757012aa/EGS_SplitFiction_HazelightStudiosAB_S2_1200x1600-d626c4ebc51d7b5bacbfd015368b674c",
+        "description": "Split Fiction est un jeu d'action-aventure narratif où deux protagonistes doivent coopérer pour s’échapper d’un monde fragmenté, mêlant séquences d’action intenses et énigmes à résoudre en duo.",
+        "dl": [
+            "https://buzzheavier.com/fk4yyxohvx6z"
+        ],
+        "release_date": "3 mai 2023",
+        "size": "79 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K / AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760 / AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "90 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Aventure",
+            "Coopération"
+        ]
+    },
+    {
+        "title": "Half-Life: Alyx (NoVR Mod)",
+        "image": "https://sm.ign.com/ign_de/cover/h/half-life-/half-life-alyx_4ygd.jpg",
+        "description": "Half-Life: Alyx (NoVR Mod) permet aux joueurs de découvrir l'expérience complète du célèbre jeu VR sans casque de réalité virtuelle, en adaptant le gameplay pour une jouabilité classique au clavier et à la souris.",
+        "dl": [
+            "https://buzzheavier.com/igozc2odvagq"
+        ],
+        "release_date": "30 mars 2020",
+        "size": "51 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7500 / AMD Ryzen 5 1600",
+            "RAM": "12 Go",
+            "GPU": "GTX 1060 / RX 580 - 6 Go VRAM",
+            "OS": "Windows 10/11",
+            "Storage": "70 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Tir"
+        ]
+    },
+    {
+        "title": "Fallout: New Vegas",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/34/Fallout_New_Vegas.jpg",
+        "description": "Fallout: New Vegas est un RPG en monde ouvert se déroulant dans un univers post-apocalyptique. Le joueur incarne un coursier laissé pour mort dans le désert du Mojave, qui devra se frayer un chemin entre différentes factions et choix moraux.",
+        "dl": [
+            "https://buzzheavier.com/mkmyn40ikp0w"
+        ],
+        "release_date": "19 octobre 2010",
+        "size": "7 Go",
+        "min_requirements": {
+            "CPU": "Dual Core 2.0 GHz",
+            "RAM": "2 Go",
+            "GPU": "NVIDIA GeForce 6 / ATI 1300XT",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "RPG",
+            "Monde ouvert"
+        ]
+    },
+    {
+        "title": "Tom Clancy’s Ghost Recon Wildlands",
+        "image": "https://image.api.playstation.com/cdn/EP0001/CUSA02819_00/adjIc97BP94i6yrn40lhRCCnUJLiRPhb.png",
+        "description": "Tom Clancy’s Ghost Recon Wildlands est un jeu de tir tactique en monde ouvert jouable en solo ou en coopération. Le joueur incarne un membre des Ghosts, une unité d'élite envoyée pour démanteler un cartel de drogue en Bolivie.",
+        "dl": [
+            "https://buzzheavier.com/olzfuuhlgzcy"
+        ],
+        "release_date": "7 mars 2017",
+        "size": "67 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400S @ 2.5 GHz / AMD FX-4320 @ 4 GHz",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 660 / AMD R9 270X",
+            "OS": "Windows 10/11",
+            "Storage": "70 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Tir",
+            "Monde ouvert",
+            "Coopération"
+        ]
+    },
+    {
+        "title": "Until Dawn",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2818/CengOdzyOMCxhvq422tHBsJS.png",
+        "description": "Until Dawn est un jeu d'horreur narratif dans lequel vos choix déterminent la survie de huit jeunes adultes bloqués dans un chalet isolé. Le gameplay repose sur des décisions rapides, des QTE et des conséquences marquées sur l’histoire.",
+        "dl": [
+            "https://gofile.io/d/dGBfUU"
+        ],
+        "release_date": "25 août 2015",
+        "size": "63 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2300 ou équivalent",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 660 ou équivalent AMD",
+            "OS": "Windows 10/11",
+            "Storage": "70 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Horreur",
+            "Aventure"
+        ]
+    },
+    {
+        "title": "Date Everything",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCI_PCL7vczZYqNBojDK8WKCBFhLepFXwXvoYesZUWW0XtqLe1YV7jOmU92S45rPEeUZY&usqp=CAU",
+        "description": "Date Everything est un jeu de simulation de rencontres humoristique et absurde, où le joueur peut interagir avec des objets, concepts ou entités personnifiés. Le ton est léger, parodique et décalé.",
+        "dl": [
+            "https://gofile.io/d/UAgwUR"
+        ],
+        "release_date": "14 février 2022",
+        "size": "8 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "Intel HD Graphics 4000 ou supérieur",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Simulation",
+            "Indépendant"
+        ]
+    },
+    {
+        "title": "Streamer Life Simulator 2",
+        "image": "https://images.g2a.com/300x400/1x1x1/streamer-life-simulator-2-p10000509522/9f99dc9f8be448a580f50698",
+        "description": "Streamer Life Simulator 2 vous plonge dans la vie d'un streamer en quête de notoriété. Gagnez des abonnés, améliorez votre matériel, gérez vos finances et interagissez avec un monde ouvert rempli de possibilités.",
+        "dl": [
+            "https://gofile.io/d/G0OuGZ"
+        ],
+        "release_date": "5 mai 2024",
+        "size": "2 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3 ou équivalent AMD",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 460 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Simulation",
+            "Indépendant"
+        ]
+    },
+    {
+        "title": "The Sims 3",
+        "image": "https://m.media-amazon.com/images/I/7148NgBPcfL._UF894,1000_QL80_.jpg",
+        "description": "The Sims 3 est un jeu de simulation de vie emblématique où vous créez et contrôlez des personnages dans un monde ouvert. Gérez leur quotidien, leurs relations, leurs carrières et leurs envies dans une liberté quasi totale.",
+        "dl": [
+            "https://gofile.io/d/NXgv3n"
+        ],
+        "release_date": "4 juin 2009",
+        "size": "19 Go",
+        "min_requirements": {
+            "CPU": "2.0 GHz P4 processor ou équivalent",
+            "RAM": "2 Go",
+            "GPU": "128 Mo compatible avec Pixel Shader 2.0",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Simulation",
+            "Construction"
+        ]
+    },
+    {
+        "title": "GROUND BRANCH",
+        "image": "https://howlongtobeat.com/games/45603_Ground_Branch.jpg",
+        "description": "GROUND BRANCH est un jeu de tir tactique à la première personne axé sur la stratégie, la coopération et le réalisme. Développé par des vétérans de l'industrie, il met l'accent sur la planification et l'exécution minutieuse des opérations.",
+        "dl": [
+            "https://gofile.io/d/ILa2Dq"
+        ],
+        "release_date": "14 août 2018",
+        "size": "38 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K ou équivalent",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 570 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "40 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Tir",
+            "Stratégie",
+            "Coopération"
+        ]
+    },
+    {
+        "title": "Assassin’s Creed II",
+        "image": "https://static.wikia.nocookie.net/assassinscreed/images/6/63/Assassins_Creed_II_cover01.jpg/revision/latest?cb=20150227231131&path-prefix=fr",
+        "description": "Assassin’s Creed II est un jeu d'action-aventure en monde ouvert développé par Ubisoft. Incarnez Ezio Auditore dans l’Italie de la Renaissance et découvrez une histoire de vengeance, de conspiration et de rédemption.",
+        "dl": [
+            "https://buzzheavier.com/7m35lpl1e1od"
+        ],
+        "release_date": "17 novembre 2009",
+        "size": "6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core 2 Duo 1.8 GHz ou AMD Athlon X2 64 2.4 GHz",
+            "RAM": "2 Go",
+            "GPU": "256 Mo compatible DirectX 9.0c avec Shader Model 3.0",
+            "OS": "Windows 10/11",
+            "Storage": "8 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Aventure",
+            "Monde ouvert"
+        ]
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
     
 
 
