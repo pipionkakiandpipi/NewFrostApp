@@ -210,7 +210,7 @@
         "image": "https://image.jeuxvideo.com/medias-sm/171026/1710255088-1947-jaquette-avant.jpg",
         "description": "Palworld est un jeu de survie action-aventure du développeur japonais Pocket Pair. Le jeu se déroule dans un monde ouvert peuplé de créatures ressemblant à des animaux connues sous le nom de « Pals ».",
         "dl": [
-            "https://gofile.io/d/Qopy8O"
+            "https://gofile.io/d/w5iq1J"
         ],
         "release_date": "9 janvier 2024",
         "size": "22 Go",
@@ -1948,7 +1948,7 @@
         },
         "online": true,
         "categories": [
-            "Sparking!ZERO:Action",
+            "Action",
             "Anime"
         ]
     },
@@ -2001,7 +2001,7 @@
         "image": "https://www.codesproduit.fr/wp-content/uploads/2021/01/DragonballZ-Kakarot-PC-COVER.jpg",
         "description": "DRAGON BALL Z: KAKAROT est un action-RPG qui permet aux joueurs de revivre l'histoire épique de Goku et de ses amis. Explorez un vaste monde ouvert, entraînez-vous, combattez des ennemis puissants et plongez dans l'univers de Dragon Ball Z.",
         "dl": [
-            "https://buzzheavier.com/843oxffg6gm4"
+            "https://gofile.io/d/SBx83P"
         ],
         "release_date": "17 janvier 2020",
         "size": "47,9 Go",
@@ -8394,7 +8394,7 @@
         },
         "online": false,
         "categories": [
-            "Fish:Survie",
+            "Survie",
             "Indépendant"
         ]
     },
@@ -8403,7 +8403,7 @@
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2213/caf3b629a8afbc72a94ec15a568a898ac1845231398d77ac.png",
         "description": "DRAGON BALL: Sparking! ZERO est un jeu de combat explosif basé sur l'univers de Dragon Ball, développé par Spike Chunsoft et édité par Bandai Namco. Reprenant l’héritage des Budokai Tenkaichi, le jeu offre des affrontements intenses avec des graphismes modernes et un large choix de personnages emblématiques.",
         "dl": [
-            "https://buzzheavier.com/s8tjttqziipu"
+            "https://gofile.io/d/cgy8iJ"
         ],
         "release_date": "7 octobre 2024",
         "size": "28 Go",
@@ -9400,7 +9400,7 @@
         "image": "https://sm.ign.com/ign_fr/cover/r/rematch/rematch_3t9y.jpg",
         "description": "REMATCH est un jeu multijoueur futuriste mêlant action rapide, compétition en ligne et stratégies avancées. Il plonge les joueurs dans des affrontements intenses avec une emphase sur la précision et la coordination d’équipe.",
         "dl": [
-            "https://gofile.io/d/ijIMUP"
+            "https://gofile.io/d/1TPoSq"
         ],
         "release_date": "12 mars 2024",
         "size": "6 Go",
@@ -10564,7 +10564,199 @@
             "Aventure",
             "Monde ouvert"
         ]
+    },
+    {
+        "title": "Sneak Thief",
+        "image": "https://cdn2.steamgriddb.com/grid/9eee92878fa2485aa5fbdc959c09c16f.png",
+        "description": "Sneak Thief est un jeu de simulation et d'action en vue à la première personne où vous incarnez un voleur cherchant à infiltrer divers lieux pour y dérober des objets précieux sans se faire repérer.",
+        "dl": [
+            "https://pd.cybar.xyz/dd88BNuF"
+        ],
+        "release_date": "5 août 2016",
+        "size": "12 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 560",
+            "OS": "Windows 10/11",
+            "Storage": "15 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Simulation"
+        ]
+    },
+    {
+        "title": "PowerWash Simulator",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGU0M2QzY2ItNTY3OS00MjNlLWE4NTctN2Q4MzdiZDZiZDYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "description": "PowerWash Simulator est un jeu de simulation relaxant où vous nettoyez divers environnements à l’aide de votre nettoyeur haute pression. Détendez-vous en éliminant la saleté et la crasse pour révéler des lieux étincelants.",
+        "dl": [
+            "https://gofile.io/d/adXX2X"
+        ],
+        "release_date": "14 juillet 2022",
+        "size": "15 Go",
+        "min_requirements": {
+            "CPU": "Intel i5-760 ou AMD FX-8100",
+            "RAM": "4 Go",
+            "GPU": "GeForce GTX 760 ou AMD R7-260X",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Simulation"
+        ]
+    },
+    {
+        "title": "Heavy Rain",
+        "image": "https://next-media.elkjop.com/image/dv_web_D1800010021392384/597954/heavy-rain-pc-windows.jpg",
+        "description": "Heavy Rain est un thriller interactif mêlant action et drame psychologique. Le joueur incarne plusieurs personnages impliqués dans la traque d’un tueur en série, chacun ayant un rôle crucial à jouer dans l’enquête et le destin final.",
+        "dl": [
+            "https://gofile.io/d/pQeBMD"
+        ],
+        "release_date": "24 juin 2019",
+        "size": "37 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2400 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GTX 660 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "45 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Aventure"
+        ]
+    },
+    {
+        "title": "The Break-In",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1281851716_IGDB-272x380.jpg",
+        "description": "The Break-In est un jeu de coopération où les joueurs incarnent des cambrioleurs devant infiltrer des lieux variés pour y dérober des objets de valeur, tout en évitant les systèmes de sécurité. Le jeu mise sur l'infiltration, la stratégie et le travail d'équipe.",
+        "dl": [
+            "https://pd.cybar.xyz/H6rttmdu"
+        ],
+        "release_date": "3 août 2023",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-7400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 970",
+            "OS": "Windows 10/11",
+            "Storage": "5 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Action",
+            "Coopération",
+            "Stratégie"
+        ]
+    },
+    {
+        "title": "WWE 2K25",
+        "image": "https://assets.2k.com/1a6ngf98576c/4SH5dTUiWHZzheEiL4kA6x/f3d77a7e88eb40592a77e05c30d9f693/W2K_KEY_StdEd_KA_Vert_20x24_BLEED_187_F1__1_.jpg",
+        "description": "WWE 2K25 est la nouvelle édition de la célèbre franchise de catch. Le jeu propose des graphismes réalistes, des modes de jeu variés, et un vaste roster de superstars de la WWE. Parfait pour les fans de lutte professionnelle.",
+        "dl": [
+            "https://gofile.io/d/hG2htA"
+        ],
+        "release_date": "14 mars 2025",
+        "size": "108 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060",
+            "OS": "Windows 10/11",
+            "Storage": "120 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Sport",
+            "Action"
+        ]
+    },
+    {
+        "title": "SCOOTX",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3800340/de67219356dd7778637daec42775c1a185545b19/capsule_616x353.jpg?t=1752877058",
+        "description": "SCOOTX est un jeu de simulation de trottinette freestyle, combinant figures acrobatiques, environnement urbain et physique réaliste. Parfait pour les amateurs de sports extrêmes et de tricks en deux roues.",
+        "dl": [
+            "https://gofile.io/d/0NJY02"
+        ],
+        "release_date": "28 juillet 2025",
+        "size": "3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100",
+            "RAM": "4 Go",
+            "GPU": "Intel HD 530 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "4 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Simulation",
+            "Sport"
+        ]
+    },
+    {
+        "title": "A Way Out",
+        "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08004_00/3/i_7001e8db890d1a56573af505dc412a20d1cce9cf5dc4ba913f2a127810a5343e/i/icon0.png",
+        "description": "A Way Out est un jeu d'action-aventure en coopération dans lequel deux détenus doivent collaborer pour s'évader de prison et survivre dans le monde extérieur.",
+        "dl": [
+            "https://gofile.io/d/FdT2mL"
+        ],
+        "release_date": "23 mars 2018",
+        "size": "23 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100T",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 650Ti",
+            "OS": "Windows 10/11",
+            "Storage": "27 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Aventure",
+            "Coopération",
+            "Action"
+        ]
+    },
+    {
+        "title": "Grounded 2",
+        "image": "https://assets-prd.ignimgs.com/2025/06/08/grounded2-1749406776552.jpg?crop=1%3A1%2Csmart&width=348&height=348&format=jpg&auto=webp&quality=80",
+        "description": "Grounded 2 est un jeu de survie en coopération où les joueurs, miniaturisés dans un jardin géant, doivent explorer, construire, et affronter des créatures pour survivre dans un environnement hostile.",
+        "dl": [
+            "https://gofile.io/d/JiIoNK"
+        ],
+        "release_date": "8 juin 2025",
+        "size": "17 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2500K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 760",
+            "OS": "Windows 10/11",
+            "Storage": "20 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Survie",
+            "Coopération",
+            "Aventure"
+        ]
     }
+
+
+    
+
+    
+    
+
+    
+
+
+    
+
+    
+
+    
 
     
 
