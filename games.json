@@ -10741,7 +10741,30 @@
             "Coopération",
             "Aventure"
         ]
+    },
+    {
+        "title": "Call of Duty Black Ops 6 [Campaign Only]",
+        "image": "https://image.jeuxvideo.com/medias/172018/1720184406-1734-jaquette-avant.jpg",
+        "description": "Call of Duty Black Ops 6 [Campaign Only] vous plonge dans une nouvelle campagne intense où l'infiltration, les opérations secrètes et l'action explosive sont au cœur d'une conspiration mondiale.",
+        "dl": [
+            "https://gofile.io/d/tN1Cy5"
+        ],
+        "release_date": "5 juin 2025",
+        "size": "52 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6600K",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GTX 970",
+            "OS": "Windows 10/11",
+            "Storage": "60 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Tir"
+        ]
     }
+
 
 
     
