@@ -1274,9 +1274,9 @@
         ]
     },
     {
-        "title": "Car For Sale Simulator 2023",
+        "title": "For Sale Simulator 2023",
         "image": "https://cdkeyprices.com/images/games/5658138/car-for-sale-simulator-2023-desktop-logo-all.jpg",
-        "description": "Car For Sale Simulator 23 est principalement un jeu de vente de voitures. Vous achetez et vendez des véhicules d'occasion sur des marchés et dans des quartiers, puis développez votre entreprise.",
+        "description": "For Sale Simulator 23 est principalement un jeu de vente de voitures. Vous achetez et vendez des véhicules d'occasion sur des marchés et dans des quartiers, puis développez votre entreprise.",
         "dl": [
             "https://gofile.io/d/bVST4X"
         ],
@@ -1295,7 +1295,7 @@
         ]
     },
     {
-        "title": "Car Mechanic Simulator 2021",
+        "title": "Mechanic Simulator 2021",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1208/25pE8tZhyfg9FXIL9fwurS52.png",
         "description": "Car Mechanic Simulator 2021 est une nouvelle production avec une base de joueurs bien établie. Commence en tant que nouveau propriétaire d'un garage automobile et deviens le maître de la réparation et de la transformation des voitures.",
         "dl": [
@@ -4481,7 +4481,7 @@
         "image": "https://image.api.playstation.com/cdn/EP1018/CUSA03679_00/WkptPw8MeeOqu2kskd6DNquGoYjKFc46.png",
         "description": "Mortal Kombat X est un jeu de combat brutal qui propose une nouvelle génération de combattants, avec des graphismes époustouflants, des personnages classiques et des fatalities toujours aussi spectaculaires.",
         "dl": [
-            "https://buzzheavier.com/fc4ospoad7qp"
+            "https://gofile.io/d/9zLW4I"
         ],
         "release_date": "14/04/2015",
         "size": "32 Go",
@@ -10763,7 +10763,329 @@
             "Action",
             "Tir"
         ]
+    },
+    {
+        "title": "Mafia: Definitive Edition",
+        "image": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/offer/EGS_MafiaDefinitiveEditionPreOrder_Hangar13_G1A_00-1920x1080-268b01e611aa17de8caedd662b8462ab.jpg",
+        "description": "Mafia: Definitive Edition est un remake complet du jeu culte de 2002 développé par Hangar 13 et publié par 2K Games. Le joueur incarne Tommy Angelo, un chauffeur de taxi entraîné dans le monde de la pègre dans une ville fictive inspirée de Chicago durant les années 1930.",
+        "dl": [
+            "https://buzzheavier.com/9lgps5dsumpd"
+        ],
+        "release_date": "25 septembre 2020",
+        "size": "35,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-2550K ou AMD FX-8120",
+            "RAM": "6 Go",
+            "GPU": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7870",
+            "OS": "Windows 10/11",
+            "Storage": "45 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Aventure",
+            "Monde ouvert"
+        ]
+    },
+    {
+        "title": "Bum: Revenge",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3702930/d104e78a114eaa4a5b9d0a51dfd90a4faed0899e/capsule_616x353.jpg?t=1756920913",
+        "description": "Bum: Revenge est un jeu indépendant orienté survie et action où le joueur incarne un personnage marginal dans un monde hostile. Le but est de survivre, de se venger et d’évoluer dans un environnement dangereux.",
+        "dl": [
+            "https://gofile.io/d/7KYNjn"
+        ],
+        "release_date": "02 septembre 2024",
+        "size": "7,5 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-2100 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "10 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Action",
+            "Survie",
+            "Indépendant"
+        ]
+    },
+    {
+        "title": "Granny Escape Together",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070520/8bda7c6040b626bc0a6e0459efd625f526cceeb1/capsule_616x353.jpg?t=1749557882",
+        "description": "Granny Escape Together est un jeu multijoueur de survie et d’horreur où les joueurs doivent coopérer pour échapper à Granny, une créature terrifiante, tout en résolvant des énigmes et en évitant les pièges mortels.",
+        "dl": [
+            "https://buzzheavier.com/uslk9hus0kbe"
+        ],
+        "release_date": "10 juin 2024",
+        "size": "4,6 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i3-6100 ou équivalent",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 750 Ti ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Horreur",
+            "Survie",
+            "Coopération"
+        ]
+    },
+    {
+        "title": "Resident Evil 3",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0206/WmriZBRlSeXWEEDLJOWW7MdW.png",
+        "description": "Resident Evil 3 est un remake du jeu culte sorti en 1999. Développé et édité par Capcom, il suit Jill Valentine dans sa tentative d’échapper à Raccoon City infestée de zombies, tout en étant traquée par le redoutable Nemesis.",
+        "dl": [
+            "https://buzzheavier.com/xg2dr04b8dzc"
+        ],
+        "release_date": "03 avril 2020",
+        "size": "21,7 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-4460 ou AMD FX-6300",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 760 ou AMD Radeon R7 260x",
+            "OS": "Windows 10/11",
+            "Storage": "25 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Horreur",
+            "Survie"
+        ]
+    },
+    {
+        "title": "Hollow Knight: Silksong",
+        "image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hollowknightsilksongns2e/16x9_HollowKnightSilksongNS2E_image1600w.jpg",
+        "description": "Hollow Knight: Silksong est la suite du célèbre jeu indépendant Hollow Knight, développé par Team Cherry. Le joueur incarne Hornet dans un vaste royaume inexploré, rempli d’ennemis redoutables, d’exploration intense et de combats exigeants.",
+        "dl": [
+            "https://gofile.io/d/ftdp81"
+        ],
+        "release_date": "4 septembre 2025",
+        "size": "4,3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-750 ou AMD Phenom II X4",
+            "RAM": "4 Go",
+            "GPU": "NVIDIA GeForce GTX 650 ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "6 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Aventure",
+            "Indépendant",
+            "Plateforme"
+        ]
+    },
+    {
+        "title": "Daemon X Machina: Titanic Scion",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0921/6bfe40b6e1b4abbf3d45ce11fa581f66930829455106d73b.png?w=440",
+        "description": "Daemon X Machina: Titanic Scion est la suite du jeu d’action mecha développé par Marvelous First Studio. Le joueur prend le contrôle de puissants exosquelettes personnalisables et affronte de gigantesques ennemis dans des batailles futuristes spectaculaires.",
+        "dl": [
+            "https://gofile.io/d/96aE6z"
+        ],
+        "release_date": "5 septembre 2025",
+        "size": "26 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6400 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 960 ou AMD Radeon R9 380",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Tir",
+            "Simulation"
+        ]
+    },
+    {
+        "title": "Cronos: The New Dawn",
+        "image": "https://cdn1.epicgames.com/spt-assets/26df84fa88dd46f198adf7b9f9ef9cc8/cronos-the-new-dawn-2ygw0.png",
+        "description": "Cronos: The New Dawn est un RPG d’action futuriste mêlant exploration spatiale et combats intenses. Le joueur incarne un survivant parti découvrir une nouvelle planète hostile, entre construction, survie et affrontements contre des créatures extraterrestres.",
+        "dl": [
+            "https://gofile.io/d/6HqyzK"
+        ],
+        "release_date": "5 septembre 2025",
+        "size": "24 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-6400 ou AMD Ryzen 3 1200",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 970 ou AMD Radeon RX 470",
+            "OS": "Windows 10/11",
+            "Storage": "28 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "RPG",
+            "Survie",
+            "Aventure"
+        ]
+    },
+    {
+        "title": "Hell Is Us",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1909/3e387e59545ff37d4312cef4c0d25d6eee3156e003b3eded.jpg",
+        "description": "Hell Is Us est un jeu d’action-aventure sombre et mystérieux où le joueur explore un monde dévasté par la guerre et peuplé de créatures surnaturelles. Le gameplay repose sur l’exploration libre, des combats brutaux et une atmosphère oppressante.",
+        "dl": [
+            "https://gofile.io/d/x4415g"
+        ],
+        "release_date": "4 septembre 2025",
+        "size": "25 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400 ou AMD Ryzen 5 1600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "30 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Aventure",
+            "Horreur"
+        ]
+    },
+    {
+        "title": "Dead Rising Deluxe Remaster",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527390/capsule_616x353.jpg?t=1756803344",
+        "description": "Dead Rising Deluxe Remaster est une version modernisée du jeu culte où Frank West, journaliste, se retrouve piégé dans un centre commercial envahi de zombies. Le joueur doit survivre, enquêter et utiliser tout ce qui lui tombe sous la main comme arme.",
+        "dl": [
+            "https://gofile.io/d/lU94pg"
+        ],
+        "release_date": "8 novembre 2024",
+        "size": "66 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-9600K ou AMD Ryzen 5 3600",
+            "RAM": "8 Go",
+            "GPU": "NVIDIA GeForce GTX 1660 Ti ou AMD Radeon RX 5600 XT",
+            "OS": "Windows 10/11",
+            "Storage": "75 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Horreur",
+            "Survie"
+        ]
+    },
+    {
+        "title": "Lost Soul Aside",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202412/0610/7c7a6a34d376b1e789ceb36f6c0d3bcf3fefeb48655f1cc8.jpg",
+        "description": "Lost Soul Aside est un jeu d’action-RPG développé par Ultizero Games. Le joueur incarne Kazer, accompagné d’un mystérieux dragon de cristal, dans un monde en guerre où il doit affronter des ennemis rapides et puissants grâce à un gameplay nerveux et spectaculaire.",
+        "dl": [
+            "https://gofile.io/d/Kd4hsi"
+        ],
+        "release_date": "29 août 2025",
+        "size": "68 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-8400 ou AMD Ryzen 5 2600",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "75 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "RPG",
+            "Aventure"
+        ]
+    },
+    {
+        "title": "Garten of Banban 8: Anti Devil",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2917040/5f30d70c65e02130f1bdd2cd372702a005ce665c/header.jpg?t=1756390705",
+        "description": "Garten of Banban 8: Anti Devil est un jeu d'horreur psychologique en vue à la première personne, où le joueur explore les niveaux les plus sombres du jardin d'enfants de Banban. Après avoir été trahi par ses amis, le protagoniste se retrouve seul, face à de nouvelles créatures et mystères, dans une quête pour retrouver son enfant disparu.",
+        "dl": [
+            "https://gofile.io/d/d3uJ7l"
+        ],
+        "release_date": "28 août 2025",
+        "size": "1 Go",
+        "min_requirements": {
+            "CPU": "Processeur quad-core 2,5 GHz (Intel ou AMD)",
+            "RAM": "4 Go",
+            "GPU": "Carte graphique avec 1 Go de VRAM",
+            "OS": "Windows 7 64 bits",
+            "Storage": "2 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Horreur",
+            "Puzzle",
+            "Aventure"
+        ]
+    },
+    {
+        "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+        "image": "https://retrogems.fr/wp-content/uploads/2025/05/metal-gear-solid-delta-snake-eater-cover.jpg",
+        "description": "METAL GEAR SOLID Δ: SNAKE EATER est un remake du jeu culte de 2004, METAL GEAR SOLID 3: SNAKE EATER. Développé par Konami, il plonge le joueur dans l'année 1964, où il incarne Naked Snake, un agent de la FOX, en mission pour sauver un scientifique soviétique et détruire une super-arme nucléaire. Ce remake offre des graphismes modernisés, un son 3D immersif et une atmosphère de jungle renforcée.",
+        "dl": [
+            "https://gofile.io/d/U12FZs"
+        ],
+        "release_date": "28 août 2025",
+        "size": "92 Go",
+        "min_requirements": {
+            "CPU": "Intel i5-8600 ou AMD Ryzen 5 3600",
+            "RAM": "16 Go",
+            "GPU": "RTX 2060 Super (8 Go)",
+            "OS": "Windows 10/11 (64 bits)",
+            "Storage": "100 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Action",
+            "Aventure",
+            "Stealth",
+            "RPG"
+        ]
+    },
+    {
+        "title": "Gears of War: Reloaded",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqaCYGT3y7AK46HWaD9iLULbGOLQ0HsTybeg&s",
+        "description": "Gears of War: Reloaded est une version remasterisée du jeu original de 2006, offrant des graphismes en 4K, un taux de rafraîchissement allant jusqu'à 120 FPS, et un support du cross-play et du cross-progression sur toutes les plateformes. Développé par The Coalition, ce jeu propose une expérience de tir à la troisième personne intense, où les joueurs affrontent les Locustes pour sauver l'humanité.",
+        "dl": [
+            "https://gofile.io/d/9UKg3x"
+        ],
+        "release_date": "26 août 2025",
+        "size": "67 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-9600K ou AMD Ryzen 5 3600",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce GTX 1660 Ti ou AMD Radeon RX 580",
+            "OS": "Windows 10/11",
+            "Storage": "80 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Action",
+            "Tir",
+            "Coopération"
+        ]
     }
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+    
+
+
+
+    
+
+    
+
+
 
 
 
