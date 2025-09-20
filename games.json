@@ -67251,5 +67251,54 @@
         "categories": [
             "Indépendant"
         ]
+    },
+    {
+        "title": "Dying Light: The Beast",
+        "image": "https://image.jeuxvideo.com/medias-md/175138/1751382859-1777-jaquette-avant.jpg",
+        "description": "Dying Light: The Beast est un jeu de survie/horreur en monde ouvert développé par Techland. On y incarne Kyle Crane, transformé par des expérimentations zombifiées, qui doit survivre dans des bois infestés, affronter ses monstres intérieurs et repousser les horreurs de la nuit.",
+        "dl": [
+            "https://gofile.io/d/wa9WlM"
+        ],
+        "release_date": "18 septembre 2025",
+        "size": "47,3 Go",
+        "min_requirements": {
+            "CPU": "Intel Core i5-13400F ou équivalent",
+            "RAM": "16 Go",
+            "GPU": "NVIDIA GeForce RTX 3070 Ti ou AMD Radeon 6750 XT",
+            "OS": "Windows 10/11",
+            "Storage": "55 Go d'espace libre"
+        },
+        "online": true,
+        "categories": [
+            "Action",
+            "Survie",
+            "Horreur",
+            "Monde ouvert"
+        ]
+    },
+    {
+        "title": "No, I’m not a Human",
+        "image": "https://sm.ign.com/ign_za/cover/n/no-im-not-/no-im-not-a-human_pddx.jpg",
+        "description": "No, I’m not a Human est un jeu indépendant plongeant le joueur dans un univers étrange où il incarne une entité non humaine, explorant les frontières entre identité, altérité et perception. Le gameplay mêle réflexion, exploration et choix narratifs.",
+        "dl": [
+            "https://gofile.io/d/O12YCU"
+        ],
+        "release_date": "À venir",
+        "size": "0,8 Go",
+        "min_requirements": {
+            "CPU": "Processeur dual-core moderne",
+            "RAM": "4 Go",
+            "GPU": "Carte graphique intégrée ou équivalent",
+            "OS": "Windows 10/11",
+            "Storage": "1 Go d'espace libre"
+        },
+        "online": false,
+        "categories": [
+            "Indépendant",
+            "Aventure",
+            "Puzzle"
+        ]
     }
+
+
 ]
