@@ -2041,31 +2041,52 @@
         ]
     },
     {
-        "title": "Dying Light: The Following",
-        "image": "https://static.wikia.nocookie.net/dyinglight/images/7/76/The_Following_Cover.jpg/revision/latest?cb=20200206143924",
-        "description": "Dying Light: The Following est une extension du jeu de survie en monde ouvert Dying Light. Elle introduit une nouvelle carte immense, des véhicules tout-terrain et une intrigue inédite, tout en conservant le parkour et le combat brutal du jeu original.",
-        "dl": [
-            "https://buzzheavier.com/lr0vrqc896x8"
-        ],
-        "release_date": "9 février 2016",
-        "size": "31,9 Go",
-        "min_requirements": {
-            "CPU": "Intel Core i5-2500 / AMD FX-8320",
-            "RAM": "4 Go",
-            "GPU": "NVIDIA GTX 560 / AMD Radeon HD 6870",
-            "OS": "Windows 10/11",
-            "Storage": "40 Go d'espace libre"
-        },
-        "online": false,
-        "categories": [
-            "Action",
-            "Indépendant",
-            "Horreur",
-            "Course",
-            "Monde ouvert",
-            "Aventure"
-        ]
+      "title": "Dying Light",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/f287172af4c5358f923523fe94faa1bd9d0007c7/header.jpg?t=1755892508",
+      "description": "Un jeu d'action-survie à la première personne dans un monde ouvert post-apocalyptique grouillant de zombies dévoreurs de chair. Explorez une ville dévastée par un mystérieux virus. Cherchez des ravitaillements, fabriquez des armes et affrontez les hordes d'infectés.",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_a3771358b8eb4ea4c8f99c5850711f55b87804de.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_1f0dc94f46fa1a953827188188887f6a12911ec2.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_488226f013287012e0feaed2fb7799dbe038fd00.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_37f8192f3bf85359ddee0b5c2e9a58eaaf6c4026.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_ac414827362042b5f4a95ab90df508adc822ddc1.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_3b41c96ae1a6f31c597187672221b8db9b78419b.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_8bf1e0e5333f5899b413f90d67a3cfe8b8b8f8e1.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_e31d8536ca5c947c8cbf6486473f50c3c27ee255.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_d7e781ddd8ea78d5c8fedd27e0c1d02425cd91eb.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_2c18c2b5a03a736453d1222e05019e89f80ed8dc.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_e3d9596c0ee06b6e4f9b09e5320d70fbf59cc78e.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_fd1b12177c50cb45ab5fd6105ba2c68d39f8c012.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_7ed04fc8acf05d721f5d17ee71b2f51080dd8463.1920x1080.jpg?t=1755892508",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/ss_0f20a60df3fec00deb16c12428cdb35fcce5bf0d.1920x1080.jpg?t=1755892508"
+      ],
+      "videos": [
+        "https://video.akamai.steamstatic.com/store_trailers/257022021/movie_max.mp4?t=1715275593"
+      ],
+      "dl": ["https://gofile.io/d/FgjGvB"],
+      "release_date": "26 janv. 2015",
+      "size": "34,4 Go",
+      "min_requirements": {
+        "OS": "Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit",
+        "Processor": "Intel® Core™ i5-2500 @3.3 GHz / AMD FX-8320 @3.5 GHz",
+        "Memory": "4 GB RAM DDR3",
+        "Hard Drive": "40 GB free space",
+        "Graphics": "NVIDIA® GeForce® GTX 560 / AMD Radeon™ HD 6870 (1GB VRAM)"
+      },
+      "recommended_requirements": {
+        "OS": "Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit",
+        "Processor": "Intel® Core™ i5-4670K @3.4 GHz / AMD FX-8350 @4.0 GHz",
+        "Memory": "8 GB RAM DDR3",
+        "Hard Drive": "40 GB free space",
+        "Graphics": "NVIDIA® GeForce® GTX 780 / AMD Radeon™ R9 290 (2GB VRAM)"
+      },
+      "online": false,
+      "categories": [
+        "Action",
+        "RPG"
+      ]
     },
+
     {
         "title": "Dying Light 2 Stay Human",
         "image": "https://image.jeuxvideo.com/medias-sm/163247/1632473272-6800-jaquette-avant.jpg",
@@ -11064,4 +11085,5 @@
             "Coopération"
         ]
     }
+
 ]
